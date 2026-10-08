@@ -1183,7 +1183,7 @@ AND THE PATTERNS THAT PRODUCE THEM
 
 ]
 
-for _b in ("c713_b2",):
+for _b in ("c713_b2", "c713_b3"):
     try:
         MODULES += __import__(_b).MODULES
     except ImportError:

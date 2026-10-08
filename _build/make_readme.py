@@ -270,6 +270,34 @@ def main():
       "or credential. The licence lets you copy the material; it cannot "
       "make it a qualification.\n\n")
 
+    # A course is assembled from content/c<code>_b2.py, _b3.py ... stitched
+    # in by an import tail that swallows ImportError. If a batch file is
+    # written but never added to that tuple, its modules vanish silently and
+    # the build renders a short course without complaint. That is exactly how
+    # CSCE 711 shipped with 7 modules and CSCE 713 with 8.
+    import glob as _glob
+    gaps = []
+    for _b in built:
+        if not _b[4]:
+            continue
+        _m = _b[4][0]
+        _ns = sorted(x["n"] for x in _m.MODULES)
+        if _ns != list(range(1, len(_ns) + 1)):
+            gaps.append("%s: module numbers are %s" % (_b[2], _ns))
+    orphans = []
+    for _f in _glob.glob(os.path.join(HERE, "content", "c*_b*.py")):
+        _stem = os.path.splitext(os.path.basename(_f))[0]
+        if not any(_stem in (open(_c, encoding="utf-8").read())
+                   for _c in _glob.glob(os.path.join(HERE, "content", "csce*.py"))
+                   + _glob.glob(os.path.join(HERE, "content", "uc*.py"))):
+            orphans.append(_stem)
+    print("%d module-numbering gaps, %d orphaned batch files"
+          % (len(gaps), len(orphans)))
+    for _g in gaps:
+        print("  GAP:", _g)
+    for _o in orphans:
+        print("  ORPHAN: content/%s.py is never imported by any course" % _o)
+
     p = os.path.join(ROOT, "README.md")
     with open(p, "w", encoding="utf-8") as f:
         f.write(o.getvalue())

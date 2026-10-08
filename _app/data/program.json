@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:39:19",
+ "generated": "2026-10-08T18:52:27",
  "program": {
   "name": "University of Claude",
   "degree": "MS in Computer Science",
@@ -9,10 +9,10 @@
  "stats": {
   "courses_built": 38,
   "courses_planned": 74,
-  "modules": 483,
-  "slides": 7001,
-  "exercises": 4522,
-  "resources": 1972
+  "modules": 494,
+  "slides": 7154,
+  "exercises": 4632,
+  "resources": 2016
  },
  "semesters": [
   {
@@ -14139,6 +14139,234 @@
      "n_resources": 4,
      "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M07-Signatures-and-Certificates.pptx",
      "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M07-Signatures-and-Certificates.pdf"
+    },
+    {
+     "n": 8,
+     "title": "TLS, as the Worked Example",
+     "subtitle": "Every primitive so far, composed correctly.",
+     "question": "What does a handshake actually establish, step by step?",
+     "outcomes": [
+      "Explain what each handshake step establishes.",
+      "Explain what TLS 1.3 removed and why.",
+      "Explain what TLS does and does not protect.",
+      "Explain mutual authentication and when to use it.",
+      "Read a real connection and assess it."
+     ],
+     "takeaways": [
+      "The handshake establishes confidentiality, then identity, then integrity of the negotiation — in that order, and the order matters.",
+      "The server signs the transcript, not a challenge, which binds its identity to this exchange and defeats the relay from Module 06.",
+      "TLS 1.3 deleted options rather than deprecating them, because a negotiable weak option is a downgrade attack waiting to be found.",
+      "A configuration option that is unsafe will eventually be selected — by a default, a copied example, or an adversary.",
+      "TLS protects data in transit between endpoints and protects nothing at either endpoint, which is the boundary most often misjudged.",
+      "Mutual TLS is right for service-to-service and usually wrong for end users, because the certificate lifecycle lands on people."
+     ],
+     "selfcheck": [
+      "Give the four handshake steps and what each establishes.",
+      "Why is the transcript signature the critical step?",
+      "Why is signing a challenge weaker than signing a transcript?",
+      "Name six things TLS 1.3 removed and the attack each closed.",
+      "Why is a negotiable weak option a vulnerability?",
+      "State the general design lesson and where else it applies.",
+      "Give five things TLS does not provide.",
+      "Which boundary is most often misjudged?",
+      "When is mutual TLS right, and when wrong?",
+      "What five things do you check when reading a connection?"
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M08-TLS-as-the-Worked-Example.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M08-TLS-as-the-Worked-Example.pdf"
+    },
+    {
+     "n": 9,
+     "title": "Passwords and Key Derivation",
+     "subtitle": "Where slow is the security property.",
+     "question": "Why is a fast hash the wrong tool here?",
+     "outcomes": [
+      "Explain why password hashing differs from all other hashing.",
+      "Explain salts, peppers, and what each prevents.",
+      "Choose and parameterise a password hash.",
+      "Distinguish password hashing from key derivation.",
+      "Design a credential store and its migration."
+     ],
+     "takeaways": [
+      "Human-chosen passwords carry 20 to 40 bits of entropy, so a fast hash lets an adversary enumerate the whole space.",
+      "This is the only place in cryptography where slowness is the security property, which is why every general-purpose hash is wrong.",
+      "A salt prevents precomputation and cross-user comparison; a pepper stored separately makes a database-only breach useless.",
+      "Memory hardness is what resists GPUs, since they have enormous parallel compute and little memory per core.",
+      "Measure your work factor on your own production hardware rather than copying a number, and raise it annually.",
+      "Migrate a credential store by rehashing on next successful login, and the migration ends when the old code path is deleted."
+     ],
+     "selfcheck": [
+      "Why can a fast hash not protect passwords? Give the arithmetic.",
+      "Why is slowness the security property only here?",
+      "What does a salt prevent, and does it need to be secret?",
+      "What does a pepper add, and where is it stored?",
+      "Why does memory hardness resist GPUs?",
+      "Name four password hashes in order, and bcrypt's trap.",
+      "How do you set the work factor, and how do you argue for it?",
+      "Give five differences between password hashing and key derivation.",
+      "Why is the error asymmetric?",
+      "How do you migrate a credential store, and when is it done?"
+     ],
+     "n_slides": 15,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M09-Passwords-and-Key-Derivation.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M09-Passwords-and-Key-Derivation.pdf"
+    },
+    {
+     "n": 10,
+     "title": "Key Management",
+     "subtitle": "The real subject, and the one with no clean answer.",
+     "question": "Where does the key live, and who can read it?",
+     "outcomes": [
+      "Explain the key lifecycle and each stage's failure.",
+      "Design envelope encryption and explain why.",
+      "Explain rotation and what it does and does not accomplish.",
+      "Explain the architectural choice around end-to-end encryption.",
+      "Specify a complete key management design."
+     ],
+     "takeaways": [
+      "The six lifecycle stages each have a characteristic failure, and destruction is the one always omitted.",
+      "A key is only as protected as the weakest place it exists, and that list is longer than the architecture diagram shows.",
+      "Envelope encryption lets the master key encrypt only small values, so it can live in a key service and never leave it.",
+      "Rotating the master key re-encrypts kilobytes rather than terabytes, which is what makes rotation operationally possible.",
+      "Rotation's real value is the tested procedure — rotate on a schedule in order to be able to rotate on demand.",
+      "'End-to-end encrypted, with a recovery mechanism that can be compelled' is a complete claim; 'end-to-end encrypted' alone is not."
+     ],
+     "selfcheck": [
+      "Name the six stages and the characteristic failure of each.",
+      "Why is destruction the stage that decides whether deletion is real?",
+      "Why is a key only as safe as its weakest location?",
+      "Why is a platform key service the best answer?",
+      "Describe envelope encryption and give four reasons for it.",
+      "Why does it make rotation possible?",
+      "State what rotation does and does not accomplish.",
+      "Why rotate on a schedule at all?",
+      "How do you rotate without an outage, and what must exist first?",
+      "State the end-to-end trade-off and the honest form of the claim."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M10-Key-Management.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M10-Key-Management.pdf"
+    },
+    {
+     "n": 11,
+     "title": "Implementation Hazards",
+     "subtitle": "How correct designs fail in code.",
+     "question": "The algorithm is right. Why is the system broken?",
+     "outcomes": [
+      "Explain timing side channels and constant-time programming.",
+      "Explain nonce reuse consequences per construction.",
+      "Explain what other side channels exist.",
+      "Explain why error handling is a cryptographic concern.",
+      "Review cryptographic code for these hazards."
+     ],
+     "takeaways": [
+      "Any branch, memory index, or loop count that depends on a secret leaks it through timing, and the leak is remotely exploitable.",
+      "Verify constant-time behaviour in the binary rather than the source, because compilers reintroduce branches while optimising.",
+      "AES-GCM is the worst case for nonce reuse: it costs confidentiality and the authentication key, so forgery follows.",
+      "Uniqueness is a design choice rather than a discipline problem — prefer a 192-bit nonce, a misuse-resistant construction, or a fresh key per message.",
+      "Be honest about the threat model for physical side channels: power analysis is probably not your attack unless you ship hardware.",
+      "Distinguishable decryption errors build an oracle, and this is the hazard most likely to be in code you personally wrote."
+     ],
+     "selfcheck": [
+      "State the timing principle and the three things that leak.",
+      "Why is a timing leak remotely exploitable?",
+      "Give five wrong patterns and their constant-time replacements.",
+      "Why must you verify in the binary?",
+      "Give the nonce reuse consequence for five constructions.",
+      "Why is GCM the worst case?",
+      "Why is uniqueness hard, and what are the three structural answers?",
+      "Name five other side channels and say which matters to you.",
+      "How does a distinguishable error build an oracle?",
+      "Give the five review checks."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M11-Implementation-Hazards.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M11-Implementation-Hazards.pdf"
+    },
+    {
+     "n": 12,
+     "title": "Post-Quantum Cryptography",
+     "subtitle": "Assessed proportionately.",
+     "question": "What actually breaks, and when should you act?",
+     "outcomes": [
+      "State precisely what a quantum computer breaks.",
+      "Explain why symmetric cryptography is largely fine.",
+      "Explain the harvest-now-decrypt-later argument.",
+      "Name the standardised schemes and their costs.",
+      "Plan a migration proportionate to your threat model."
+     ],
+     "takeaways": [
+      "Shor's algorithm destroys RSA and all elliptic-curve schemes; Grover's gives only a square-root speedup that doubling the key length answers.",
+      "So this is a public-key problem rather than a cryptography problem, and AES-256 and SHA-256 need essentially nothing.",
+      "Harvest-now-decrypt-later makes it a data-classification question: how long must this stay confidential?",
+      "Migrate key exchange for long-lived confidential data first; signatures are less urgent.",
+      "The post-quantum schemes cost size rather than speed, and hybrid deployment hedges against the newer scheme being broken.",
+      "Cryptographic agility is worth more than any specific algorithm choice, because the next transition will also happen."
+     ],
+     "selfcheck": [
+      "What does Shor's algorithm break, and what does Grover's do?",
+      "Why is this a public-key problem rather than a cryptography problem?",
+      "Which primitives need nothing at all?",
+      "State the harvest-now-decrypt-later argument and what it makes this into.",
+      "What is the honest position on timing?",
+      "Why is key exchange more urgent than signatures?",
+      "Name the standardised schemes and state their cost.",
+      "Why deploy hybrid rather than replacing?",
+      "Give the four steps of a proportionate response.",
+      "Give five things not to do."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M12-PostQuantum-Cryptography.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M12-PostQuantum-Cryptography.pdf"
+    },
+    {
+     "n": 13,
+     "title": "Claiming Cryptographic Security Honestly",
+     "subtitle": "Which properties, against whom, assuming what.",
+     "question": "What does “it is encrypted” actually tell anyone?",
+     "outcomes": [
+      "State a cryptographic claim completely.",
+      "Identify the standard overclaims.",
+      "Explain what a security proof does and does not establish.",
+      "Place this course relative to CSCE 701 and CSCE 713.",
+      "State the course's rule in your own words."
+     ],
+     "takeaways": [
+      "A complete claim names the property, the adversary, the assumption, and the scope — and 'secure' names none of them.",
+      "'256-bit encryption' describes a parameter and implies a guarantee, which is exactly the substitution to avoid.",
+      "'End-to-end encrypted' is incomplete without the recovery mechanism, which is the weakest point of such a design.",
+      "A security proof is a reduction: it shows breaking the scheme solves a hard problem, relative to an assumption and inside a model.",
+      "Nearly every real break happened outside the model — in the implementation, the key management, or the surrounding protocol.",
+      "This course's honest summary is that the mathematics is sound and the failures are yours: nonces, keys, error handling, and composition."
+     ],
+     "selfcheck": [
+      "Name the four components of a complete claim.",
+      "Why does the adversary have to be named?",
+      "Give seven overclaims and the correction to each.",
+      "Why is '256-bit encryption' the most revealing?",
+      "Give three claims you could actually defend.",
+      "What does a security proof establish, and as a what?",
+      "What does a proof not cover — give five things.",
+      "Why is 'provably secure' not a claim about a system?",
+      "How do the three security courses divide?",
+      "In this course, what does 'never claim more than you established' mean?"
+     ],
+     "n_slides": 13,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE711-Applied-Cryptography/Slides/M13-Claiming-Cryptographic-Security-Honestly.pptx",
+     "notes": "Courses/CSCE711-Applied-Cryptography/Notes/M13-Claiming-Cryptographic-Security-Honestly.pdf"
     }
    ]
   },
@@ -14475,6 +14703,196 @@
      "n_resources": 4,
      "slides": "Courses/CSCE713-Software-Security/Slides/M08-Fuzzing.pptx",
      "notes": "Courses/CSCE713-Software-Security/Notes/M08-Fuzzing.pdf"
+    },
+    {
+     "n": 9,
+     "title": "Sanitisers and Runtime Detection",
+     "subtitle": "Making silent corruption loud.",
+     "question": "The test passed. Was the program actually correct?",
+     "outcomes": [
+      "Explain what each sanitiser detects and how.",
+      "Explain the cost and the incompatibilities.",
+      "Explain why sanitisers and fuzzing are a pair.",
+      "Explain what sanitisers cannot detect.",
+      "Deploy them in a real build and test pipeline."
+     ],
+     "takeaways": [
+      "AddressSanitizer poisons redzones and quarantines freed memory, which is why an overflow landing inside another valid object is missed.",
+      "ASan and ThreadSanitizer are incompatible and need separate builds; UBSan is cheap enough that parts of it can ship.",
+      "UBSan's trap mode converts exploitable undefined behaviour into a deterministic abort at almost no cost.",
+      "Fuzzing supplies the inputs and sanitisers supply the oracle — neither is nearly as effective alone.",
+      "A test asserts the output and a sanitiser asserts the execution, which is why a green suite proves less than it appears to.",
+      "Sanitisers have almost no false positives and many false negatives, which is the opposite profile to static analysis."
+     ],
+     "selfcheck": [
+      "How does AddressSanitizer work, and what follows about its limits?",
+      "Name five sanitisers, what each detects, and the rough cost.",
+      "Which two are incompatible, and which can ship in production?",
+      "Name five things UBSan catches, and what trap mode achieves.",
+      "Why does fuzzing without sanitisers miss defects?",
+      "Why does a sanitiser without fuzzing miss defects?",
+      "What does a test assert, and what does a sanitiser assert?",
+      "What does 'the suite passes under ASan' actually mean?",
+      "Contrast the false positive and negative profiles with static analysis.",
+      "Give four ways to run detection in production."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE713-Software-Security/Slides/M09-Sanitisers-and-Runtime-Detection.pptx",
+     "notes": "Courses/CSCE713-Software-Security/Notes/M09-Sanitisers-and-Runtime-Detection.pdf"
+    },
+    {
+     "n": 10,
+     "title": "The Secure Development Lifecycle",
+     "subtitle": "Process that changes outcomes, and process that does not.",
+     "question": "Which practices actually reduce defects?",
+     "outcomes": [
+      "Explain where in the lifecycle each practice belongs.",
+      "Explain why secure defaults beat developer education.",
+      "Design a security gate that does not get bypassed.",
+      "Explain what to do with a vulnerability report.",
+      "Assess a development process honestly."
+     ],
+     "takeaways": [
+      "The design stage is the one with no automated substitute, and the one most often skipped because it produces a document.",
+      "'Shift left' is right about cost and wrong as a strategy — move the guarantee left, not the work.",
+      "A template engine with autoescaping on by default eliminates XSS for every developer, including one who has never heard of it.",
+      "A safe API that is harder to use than the unsafe one loses, so making it the easiest path is the deciding step.",
+      "A gate with no override gets removed entirely the first time it blocks something urgent.",
+      "The commonest complaint from vulnerability reporters is silence, not disagreement."
+     ],
+     "selfcheck": [
+      "Give the seven stages and the practice at each.",
+      "Which row has no automated substitute, and why is it skipped?",
+      "What is right and wrong about 'shift left'?",
+      "State the honest version in one sentence.",
+      "Why do defaults beat training, and give four examples.",
+      "Give the four steps to build a safe-by-default layer.",
+      "Which step decides the outcome, and what kind of requirement is it?",
+      "Give five properties of a gate that survives, and why the override matters.",
+      "Give four things to do when receiving a report.",
+      "Give the three elements of responsible disclosure."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE713-Software-Security/Slides/M10-The-Secure-Development-Lifecycle.pptx",
+     "notes": "Courses/CSCE713-Software-Security/Notes/M10-The-Secure-Development-Lifecycle.pdf"
+    },
+    {
+     "n": 11,
+     "title": "Code Review for Security",
+     "subtitle": "The only method that finds design and logic defects.",
+     "question": "What do you read, and in what order?",
+     "outcomes": [
+      "Choose what to review, by risk.",
+      "Apply a systematic reading method.",
+      "Explain what review finds that tooling cannot.",
+      "Review a diff for security specifically.",
+      "Write a finding that gets fixed."
+     ],
+     "takeaways": [
+      "'Parses untrusted input' and 'decides whether an action is permitted' are the two highest-yield review categories.",
+      "Review what tooling cannot see — design, authorisation completeness, and whether the code does what it claims.",
+      "Understand the intended behaviour first, because you cannot spot a deviation from a specification you do not have.",
+      "Read the error paths specifically: they are less tested, less reviewed, and they free things and return early.",
+      "Missing authorisation and logic flaws are found by review and by neither static analysis nor fuzzing.",
+      "A finding whose reachability is unestablished will be disputed and deferred, correctly."
+     ],
+     "selfcheck": [
+      "Give the five review priorities and the two highest-yield categories.",
+      "Why should a reviewer not check what a linter checks?",
+      "What three things can only a person assess?",
+      "Give Part 2's six steps, and say which habit yields most.",
+      "Why are error paths disproportionately defective?",
+      "Give the five questions that find real defects.",
+      "Why is a check in the client not a check?",
+      "Which defect kinds are found only by review?",
+      "Give the four components of a finding that gets fixed.",
+      "Why record what you looked for?"
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE713-Software-Security/Slides/M11-Code-Review-for-Security.pptx",
+     "notes": "Courses/CSCE713-Software-Security/Notes/M11-Code-Review-for-Security.pdf"
+    },
+    {
+     "n": 12,
+     "title": "Exploit Mitigations",
+     "subtitle": "What to do when the defect is already shipped.",
+     "question": "The bug exists. Why is it hard to exploit?",
+     "outcomes": [
+      "Explain each mitigation and what it stops.",
+      "Explain how each has been bypassed.",
+      "Explain the cost of each.",
+      "Explain compiler hardening you should already enable.",
+      "Assess a binary's mitigations."
+     ],
+     "takeaways": [
+      "Mitigations leave the defect present and make the step from defect to execution control harder, which is worth a great deal and is not a fix.",
+      "Each mitigation removes one technique and the attacker moves to the next, which is why they are deployed in combination.",
+      "Non-executable memory produced ROP, ASLR made information leaks valuable, and CFI produced data-only attacks.",
+      "Check what you shipped rather than what you configured — a flag in one makefile and a library built without it is the common case.",
+      "Most hardening flags cost under a few percent and several cost nothing, so leaving them off is a decision rather than a trade-off.",
+      "Mitigations are the last layer rather than the strategy, and a programme consisting only of hardening flags has not started."
+     ],
+     "selfcheck": [
+      "What do mitigations do and not do?",
+      "Why is an unreliable exploit meaningfully different?",
+      "Name six mitigations, what each stops, and a bypass for each.",
+      "Why are they deployed in combination?",
+      "Give the historical sequence NX → ROP → ASLR → leak → CFI → data-only.",
+      "Why is an out-of-bounds read now valuable?",
+      "Name six hardening flags and what each provides.",
+      "Why check the artefact rather than the configuration?",
+      "Which flags are free and which cost real performance?",
+      "Give the three-layer ordering and the proportionate position."
+     ],
+     "n_slides": 13,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE713-Software-Security/Slides/M12-Exploit-Mitigations.pptx",
+     "notes": "Courses/CSCE713-Software-Security/Notes/M12-Exploit-Mitigations.pdf"
+    },
+    {
+     "n": 13,
+     "title": "Claiming Code Security Honestly",
+     "subtitle": "What an assessment of code establishes.",
+     "question": "The tools found nothing. What does that tell anyone?",
+     "outcomes": [
+      "State what each technique establishes.",
+      "Identify the standard overclaims.",
+      "Write a checkable assessment claim.",
+      "Place this course relative to CSCE 701 and CSCE 711.",
+      "State a proportionate programme for a real codebase."
+     ],
+     "takeaways": [
+      "Not one technique in this course establishes absence — each supports a statement about what you did rather than about the program.",
+      "'The scanner found nothing' is a statement about the scanner, and it is routinely reported as 'the code is clean'.",
+      "'100% test coverage' is the most seductive overclaim: it measures lines executed by friendly inputs.",
+      "The limitation statement is what distinguishes an assessment from a tool run.",
+      "All three Semester 9 courses converge on making the defect unexpressible rather than training people not to write it.",
+      "Sanitisers, fuzzing, and hardening flags are about a week's work and change the defect profile measurably."
+     ],
+     "selfcheck": [
+      "For five techniques, what does each establish and not establish?",
+      "What do all five have in common?",
+      "Why is 'the scanner found nothing' a statement about the scanner?",
+      "Give the four-clause honest form.",
+      "Give six overclaims and the correction to each.",
+      "Why is the coverage overclaim the most seductive?",
+      "Give three defensible claims.",
+      "What distinguishes an assessment from a tool run?",
+      "How does the semester divide, and where do the three courses converge?",
+      "Give the five-step programme and say where the durable improvement is."
+     ],
+     "n_slides": 14,
+     "n_exercises": 10,
+     "n_resources": 4,
+     "slides": "Courses/CSCE713-Software-Security/Slides/M13-Claiming-Code-Security-Honestly.pptx",
+     "notes": "Courses/CSCE713-Software-Security/Notes/M13-Claiming-Code-Security-Honestly.pdf"
     }
    ]
   },

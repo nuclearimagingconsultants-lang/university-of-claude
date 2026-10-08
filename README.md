@@ -30,7 +30,7 @@ See [_app/README.md](_app/README.md). It reads whatever is built, so new courses
 
 **The 12-course MS is complete** (12 of 12). 2 prerequisite courses sit before Semester 1. Semester 5 onward is a post-degree continuation, with 24 courses built so far.
 
-Across everything: 483 modules, 7001 slides, 4522 written exercises, 1972 linked free resources.
+Across everything: 494 modules, 7154 slides, 4632 written exercises, 2016 linked free resources.
 
 | Sem | Course | Status |
 |---|---|---|
@@ -61,8 +61,8 @@ Across everything: 483 modules, 7001 slides, 4522 written exercises, 1972 linked
 | S8 | **[CSCE 637 Complexity Theory](Courses/CSCE637-Complexity-Theory/)** | ✅ complete — 13 modules |
 | S8 | **[CSCE 658 Randomized Algorithms](Courses/CSCE658-Randomized-Algorithms/)** | ✅ complete — 13 modules |
 | S9 | **[CSCE 701 Cybersecurity](Courses/CSCE701-Cybersecurity/)** | ✅ complete — 13 modules |
-| S9 | **[CSCE 711 Applied Cryptography](Courses/CSCE711-Applied-Cryptography/)** | ✅ complete — 7 modules |
-| S9 | **[CSCE 713 Software Security](Courses/CSCE713-Software-Security/)** | ✅ complete — 8 modules |
+| S9 | **[CSCE 711 Applied Cryptography](Courses/CSCE711-Applied-Cryptography/)** | ✅ complete — 13 modules |
+| S9 | **[CSCE 713 Software Security](Courses/CSCE713-Software-Security/)** | ✅ complete — 13 modules |
 | S10 | **[CSCE 638 Natural Language Processing](Courses/CSCE638-Natural-Language-Processing/)** | ✅ complete — 13 modules |
 | S10 | **[CSCE 676 Data Mining](Courses/CSCE676-Data-Mining/)** | ✅ complete — 13 modules |
 | S10 | **[CSCE 670 Information Retrieval](Courses/CSCE670-Information-Retrieval/)** | ✅ complete — 13 modules |
@@ -747,6 +747,12 @@ The [Free-Resource Catalog](00_Program/Free-Resource-Catalog.pdf) already covers
 | 05 | Hash Functions | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M05-Hash-Functions.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M05-Hash-Functions.pdf) |
 | 06 | Key Exchange and Public Keys | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M06-Key-Exchange-and-Public-Keys.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M06-Key-Exchange-and-Public-Keys.pdf) |
 | 07 | Signatures and Certificates | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M07-Signatures-and-Certificates.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M07-Signatures-and-Certificates.pdf) |
+| 08 | TLS, as the Worked Example | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M08-TLS-as-the-Worked-Example.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M08-TLS-as-the-Worked-Example.pdf) |
+| 09 | Passwords and Key Derivation | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M09-Passwords-and-Key-Derivation.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M09-Passwords-and-Key-Derivation.pdf) |
+| 10 | Key Management | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M10-Key-Management.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M10-Key-Management.pdf) |
+| 11 | Implementation Hazards | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M11-Implementation-Hazards.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M11-Implementation-Hazards.pdf) |
+| 12 | Post-Quantum Cryptography | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M12-PostQuantum-Cryptography.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M12-PostQuantum-Cryptography.pdf) |
+| 13 | Claiming Cryptographic Security Honestly | [pptx](Courses/CSCE711-Applied-Cryptography/Slides/M13-Claiming-Cryptographic-Security-Honestly.pptx) | [pdf](Courses/CSCE711-Applied-Cryptography/Notes/M13-Claiming-Cryptographic-Security-Honestly.pdf) |
 
 ### CSCE 713 — Software Security
 
@@ -764,6 +770,11 @@ The [Free-Resource Catalog](00_Program/Free-Resource-Catalog.pdf) already covers
 | 06 | Deserialisation and Trust Boundaries | [pptx](Courses/CSCE713-Software-Security/Slides/M06-Deserialisation-and-Trust-Boundaries.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M06-Deserialisation-and-Trust-Boundaries.pdf) |
 | 07 | Static Analysis | [pptx](Courses/CSCE713-Software-Security/Slides/M07-Static-Analysis.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M07-Static-Analysis.pdf) |
 | 08 | Fuzzing | [pptx](Courses/CSCE713-Software-Security/Slides/M08-Fuzzing.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M08-Fuzzing.pdf) |
+| 09 | Sanitisers and Runtime Detection | [pptx](Courses/CSCE713-Software-Security/Slides/M09-Sanitisers-and-Runtime-Detection.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M09-Sanitisers-and-Runtime-Detection.pdf) |
+| 10 | The Secure Development Lifecycle | [pptx](Courses/CSCE713-Software-Security/Slides/M10-The-Secure-Development-Lifecycle.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M10-The-Secure-Development-Lifecycle.pdf) |
+| 11 | Code Review for Security | [pptx](Courses/CSCE713-Software-Security/Slides/M11-Code-Review-for-Security.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M11-Code-Review-for-Security.pdf) |
+| 12 | Exploit Mitigations | [pptx](Courses/CSCE713-Software-Security/Slides/M12-Exploit-Mitigations.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M12-Exploit-Mitigations.pdf) |
+| 13 | Claiming Code Security Honestly | [pptx](Courses/CSCE713-Software-Security/Slides/M13-Claiming-Code-Security-Honestly.pptx) | [pdf](Courses/CSCE713-Software-Security/Notes/M13-Claiming-Code-Security-Honestly.pdf) |
 
 ## Semester 10
 

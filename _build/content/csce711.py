@@ -665,7 +665,7 @@ MODULES = [
 
 ]
 
-for _b in ("c711_b2",):
+for _b in ("c711_b2", "c711_b3"):
     try:
         MODULES += __import__(_b).MODULES
     except ImportError:
