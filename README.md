@@ -22,6 +22,8 @@ Or run the study app, which indexes everything built, tracks which modules you h
 python _app/server.py
 ```
 
+The same app is hosted at **<https://nuclearimagingconsultants-lang.github.io/university-of-claude>** — everything there is readable and downloadable, and your progress is kept in your own browser.
+
 See [_app/README.md](_app/README.md). It reads whatever is built, so new courses appear without changing the app.
 
 ## Progress

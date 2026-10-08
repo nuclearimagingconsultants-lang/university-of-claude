@@ -103,7 +103,7 @@ def load(pkg):
 
 
 # Set once the site is deployed; the README then links it. No trailing slash.
-SITE = ""
+SITE = "https://nuclearimagingconsultants-lang.github.io/university-of-claude"
 
 
 def main():
