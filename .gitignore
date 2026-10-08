@@ -22,3 +22,7 @@ public/
 
 # Node.
 node_modules/
+
+# Office lock files, created while a deck or PDF is open. They are locked
+# by Office itself, so git cannot even read them, and "git add" fails hard.
+~$*
