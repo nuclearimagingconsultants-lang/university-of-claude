@@ -1020,3 +1020,17 @@ python make_readme.py
 - `_build/preview.py` — renders any deck or PDF to PNG for review
 - `_build/lint_slides.py` — scans every built deck for HTML entities the slide renderer cannot decode
 - `_build/lint_markup.py` — scans all course content for unbalanced inline markup, which the renderers catch only by luck
+---
+
+## Licence
+
+| What | Licence |
+|---|---|
+| Course material — `Courses/`, `00_Program/`, `_build/content/`, this README | [CC BY 4.0](LICENSE-CONTENT) |
+| Build toolchain and study app — `_build/*.py`, `_app/` | [MIT](LICENSE) |
+| The external courses, books and papers linked throughout | **their own authors' licences** |
+
+You may copy, adapt and redistribute the material, commercially too, with credit. That is **not** permission for the third-party works this program links to: those are only ever linked and commented on here, never reproduced.
+
+This program is not accredited and awards no degree, transcript or credential. The licence lets you copy the material; it cannot make it a qualification.
+

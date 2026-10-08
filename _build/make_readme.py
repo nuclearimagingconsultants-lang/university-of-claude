@@ -102,6 +102,10 @@ def load(pkg):
     return m
 
 
+# Set once the site is deployed; the README then links it. No trailing slash.
+SITE = ""
+
+
 def main():
     built = []
     for sem, pkg, code, title in PLAN:
@@ -150,6 +154,10 @@ def main():
       "modules you have finished, keeps your notes, and opens the decks "
       "and lecture notes for you:\n\n")
     w("```bash\npython _app/server.py\n```\n\n")
+    if SITE:
+        w("The same app is hosted at **<%s>** — everything there is "
+          "readable and downloadable, and your progress is kept in your "
+          "own browser.\n\n" % SITE)
     w("See [_app/README.md](_app/README.md). It reads whatever is built, "
       "so new courses appear without changing the app.\n\n")
 
@@ -245,6 +253,22 @@ def main():
       "the slide renderer cannot decode\n")
     w("- `_build/lint_markup.py` — scans all course content for unbalanced "
       "inline markup, which the renderers catch only by luck\n")
+
+    w("---\n\n## Licence\n\n")
+    w("| What | Licence |\n|---|---|\n")
+    w("| Course material — `Courses/`, `00_Program/`, "
+      "`_build/content/`, this README | [CC BY 4.0](LICENSE-CONTENT) |\n")
+    w("| Build toolchain and study app — `_build/*.py`, `_app/` | "
+      "[MIT](LICENSE) |\n")
+    w("| The external courses, books and papers linked throughout | "
+      "**their own authors' licences** |\n\n")
+    w("You may copy, adapt and redistribute the material, commercially "
+      "too, with credit. That is **not** permission for the third-party "
+      "works this program links to: those are only ever linked and "
+      "commented on here, never reproduced.\n\n")
+    w("This program is not accredited and awards no degree, transcript "
+      "or credential. The licence lets you copy the material; it cannot "
+      "make it a qualification.\n\n")
 
     p = os.path.join(ROOT, "README.md")
     with open(p, "w", encoding="utf-8") as f:

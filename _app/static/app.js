@@ -1,6 +1,21 @@
 /* University of Claude - study app.
-   Reads /api/program (generated from whatever is built) and keeps per-module
-   progress in /api/progress. No framework, no build step. */
+   No framework, no build step. Runs in two modes from this one file:
+
+   Local  (python _app/server.py)  reads /api/program and stores progress
+                                   server-side in _app/data/progress.json,
+                                   and opens decks in PowerPoint/Acrobat.
+   Static (the hosted site)        reads data/program.json, stores progress
+                                   in this browser's localStorage, and opens
+                                   decks as ordinary links.
+
+   The static build injects window.UC_STATIC = true. Nothing else differs. */
+
+const STATIC = !!window.UC_STATIC;
+const LS_KEY = "uc.progress.v1";
+
+/* Encode each path segment but keep the slashes, so a filename with a space
+   or a "#" would still resolve. Every current path is already safe. */
+const fileURL = p => p.split("/").map(encodeURIComponent).join("/");
 
 let P = null;          // program index
 let PROG = {modules:{}, notes:{}};
@@ -15,8 +30,8 @@ const slugId = code => code.replace(/\s+/g, "-");
 /* --------------------------------------------------------------- loading */
 async function boot() {
   const [p, g] = await Promise.all([
-    fetch("/api/program").then(r => r.json()),
-    fetch("/api/progress").then(r => r.json()).catch(() => PROG)
+    fetch(STATIC ? "data/program.json" : "/api/program").then(r => r.json()),
+    loadProgress()
   ]);
   if (p.error) { $("#main").innerHTML =
     `<div class="card"><h2>Index missing</h2><p class="muted">${esc(p.error)}</p></div>`;
@@ -29,15 +44,41 @@ async function boot() {
 }
 
 /* ------------------------------------------------------------ progress io */
+async function loadProgress() {
+  if (!STATIC) {
+    return fetch("/api/progress").then(r => r.json()).catch(() => PROG);
+  }
+  try {                                    // private windows can throw here
+    const d = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+    return {modules: d.modules || {}, notes: d.notes || {}};
+  } catch (e) { return {modules:{}, notes:{}}; }
+}
+
+/* Mirrors what the local server does to progress.json, so callers do not
+   care which mode they are in. Returns the whole progress object. */
+async function saveProgress(patch) {
+  if (!STATIC) {
+    return fetch("/api/progress", {method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body: JSON.stringify(patch)}).then(r => r.json());
+  }
+  const k = patch.key;
+  if (patch.state === "none") delete PROG.modules[k];
+  else PROG.modules[k] = patch.state;
+  if (patch.note !== undefined) {
+    if (patch.note) PROG.notes[k] = patch.note; else delete PROG.notes[k];
+  }
+  try { localStorage.setItem(LS_KEY, JSON.stringify(PROG)); } catch (e) {}
+  return PROG;
+}
+
 function statusOf(code, n) { return PROG.modules[key(code, n)] || "none"; }
 function noteOf(code, n)   { return PROG.notes[key(code, n)] || ""; }
 
 async function setStatus(code, n, state) {
   const k = key(code, n);
   if (state === "none") delete PROG.modules[k]; else PROG.modules[k] = state;
-  PROG = await fetch("/api/progress", {method:"POST",
-    headers:{"Content-Type":"application/json"},
-    body: JSON.stringify({key:k, state})}).then(r => r.json());
+  PROG = await saveProgress({key:k, state});
   drawSide(); route(true);
 }
 
@@ -46,17 +87,19 @@ function setNote(code, n, text) {
   clearTimeout(noteTimer);
   noteTimer = setTimeout(async () => {
     const k = key(code, n);
-    PROG = await fetch("/api/progress", {method:"POST",
-      headers:{"Content-Type":"application/json"},
-      body: JSON.stringify({key:k, state: PROG.modules[k] || "none",
-                            note:text})}).then(r => r.json());
-    toast("note saved");
+    PROG = await saveProgress({key:k, state: PROG.modules[k] || "none",
+                               note:text});
+    toast(STATIC ? "note saved in this browser" : "note saved");
   }, 700);
 }
 
 /* ------------------------------------------------------------------ open */
 async function openFile(path) {
   if (!path) return;
+  if (STATIC) {                   // let the browser view or download it
+    window.open(fileURL(path), "_blank", "noopener");
+    return;
+  }
   const r = await fetch("/api/open", {method:"POST",
     headers:{"Content-Type":"application/json"},
     body: JSON.stringify({path})}).then(r => r.json());
@@ -390,11 +433,15 @@ document.addEventListener("click", e => {
 });
 
 $("#search").addEventListener("input", e => doSearch(e.target.value));
-$("#reindex").addEventListener("click", async () => {
-  toast("reindexing…");
-  await fetch("/api/reindex", {method:"POST"});
-  await boot(); toast("index refreshed");
-});
+if (STATIC) {
+  $("#reindex").hidden = true;    // there is no build to run on a static host
+} else {
+  $("#reindex").addEventListener("click", async () => {
+    toast("reindexing…");
+    await fetch("/api/reindex", {method:"POST"});
+    await boot(); toast("index refreshed");
+  });
+}
 document.addEventListener("keydown", e => {
   if (e.key === "/" && document.activeElement.tagName !== "INPUT" &&
       document.activeElement.tagName !== "TEXTAREA") {

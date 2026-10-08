@@ -8,7 +8,9 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
 from uc import Doc
 from make_index import main as build_index
 
-OUT = r"C:\Users\csant\ClaudeU\00_Program"
+HERE = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.dirname(HERE)
+OUT = os.path.join(REPO, "00_Program")
 
 _ONES = ("zero one two three four five six seven eight nine ten eleven "
          "twelve thirteen fourteen fifteen sixteen seventeen eighteen "

@@ -1,0 +1,42 @@
+# Course material licence
+
+Copyright (c) 2026 csant
+
+The course material in this repository is licensed under the
+**Creative Commons Attribution 4.0 International licence (CC BY 4.0)**.
+
+- Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+- Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to **share** (copy and redistribute in any medium or format) and
+**adapt** (remix, transform, and build upon the material) for any purpose,
+including commercially, provided you give appropriate credit, link to the
+licence, and indicate if changes were made.
+
+## What this covers
+
+- `Courses/` — every generated slide deck and set of lecture notes
+- `00_Program/` — the handbook, resource catalogue and continuation record
+- `_build/content/` — the prose, exercises, diagrams and equations these are
+  generated from
+- `README.md` and the other written documentation
+
+## What this does NOT cover
+
+**The external courses, textbooks and papers this program links to.** Those are
+the work of their own authors and remain entirely under their own licences and
+terms. This program *links* to them and *comments on* them; it does not
+reproduce them, and nothing here grants you any right to them. Check each
+source's own terms before copying anything from it.
+
+**The build toolchain.** `_build/*.py` (excluding `_build/content/`) and
+`_app/` are source code, licensed separately under the MIT License — see
+[LICENSE](LICENSE).
+
+## On accreditation
+
+This program is **not accredited** by any institution and awards no degree,
+transcript, or credential. It is modelled on a public graduate course catalogue
+but written from scratch. The CC BY licence lets you copy and adapt the
+material; it does not and cannot make it a qualification. Please do not
+represent it as one.

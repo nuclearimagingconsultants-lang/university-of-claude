@@ -7,7 +7,9 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "con
 from uc import Doc, link
 from catalog import CATALOG
 
-OUT = r"C:\Users\csant\ClaudeU\00_Program"
+HERE = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.dirname(HERE)
+OUT = os.path.join(REPO, "00_Program")
 
 CORE = [
     ("CSCE 629", "Analysis of Algorithms", "S1"),

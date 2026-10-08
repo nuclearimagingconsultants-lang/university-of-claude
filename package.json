@@ -1,0 +1,10 @@
+{
+  "name": "university-of-claude",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-designed MS in Computer Science, Graphics & Game Engines track",
+  "license": "MIT",
+  "scripts": {
+    "build": "node _app/build.mjs"
+  }
+}

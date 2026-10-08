@@ -3,8 +3,9 @@ import os
 import subprocess
 import sys
 import glob
+import tempfile
 
-TMP = r"C:\Users\csant\AppData\Local\Temp\claude\preview"
+TMP = os.path.join(tempfile.gettempdir(), "uc-preview")
 
 
 def pdf_png(pdf, pages=(0,), zoom=1.5, tag=None):

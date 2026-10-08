@@ -13,3 +13,12 @@ __pycache__/
 *.orig
 Thumbs.db
 desktop.ini
+
+# Assembled by _app/build.mjs at deploy time.
+public/
+
+# Vercel CLI local state.
+.vercel/
+
+# Node.
+node_modules/

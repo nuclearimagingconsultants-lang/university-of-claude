@@ -92,3 +92,50 @@ the pages are fine in a browser.
 
 Re-run `check_links.py` every few months; expect a few percent attrition
 per year.
+
+## The hosted site
+
+`_app/` runs in two modes from the same `app.js`:
+
+| | Local (`python _app/server.py`) | Static (the hosted site) |
+|---|---|---|
+| index | `/api/program` | `data/program.json` |
+| progress | `_app/data/progress.json` | the visitor's `localStorage` |
+| opening a deck | `os.startfile()` — real PowerPoint | an ordinary link |
+| Reindex button | runs the Python build | hidden |
+
+The switch is `window.UC_STATIC`, injected into `index.html` by the static
+build. Nothing else differs, so a change to the app affects both.
+
+```bash
+npm run build      # assembles public/ : app + program.json + Courses/
+```
+
+`public/` is generated and gitignored; Vercel runs that command on deploy and
+serves the result (`vercel.json`). Nothing is *built* there — the Python
+toolchain has already produced everything, and `build.mjs` only gathers it and
+flips the flag. **Rebuild the index before deploying** or the site ships a
+stale `program.json`:
+
+```bash
+python _build/make_course.py <pkg>   # if content changed
+python _build/make_readme.py
+python _build/make_index.py          # <- the site reads this
+npm run build
+```
+
+Watch the size. Vercel's Hobby tier caps static uploads at **100 MB**; the
+build prints the total and warns past 95 MB. It was 40.8 MB at 38 courses,
+so roughly 90 courses would reach the cap.
+
+### Things that bite here too
+
+- **`os.startfile()` is desktop-only.** It opens a file on the machine running
+  the server. Hosted, it is meaningless — hence the static branch.
+- **`progress.json` is never copied into `public/`.** On a static host there is
+  no server to write it, and shipping it would publish your reading position
+  to every visitor.
+- **A free port is not a fixed port.** `server.py` falls back past 8731 when it
+  is busy, so a local app left running from an earlier session can answer on
+  the port you were about to test the static build on. Check before concluding
+  the build is broken.

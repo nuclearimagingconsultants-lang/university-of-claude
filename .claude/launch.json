@@ -4,8 +4,22 @@
     {
       "name": "ucapp",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["_app/server.py"],
+      "runtimeArgs": [
+        "_app/server.py"
+      ],
       "port": 8731
+    },
+    {
+      "name": "ucsite",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8732",
+        "--directory",
+        "public"
+      ],
+      "port": 8732
     }
   ]
 }

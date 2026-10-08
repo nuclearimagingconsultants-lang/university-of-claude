@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.join(HERE, "content"))
 
 from uc import Deck, Doc, link
 
-ROOT = r"C:\Users\csant\ClaudeU\Courses"
+ROOT = os.path.join(os.path.dirname(HERE), "Courses")
 
 
 def slug(s):
