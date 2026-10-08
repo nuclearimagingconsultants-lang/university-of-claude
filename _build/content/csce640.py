@@ -91,7 +91,7 @@ COURSE = {
          "treatment, and the phase estimation development is "
          "especially clean. Library copy."),
         ("Preskill's lecture notes on quantum computation (free)",
-         "http://theory.caltech.edu/~preskill/ph229/",
+         "https://preskill.caltech.edu/ph229/",
          "<b>Modules 04, 10, and 11, free in full.</b> The error "
          "correction and threshold material is the clearest written "
          "account, by the person who named the current era."),
@@ -225,7 +225,7 @@ COURSE = {
          "<b>Modules 01, 12, and 13.</b> The honest account of what is "
          "known, what is believed, and what is marketing."),
         ("Preskill's Ph219 notes (free)",
-         "http://theory.caltech.edu/~preskill/ph229/",
+         "https://preskill.caltech.edu/ph229/",
          "<b>Modules 04, 10, and 11, free in full</b> — and the "
          "clearest treatment of error correction anywhere."),
         ("The Qiskit textbook (free)",

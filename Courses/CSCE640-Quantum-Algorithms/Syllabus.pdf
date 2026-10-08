@@ -131,14 +131,14 @@ endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://theory.caltech.edu/~preskill/ph229/)
+/S /URI /Type /Action /URI (https://preskill.caltech.edu/ph229/)
 >> /Border [ 0 0 0 ] /Rect [ 74.4 106.05 202.8044 118.25 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://theory.caltech.edu/~preskill/ph229/)
+/S /URI /Type /Action /URI (https://preskill.caltech.edu/ph229/)
 >> /Border [ 0 0 0 ] /Rect [ 74.4 93.85 143.124 106.05 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -190,7 +190,7 @@ endobj
 endobj
 28 0 obj
 <<
-/Author (University of Claude) /CreationDate (D:20261008160901-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160901-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (University of Claude) /CreationDate (D:20261008183244-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008183244-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (CSCE 640 \204 Quantum Algorithms) /Trapped /False
 >>
 endobj
@@ -264,25 +264,25 @@ xref
 0000002515 00000 n 
 0000002692 00000 n 
 0000002868 00000 n 
-0000003055 00000 n 
-0000003240 00000 n 
-0000003504 00000 n 
-0000003668 00000 n 
-0000003862 00000 n 
-0000004058 00000 n 
-0000004287 00000 n 
-0000004357 00000 n 
-0000004664 00000 n 
-0000004757 00000 n 
-0000007558 00000 n 
-0000010142 00000 n 
-0000011335 00000 n 
-0000013912 00000 n 
-0000016831 00000 n 
+0000003048 00000 n 
+0000003226 00000 n 
+0000003490 00000 n 
+0000003654 00000 n 
+0000003848 00000 n 
+0000004044 00000 n 
+0000004273 00000 n 
+0000004343 00000 n 
+0000004650 00000 n 
+0000004743 00000 n 
+0000007544 00000 n 
+0000010128 00000 n 
+0000011321 00000 n 
+0000013898 00000 n 
+0000016817 00000 n 
 trailer
 <<
 /ID 
-[<599bf4b92e28fad5bf8e4b1e7b804c21><599bf4b92e28fad5bf8e4b1e7b804c21>]
+[<74b4b2d4b1abf96de2f51e39f4523bd5><74b4b2d4b1abf96de2f51e39f4523bd5>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 28 0 R
@@ -290,5 +290,5 @@ trailer
 /Size 36
 >>
 startxref
-19417
+19403
 %%EOF

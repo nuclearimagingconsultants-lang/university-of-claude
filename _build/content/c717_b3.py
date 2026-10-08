@@ -306,9 +306,8 @@ AND THE DEPLOYED SPECTRUM AUCTIONS USE ROUTE 3."""),
     "requirement.</b>"]),
  ],
  "resources": [
-   ("Cramton, Shoham & Steinberg &mdash; Combinatorial Auctions (free "
-    "chapters)",
-    "https://www.cramton.umd.edu/papers/combinatorial-auctions/",
+   ("Cramton, Shoham & Steinberg &mdash; Combinatorial Auctions",
+    "https://mitpress.mit.edu/9780262514132/combinatorial-auctions/",
     "<b>The whole module</b> — the standard collection, with "
     "chapters on each of &sect;3's routes."),
    ("Lehmann, O'Callaghan & Shoham &mdash; Truth revelation in "
@@ -670,7 +669,7 @@ and in all three it needed real engineering."""),
     "<b>&sect;1 in the original</b> — nine pages, and entirely "
     "readable."),
    ("Roth &mdash; Who Gets What and Why",
-    "https://www.hmhbooks.com/shop/books/who-gets-what-and-why/9780544705289",
+    "https://www.harpercollins.com/products/who-gets-what-and-why-alvin-e-roth",
     "<b>&sect;3</b> — the deployments described by the person who "
     "built several of them, including the failures. Library "
     "copy."),
@@ -1037,13 +1036,14 @@ and in all three it needed real engineering."""),
  "resources": [
    ("Brandt et al. &mdash; Handbook of Computational Social Choice "
     "(free PDF)",
-    "https://www.cambridge.org/core/books/handbook-of-computational-social-choice/",
+    "http://procaccia.info/wp-content/uploads/2020/03/comsoc.pdf",
     "<b>The whole module</b>, free — and the manipulation-complexity "
     "chapters cover &sect;4 including the critique."),
    ("Arrow &mdash; Social Choice and Individual Values",
-    "https://yalebooks.yale.edu/book/9780300013641/social-choice-and-individual-values/",
+    "https://cowles.yale.edu/research/cfm-121-social-choice-and-individual-values-1st-ed",
     "<b>&sect;2</b> — the original, and the conditions are stated "
-    "more carefully there than in most summaries. Library copy."),
+    "more carefully there than in most summaries. Free in full from "
+    "the Cowles Foundation, which published it."),
    ("Satterthwaite &mdash; Strategy-proofness and Arrow's conditions",
     "https://www.sciencedirect.com/science/article/pii/0022053175900502",
     "<b>&sect;3</b> — and the connection to Arrow is made "
@@ -1397,7 +1397,7 @@ incentive problem of Module 06 applies on top."""),
     "moving-knife constructions. Library copy."),
    ("Procaccia &mdash; Cake cutting algorithms, in the Handbook "
     "(free PDF)",
-    "https://www.cambridge.org/core/books/handbook-of-computational-social-choice/",
+    "http://procaccia.info/wp-content/uploads/2020/03/comsoc.pdf",
     "<b>&sect;2</b> — the computational treatment, including the "
     "query complexity of envy-freeness."),
    ("Caragiannis et al. &mdash; The unreasonable fairness of maximum "

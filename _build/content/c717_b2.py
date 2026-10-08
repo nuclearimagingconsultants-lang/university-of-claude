@@ -328,9 +328,9 @@ MODULES = [
     "https://www.pnas.org/doi/10.1073/pnas.36.1.48",
     "<b>&sect;3</b> — one page, and the proof is the fixed-point "
     "argument in its original form."),
-   ("Osborne & Rubinstein &mdash; A Course in Game Theory (free PDF "
-    "from the authors)",
-    "https://arielrubinstein.tau.ac.il/books/GT.pdf",
+   ("Osborne & Rubinstein &mdash; A Course in Game Theory (free "
+    "from the authors, after a one-step registration)",
+    "https://www.economics.utoronto.ca/osborne/cgt/",
     "<b>&sect;&sect;2 and 4</b> — rigorous, free, and unusually "
     "careful about what each concept assumes."),
    ("The Gambit game solver (free)",

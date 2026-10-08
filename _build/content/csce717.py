@@ -96,13 +96,13 @@ COURSE = {
          "<b>Module 07.</b> The economics treatment, where revenue "
          "equivalence is derived properly. Library copy."),
         ("Roth — Who Gets What and Why",
-         "https://www.hmhbooks.com/shop/books/who-gets-what-and-why/9780544705289",
+         "https://www.harpercollins.com/products/who-gets-what-and-why-alvin-e-roth",
          "<b>Module 09.</b> Matching markets as actually deployed — "
          "kidney exchange, school choice, medical residencies — by "
          "the person who built several of them."),
         ("Brandt, Conitzer, Endriss, Lang & Procaccia — Handbook of "
          "Computational Social Choice (free PDF)",
-         "https://www.cambridge.org/core/books/handbook-of-computational-social-choice/",
+         "http://procaccia.info/wp-content/uploads/2020/03/comsoc.pdf",
          "<b>Modules 10 and 11, free.</b> The impossibility results "
          "and the fair division literature, rigorously."),
     ],
@@ -225,7 +225,7 @@ COURSE = {
          "<b>Modules 02, 10, and 12</b>, free — with the social "
          "choice material developed carefully."),
         ("Handbook of Computational Social Choice (free PDF)",
-         "https://www.cambridge.org/core/books/handbook-of-computational-social-choice/",
+         "http://procaccia.info/wp-content/uploads/2020/03/comsoc.pdf",
          "<b>Modules 10 and 11</b>, free — including the "
          "manipulation-complexity literature."),
         ("The ACM EC proceedings (free preprints)",

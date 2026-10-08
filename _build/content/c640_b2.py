@@ -1136,7 +1136,7 @@ only the ones that flatter the result is the norm."""),
  ],
  "resources": [
    ("Preskill's notes, the lectures on quantum information (free)",
-    "http://theory.caltech.edu/~preskill/ph229/",
+    "https://preskill.caltech.edu/ph229/",
     "<b>&sect;&sect;2 and 3</b> — decoherence and which-path "
     "information, developed properly rather than by analogy."),
    ("Nielsen & Chuang, chapters 6 and 8 (library copy)",

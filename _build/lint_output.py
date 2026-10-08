@@ -9,7 +9,17 @@ worth scanning, so this scans both.
 
 Exits non-zero on any leak, so it can gate a build.
 """
-import glob, re, sys
+import glob, os, re, sys
+
+# Globs resolve against the repository root, not the working directory.
+# These used to be bare relative paths, so running this from _build
+# scanned nothing and still printed a pass.
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+def _real(paths):
+    """Drop Office lock files (~$foo.pptx); they are not documents."""
+    return [p for p in paths
+            if not os.path.basename(p).startswith("~$")]
 import pymupdf
 from pptx import Presentation
 
@@ -34,15 +44,15 @@ def deck_text(path):
 
 
 def main():
-    decks = sorted(glob.glob("Courses/*/Slides/*.pptx"))
+    decks = _real(sorted(glob.glob(os.path.join(REPO, "Courses/*/Slides/*.pptx"))))
     for f in decks:
         for i, t in deck_text(f):
             for m in set(ENT.findall(t)) - DECK_OK:
                 bad.append("%s  slide %d  %s" % (f, i, m))
 
-    pdfs = (sorted(glob.glob("Courses/*/Notes/*.pdf"))
-            + sorted(glob.glob("Courses/*/*.pdf"))
-            + sorted(glob.glob("00_Program/*.pdf")))
+    pdfs = (sorted(glob.glob(os.path.join(REPO, "Courses/*/Notes/*.pdf")))
+            + sorted(glob.glob(os.path.join(REPO, "Courses/*/*.pdf")))
+            + sorted(glob.glob(os.path.join(REPO, "00_Program/*.pdf"))))
     for f in pdfs:
         d = pymupdf.open(f)
         for i in range(d.page_count):
