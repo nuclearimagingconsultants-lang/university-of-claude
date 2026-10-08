@@ -1,0 +1,1218 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R /F6 90 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.ai/zero-to-hero.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 235.6116 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.ai/zero-to-hero.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 124.9724 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://d2l.ai/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.26 223.394 332.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://d2l.ai/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.06 213.8812 320.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 287.55 231.8212 299.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 201.1116 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.deeplearningbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 252.46 229.2544 263.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.deeplearningbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.26 151.036 251.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lilianweng.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 218.75 184.386 230.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://paperswithcode.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 184.35 201.6544 196.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://paperswithcode.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 172.15 166.86 184.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 144 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.ai/zero-to-hero.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 217.2208 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.ai/zero-to-hero.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 152.048 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.deeplearningbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 229.2544 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.deeplearningbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 194.9752 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 206.512 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 229.2452 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 94.824 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1806.01261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 215.9696 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1806.01261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 228.4632 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1806.01261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 539.56 94.824 550.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/karpathy/micrograd)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 196.392 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/karpathy/micrograd)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 443.46 221.324 454.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/karpathy/micrograd)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 431.26 160.098 442.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jmlr.org/papers/v18/17-468.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 409.06 225.9516 420.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jmlr.org/papers/v18/17-468.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 396.86 214.1664 407.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jmlr.org/papers/v18/17-468.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 384.66 167.642 395.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1512.03385)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 362.46 226.4392 373.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1512.03385)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 350.26 130.336 361.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/optimization-2/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.06 227.2028 339.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/optimization-2/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.86 152.0572 326.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1506.01186)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 231.96 228.2332 243 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1506.01186)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 219.76 146.6936 230.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1711.05101)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.56 234.1028 208.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1711.05101)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 185.36 177.0904 196.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1502.01852)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 163.16 225.1512 174.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1502.01852)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 150.96 94.824 162 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.github.io/2019/04/25/recipe/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.76 231.2692 139.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.github.io/2019/04/25/recipe/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.56 132.8936 127.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 
+  39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R ] /Contents 145 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jmlr.org/papers/v15/srivastava14a.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 200.0996 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1805.11604)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 657.16 232.3088 668.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1805.11604)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 192.7028 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1805.11604)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 149.7664 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1803.08494)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 225.648 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1909.13719)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 588.36 209.3088 599.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/convolutional-networks/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.26 238.2839 503.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cs231n.github.io/convolutional-networks/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 116.5452 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1704.04861)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 457.86 211.0936 468.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1704.04861)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 204.1844 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2201.03545)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 423.46 214.1756 434.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2201.03545)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.26 143.1148 422.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.nvidia.com/publication/interactive-reconstruction-monte-carlo-image-sequences-using-recurrent-denoising)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.06 185.03 400.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.nvidia.com/publication/interactive-reconstruction-monte-carlo-image-sequences-using-recurrent-denoising)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 376.86 214.424 387.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.nvidia.com/publication/interactive-reconstruction-monte-carlo-image-sequences-using-recurrent-denoising)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 135.9572 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://karpathy.ai/zero-to-hero.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 280.76 206.8616 291.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1409.0473)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 208.2968 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1409.0473)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 234.618 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1409.0473)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 170.1996 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 232.8332 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 187.56 132.8936 198.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2205.14135)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 165.36 201.13 176.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/Annots [ 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 
+  58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 
+  68 0 R 69 0 R ] /Contents 146 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1706.03762)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 238.1876 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1706.03762)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 94.824 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/karpathy/nanoGPT)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 237.286 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/karpathy/nanoGPT)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 94.824 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2203.15556)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 177.8816 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2203.15556)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 209.8332 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2203.15556)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 141.5876 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2304.15004)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 211.848 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2304.15004)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 216.4572 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2304.15004)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 539.56 164.0632 550.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1910.02054)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 212.3816 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1910.02054)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 443.46 221.8484 454.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1910.02054)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 431.26 164.3208 442.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1710.03740)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 409.06 216.9908 420.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1710.03740)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 396.86 128.8088 407.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://huggingface.co/docs/transformers/performance)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 374.66 202.6572 385.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://huggingface.co/docs/transformers/performance)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 362.46 193.4664 373.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1604.06174)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.26 219.024 351.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1604.06174)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.06 185.5452 339.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/BaseFont /Symbol /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1411.1792)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 244.16 233.8728 255.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1411.1792)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 231.96 217.1932 243 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1411.1792)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 219.76 134.936 230.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2103.00020)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.56 220.5328 208.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2103.00020)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 185.36 219.024 196.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2103.00020)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 173.16 169.4452 184.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2106.09685)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 150.96 230.018 162 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2106.09685)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 138.76 197.0176 149.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1902.07208)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.56 235.3816 127.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1902.07208)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 104.36 219.5116 115.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1902.07208)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 92.16 94.824 103.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/Annots [ 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 
+  81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 91 0 R 
+  92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R ] /Contents 147 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 205.4724 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 646.66 128.8088 657.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1312.6114)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 215.9696 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1312.6114)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 163.2996 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2006.11239)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.06 232.5756 601.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2006.11239)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 577.86 173.5392 588.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2207.12598)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 555.66 237.1756 566.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2207.12598)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 543.46 132.3784 554.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.matthewtancik.com/nerf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 224.1484 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.matthewtancik.com/nerf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 221.2964 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 236.6512 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 412.96 211.8756 424 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 400.76 193.1996 411.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nvlabs.github.io/instant-ngp/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 378.56 229.7604 389.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nvlabs.github.io/instant-ngp/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 366.36 197.7996 377.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2111.05849)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 344.16 207.5056 355.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2111.05849)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 331.96 162.2784 343 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1905.02175)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 248.06 223.8632 259.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1905.02175)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 235.86 205.2056 246.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2004.07780)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 213.66 235.3724 224.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2004.07780)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 201.46 160.2268 212.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1810.03292)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 179.26 207.524 190.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1810.03292)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 167.06 151.5512 178.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1903.12261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 144.86 230.7724 155.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1903.12261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 132.66 224.1484 143.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1903.12261)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 120.46 141.0816 131.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/Annots [ 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 
+  113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 
+  123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R ] /Contents 148 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1503.02531)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 226.4576 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1503.02531)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 217.2024 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1712.05877)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 236.3936 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1712.05877)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 185.0208 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1712.05877)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 620.56 224.5992 631.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2309.06180)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 197.0452 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2309.06180)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 224.1116 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2309.06180)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 573.96 222.5936 585 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2003.03033)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 236.9088 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2003.03033)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 539.56 164.836 550.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/Annots [ 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R ] /Contents 149 0 R /MediaBox [ 0 0 612 792 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+141 0 obj
+<<
+/PageMode /UseNone /Pages 143 0 R /Type /Catalog
+>>
+endobj
+142 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160722-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160722-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+143 0 obj
+<<
+/Count 6 /Kids [ 18 0 R 47 0 R 70 0 R 102 0 R 129 0 R 140 0 R ] /Type /Pages
+>>
+endobj
+144 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2464
+>>
+stream
+Gatm=gNM>[&q0LUbZ!hN.4i:sH_(jSDULRcC+1OrFQEZA+c?XqW$#g)J);,o!+kJ*AKBlEOT=OPBD,^I#!W#uqVTs=i6;sb\RN>UR*L7O?3J_m(f/KW54e\/Ma@W>T4`V?K?#1UdKJ(u=cJ3cKR*?Wi5s@?Jd@Tkq9N^KNm<3RItW>&W?:;F8ui:Ao4"g0&,!MQJb<V$)-W-!JJT[f?,HE8&+BKZ^7Dp+rXWnLi8XV+Vp"U+0`;@-TBW-f)k4L-9I6eq>2(R618?8engoe[j^(V5`fPi[gknREC*qk%?Yp.1dO7TB8Xti^irn1/S/2T30-`,j%qTR&&c/2fKe.d/oqFu-A/iBED$tD<:=8W@kD^t[bF2M:jK26)IeXO$.5VE-&QV4tNuPD(7&6ogPi0GmHO3#3#U[+.o#+tpYp;tooN?Ed#Y?[8PA=P_/3>(p/@i>4O5Y7E\bU?*6%&_/itHLB$qc]()72W)Ser.\K0fhVZ3X6f7=1]]V(r=Hb!SE()Y$(r1]eHd)4G9I/laNX=M_E'W\3Ua$jB+@.>t>AYO3H=R88XlC.52/DP[OF]"38#W[V/-gA)05BZ(hZI)-9Sg^%;ICVT=lo_(4LPWgWA8j]U1+"EX?'<6ruch3FBUYHBqbJQ0Pip^t%Tt\0BOJ2(jND\7Wo3_p\f><8/@/c6ERQ%<+I)Z$-iGakp2Lt90RuLr1M)OS4^%i)c)u)6-_t<?.akk+4=u8;*[0C%ZjJXq$AQ]4DW./YuAXSl'[4r7lglnEamITS:C]OJt,&C)4=kd@1(;-Y0\<71%T.Tn-p_DAm`@$&6">?ERR#DR[LjuXrT2bKr<)#HK4Z0=;qF7)^MY-/_<+R3ki,o(.Cdg.3oqFhX6j7@+[On)i7,q"j/Hm#JG!4b<Ja^e53trqc`ScD8qRdAQ'8L0GB'$[q\Nn^$nkLTjh`V`A9b-c\*[s(S(?TlhWCZM7/f<J/YTiP3r!'J2?aX'tMbu.2O#..tHU\]"/UkBp(dpE70GO<hj"Nqe*mkGX!,Xpr6T!`37an$H94$1?$jHK[AsNeb\q[5TM43!QZW(N7NM+8`jTl3mI8ZdfRoYeu>s"hhmF^OWn+cYChRZ(k+NdnMg9;lABk*'\U-o[8pA9Ag+1k%/h-!@D$VYtu<99:D8$GjZ9=9>EU!1Dr)'O!(;f^'J=jN:7@/<-WAI.mOn0L_:07;/5&f*l!?4)#$%&gfI@ku1^[u"tkC6U\]I=[C,^n(kSeK'5ZhB7t%RpHZmPOgG``].Md/Qm#I5'1oD8?aIs[X0uTp=rk7F+"MAQ."J&p(r.Ci3hnN;F+HB<NI)(L$VK0?gcR4"Y<D&Gp;V85-djm$?M,:-uqJo4BMNn/sQ,<IrMgTmGcMI`Wsm?Cb$Sq9AQE>(&eh<%P/d^/O%(=F/#E_5J7mPQDV[[VsQM;FST*=W/Q)hp<tCs:][UE"g71g]k7*Fr*TYV1=CTr:CW_/pjEWj]!<dik3$##MfM!OK!!dj\#$2!=ku_2[#3HEb$Q@-cBVWIG7l-]Yi!4uG#X<HZtpORSflH.b/J8jLu$d;h?<#sq5#oEh[(!U?)d6`?;up:hcqjoOh8NuKQd]tF*E+g_"h=F:4?H7X&dgD'7PJR;HDT6^a6EWbfY+ErRn#IUJEt)ij4qo;g1>N*KKjRW._ZI1IbJ*b>fil@?=Pr?1Y[#m(ctP<He[Mn4)<&aJ5.SF<*8m+g7EnF2aJ4(P2mVI7i^>H(K6m-=5IT??QlM>WuR":Kh)"+U)+EJrnLe]aIt-aJu"WeqMmr3b7R1@]8aJg@5*=eJs5$i5I-AUqiEq@MFS/DrEX\eVWD:Zt:q*n_VhLZ$o!ap!QHFjD;_FXQ*3VXh-A6cjmY6TGAP7/]BaJFN+!DPf6m,Q!BC.NMu;=M:Hg$FS8O3(]mWe=DuK9kB1uZXUS;QI3h%<C0.:l@G]DM6BGW_Oi):BiEf*gLn]n/JHDTO&4LUs>Eius<BA8sM]Qc[Y=db'D'e-&."Dto]P7q-&Ml?S*a(ef5+f"$WoQ$b(3U80(I)6Lqr?F8R+iMK</%Q7@;%jWAi"8AY`_`8:^!bYFU`IIS9qK0k]k9sk]J`CR1>"#B3&G5l*5fg!A()_?d[raA'lD1cuaJ=&YHsKS;tcV)@NL=@Pnj/W-6jDPr1P-O]g9+UEPOkLY&Z!cL%I(\&Agt:FgtXlE8gjQOrm]ND$U>$9;j2-prC#5<''M:"ac!G;GSNQMOir`csWnl;^f=(&=ttlUhlc1clbGlh1iIDQGVrag/[8RjXYFguP6fqbQ)E:\NH^]4I@4`iUsW52(k4Y0^hU?B6OQ76e=?4cHm.rFFOP$t>RqK3cmBKjE(:Aqag1:)gLqINIk53T@>(2m_B79&LdG"WfD\^>JI?iSh&-@;\T5*,Dt3/G/KRob<ju6*[M#;bfXY?N^2?9=@$8cO:V>`eibSXG6Upmh_Mm$cZQk!W~>endstream
+endobj
+145 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2655
+>>
+stream
+Gb!l`?$"c/&r,lR/,#u?4"eE(M,MZ"m)2VE*2g4"B%k?99L9q4I[(''W5&>E$]:`jb:]Qgm@7lQO[Oa'(Af_-+$^=hpiFYpQkGrpdIT/L*1*fDjS5$:=6K5@lKIseb7FNU6e9n]9l2!@'0i]K<%a6_cNMg`+.??hAGm&XS9=jq.Col+/pE]2ki[j_^V%.J^Ua3+hOW'Yq2:kP^*<F3:'.0=q<9DuTT`#Oj`MG5H7OlVl09L!ID`a%;[bd[OYq8#Mh:3Cou;+LrK/t2];'1*Qp7i&5,C+04ab#Y9PFEZ1\#;-RX384]YO*-fsi!PD;=B&1M[sirl1Mt9!qWd8153VQ3n_XS?#bVOqsmYa_ITSTA]Dp#ECqXY@5RofYQ)30FOJ*#B)T9iris0)*]hJ/XQBCN7VuR(U#s:2s?;%g7'GF/KRR@gg\P+RI-.po)a+u`d?aCp),f>2]k5kea^lL#A:d^lIjtfn0-OGTGPYR9k_+D@!3U.I"K?uSM;'uf]9:?cd,i%gOqMt"hflK5hg>XVXp@XK4slN*oMGt1au.-IOiU!(3rJ4<Y_HV<%!_;M]$dm*+=TW)TcD@@Bap.k@`gu:s3jLnH8mO40sc,`Ogs@(e^Y(MR!dS?6SUhJ1bA<+p'En^<=]hl9"i:Q9"3B[:f+Mf>j,s:tO(2Tar@Xd19Ua\Xs(qm<*#N$+i!p7Mgu0$F;nec^6lIU=9lM(h)3C-fp>!N7aNlLe_]M6ktP^kE/q!E-nIIcmmAG[.9He*)C3?_Y($gAH&3=U2Q#$K\-u=<N!-s<F/TTDC+*F*QBjdHI``jc)*2S?o!/&kKuUC8UbkW-Seo+SA(^rK]oO1@&=P)V3G7`*1]`"Ash:,Ks<$_a-]4<MdY4Gc1[OA'9ZY?Co8AB@7Le1&1RLJNRDL@1W;ufi?sMWbWi)6&Lp[Y=B?5$*`Jnt,U3YY)]*YFB?!f*(m_gf6jCIu:mL*7OZb#;f\%.(87qibl_md4`:C@J=WPu(f%#buA>%=cQ"`pD"mV%pPDZ3T)Pbaa_5.nsChA!kFDOpPdu0-a]7$ni'9o3./MYi"[2gk5<LmgG(E;pj3u6SI'YGjF\P*WkBdQ^++EAa8:e;=uga:/t<na>]O`WAgj'7:?C0^U'P0h7\dVo^2^L!&4:5k[B-Ug1gU*i9CYtUB)-m]M,1&b'/<Zk(9(=f*Jd!#+i.oFFR(pepN8[ea]_O%)I@`m8Yp%,S6Jq7]WYdV64DS$[r"_O(I;J))m5lh-V<?uU?k1ihT1R/]FF:4'O;st9'8tf0/?&kKcbpAF$Ie.THQp9O/a![QuCnRqBRWQd[bn]hTAfT<LDf:&:Dr'%%Z+COdTrqt4n\%5[Y/OYRD2*/d-?ISC(kcU-bXL"?i!\,'X_9rnG5QG8+p'*mYmG0`_h/^H=aRS%;EQpu"(f^FkCuPHUph[,)ps^+=o6sA9IGX<Ng%0aRc$CBi=/\++dQ^L4MD;n9Kd`7"b-iH%d$7dZh8N)[FI!jSUNKgRN!>4o^=,*f5A&A#H=Y+A=BO&b`P;g-Cm=fip!aB<Ig$=oPIpPn4Xd17B/3ngLa]>WmB/KEW#/F_q=i[e<J0e\d#WY8l/_Q1r[ZE;kY&n=-$nO$99*LopV(afl!&u@%WL,+ePd/_/>@e]9'0>"aKnVAKj]]%2_7*9*$9Q7rq\dTTF$ndL5P*dpGX!mnl0:n5c3@AF]ccIYX(D#8#)/E&jg$eFG.DmmJ$*YF<%Ss7q:XDbGuY9G0jc/D&7[WSMR7^gLH-@bY`rq@I#1f6IFQn=:Hj,:0!;TmN8tV_n'Y3u@(OqiTJ9dbb&Z5__q"Z&WtXmm?f>7RctSfsN"5QY*J8HRq"7(@'@Y"NrhWe<1uOMXrnf>'!:M#3u9^73W:tlbnD2?q'CQr2qES<:YM<`Xrb_Q[#+6Q">g5C:n^+X"YmWaRW/A%]hK0p@KDI([^W>kipmqS@+%EdUUJ(O[>^XYdt6]GS\q!"51F'AA'YQ;5..Yc@lIP9;DiVT8ZTcU=iTc=i%#;.p"Z,"4dEIl-j$7f4(o:2FB9;PIY@2%&UB`k$i9*j9*_9-[iS'pB/mBf7`7t6E='c>p9!J'ZcM7OH@:Ta0CC@OH*s:#sO6?hX8;,564W.j7r5N,LV&K7/[U0r\>2DH\hW/e3<*lgH=R;@`%VV'dfgQFuAYbE!BS!n@msh;MbH(8McA9c]<\fhhs18PBL>i3>:LB=bre49j7^B</41&U3W8qg<<QnWJnV5)a@/X6rC1,Y4ofV4f(0bWu+6ljL9NlB(3)POYEsHC^fO@<6Md)?"ad"'`2I4Lf43!,a?+H%CU_i4te+B^1S_E5%AYX.+FM;;r+b!F?F-=Jbs`4BAksWcjFC<c'^9ikn6[UXFR&OgV4C;[uSgAb2ekTN?L_S*eb<%3Thpe3#I#'(tUhL,_FGEek'(d,!bm>J+0]p%&c=gUBVJO1d[1$"^qCfIhTY8n!@Cc;cR87Irs3RBCl!qkN)>\T&ILMbhbLqmIU#W8HsFZc6PU1Iq4n8k/aGh;uB?LKB-uu]DDc?9!_YiS`jdQGKi45dV%L0iI_WPbgc^KgUQ\QmVVXETLIJpD&t/b!7A4-S&^Bk6GCa2S]L!HrZ_Z.GlHXaNIH6,hPBA8hhPItA_J`XHZIQ^rr?mH$'t~>endstream
+endobj
+146 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2566
+>>
+stream
+Gb!TX?$"c/&r,lR/,#u?3]=lO;4;RREL]".CHJH&EcO5$)b>QL,UB(8Uf@$=pBC=8.\^KIpA'XpQ:QPa@c,/m"5"b95E>P&8Vl5`kfpY*N_?-oEdZ'.d3ZIJ*W:Ftq4SliA-M[G@/K`cqk;gn2*7h0$*Ac-BP;\il6.uDebK(DL'e#a&"$2^oC^'ehV[*pN..NtkB(lmqYAroU-#h+&tRjM]r+$u\`&r-e:c9cS%kiJ<uV%98$rPGEA/YRi0G.4K7W=lFS"J4lI5;PX^:/aXhIR;"hocheR_F`c^]i)He,uRqW*?r?d?Z,=kDs'HUB:h*P^.rP7f[6ZBu8jF!^=pbW1TKicM@`O&rHgIYHN8*#O?4,qXil%X\e.cr9Gl$cdI]d**Z`h>Im`p;=[dl,7`7>7^`Y#1GeZ-TAi&gRYF>5I=_%L0j'J!Bs.8ePBWMDZ,gnC"L]t^[q-18+ukg3Tb\aODPuA(<<[SBY$oG2BF'_ZgjE&:h*6n&%k5enE/M[Zt4c'gFuC+%^cc/\)$K]*5n?HN)tC`=AC'<M-P"bdCiMD7j=]r:5eo+(LpM>!(3,TDSN.lrlo^b^X7(,-g2d%HtV*@#P^-l!_]M:X2KU$3En2s3O.4'r4*ua;fXLKSF1\a#4Gk_mY6.,_?+k8=DKOTmJo.jk+Anm'QI76LZYErQP,l[E_7mR_Ej]:Rdjo.F(/lb,Ws>4Yu"t?g17U]X<$`p4,Cjm9AQgG7Jf--V0ScK0m-0b9["6pNp.`oZ&F,sR[U6Vl-PK3=e!of-[A1"=[%]+>,m7pi_PjJRF4SH2gMP"BqC6YCAI,Y6A.m!*OBhZ.b^8\\%`Uu@T=j@d3b,"DE4[d\oT>i`_T#![Hp?[O#bXW<f%CA>,"#U3TUm3R8$?3#i4(US*:*lA!6R#aeeEno*h=L0UP6Z'j3.91l7VkG);/OlbCdZq,0K#O1_jmK9F4O45$4,c+ZY1,"r1[ifgVRUq)Xj&rH<c9<VhbNFdh'dplR=4>HuB(mQG%kmP5KK222N8`m)k(Z..Ab7,6YBe_D`nRV@t:Q"H?;N).\0uPT`_PH7O-3`BK[NRHh]]Hba1Bh]0F,%DJCGFdH';A.Q"E:_7a<ShFneMjbQ]HX9s0"Mp,r"+P([e(KKB8@fQIL/P^2IrFZT%a24hAZ^COX`EY*q7Ifpam@<O\BJ?8n:1]#@Y6]#@p=/IlZ3't#@\pU)TfI]%Ii*s@@5ag^_cJ^kJD*q&;qd&eW1gko=<rm4,:+quMf48hGe@AlQPb*6,9K/,4.A@dkBTbfUpm$^:EodtN8SS/B%JjF8"@iQ8qO&D?06jDPgSjt3Q#s)L/A*AKMpUGY[gfe[+%tb%7?'5+t%!M+j%VIKIm`ad85!#r#"PSr,bIrHNB.<27@b]ph:0L-KA0WSQn"S7]YN_krKlR]5HXm<cOFlKd*,-(c;*/fh?QI%%/Yq-1LLUt],VGr<SXDSJaP_,FU$,hP)!n/^JWW`*qC;tZo)]Q1aFP9YEs1lNWE-Xrg7SiQG*S11>(I#=W1!7fhP?$C!L597.oK()DiL`H5R(ZOO'Kf3LcNo-*m3k5K3bc7jX)dnY;0!rRB</d-nsC\=#*-f;[=$g6$Xl5]#n_"^IRr"H=nN7[9sJQMTRp_!\Uje'!\]7S"L_F%oh^i'H=bM29?lQY1>T\f66PhZ$3merL`oAlTM3-WAYh$gko`5S9MdB.G0=":WBFKrFqW:d8h[r7@=WRbdE$=c@@L8T4dJT;mTosSRj(n"hB]5RA=[,LX9G&Sa*oDY3IQI!dSam\LY?a!E9ue(@+QIE9,"i=2gu,q3=?,3b'Y*FHNfYKQ$\TKhbEjX>T`DaF8ZH5$!Bj/?+Y?=Dr=:[C"XYNS3B^QD$DL"#i@R/&N.TL$hm$ZK\b#Pca+AGZgf=^1uAl%FfLRW!P5Y)t:8LlaJ%d?UJEQ8leu7Jg<`5!H#Hfm?I?*+PAE#FWG:%c-neqIKDk(-:n4-Ih>17FIEG5pE027:@nHL8^_ZA$cjJ1m9^\gSp=;+3PE#b3NDnb&0Rn^IilB#O256<rPk5;7#PlUbg?U^0#X!tN]^F0/i[s,Cmg,_M@q9/2P'k&O-rQ7FH(iSH&b9Q[boOH<Q=mn8C`2HfORm(=!`4O&FI8Bp6J-GQEoM;c6>hEcs**eKIf!lk(R8a1Q*cJBhXFSMPXH\(A%'RI[22&j&L_r-j7d>Vm5rRc8"uZr5DNR5EQP!pHn+#]D3ENZa<n\S(`m6S:`t$XMGZ$h-=;koYoa_4rGn!$,kmDY[8Jn60b:I4C-m1jUk05j4srD&"L?S#a]1ddX-t!`"d]X=]EQ>3<b.K+;ZhbbM1EE@sWQfnEf2PB,l1k@d'L%KipWS",j:`)T8-(^=e8rh%@!;Wg,OYCo1<tPt_65Cie0WTB\j-T)Y9T']1XU6&+PWbG'-FH/U!eK?-47$$N&f+"=W)hAEEI/V@R+WOcChZ'[AJ(t8pZDH@c7Uh:2];D-sDNNhR7=/9EPR3:I"SSR26QOjUIe4o)bTEE5?PR,4mA44IX?iIPi/G1q^)jMj<gA"Dr3r04:8#I1~>endstream
+endobj
+147 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2684
+>>
+stream
+Gau`U=``=U&:XAWfV_4'fF0G'a@jQrmFJD1\?_8m3duWNLkJJ8$:*<fIsi-k+j)hiaiZH#.?OU]h>R'B(:M#s+%ot9*8p!7]XtD`Z=,j!b;ENA?buR5kj+AiqX2]3@q^UJl/JW(qPFKA3GRF@NBk/k)NNF^KEG8]^),^*rm4[RjtQT&iUZU9kk9&p"[68.g"#>b?d8]?CsN>G]0/4\%i6*\aX[s#\0ePk0YW>4O(qZ>^l=*m(kGscj9L8'$t8eoOl=.*;:04BHA:TL%R\jakKRiJ\$+<"0c_KX/.W`XE,0=GSohZ6XqM^@hf='"573^\Jn0t,OpZqN[*CEQK#1J`RQ^Drq@h,f@)/Jri&/Xl*2Xgf%Vh]%E6oMhCK\C&U/3KGY$ltK&+OsTgNZ^;r.rOqT6?CL9lUlsob8Wm6dl5aFF8Ep`6[.2m5qb;em*Z>@H#S$Dm&H@e]N3tnk5i<^`4?;e?3M0NnIP@p$lhXFMd[s0YpTt]XtB[f\4$(=`BWllY$['mi1-k/G(iEmg]7g8I;JOLd+c\@EJb<.?fkb\B<B@M]+T6)FAAQY`kobKU]A2]Xo#hRi7T0%6\e=f*XYs^ea>H-nGcj'DY$'#.+Mr)<cFU&#Wu1Mj!T3/g[$")1:BXI%W<6`>[M@P\8jdrO."6dM`sbG)3tGA#ok_KqnZ"RB0DaVa+n&ECtd@!Fro^b!gRaUkmEA'Z_OE>3Za8;.'Pu)X.JJTOj`nMXI5d``07>k`iW]ABC]"dP"8/\2-%q57CASK:2`M,%dWET52=\Uu9#EN3u,nY%[W#_PCXD%/B>:m`+-f<2UCP/OhER7:4;P)(k)-`Z^2(OcQ1M"MrIY<eECnNj`G7_O_JHR(Q"l>b5K=80j*B.dd(YhS?-#^rfDF7#Xfa<FU,/+_(\@Rnsu+.t[mZPIh&L^[^PF-Uk9O'k='h/!<ZE1GhU%dZ]`uP3&(?Y=OdT,f/KYA"(L\?=t];U6K4,\U+]g_rkH.3?3DrFQW;:P/2jN_da"P@sDHoW^C>e"N_6rEDgiTs$-r'$=A`8_&d<L'oM1FVY$Ju5#skO)6C_!FW701:8_&2__i)E2["S[5PR%Jk=mQB>r!Fjk>W]T*1Tc+`_&]Hn0u5/%m09laYel>oXYA-Bm\Vds,^ZeE'ja2M_Hq5PqoM*\d.>;UhS'[7$u,o<JFW;R+P$YA4KXF@O<=[3PMG:2>>UH+"TaSW2:gi.nl<<1Eid:j6B25*ImN:19mNb@P&26S&/Lh.2#Zp;mjrrKkKPb]QV<[2&(i17_IT!bu;1cIFjKnHI<;fRs%3kNcmhJe0>_m:hV@.g@')Crd<ZD^7n%`mH!IK9-Z'dl>VI'3+t/11.1_[V27Ub_[S7U0cJDK)LG[pi$%=,A$.\C!0!.r]EJT<D+$:E$UlHagM01Q(8:B89dea.F4dY&cSBiXE?1`@@=t,MWh-`udOp2nkdFXi]2?_a\(I<PR]EF)Slp>,mO+u+`aY'4r_5m)hnq=K,LJA+"'n+D^CC&Yo-YaA\^QQBQHcj/WTc?Y7;C!3%XH_cgK*S."kCI8XjdCb7D)Oo1?jVZI$Uo3\l]F,Hq]ae:"?^H;6s#==^iD7O:`7\,">F!M9)8I<EalV$F(>If.:AAoF\9/$2V/<Z[\&Dg`W4sZB&"@imnr`/asem3KS50:F,'fND<DH<rdbe/ZU^#$ACm0R&RBLTi?'Fb@OsIA]gW+?.I/5<ln;qV15K&0G>FOEP;`$-f!,p\"g'*Osm"W8476$DQ(>rJE7amTJq&2W]EC%$$q>n7o`(6[mt1KdC2S[-BN7U)jWcZ0n3W,Var0"ZTr`9FTI\),*B+JT_Mnof'/6Y.%N^nUU4E9X,[)6.WW*J*bQp-h*Sn1Pg6M.7Nn&\F',H!l?%hqE[7/p=h^>L3pT2keEe=kO0qJG.?,B\S1Wm1"pJqE#2M;JpCa3<&A&/sX/p[pJb49lcejUBqJ3'?n,8]WF<gXb)`.@"Z+b"o1_j_[oM%EA3CZ*)D`3\IIfjh8ciq=PeBnd(Q%A][l54^D>"EJ42!Q;H6h%ZTEJ8;aDhhE#ahZYk8qu2mR&qZuId[8XHSX8=Sa=%tY]O:?9I13g2X-!6]RDdh\b?jE5G-_p8q,`^(%Qnr_c^"ToGE%S7D_$-q,_AZ<P_RnqHL]G2bpCaV=Yol-*!/ol9m=,M79.C+BeG*6-CW.*onq*^?^54Smo+(CaD0B'qQpY(\*GHA!g#[0/"2:5na[\8%N6+%I(CA1H6ME,8-ar`="Q.bp-N";7Lb#IV,lP6I8R-$c-oZT[<$G\+QcaN/C-M5S;,EX36u<:>68*=?:msqt];Z*O\,Z3Otaf:1>\QL_Z's.m]=F<ud^0V%fOa6+U2WJBa-kg*:J^oqLY.1P$l<Hd7H"#je!)e%N<T,-$$4qAuh9-R2MO^hHJSFku6a?TNJe\Y!)I5.V9\H.aTRK:2<*AJcQo69Zl%F<ZrIfEoM([(7-r\RnMbc"o<8+i>a#X-Wr&A#N9Kn/ab.aIf_O/E6Z.F][&(^f.fBR`:eA?fiWuci,!s4VnU/8Yqs?GY[h!Zd#rWIIW)IY8(!"e=S1SL(fG*;J_^,bPU!BD(3nPCcuIbEq>N-1E+#kTkZd?Ysj)M"\\7->N2UiCXc<sc=%NL5;sR',0ss.nEXCNS=LWMH"pa<,Sc@="2/%1<r~>endstream
+endobj
+148 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2564
+>>
+stream
+Gb"/h>BAQ-'$&o..J>3cFtAr'9'<&2psq8sdb8FtS]M7-66[&*?ia)a^AV17,UM-L/]hb*F6:CSb9TVtZ2_N85^D;IO(Wp>-,A7Ar,CbKkJLg7?Kd%r\UhrGa^6DjR"US,:?7F*DMXp)R(+l,q+5p/if*M(@jd)eRrH/YkDr+m<>,+R_@d'fI=1edjmCm9ae/(e$I3S8I_3)mq!?$-_"lg^-,_db/X<s\.>8;.rXL8^@.M"&eJ[=uUG4_Qhcc8'7XbobmIc;L_u30W4tMY`3.qp=0Ym;I@0(SU>Y3iXc7&0k#SJMlX,5E/>IuX!`_MbCiS'Qh"Il`T'MoE2"iERKRUo4sKpeU@=K]pA/%WE`/C@WHY4$V6':rQXNXLCOl05lPJ)9*%r)Q*2*kU8g#01Y1k/F+J:N3EipqX55T]!@o".m*$'bs-A"o=^$[#c5]XIE\S)r[LmCPq.!UG+rgC4?Ha+ee'F`hA[3+W@+?_^'8M)#?Gqenb4*Vpdld76"T.>nlM1g5DJ@3-K^h`^/TS&Ump.]":cHJ'2+:;kpmu]k95>5/,,r/m(OL3`"pqhe,OL,>9.#=(E<#S$OQ4Q:sq/G&4U$fAJcD0(,>G^`.P9r8B.InOH=g0Ein4:a'8e"fRq_-r!AtXZS4\KMt!n5Yl`!LLC"4+0M@+ToS;_;2eoq@O/N0r&!qQ@do*eN)]9OXl_MKNF=jc0%b!k8B.^UR":7>+5ufV-d(W@??XZ?[KaFI=@i?Eec[)DAV@Jrk+Ao$P#FmZMT/3k).r==Z\;JrB4uUY(iol^O9K%rRC6F,o>BK#=HsXr`c/1T:WBGmVIg=W6)IoZSf_?g89;GjGt*\p$dnL?G`PWN$+rPYMLotsS2H070<:=QX*a/]-Wn!fiE3nPOsQC*M_^1!eZT):=SZ5=Q'qtV;I*A#<CR:\Ibc3c9^pIY:m7@5aOeO1.=o=-dL>a,3Nlpi&!,oHTD0l59N[!t5FYEQr`cj=d#'WY<Ht#=^Bd"L;bS11=PD?kh>MhRq)aKGkX&0*7I,BherjPXZ>L+J$\ADOP2[2DRECKpP*L1+ArL@#')D0X:5f@):5J,$.\Qh18ARnr8ZTXP6)<"2M;]1qG)Hj^%Eh:rGd=[EpU,5Va3QhW8t+n<@^:)`EmHJWkEqfBU0'kkO@i#%@%j2jX=bAe/H7kQ$l&Z;L7%GnL,nP)P_td]'_iRGIsI?t,/[hpmk<EjC6(3'<G)3cH$A;=]5_,#`V);C2Y:MAW#mg7d#XTiDTje#2e3E0&_$*Y&T_>M4?T;pe<Y3+YAF%-J`;F8U;4*koQUL!DHl@S'utSXE'Mc??s14?Q0qMMU:hT-!^Gs$GmWLDs$__O`s89'LWf'f92k]%$0%\`F3i_JE<e_fE/=,AA+m,;XN5(?PG/&7n5_MS+PpH'#NN$X@%roikD-Y`2]EBcm%]hVb`o:]7Z2)DG3/rk![!s]O<nq=3KF.AoS#/hX<f"CiXm=+g"(p&=M,2;URe&'6ZhB%[s&&WSY+P?o=dI[`>&49HX;nnaA]UBXL'f@p`(QQr@9N4JDS(qTLt?MbVm4BVr.WZ8V;F&)?$_X`G$&]T\WLD$n&,]&aQ<IX8;E[1jfJ.YP1PfjVAWu0gnA9'fo/K]Rq?TO<hCbUG<R#Wl_J3Z$A.OnXMqi?Zf*RRUTrep]#=(pu.p8"fchTQOBUV;n0^S"PWbXhG\jZ-KVj3.T38&n2C<L"fZR/9)(iZP%jL`4-9#0Y."SQVO"*Kq;]/R?!U39%WfHA>eXejK9m;H=d^71>R`KplsFN:E7Un2<imSZk(MUOSnXr`Sn/;#02b<*Q!oqN&!@0.,8PCs9#M^\NpF5QN*pl9DAMG5RGs7kiBDF](;c4E+/>&'N&64hQufA%W`[,[#rUh3-#h2Lf<p(cC5W;[L@%(+4`E2["2;_2"Z?1X*eEJ-r>'5GO`1Cg%DMIEk30mRfikZr1';H2S&V38J*_;rk`,n9rn;.VO&Tg:-!Xk-KJW9`BmO*qlO1U[KJ]<I>r_EKT%?6n@t=MBB-*Bqh\Ad0`Wme(/L'=GqW0Z140XCE[F](6\Uq<8*8:KpYb`Cm.nWbcp??M-0B7QeLH<eM+D"UaT;!!nLr?.=D`'EWK,O0XU3^IULJ*XXS("BGe_4(1")JpaYj[]j[kl8uh_<N@p0@(@&]Su,m[>nno1eK;E\:>F.)]"-.W$>4G!Tj@&5E!No.T#m^MUnbi.ho%Vi?uI)deJ[@H8;S]!jG\9C?pl+Z!`C?S.]:7_S<V1%Md@FUhC4/>H.LjI<0BO_P3c3DI8W9ODYi8AT8?Zd`@%m@ct]I7s2.m9'_\r:XfNG#-dR=$qPqk%4QV(ceB*J>IP'.DU)krq1m/O1-e>$/nW1[=<2R`Gj^g$&uqAs1^u=k9\fSUBcVU[sZn#KhNe8#bCRm>^IoFc@oqHb?qjt\7G'sFS='Q.TB"M[I[h\Xj>-T(G)>-c`#P5K;bEI'['HFl[gd4,5"Tud[Vj*2S8u@7RZ+s#4Tt,XMK_\]K%s5&+u8sgL!8oj5[n,%(bHDlIrl_Z/8>>&.D>5$h%fi`W~>endstream
+endobj
+149 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1345
+>>
+stream
+Gau0BgJ[&k&:Ml+o[?R&!b9pS,u7_RQX,@#!#`5R.PJY>&e28`A=4/'p"PX>j"-T,bO1P1(L=WLSC?:0!?Zg0?*b1%dhqdS#`o&+;]sSb0Kt9Pn_eEFd=asl]Z;1k5/hkB'0c[a)m&`Y?>;EY]J*Z/_?mNR+/`d%M#qIsK]1P+e%=Y0gXG\bE-25;k6G@TNWCImS,aPc*Zd\-7W*IIC7T@S@#H$BItR8]CXl)*EAR_M%@W*91_%;-DLNOL0e<QMjc%2c9VI,qL,cnn/`?>0+pn4p91'=ZR!>u('DJ6eXeapsM\8@'/$H=I$-<N&RGh?-K>Us=RH?3RS/9L7>LuFC)M(a&i\`6g*.F(!&5cO@+gOB^+c/Q0m=pjO!RN+/lWt.\eN3J]k3T9W'R*2:.s82:)psciJ2[h!+H#[Fd+%Ii&nH'kbAt29E(W$ifP]:En2_ED_1.T%pb":R/hK/6&5CSLdtQ6!!ZbADp.kaS[7P7/$<e=UBspKYT6cY5bVf67#Cjsc!F[*L:L$sT<>s(d<)BU-/q3.&&VU7kk?P08,*jNsep>t5M-?eu#tPb?3`%Shr=n]Q:G>lfr[t!DEYn.sHtGeN^VCFo&i244i(-g:'SVW)N3/"PGUCtHi;&=aOMKe;f,A`(P+/;r%knmTPb%1=S2j3HUg=-0f272A$EWDuKV]PoV5K+nFFOe>Gg8$SRQ.4_!']HP6[<>Ir;]O;lB4g#(A+OCmUCmLdc,l_>B$VE$6r]qF-O`","0"6"Y9fQ%M_169\fe0^^@:(rjl^iM!rOnKd=h]`gR3JV,5W9M08*Q/39@t74)3:G1EQKI)bj9JJMj(E[.m'.p5!PWLS"R-2,crCI\61f5/neHB2[!%WU#AY-L&@q(?8]<n+[6h4NP69A:E1MNVg+@Ct>0n2kbR>@MDsR6%e8JsT)RNI#ic,b&eCE__m@9L+V>3NI-:/l^,SDXB%-:DVr#p]W&:"(Q;>ARQ[PcHe-j4)Yo`,&_9-mjP4JcL)fbR4T/UmL*?=W$\"6$n>9,%`,j,=tR"FEhRbj0^DuS4UGt?p;0)Za?u?>GFjo<c8JOps/uBM.TiCMLG_quhH[UgE,4s<N&A(ZF1p";g>*QNgD'SY+%Z$RknB^LNqHJZ1pBfB>!I"k5fgTPlA0N/!5MBG<>VNaeY2$.`Z.CWUj?`#R49"H1K<5Qm'^]D:thSXeUmD*?8Ml9'N<ZTVmPhMaQs+753)[PXXCU!S_VqO9=[(j1iN*7-67[)\A'raYH;SACpmcu4P`]d)gCJ6DT9AtF*O3h-h+A]Ff1IIgq>O#":)%'2M1Yu-&1a#V+P2U7]o6iY$;KFn/#8qg%Y~>endstream
+endobj
+xref
+0 150
+0000000000 65535 f 
+0000000061 00000 n 
+0000000143 00000 n 
+0000000250 00000 n 
+0000000362 00000 n 
+0000000470 00000 n 
+0000000580 00000 n 
+0000000689 00000 n 
+0000000870 00000 n 
+0000001051 00000 n 
+0000001208 00000 n 
+0000001367 00000 n 
+0000001537 00000 n 
+0000001707 00000 n 
+0000001884 00000 n 
+0000002060 00000 n 
+0000002233 00000 n 
+0000002405 00000 n 
+0000002575 00000 n 
+0000002862 00000 n 
+0000003043 00000 n 
+0000003223 00000 n 
+0000003398 00000 n 
+0000003575 00000 n 
+0000003803 00000 n 
+0000004032 00000 n 
+0000004259 00000 n 
+0000004433 00000 n 
+0000004609 00000 n 
+0000004783 00000 n 
+0000004963 00000 n 
+0000005143 00000 n 
+0000005323 00000 n 
+0000005506 00000 n 
+0000005689 00000 n 
+0000005871 00000 n 
+0000006047 00000 n 
+0000006222 00000 n 
+0000006406 00000 n 
+0000006590 00000 n 
+0000006764 00000 n 
+0000006940 00000 n 
+0000007116 00000 n 
+0000007292 00000 n 
+0000007468 00000 n 
+0000007640 00000 n 
+0000007829 00000 n 
+0000008018 00000 n 
+0000008430 00000 n 
+0000008620 00000 n 
+0000008796 00000 n 
+0000008970 00000 n 
+0000009146 00000 n 
+0000009321 00000 n 
+0000009497 00000 n 
+0000009689 00000 n 
+0000009881 00000 n 
+0000010057 00000 n 
+0000010233 00000 n 
+0000010409 00000 n 
+0000010585 00000 n 
+0000010847 00000 n 
+0000011110 00000 n 
+0000011374 00000 n 
+0000011555 00000 n 
+0000011730 00000 n 
+0000011904 00000 n 
+0000012077 00000 n 
+0000012279 00000 n 
+0000012481 00000 n 
+0000012655 00000 n 
+0000013025 00000 n 
+0000013201 00000 n 
+0000013375 00000 n 
+0000013551 00000 n 
+0000013728 00000 n 
+0000013904 00000 n 
+0000014080 00000 n 
+0000014256 00000 n 
+0000014429 00000 n 
+0000014605 00000 n 
+0000014781 00000 n 
+0000014957 00000 n 
+0000015133 00000 n 
+0000015309 00000 n 
+0000015485 00000 n 
+0000015661 00000 n 
+0000015857 00000 n 
+0000016053 00000 n 
+0000016228 00000 n 
+0000016404 00000 n 
+0000016482 00000 n 
+0000016657 00000 n 
+0000016830 00000 n 
+0000017004 00000 n 
+0000017180 00000 n 
+0000017355 00000 n 
+0000017531 00000 n 
+0000017704 00000 n 
+0000017880 00000 n 
+0000018056 00000 n 
+0000018233 00000 n 
+0000018407 00000 n 
+0000018836 00000 n 
+0000019044 00000 n 
+0000019252 00000 n 
+0000019428 00000 n 
+0000019604 00000 n 
+0000019781 00000 n 
+0000019958 00000 n 
+0000020135 00000 n 
+0000020312 00000 n 
+0000020491 00000 n 
+0000020670 00000 n 
+0000020872 00000 n 
+0000021072 00000 n 
+0000021274 00000 n 
+0000021456 00000 n 
+0000021638 00000 n 
+0000021815 00000 n 
+0000021990 00000 n 
+0000022167 00000 n 
+0000022344 00000 n 
+0000022521 00000 n 
+0000022698 00000 n 
+0000022874 00000 n 
+0000023051 00000 n 
+0000023228 00000 n 
+0000023405 00000 n 
+0000023582 00000 n 
+0000024007 00000 n 
+0000024184 00000 n 
+0000024361 00000 n 
+0000024536 00000 n 
+0000024713 00000 n 
+0000024890 00000 n 
+0000025067 00000 n 
+0000025244 00000 n 
+0000025419 00000 n 
+0000025596 00000 n 
+0000025772 00000 n 
+0000026063 00000 n 
+0000026135 00000 n 
+0000026423 00000 n 
+0000026523 00000 n 
+0000029080 00000 n 
+0000031828 00000 n 
+0000034487 00000 n 
+0000037264 00000 n 
+0000039921 00000 n 
+trailer
+<<
+/ID 
+[<5c085f557b0598bf6369f670ea5138b3><5c085f557b0598bf6369f670ea5138b3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 142 0 R
+/Root 141 0 R
+/Size 150
+>>
+startxref
+41359
+%%EOF

@@ -1,0 +1,1074 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 367.86 198.0756 378.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 355.66 241.748 366.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.mit.edu/~sipser/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 218.518 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.mit.edu/~sipser/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 178.406 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 227.4512 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 263.15 170.724 275.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.26 208.5544 251.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 228.06 121.9272 239.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 194.35 229.2452 206.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 182.15 113.9968 194.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 159.95 204.2672 172.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 126 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 219.7508 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.mit.edu/~sipser/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 209.318 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/math/0212413)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.06 235.4 601.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/math/0212413)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 577.86 139.0392 588.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rjlipton.wordpress.com/2010/10/23/galactic-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 555.66 220.312 566.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rjlipton.wordpress.com/2010/10/23/galactic-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 543.46 136.73 554.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 208.7844 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 201.8936 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/paths-trees-and-flowers/08B492B72322C4130AE800C0610E0E21)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 217.7544 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/paths-trees-and-flowers/08B492B72322C4130AE800C0610E0E21)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 412.96 94.824 424 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1512.03547)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 390.76 192.9696 401.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1512.03547)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 378.56 182.224 389.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.36 235.8968 367.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 344.16 102.2392 355.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 260.26 219.7508 271.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/800157.805047)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 225.86 178.1576 236.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/800157.805047)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 213.66 205.7116 224.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 191.46 204.2672 202.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/321864.321877)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 144.86 229.7604 155.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/321864.321877)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 132.66 164.3392 143.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R ] /Contents 127 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 220.542 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 150.7692 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 208.5544 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 121.9272 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 237.4424 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 131.8816 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mathnet.ru/links/b7d0bfe5f12b7b0bc8d7c8c0eb73b9d3/ppi914.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 210.836 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mathnet.ru/links/b7d0bfe5f12b7b0bc8d7c8c0eb73b9d3/ppi914.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 174.8088 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 232.5296 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.mit.edu/~sipser/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 145.1756 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 231.7844 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 122.4516 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.toronto.edu/~toni/Papers/survey.ps)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 221.3516 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.toronto.edu/~toni/Papers/survey.ps)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 167.4028 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 219.7508 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.mit.edu/~sipser/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 145.1756 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1391289.1391291)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 211.96 222.106 223 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1391289.1391291)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 136.9784 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://homes.cs.washington.edu/~ruzzo/papers/limits.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 177.56 224.9028 188.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://homes.cs.washington.edu/~ruzzo/papers/limits.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 165.36 175.5816 176.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/Annots [ 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R ] /Contents 128 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 227.6812 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 94.8332 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/10.1137/0204037)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 236.1636 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/10.1137/0204037)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 176.934 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/alg.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 238.1876 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/alg.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 226.9268 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 229.3188 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 94.824 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 227.6812 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 94.8332 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/002200009490001X)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 206.5028 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/002200009490001X)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 144.1452 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s00037-004-0182-6)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.26 236.8996 422.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s00037-004-0182-6)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 227.7364 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s00037-004-0182-6)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 179.4088 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760413BEF7D0D01BFD5497ACB)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 216.4756 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760413BEF7D0D01BFD5497ACB)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 116.3152 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 224.1208 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 114.4936 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0022000097914947)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 216.218 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0022000097914947)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 94.824 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.kth.se/~johanh/thesis.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 223.1364 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.kth.se/~johanh/thesis.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 187.56 152.8576 198.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 165.36 228.3068 176.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.16 94.824 164.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/Annots [ 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 
+  71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 
+  81 0 R 82 0 R 83 0 R 84 0 R 85 0 R ] /Contents 129 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 227.6812 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 94.8332 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/146585.146609)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 189.216 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/278298.278306)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 622.76 228.224 633.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/278298.278306)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 228.7208 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/278298.278306)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 190.4028 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1137/0218012)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 215.9512 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1137/0218012)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 236.9088 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1137/0218012)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 127.7968 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.designofapproxalgs.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 225.1788 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.designofapproxalgs.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 216.7332 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 232.2812 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 94.8332 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.nyu.edu/~khot/papers/UGCSurvey.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 231.2876 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.nyu.edu/~khot/papers/UGCSurvey.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 121.6512 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1374376.1374414)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 226.6968 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1374376.1374414)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 230.2848 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1374376.1374414)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.26 94.824 351.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 229.2452 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 244.16 113.9968 255.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.csail.mit.edu/virgi/eccentri.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 207.7908 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.csail.mit.edu/virgi/eccentri.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.76 226.2092 220.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.csail.mit.edu/virgi/eccentri.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.56 121.6512 208.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.mpi-inf.mpg.de/~kbringma/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 175.36 224.406 186.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://people.mpi-inf.mpg.de/~kbringma/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 163.16 172.748 174.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/10.1007/978-1-4471-5559-1)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.96 221.8484 152 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/10.1007/978-1-4471-5559-1)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.76 172.7756 139.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/Annots [ 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 
+  97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 
+  107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R ] /Contents 130 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scottaaronson.com/papers/pnp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 204.2672 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 227.6904 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.cs.princeton.edu/complexity/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 114.4936 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 229.2452 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mimuw.edu.pl/~malcin/book/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 113.9968 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 208.8028 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.worldcat.org/title/1097888)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 143.6392 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/Annots [ 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R ] /Contents 131 0 R /MediaBox [ 0 0 612 792 ] /Parent 125 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+123 0 obj
+<<
+/PageMode /UseNone /Pages 125 0 R /Type /Catalog
+>>
+endobj
+124 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160757-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160757-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+125 0 obj
+<<
+/Count 6 /Kids [ 18 0 R 39 0 R 60 0 R 86 0 R 114 0 R 122 0 R ] /Type /Pages
+>>
+endobj
+126 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2505
+>>
+stream
+Gatm<=``=e&q8H9kbh]4,pO8^8Cc:WU/6\O<hr9.;Hr6!O;sF>!":Y>0[9Olm@F?5@!IL1aG5_bqX1Q!c+qBWbl"!^!'cG$]3>IjJFOU]j@(d%!2K)'T,4)kAl6XboCL0:F7<;M=IObF>Vu489pg^:"CHnt(ITB+beLj,4aI@)q'Q;-8c:WH=,']TR26fKpo*5,#HSRha\[RG%D4ZOE=J6VJ%>Gno^mMirZ=8X_Tdl%O$AZ=Jajg9rg$l:Z'EFh8Q=[fUU2&JSn8Z??Co.+ORCBbbm9IdKdX#k/#OBTMq*o.PX[Cm:?6eu)^hRRij<*TH5UFZHXX4`7HfM5(:"([e;GNgO:@!VAIEQ4:/UTLbm.B(b,2,1/i8n@IXDKc'\'E2$VSdGc%+BKkc(.U9(#&^HO79L4IG1nb7j%@O!RpAUjk1]%jCHhfAsq+`[qEID^DrB)NEZho_e4K$&s1ZrO=)tSj5j[3J!3Ge;cf!'e"_X+c5[l8T_mNLKFb3@sQ4Z>E8KO@i>@U]*QXi>8JbJU0^jt9;sj(??.2JBF_C]/S8k=hb?#tlkfM8[47XLLdhd40PHsH1RAGUp2XM8;&.(%kgNU4@8<'fep-ofW*>mC15Y6_%8daIG54tNoA>@m"N,GSFn-sT"7Yk8%5:)\gfg[ME>E*+4%a"Yp!,1+P5C!d2Aqms%31!@4ZD/*Icc#t&fV&#n<,sZ8Qm<T,N.a?hdQE_+.l%WrqZ!XW9'*m$6=7oK.mdUj;K/I/-@O^^\51CbY'PBR(t0=!7@V:j`joX^crc[)cV3b>I;>SW%&<qK`k^UQX(_]&*lRB$?mdLAtYJK,5;TA(JO%`bat/!kps?o^fneqqJmb-Kp/OZ)-9Wk1MDI(l3c+c&fD6#XC\@g^;W>fP\Ou/!hrqlnJTCG;L>=#KYSG;Toje2Eg3O'[GoYU?;@&bR^Sf,8bQ@r+uH*7TkR*<&Il58WLtNQD`k88HdItH#k7uFA[0[<NjDSQYHp%tZ$3@l<egNu.F<nCrhM"62mgI.p"5oUL]Ktme;%GIF2^VB^i`L4#RiN=#K85?Liif"3TU^@)e>qjk(R&ukOfS6K[EB^=fJbZ-`u6[$Jd\;hL#1ta3hOe^`_9644raq^5%\21l;nJ*;fU6q`9CkHA#o[R4b`>r@#k#5[<]Y1`(2j6OT<[iA*ahmR>6E]Z`F,bQ:uVdO[aEIg'/A<ROq`,[s'.)LOE(),PW^`+0QnmSZa!h5)N>Y^.4I"+Pj@K3(.1=lK^BA<1d;ZQO[eE5oV\Xs(2Kp?^e$@/9PDJ9&LHl!-@*^]q6HFM5Q]Pg9tY]`&KNMFl$#K3,7p-LqIPlkg2(>p(<^+GZO>!D:DS@f_K$%'^)=]oQ80g%:O;\@e+o(@X!PTod6O713j+>$^>i@#8mEY\dRXLMOC9Lc5cJY?"Otang*nqNI<uk5*OcY8[kU.lj7j5XE/[7-Kjp$E-p'3NRC%rlUHc9)3a:<E?7D54OE,burHZV3&h$hS<NcE+@:F>9=]N-Gf,$aKh$GJT!%$^h[/OP=!ET;rLboV%neH=UY\#!^AQOr7mDm<3Yk*XR$V'WA#3sa"l0&h9FZTGbt3*_NUWh\Z<P:rI$Y9#+E/sHnJJ-"Yg$tf4^#h:FRL!1=A+a@_NKu?.`ETePh#R(%Ydl#aV9))\3>5kR'1L'mb]L9@5AX>:183qWXU3[k:WKD6#fX6pRld;j:Hr@i&]NU"?"H!7_N["__`"qYmKI?F\^'aJRNfPHr&IqJNkb#:9K[3CPYUe:pX[(KDd4-iG*(8!Gt%qu,?<HBQ@1hHM9t_h!KnWm84mGNs;+R;FMf&1/-qZ#/"U$mZ[GrsG9ejnW-'n'BYL$?/n2G*%$K1V>s*J;nqu?AX6>ON!1)S>J[8N4)>X/Od<5je=m'1\310q^7?,%3kLmZ"t+$j8cM8iD;!O/gYBim/u`U?Y"'`ajWQmPutD`nF)^aG;bC:mpea+8O'%E`,#cCaleJ.fZ6qqkL?ed"@)`AotMM$.1bjf.6&G-ZgnL/%"7$<,4Jr<?Vba&H*iQ<;\-)4YK0hu3.(.gS4H8iWE="4GrB8QR<pl^"X6.^:uF0Dh"lh,\`Pa/rIr5L\loB0e!B[8/9Q+0n]0B?Ec!>o>GPHc"Vqq.FFLg,'c)d#Fa(U'3_66(d_3J:qV=E;3'M<qXjbWR7XVDV<euhol.*1Tn?jk[hG;@ofQ-%jN^(umiA!Q&(K,'Jmh,Qj?]=Ee"]DK#bW"^0j)'usM;p6m`3Q<)2cesl!#>FbiYa)bJV5PCC":K7*X@[_)A`%[cGf]K]nsUhVeY9Yr(M8G%8Q[k3K#>Arb]cjNn@N+]qbZEkNiiMY:8@h&"LZf/iR_&8ZD+^"M:DubDg%Ehr!,YGOG,_%b%XLQ9-lQG@j;nGNSWUDa-P\-hQg"c'79abc3nFiM\uVc[OKi4T2usfFsSH-B^pjrd-0m_7?&o.%)-H]X.*dan1P>qu4D2@\+XK;`E)$P=Z]GrXV<Z.JE~>endstream
+endobj
+127 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2369
+>>
+stream
+Gb"/(flGh*'Rf^Wgo&`jfIV5E&"Sa@3h<W\**[9X1O4OC87Fmu$:%cl^:jj1+t@1F=`VrGef.$Z"ReM:/r-Yu2SL4'2^sQS9^.>1%QQ.9BB8iR:XeKK0g0i4AGM?03+N3d,dr+@6U.kDP4PIBT#cf^9bY\XgRBnT[-NK%QAP`F03HTkmk:=3EH-."D#+s]H:mAHc[PoiK'8157RZFkk8+hY&RBB&C70$e_3X!+oIWePf;i(0*ZRkpMVZ:H.#qRdTW;F[XH6IQAc"/GZpLAl$@EB9gXD[q&+mfH4Y-5rOM&[*)fOM_Fb?*r2mItUnHUjWa_[Q6/>n)">\<b=Hr^V%3R&i4q0K9rCV\dY(25BFgU/$jK^49Rf]61d?JZ"\nMtu9>6_3K@QTd8/@WUB$00Bli%#h_&8@\VZ5qSJ9.r8'[EQcRSI8G7=Y[;$?lQm+YHc!NUY,<kV?YMu:[fAP12*!ML0t':r@"mT3d"a+eW,*>jn*aU$-S%Y,YpMU9X6#E`-07kG``pJ3&ZG4GC^$DjK>V]@;c#$Q-I7Z2q\Ce9pdoK8J8L.OWG`XNXLmV5eT24N+p!_:D9d#2%:#G3UVLu*slmq#EeHsn;':FXJ2ej7,2g^BI5!)MbHuV!ofi?`sO`?(^WD?I-pJh4:SkL>)qnO+_&;Y%,*Fr-<Nt6SOjtBI7$etAFGrm9GVH$XMC!;NccsN.bUnLoA/T'Y[]fbY$I'"E6C)A2[pM>SKR`6j@'L+4S*,XRk?\k1Ke67f9l(*"Scr!ihfaVad"%skB4VaMSoq#qiS/QfJt*UVIj_gB3CX&R4'edZi?Bnnm\$Y%p?<;,\K_PpRiO^Ns,,u[T%d"$fgH('Ml)e$K]RL=;Y3/B9A3Nq]6Pe`<s>YL4qmmc%0\8#6u:kT?o'g('\)O-6h!:9&j3E_Sls+R8PnD4lBQ:\>1T:-`$sbG#mf%qEFOK]>m8:Y,Am/Yfq>uYS$t$jfmKYEErhNDc/V`7p%9Pi#l(Go!skO[npp"m#VH6gUn1])s"YMQ*(ZR71QCgGj1r/U3>X@)ti?Nb"TIsZMsV2]uIS,BJ)\FqubDX6`tB`ON7i2l/\=4]kf*(8qp/:pjIMnO%7dmCfq'=eJ4^/11Tr0/2oHulZq_HDl_D_0'5\SR;oW-c&+t`Q?Nm;IS\H&igX"Z3OI^81!L/*Y0[?/UBO1c[-?,h10U)p`UDQ.oiGPn=4d/([YZnT>'cIRdI+TZFj8d3f?G.>UJVHuQoXKQN%X>7bZQl:j?PY7::_%dkIV=IdYp/qT_[$%FItM#]`*RiUXB4iC"1Pd&a6^/qK\0OF.3HKD">q0pSgn)G(WYj\l.?;jub<r?cr?1Utj7Yl!QC#pP6IjVO:%kV$;>L^UjG.<;5dW7s?GWQR;l&2D%YY]^97X[alBHXUgO13t&$Yi4hej;5U?F"KYeBK.2mu*I4*3'uK!pL:%-!O"9r/;@It'@<jKjl@cIK6+VJ%^&r2P)HoJ5ZB>K2_[5D\Yb*d-P\p?J17b<Yr@'!QS)he,`[4:P7`7q"`q;4?=OO\RYGVo'YT&n98jfoGJt=Cl/\FJ((N?qZk]P-L[M8PK'SY,]dgYO;?e:(%c5B6F#'iTZ2L]@NP?LS<\B0sfpM[RA:>_=G<RT(6;t(0#_UAoLHFFQlT;B'gPn`00>d>*^Hf&aX%@"W$C\E=GXNdrLB.km?FmKQn\_Na00;AA$"aH_.'t?c/j!BQ(GL-M/;@DQ=8VL1!656W'*80ntmb:h;H(I*tqXfg,=E#=WqRe-l?ad9/&%m,11;#W@/D`&S*&m5cq4-B$gs=,+J$OhXF5ZVV.be,fG.JQ;kOr\J]tj(thA6iPHTtthZ01fVnk8E*\W<TEp2!8q"<,X!kKPE`Q]8/k,k:VOG0=o4-@@',<$`\6C,t(3+)Je&hQ.g3;n$E*3>\ED<UYs=DtXPDAkhq^#qo%,V7>'5#02Cp[H%kN/"2F_s*_J?2Un-_%P?@sbL&J./6V1kflS5Drg%SO?UFm^[t.!N<o_pF*SfV`.buVDR7*^(G*D*PIf'KadtP',jXjj.YH-HWq/=laD:reH!NkVOJ.?L:)f3Y/;i9T_V1g;ui5h5K5^C1?A:T\he\(/9gFV/+K2DZ%G;NOYHJHcmF>;h_,l=$2>"r3J4LK:[2$bqHJmtlB-nMhVeQ%M"OZV_Pf?%(`A5T(,ji$F@duX9-H[@:q]=m]8NN(NH%5<D+ZIdZsCss="$Mfrt2d*:^n_]UXbpK'^!;GlCZQ/WH\YR?pll.UoaFOCG)G$sNh*p,lZgLAr_>T@TkXYP&d:_N,5A&3P0rTbC!$CqJFfcCRP"p5"?rYWM7Ys8rdJ9?-4)Lu]Z3fdo$!VND2eK[n-N~>endstream
+endobj
+128 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2415
+>>
+stream
+Gb!<P?!H&A'Z]\<'^'5+Hbf<dPKUh9AYUf1F>(tXNGt+MX"AU[9U:/(*D*Nr1^OVQZE65`CeL)>3WC=p+!L\,IffM8QN/C#G^UVu&AiAp60uQE]S*WM_-[FRSAe&"?K1^+IZ3/uSG=VTahcu-bj1[`qHfC=?G_G)0n.ioTs>q#".!p$n`o,cZg4*=i?.R43LjEiq=rtf^hoHN!2hcRB95S#>Z2q`R8\?+W`LnP'8A`=;8"#GSFjY`L!HEof*e>VY2::F.Ei:s@^7uddMPSIiWu/0D@<t"VC.KJH+bUs+j.IMGnY>%lh$.2^6`@rh!+WmA.usS!@?,m1;'hTX!s/F`febZhAPV]L4(@u8XuG(H"l@/ZX+WF(WM:;UCkF1OBF6HGp*P=c4Vd`j"SDI1].bCR/(I-`-q9!d4$hK]1uZsme\/Pr?r&;"M\60R^[kOHS4/11#4ZC)Z0;lD9)=9HlIU43.Z!H1Md`2N=Z4aN:Ycm[,uK&^aY3JYKoS#eg7g4%?>M^UtSH1]AX9H!TmVaN%'4F&e.N%0(,]<0GY;nPUS$"W%PMSN*_3%#/a3H1/hR)Kp+AM]KT,[8\H5TOqa*(%f30^_f)"rBIk.;O[9]U%Shg*T.p5\%.YjH0HD<!!l@HH_^\)dA'n`6R_eBb8Pp<r1=iq<^)j='CpJ1H6qaSUenSI/@36:rM!M[.<_)kU[JEjY:M=Ni8adOP):MNC*X,:+$;,%A.T]g)\RpFt]/mbfFC(C'9&gYK,>>5%l`@`(,2_-cr=d*J(0C8N_u>jeE[A4'r2D*F>+9V!]@qdBE%OYAY-ETCq,bJ(7867SfGS:=YC0rSDo4Q@;]^\N.k'&@,]\>:)"_fR'PjsrId!cQMeUF+(g*`45ZLG,b/C*4]WP887-j07Ag<O;F;3f"N]^q5-35>%/tG/X]:-@JP\*@h18L^U.Oi^.6djuF]Z2o&1Qdr\`3lk?3T]0n.F8qHq%!.H/^/\$=ug8Jj;-8Ub@tUQGLCbmb9?(ZQ)I5BbuTM0'+0NG;n#fI9I^Kt7_,*4$Vn/_X'0Ok_lV2Q<U62B'ancr&X&G.+t?9*86Urn;C1"g,]9B]RXF2?Cq3Ya(&b1&J!dnp17tuZ=%bPmnSqP?PC?$+UGf_%^9]MPO(^uPK52]0A?&($4.A.l0Uo@q$<Tsn9V@sjCA/CKSWnBP>oW"A15!AuNU84C`I*jl5N2W,+!du,P*Q30E`'9i[/hgrA'd@2=.]5Y?;:<opDog3/bZ>aZOG9jft4-+U.<[CDjhHb'MXM!E@h2T0H(ikRd7tV%q"OkRF`'VM7,1@[fh6uCoV^s/s?Tuq7a4\i!A(1q`a-p-GgtT6/"sdAPFA][pT2bij/?4c39)O2;#Wl$mJ0^AC5:NQur+A.jQ=NVN6L#AE7^I>Q5"#N*@e-ArufK.J=7.d9[,V6#7YpGr,j(4e-\6>@]@HY6IKN\/Dq>4^6??-&O]!V:j\&N(UFkcaNr`KpED+0Xof4$hpFDn0u1sYeA3<]r*XC'B@aKEqnVSHl:4dW?.P/9`s8dat_$B;cs&I<(nR:VXl+G[F(KNq$FYa&G"q]llDC:Nd:OI/ICIe`V?S*$?N-Er4/I186\G%Ng$X9019<Ne3.e0Wk$Pk\n3rOMJ\dJC4G@#!HX3=2)rn/Ob.=o[)>ZhnZi0Ljj/At$npI]*uaBVe+kJ+^C[W?;"P[V)DFmM@a7'2j@Uh4'Z!e/G@J4Z<^HaDTY9!<<%[S'r+0kbWEbD)3G9a[;O>I*>:#bkRL6%=(:;.A-QO!Akhd-"2'$hEY![.TQ1<H]9P6'aU,C%W!V5$r!)1A1("ge$R7rsKYZK7aY6VS?dr164<lT)TdC.`?[`tO6gLfpJb]^*?)sJu4I0WU7/P()TG26fY?0ZIiVBQP$KdAfjGISUF`>rXH8p4Y++Ks8YInY#_b<XsDm%->Ye&cJ847/C$+Pmp`4lpe3Aj>>[DZ$C$h2lu\o;Sc\(M-0L8[nfIS'SI7<N^57,iEaP%8Q<oIT31H4T9Tos2o<CfKbi3gAYZW'Y&`o+_D\G@7ba',Ougi;GhK<GAg5HYaf*<=VeH=/O!:+$A25$aGHm%`TGX%DhE,_PjsSY7a7XPLe1f!iDacV=7"e:!*aL,V3i77bkd[OfK(0D2@+`;fhk`clX8'gp;ComD$iD:B+BGkS``t_,Fob)LEQf5`Z2>'^&4u9_13@,W['C`D_NCh`GTTK]"B/l,BtT[re=Y$2%lm-;I-SkBquTNUf#osMLlVj+n"/TqI]Ac'28fgW@_=+.Cq[hG/o/@4U^`XC>!SfT2K4-4$#:cZ<BZ3.7O"OMZKG4'AML]XGXVlo`2FCqQ42\ar$-Ug:"54m.LM5f%RDAgO^\kj_2=RN4j&bfTnP&h_!+kf]'se$`h39l3eWki#`aKQZi~>endstream
+endobj
+129 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2229
+>>
+stream
+Gb"/(=]='G&:WeDoM\)bLn`;aXkMJ1!XZJ(#WS=-.UL-CfUbLZ32<`!oBWkuFBB$i1$7,TKRf3IlL(j:D]/[8IM)0-c2\@NnE-)<EM,N!i`R>p:Z87eo52P=6I.#eq0"Es4o>`$cji=$G,dEn($S.Mb71I?3'aMBK*\pnI7J4C_="5mPCJTFY>4ro_M;V\4Pg&0p'BU1#ss0[X2?.fg^l)@+f7#,E(24YT`52l^Zf%+#S6WU?q!g>;&D`^lbhhr*@l[9:0nt'"]jPI#/99[qs#niWs<D!g9)1$,QKd1]M]]P-!b;`kOpGk,[P9K#K]IuV^Z.U1!/r%UN8/eP/0sMQ7c?fI71EF(sr#bBQ9p.Yf"P';%'LZMq0!l+ed:-f*hKtcLaH\Eo=@ci(nd:Dn)A;W[FKJ5s<??@$d(YT%C:hY^13Npca.mL8n=K!M#0M.pJdYdCj`^'5oP0N<tp?&DK1Be$s"",P5(C2)5AN`+^BH7q`ar*'4FDl/LDR\Bf'[Cb+Xd"$e&^*p5]ELsKS2J1HGpN6)-U6@p-I!]#m3e%6,[Xm?>&0Lr:97'rf[Ykj#3a*rH873(:lkS>6("a5Qk`a;PEf\Ml\;Kr3I<77u6J5-C?Qqik]ap"4]i4*a>X51#rC,_8sW30M+gc?C4l8GAGn2`^k6O1Li6;_%[c\U9s1Dk0[WJnk*Zka=<AVH8/VCB5E).>e,`&WM`Y%<7A(#?5pBPcH+#-:X\AkFhY16sF%_fE-<%d8lBPR^T'Xhc?+l\KosBFa6--MQF=8*+'mPt8lQ/kRuR=\9F$nJhBTncGXnWdmuS^`S'Cq#u/9U2i5e!cS7_U7al&G71XX*A97Im5cm.N87s3W`tkW)=RhsN<-^H:)SdR?77gnNEYXANTnr>`$h8kcU1(5JBrV-+Q1seg=#l_L^dm+khfg`Z1BuFl_)Y^!Bc-)O\JaISZ;qd[:_*M\%,;9Vm/90'UdH'ggU+@8&J7B$%W[&a'r6Kr>_R?1Xhj0O>E3,A/u0Z'7aI!?hs3JC)@`1\42+f`^V:`B.DWTaSWH0%FChWpced*7LTH,A*k+=SgQ5PkWd)>=9gO@;;U^/J)U-g[5>o_1oIMI=]I9$-d?UNUMTnc??p1ebc>Aumnj^NB$<@p@tk1EA*0a31Y'5]1(X&6.I6Y_Gpl/g^<i6]8a>3"Z@)QNiQsAkLm4n5p5%a4DAVkW3/tVT5>P"5/r?_GoPAVEKYF`P$).D?;F>qGW\^=.Q>%2@'H,N<0B<*#@*u(#7I',T`nEcBVju#tD8E:ZlJ+h1<jn#Z4[X;Pk@/8A<u942@r,?kYruT<lpn0XCD^8X1,aJp`jW.N)`'C_N0-(WH*XOJ3iuncX[Z$1XnB2V]A\W:+j#I4Z5i=c)M_nW,A-E+Zb*A`Fcr:I;)q,e3p=J..[(iF"3cWlp+gEN[i:[;?8n's(e8P-,K*,r-!iad1,OuUiX.JK7@NCLJI`F1F0u0CF2IM1Inp`MA.q!r3PDs8B^!4qJEBN?V4HMpSohmA;.JhuOY1[%M>EbgW2O-;8;R^6@h`YKKbUler'N*s.>IVsQm8Xn5XL^j"/DNYrBC?Q,1e7Kj+YYls7q4PN-RNTPZWd(RLAmkdJor7--sNjc@hY8S0LXmF>V"<;nc-_DckGT*;R"(aGdFa3@UIn9XI"ZFi"JL_X)n$*2W)1Y)\+>(Ze/CLo+s\fQUoC.3IK-FFgJ?M['m)YXP6PB+sjebdp7!>3ehId#<3"Us<q1B$<Bf@n6Xc!W7'jdT/re8_I@p/t()R&OO&Rkol:n=1VcSicfa=@;3XfIs'=kFk3.CVZhFGi*Or?qr':<s&49HNf<PKrA>D_*)]]@#Gr%bWBa5/<-*eN'Ok2"fjHKp2p/NhD\Y%0,,_o=0U[)rd&6-2?.,3n_"t6me25R\dm/"]l#pKW]76G]@j/>>!L9AQFMCE-+K@XKgqf>D/:5HZ?8i3q/[cNQF&FJX94k=+pb3L^NA3$3"PFBkmke)2Tm>F2h"tm=o*\!N.V3*qSgneK5[[?4`msIbk>b"#o^uEH6,A&>j.F!U<m8+3a4bbeb;.d:0qhKdcrO7kE"/!6L/MPo$(\*$GV8!aV?Ic;gplXbD%R\Uagm,5A"%-FB!.5rf0A_8h4)kfr=3''4AMfobI*@Z%RWFKatbU3AKbb%c1IRc=-%7b*Z\.V::`q,r%?lO#i.l=@U/[Ra-oB=>dp0M/,Wf<5EK&]g&~>endstream
+endobj
+130 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2312
+>>
+stream
+Gb"/'>>lJ"'Ro4HS>XBoR#SLt5BJph0Vp(TK:QO.P8CKi]aDB7X5/Ih^V34$GJ+4@(dlbIV_DNIl?;fJkOM1IHMC.Ws!.ho227G"!lTf_'Su5Q0YW(dn\Lh&NZ\&t!@R+(j.;=(Tc`qo:pYf9R)k-WTYBH?b<acGQLfkd:)*r8ShPrF]0FTuT3dQ'`uj9b!0/^mhOU/<Hud+1i-9?k$DA9P,qEN&&dGQ(r'qTRL@J&c<[Yn@K0D9"CFtG'f_#<U4?ILK\31DH`Ve'hIE3T$4ab"lb[C(]STm<DM*2K'(HK4c:!g2Ke^O9h:(S#Peand[1G3>F3A$ZYpr2U18?$&P<K(LIem*,*p,)gP5JXBH\Yc,<`P.,>d$sM9%H8$6R9^(]+EG;Z!lp!^f>[c9qO_^^rEFL9qmas`-VmZX4#q`(hfHWuH]]6Mph=0:8!*duIUhZWk;:@tgio4?FM'i:B)l%r6[Ha0h8V/gKRa1hm`<2mR+(&i#G*:$jhO<"Xb1EdELoqmC2;b:i?p?GJ+K;:`.sSC^e75Z%9!F(V1LJa"ls]%AIgGQ]5i7S\63ih-)-O=`Te1E%YB"(LU\T8d4'Ik%sp$[)K.oOTl[$*U@88tU5E9Pqmd:a.@lgZW#2J#+N<iLUReYJW\[Lo>(6><gZ\!?Wn3VqU$MD,$=+)*(es\IO"p<4TN*ftq$hteP&a`JiHtnq_f.Fp3^2pLCWhsYn9ClrV..!?Ym!S:DGg.+Cs!G*/!`8@88u#Ad#W1\q`FEC?so5IS1AAVCHG29GCXrt>BYVnPNt_N]oMuaGS%bFh"!3X+B!pNE`Va_Q<Xd,Q0OfP(6kn4kr&YH;Wk2?X51kJKRMXc$Q#(qFQ'VYDlMZ#(f_5!d()YRfo/Xo>hUo7&%)e]Hd'*#Slk;o#Ps^cM-raQEnZI4R\S2WiOS?4K<I%r(V@!fD;+C+3:aLu<,ZADk=kb1k*nan/2['C]%l>>S0$+d]hLN1-<mHr52ORq2S#YQ_%b=P1h7Tj\tmHUS5*olN71dWr\!8K`[3JGa"j9"ljGH_a:Yd8K;#[j0j5:QUM(k!`aILVAZ`HdL6'lkO5*<2r_"kUQDH1d$<%S\bT'uXP&O\Od02-fMA8VPN$]KBf5LHYH)k0WN*NZ'+^`f,rEZHL@A'RVp=A*n>.s4p:#i@oBNiVYdq48$dq53:2PVAZ-M('C(h$7MQj;A4n:bIQgJNI(/U;\uq+,:l!6(?4d/,DJ3+PtO,$`hF!r[CQC:ohR:>#$/USC%)OX=KV,)b.s?CSf@8ua5HQ"OJV^H<K`>5*:jccEjlpU*Jm9c]EfchkKBq_"o;"4&_to0So2R-&Ed1t`X>=M\Y0iS&L?c(lfcF]sLXal*'>_,bI(Fc^&q`\Wh&XY-SiKS!"PL?`I=`md#NZ><Mk$^rl]P4BN)@8<C'"<esl7rN<MEJuj,q7f4c'3e==G@,LlN3X$!2c>`.;6W88/ZFX4d2AKBac]VBCsdO27GB_/WS""=[(@'"Lr_a<r]QOC7JVos7_H'.T:o>Z4%Sn0-"WoR:bUY>W728\li?k,juuhIGN!:F`?)UFQJngm8#3[H;!mfD!F<N1P#W0t5#<Q'-mFN]BTgG/Pa\SWV7bFiL(P%+F@Nehb3pSd0Bk$a2b]l?08Z*`R"hni%RNs,bWH]$PeH(E<em'lX/r\-p(W_Y!lK?Zb8ge2T[)qCb[""/A/1s#f:%=mph\?/1FDV0P/-9l#Zj]\P=nI9k^tqrh:_=J9DkK>W#P6lZO9"DNNJMXfAcN$)l*'t_U#V`%_,o%B*q!4j&;ku+_Gs]7O,;XZ.meN5pc8D](Kj\['cm\fZ2<S3o1tN^]&RdrHGoA@EN5MmPDn0jN7M<U._Z;lePb=O%?t#7^:NLi#*LV5&.]6O4@A(k2u(STingSWaN>/ZYQ<>\ZdVnAQ6Y"CVe)m*TK/[?`h`q9eqk[:YWFTZ1Dgd`ETAhD<uRgCu(BC/R3H5[<p\9V2MlP,)VXrjD%C\D@hZUCiiSi4fDPM>/f?&]i]RH<18u[<Btl"bPIf=oh&XYcD_?oZMXnB`qo+@;'2Mf.kX-/OqmkPaX:CDi^'T5V=t^79:E0n0+TGC.&i6?9\uN1\C+JDk4\QF5X1C?Jh?JV1gh1>Z](1Ng4K]+PVcUV`a-o3pITWImcTK.IE8R^o*(BT;H@#5!V;RCf>)kq9K?$N-)nHJS8Zga*A0sTc>*;nmX8:s"sssM%=QIO+9sOo'i)<Ta8+`0V&YHpWLM+!h-uU;h-qH!<0)]c%pU'nnakWVHIfK`LhL(EO4!D(paE1)m(pMF[Kj0C~>endstream
+endobj
+131 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1292
+>>
+stream
+Gatm:gN)%,&:N/3lr-Er3&CYf\*7uqNalXjai,'mS^.!6-6\4#0.KLq;89gMTL_YZ+tHBiYp]U1h1KclQXJn6_sDSF&A9.6l%fr31nG6lNhGoh\ektW*]P>X4sS*lj2_s["sS-kdaQ$Y:Zt2Y;s\bFH4q(Hg4'[M<TnMaYb9t<O-b?$gtZ4rs.W:63e)YQq99)j*=kK2o@rjE$G;I<<*_(tU?I6"^S(*5)S\+8SHsfFR%/uALr(S"Skh:`#>RP-6+IIP![eOYO=r`?YD5-oro?X5f5i-s"ltAtBMT:XU"cje?L7G1'3gcpF>hB9R8Y7JV)/%RB<GlF/"1.Jo$s&0CXBd_T^Nh58R^\!_ao#3KfOek2OIl'[&5=s#![j=#^qKW/'d[%!ka1JoBD26/Ei$T,Bdk``$0@b3O'B@hoE&LWnR[YpmtbQXoUKX@F*NokpG"[Y`X^O2E?&TRQX0^=H4%tJpKC\MBIS7iH3!]DO]X?)Yb1nagOS:[K%jfa>i]'+o\"RL9cPsl;?f7-C(H?QISr6kp$.V@%<+d+N&q])Q@e-3qBn=%cbbDO;!5bJK*Q^P6FKkGU@Q5el@RFiuq^UDnjcA/%Q[gjJ.$p+4]ZE`Ub@b&OJWL`/Jk$TY)<[C6Zae2id0_!6VWt(=X?@ToD'C,g2E1@t$aY<@XI'C9DZmUAG\U<M@WA<e<PH8>bt->&R7lCsQaa)4PtQ2cOGOFMm\]gm:rS.V+r@8PW*DXW@c]TiTG>5shb*_e2_oS0Y\oP('+V;Tjh2\&#_I<B6.Be\_\9)N[,S[9T[8l6Fe>)X^I3N=br^B=:i4KqAR@TbI'pfjk/oAV5_<'l/YJh0__e\^X?>/97^K]l0:^jLd39_EAhE"`Q^:o\"ZSnK6jP?VP*'WZdcllRIH>Kea,7+-k8W5-8qXb_l7$4g*Y#N_nbLZq%*83?_</-;?P8q\7%sV-;q/eW!hMMH6+@<7OMfZltf>>AW1M9n0ed[R$=A$hNHgi`]@F=sf=@0<n$802R`&+d)^&:SG7B>HUdVn#DdiAOsi:>a9$sp"(fJHg'[q8sa4-8YYL]de0s;*5_NoF^-k],$YMA5:Y/"N+nP05T-B=Z[4:sl3Zu.i&=;@/^\fK5VcMTGtt#Y+`fKU"a%.Tq4Q6-,c%#!>htso2:.*+-:B$M_`gZKiW%*;H^&I;;;F+(=ML*TOh!fDQC;^Jh3i>.loL('52$rH^Lg"7R_<A+CNe40g$;)9A-^qJ]f1$`G0mBG9Gi$aP4&&KbOmg9&.3d=@Vt#8*mihP0]9#m~>endstream
+endobj
+xref
+0 132
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000864 00000 n 
+0000001049 00000 n 
+0000001230 00000 n 
+0000001412 00000 n 
+0000001625 00000 n 
+0000001837 00000 n 
+0000002019 00000 n 
+0000002201 00000 n 
+0000002384 00000 n 
+0000002567 00000 n 
+0000002756 00000 n 
+0000003043 00000 n 
+0000003230 00000 n 
+0000003411 00000 n 
+0000003586 00000 n 
+0000003764 00000 n 
+0000003969 00000 n 
+0000004173 00000 n 
+0000004360 00000 n 
+0000004547 00000 n 
+0000004827 00000 n 
+0000005103 00000 n 
+0000005279 00000 n 
+0000005454 00000 n 
+0000005664 00000 n 
+0000005874 00000 n 
+0000006061 00000 n 
+0000006249 00000 n 
+0000006437 00000 n 
+0000006625 00000 n 
+0000006813 00000 n 
+0000007001 00000 n 
+0000007354 00000 n 
+0000007540 00000 n 
+0000007727 00000 n 
+0000007907 00000 n 
+0000008089 00000 n 
+0000008291 00000 n 
+0000008493 00000 n 
+0000008706 00000 n 
+0000008922 00000 n 
+0000009109 00000 n 
+0000009291 00000 n 
+0000009525 00000 n 
+0000009759 00000 n 
+0000009952 00000 n 
+0000010145 00000 n 
+0000010332 00000 n 
+0000010514 00000 n 
+0000010701 00000 n 
+0000010891 00000 n 
+0000011091 00000 n 
+0000011291 00000 n 
+0000011644 00000 n 
+0000011831 00000 n 
+0000012017 00000 n 
+0000012201 00000 n 
+0000012386 00000 n 
+0000012574 00000 n 
+0000012762 00000 n 
+0000012950 00000 n 
+0000013134 00000 n 
+0000013321 00000 n 
+0000013507 00000 n 
+0000013717 00000 n 
+0000013927 00000 n 
+0000014130 00000 n 
+0000014333 00000 n 
+0000014536 00000 n 
+0000014771 00000 n 
+0000015006 00000 n 
+0000015193 00000 n 
+0000015380 00000 n 
+0000015590 00000 n 
+0000015797 00000 n 
+0000015981 00000 n 
+0000016165 00000 n 
+0000016353 00000 n 
+0000016539 00000 n 
+0000016930 00000 n 
+0000017117 00000 n 
+0000017303 00000 n 
+0000017488 00000 n 
+0000017675 00000 n 
+0000017863 00000 n 
+0000018051 00000 n 
+0000018233 00000 n 
+0000018413 00000 n 
+0000018595 00000 n 
+0000018774 00000 n 
+0000018953 00000 n 
+0000019140 00000 n 
+0000019326 00000 n 
+0000019520 00000 n 
+0000019714 00000 n 
+0000019905 00000 n 
+0000020096 00000 n 
+0000020285 00000 n 
+0000020468 00000 n 
+0000020651 00000 n 
+0000020841 00000 n 
+0000021033 00000 n 
+0000021225 00000 n 
+0000021409 00000 n 
+0000021593 00000 n 
+0000021792 00000 n 
+0000021993 00000 n 
+0000022413 00000 n 
+0000022602 00000 n 
+0000022788 00000 n 
+0000022976 00000 n 
+0000023159 00000 n 
+0000023342 00000 n 
+0000023525 00000 n 
+0000023706 00000 n 
+0000023973 00000 n 
+0000024045 00000 n 
+0000024333 00000 n 
+0000024432 00000 n 
+0000027030 00000 n 
+0000029492 00000 n 
+0000032000 00000 n 
+0000034322 00000 n 
+0000036727 00000 n 
+trailer
+<<
+/ID 
+[<9ea75d02f5f7ee9c10becb9cca4a84fc><9ea75d02f5f7ee9c10becb9cca4a84fc>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 124 0 R
+/Root 123 0 R
+/Size 132
+>>
+startxref
+38112
+%%EOF

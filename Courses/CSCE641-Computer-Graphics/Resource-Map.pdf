@@ -1,0 +1,1116 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 235.906 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 230.5148 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 344.15 98.4212 356.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 226.1908 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 172.2328 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 287.55 212.3816 299.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 175.5632 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 253.15 240.2484 265.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.95 135.4512 253.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 218.75 240.7084 230.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 184.35 150.7692 196.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 131 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 222.336 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 146.712 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 205.4816 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 119.8848 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 227.9848 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 147.2088 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 213.2556 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 165.2408 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Getting-started/Hello-Triangle)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 542.45 195.7572 554.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 237.6632 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 214.1664 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 387.55 130.3452 399.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 365.35 175.0664 377.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 343.15 211.3512 355.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 330.95 101.4756 343.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 247.05 191.1756 259.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.85 167.918 247.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 212.65 212.8784 224.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 200.45 190.918 212.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Getting-started/Coordinate-Systems)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 178.25 215.7028 190.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/content/depth-precision-visualized)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 156.05 221.5724 168.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 
+  39 0 R ] /Contents 132 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 191.1756 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 122.9484 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 208.9316 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 218.6284 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 621.25 95.3484 633.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 230.2572 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.85 132.6636 599.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 214.424 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 552.45 109.6728 564.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 213.1544 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 456.35 151.8088 468.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/content/depth-precision-visualized)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 434.15 221.5724 446.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 208.9316 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 387.55 234.71 399.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 375.35 100.206 387.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jcgt.org/published/0002/02/09/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 226.4392 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jcgt.org/published/0002/02/09/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.26 196.76 351.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 257.05 223.6332 269.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://filmicworlds.com/blog/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 222.65 237.6724 234.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://filmicworlds.com/blog/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 210.45 130.3544 222.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Gamma-Correction)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 188.25 211.8664 200.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Gamma-Correction)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 176.05 145.1756 188.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.85 218.6376 166.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 141.65 205.8496 153.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/Annots [ 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 
+  51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 
+  61 0 R 62 0 R 63 0 R 64 0 R ] /Contents 133 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 212.3816 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://graphics.cs.utah.edu/courses/cs6610/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 219.7784 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 213.3936 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 138.0364 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 208.9316 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 141.7256 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://renderdoc.org/docs/getting_started/quick_start.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 230.5148 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thebookofshaders.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 554.65 152.3332 566.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 222.0876 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 188.1028 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 206.742 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 177.8908 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.75 202.4088 401.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 367.55 210.974 379.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 355.35 187.9832 367.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 271.45 204.4604 283.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 183.512 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://15462.courses.cs.cmu.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 237.05 221.8576 249.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.iryoku.com/smaa/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 202.65 230.9104 214.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.iryoku.com/smaa/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 190.45 202.2708 202.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://advances.realtimerendering.com/s2014/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 168.25 218.8952 180.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://advances.realtimerendering.com/s2014/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 156.05 230.892 168.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/Annots [ 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 
+  76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
+  86 0 R 87 0 R ] /Contents 134 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 205.7392 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 107.6212 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 222.5936 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 129.3516 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 214.562 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 186.6952 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/gpugems/gpugems/part-ii-lighting-and-shadows)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 208.03 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/gpugems/gpugems/part-ii-lighting-and-shadows)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 167.642 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 218.6376 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 208.6556 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://seblagarde.wordpress.com/2015/07/14/siggraph-2014-moving-frostbite-to-physically-based-rendering-3-0/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 227.4512 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://seblagarde.wordpress.com/2015/07/14/siggraph-2014-moving-frostbite-to-physically-based-rendering-3-0/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 205.2332 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/PBR/Theory)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 226.6968 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnopengl.com/PBR/Theory)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 104.806 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 377.55 218.6376 389.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.selfshadow.com/publications/s2013-shading-course/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 365.35 128.9376 377.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pbr-book.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 343.15 235.8876 355.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pbr-book.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 330.95 97.4 343.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://brickisland.net/ddg-web/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 247.05 216.4388 259.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://brickisland.net/ddg-web/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.85 202.648 247.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 212.65 230.2664 224.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://libigl.github.io/tutorial/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 178.25 145.4332 190.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cmu.edu/~garland/Papers/quadrics.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 143.16 193.0616 154.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cmu.edu/~garland/Papers/quadrics.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 130.96 237.0376 142 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cmu.edu/~garland/Papers/quadrics.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 118.76 94.824 129.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://advances.realtimerendering.com/s2021/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 97.25 212.1056 109.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://advances.realtimerendering.com/s2021/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 85.05 145.424 97.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/Annots [ 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 
+  99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 
+  109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R ] /Contents 135 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 659.55 232.8332 671.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eater.net/quaternions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 232.1892 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eater.net/quaternions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 166.2436 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.utah.edu/~ladislav/kavan08geometric/kavan08geometric.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.75 206.1256 602.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.utah.edu/~ladislav/kavan08geometric/kavan08geometric.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 578.55 143.7496 590.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 556.35 203.706 568.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 544.15 114.7788 556.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameenginebook.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 521.95 191.93 534.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameenginebook.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 509.75 222.5844 521.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameenginebook.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 497.55 124.7148 509.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/Annots [ 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R ] /Contents 136 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+128 0 obj
+<<
+/PageMode /UseNone /Pages 130 0 R /Type /Catalog
+>>
+endobj
+129 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160540-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160540-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+130 0 obj
+<<
+/Count 6 /Kids [ 18 0 R 40 0 R 65 0 R 88 0 R 116 0 R 127 0 R ] /Type /Pages
+>>
+endobj
+131 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2331
+>>
+stream
+Gatm<>Begk%Y"/U^tZF`$HqD!qj+gNldfBh/SVOO-SJtE,dHK#,q1ADp\SBRUh&e#qlGr?-93%SJ.MDT:lp[O6N<\=7)+cHQS3rD6fT$jcgkas9uHMShe/5q7\2-OZK'#LA$Ub86l8`X5:`ru%"s>H!'=K@E]g?9c$hjo1YtWfroFbn6JIQHQTiQcaR]",f[QLH"js=b7*m%b*Qnt,SC@;p?W[7FhN+hZhrsbA?!MlNr&4J0`dcD2BAR@u7OQAl<V]T9g9ucZ1-NsgilLl'j^*luL(nlamT!PqW^P6o>]'rC6I1GS/C&uT5CaV;DhXk2MV*g=Ee@XJ>hcY1<s7T=QKRK7`Kp"1h;$ZR6YO2Zo<q9SBd#:TAYZ7>(Z1c+Uj=3;_j+-Qo9QJ-"0#$taRI%#<WHeN_'$0T*:t(M,)?:JI,uE=>X"LJM)?t*QG&kKRXDXf%dAF%\t.WoM)V'q?Dt3*:_7lb6AIqnKgNLNa<`3ANNe$m3WR^E,9<[HnedIX'="5oe0Eq\&K9nDqbXgOoAp=@ct+MiM_qEl%X9c_VlNL>H?fF"Y(58IR20inMl,!SdAfa0<)ohjO5,!^;ei]EVJhhGH;beeA*o>0YhiaP`3^s@06!%Z2J"^k,uc6/p9ib6^"@MLMVZWFJlo;J;Oc[_M/]m>qN1BlgmB@r[BN@\#^[4ERQJ+0n4;2/O2Xt6fE/qt\qjm6=gX$9hf$9Xpm*8%+cUud)BJGiNePnfH`H-&:5i*l*#:tR\baXtW?SW7F0*^KjL9f@e,+O*88H)WB>@!)8t$JWZ&i+#d?h-_-'Lb:#lg^.CiG0-Q','\(+(6TPgg43c\p#=V,c=[pmm#fAbF,GI>G8h<+kGpeKg&%'kO0*!Ncr]$Xu/!=)$,k0*4l!odX%E+S9us2ML=.@i]V'Ls\5VPJ/X`FHTTV<KbYUUj#eCarc^(nD>4B:p@dAiELJ#=X\?`Paj#/`e(JOU/'c:=[#`hONU,:l$_((CH]p/bW>q#Pnq,@P].i85O+.$KROcTNb=^[%aaLY*i8t=0/b[%c=L10(oFMBC8M`2l[lE!;$F.=B$&K\OeKa?5+lVhD5u)BXd^eg!#>0Ei&C@tpBQ0H3gb+6%&U^\:E*T^GI4Wm7UDaEA,!MY50!(ua7(9`f/Y1mn#A42eMD>SR[)D=L5%IEe"m<?mSo$)^5Q6eN#Yb(_C,K0+5fd(pm1fSJLo%8Cbu>JANH>fL+rj%=oXZ;i`.YqC%Von%\7KubGO\>/C6fgHX;"cYg(2&+W>fc4tKjO\@_"]jWd#rG.[%eX)jqXYtPPkR's<h((M^?'VP-q^Q.6N6l'RXH6YHQi"rgF,TPbJ#TXFUg]kfD-7sGa?tag+a1OV4o(1+F,]$nFiYkefG=pa<W:6g#.Ze;kUa=WHSg&&E:ee3uM)f3h)UP^UB5,'C2jh2JrMMRp.&-LSAV<G1J8$#1FN("EWDp8o(R^HEoj$6+d.K*7ar9Y$aXiu!.'T-jHS#0$.2-9H9rKDM12g1RmYhASW_qM^r,Aok_;;'&Hmb6#%)06>?l_Ynr"9.XJMshnj\OBK#okIP\nSCD-QlF'#H9;o:Opqc,pcB4.T*SjR#:jbV+<LY,1.>-Wp3';pfs)pC9$FteM:L+Y0@E+g[39a<_X%'kDIAebZYdZK&`as4>c;MJR1i@O$\J:dlAR..]73c7g,5O1aJEf,]X8%<ejUl5_msA-B28X(n3,%:OnFJrDMqg.&]FeeDprX/SEe:QZj*HVFq(D<!NST^:U+55'*_tC*#:VI%*@1)mr$iC`$B:U(Cf34WOfl$Q:2JInS>)Ul3Vs"Q>Et/EmoJI]fRJ*LOZ9Y,5q)%d.aZI#>RMWg2_3.<jmH-?_L<4)N?PYF:X/s!c3WRQegRdA"giS5ME&7/ac];`3CTM@5\30$=qqNd9Fs+(ZbmTERp+<%40uO"U(f*?/ut:i0NPKDZ`2G2j+Z@n/ZZ[@MXo2$7-W@lDW'Xg3o$o]_S#nqWqo7T;#sM&/u-&3am$Zt.5S>GKc5/g$J4AUS*$i[Xq)IQ?WQCXf]MG,^ABlhC;(5FiJ.D8nL?8Y/E+U^(2g$J6.'G$1KNCAbQ.3!#GVEPU]0eMdpnHKeGlnfqYdiP)ss8k_I?[nW[/j!MHXh">ac`A@D1HefY<AXHN2?PD8fdl#q:$=EPRFdLpfkdu:<pX9#/^?a?l$f*E!Rr1[h`ncNd0e4HR2<_,iGJ2CRmt<%cfSh;l.usRg+m'eDg<H3"?H8s!JXH%(3L+<XO__@'qoa@C?h+d(5-)kd]D9$dpiGYr]!Vu)VafQmh6ggW>@cQ"in#]-l0Nm@YeFQ~>endstream
+endobj
+132 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2559
+>>
+stream
+Gb!<P>uTM!&r,lN'n)F=/Ze15,Bne@b:0a$i/lYkHQua)>D]0'N[29_YMXP9/6S!m%BMqI$"-CEC"2`t:\QXYMbO%Nl>rI/I2LDEF,MT=L(gjt_kl<,SILYZ3\oL+odhj\1C?hmhnC%s5)JOOnsR9!j[50hpreH>?nM9M6Za&f[d5]G\"A/^]Ka$A],^f9fB77%Fn5@g):>(b*tY""SXtu4>'.q;hM<n]:N?1P)LeOA0="Y(`/D<bN6p,k"^u(+*o1-B)*Z<+MWN#dhsapoa`AJ-?_1kOpFf%rR#Vb>Q;:7`\9]uTcaqu(XqM[Z@(Es4Y=1KHM`@IoY*hh#TZ16]@_l_%(s<].^4(k(CBAgjK?nNih-gM]lX1EI&.[3o>g!K(-joc8j;KqeJVVR&D<"R/i"pJ_J(gBDmM8=(>2NdWDIhI36r%-:*ko$Um5#T<^ZDHfNhOkl]>bE"I6FXsS+i:BV3M9;;oPrr7;jOu"s%@\]7,)Z_[E94hOWEj^7GF)47r*PNQ*jUoK?`=(.-GtnI*(TigS;a`r(CEMC)S)4\I<JH.$5a^D8&7D7Du(Kk4J[O(`L7a>ZJ6X"`3\_NFsM41l"a/l"U$h-$UD=);,#ckhIeg3,a5Yj3HDF5iD7R^]1W0,oR"?&6"\V;l=*4Iup>CMPYAm0GMp`e4h1XeYkY-J>8q_\o4!cK3Q4o<an%17CiRVb:e2qSbmTM[P0O`:\@E,6h^^?Wps+[Ut>>*DG5::S6#uE.*(#h,?^Ce[bMCAPih;2m-(cm+8UWjV'N-Br-Unp87,Ug'J\X=))&RBGj(iJRG<^'eAQOg.J4"UQ";2^)K^D1fY3%fn.3]MhU`C(kI=on6"68"XU-u0\Kp%;Z`kTTL8JW`r=A5X&u5>d8uoS:2Pf2_eDL:\FZE%f0c6]^lZlf<>.to1.U"79Ef?lKI+Q<o+R;0&4]#@k^rDZ.Q6Ec]o9",Qa3PlmbsDD)[e[fi\LJE(&,sEdEa&cc;*!G\<9;N]8iYMCs#1Mcgj#A`UteB;"B(O.r/0*di>P\O='<r-Y,4JPc/Yh4g4s]T2D#B9HBo4-*3-UChG4(Ssr:m[IO[2W44H_EH.gdrKUq3V]gkjR-pmfSR@5r'qZ<_>fb.)MeqpTApgb'Wp4iOO=SIOc?KU/ito$*aE)BCC!]@F"g=nc^Tk0h^bHW5U`Q,VN/=[Yq7l_%\s!4Z`ITTFj\'(0B+b4Q27E4i\TZ5&]<AnXHQSED\sB"5>u=MOU<^>."\2jf3c!Ia!jtbfUhru5e$c1gh.#>pFK)XO4^Qh:q[W]=a9OjrU710_/T)CDOcGFo5_Pg"5N9JB:7(UI<sXO&R>>9>d*`_r+8Ud`0h#X:KFZj;+aT2SaT[ji3N<G(\#]YGnsiKY_0Am%cZ5-JNbe>J6mrCcCtGn_7_rE<6HVeI\50JPQ1-&$NN@Q,lM7JuHgfhIm/d!*7>!gaE*rO#QSYd]5.<:1RQ[2P=i7<OK$OfFRV*B)"m\k3UFW-]j=:od2A5Od-),&'*BVUUi2muN6<Qr]//[J=#0Bb-@OUp>"%l2pWhLs&3NGS07RjML<#&"Si[CtjPX5sk!lu.0WfF]UWc/>;HE'Gj>LVkW(oDCAR2-ss,1$J9dL$f*Xg3&Va@A?3PYF#&@GFlUI-]su9pXJoQMn<KH);tfB/@IY41g2<\'C&`*/IX\Cn+8KZ%Crk3oq4X*+r!o;F]j4DE'XDQ.7ELi]r]*1[9O*ma4&$"m%ADNJkKup<5K-SfoUZ^]ni).Sc1j'jTg>2Ls^0r>ROYU^n@h_&edegPKP!i?InLcS:4(#J"URbEPnlX%WMBjAe@P<cdkhiH[t'6QhYRc6nftMHPUSn@<!>8`u6`bu>gg;G9449s'_69Wb3So+?[`R9D%V%E)n0R]=jX'WJDdJ6MEU%8^9p@i(6#Pd_)]Cp0l0h-O/101)qhMQJ;h=J83PN>=U7g4XQ-'Q\@Y%^EaO-??gKcb1^5Zg=(IO[>,nVXs%i%"j@3K.o7:$:=%iAp[aukPl:6S.8VL)MGg!'eb<GkU0F%$IL<5#@<KHg1?ZE=Of-`jE,>rgK2YMcBX'f?=d:-Z]n:kA3.CWbKl'ujJMneeU9k`Bo]gDTO+eUO^#f3OaCPPEMSoJIl1pt)rRq;E)Fq@8^;TEi7_*'V&D;++nt<=[5;k028)C%CE[56AI(@feYi5+(j^'uaM8Aa$\Hn'r7Y+-W/N$k\Q<`IF.C2,A-?:!`]8DipHWLp9"'gfl?/\;\5D[1AC0G'i+umbBXO)%]*/VfpM\4s&CRA/-T@BV[p)5gBeHl884g@^+]GO@6>m]\C<DLU$.@6PD5$oOJ,/X*7*G7cQ&(58!B.-W&+<H-?(HFWaX_Db^bdSuU>]>bR'9.cUhYM3Lr!8+"XKU+fiiR-8dU1[k)(I;s"3ssP;L9)biR,r>dn2s<T!Um_i:aAhf3!,B8db"bsi3mDuM?/\SI_sp,Qmna7\lTi4-0Y1adB^lKhM1Y-VRfa'$]2MR-"2n.&04mW-G(h_'CSkAnUbfMrPXWH/YIeUOh$i))Q3#N;f9o`~>endstream
+endobj
+133 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2486
+>>
+stream
+Gb"/'=]=A#(4PFJS>SGD$4F6W9:e(MfMXC7nB=i[?J9GS;PG`p)92:6o6"iRb[NrZR@Cd1Ttlt?46J][f8#KF?`*i.$.6SFp5U"FMagWSNoA@KS;p'#J*n/6kI?HZf,XXaK?o,/R0/VYSU-9.phJ4'YQshF%'Y'XJWHoqf2<P7eGJn.m.8Wtc.V;>\ick-oDMH,Nem,)JOag,F*L(TLXELXZFLAH?1@b>)Z<F+T@L*!O+Z73)89*BjS?N$]6&J,@gqR0-`mo##0+HPKNuR;qt`%ES+"kF2Jp@@fmmnbE%5_kNc^h[N]f4(O#`c!QSP!u.?>q:V2u;'BUt'C90lK*7(haModaEW!RPsoW"LAu*2_m\2RH:QfKb'LN-STb<%[SjE]hsXW,Gi6YI=HKS#P:WMDKpWod!b0\sd.<SY9b[0sj*eFn&VNe?!+3B%F!sVU')g@Gef*T(mDiW<$*>LRHjRXk#42KS[/KcIMEkicOO<,Erf6N\-X,Ec;0kp?=H;[K:moIc`H]S+@XjHjP'i;+X&s04[At9Mu`t"XVi4*l!(V['EAU;&Pp-bT4LO%N>mO+.q6pSd<.HLft;_M&[o?(IpF.A99GUE\9dHVL)rY"%3,Q]LJ">2(t2PIcG"(V42Jh#`2rrL57>f@Hp3N>Q;?-a?p+DT8?i],Uc9CBHjAh7Cc&RS^];c$0VF:*gITX4NZV3SRE'p(SWHohPQ:hKgqKSTs4f9cYdRr>+dIN8ncQ8E6Q?7:[',;Kh+)0oPU9n)<DE,B(K0(oOoO5OZX/LTV/>6(JmN4CK6YGRA*d@PpeOo`ZK$C/0bEVL)"g1U'DR$$?4oFAe,/KUba:%ab*2tNQe,A:X^_P8HSp$(Z2ub$0<&K\(dnq7^0<0TK]e4-!(\q@tTdK5ZasBM9RF5X@H^*cC2hg>7@!j5k6Z9Gn0Z1b*jgmnt%gH8Ifrt%]s2Qn4Aa-LY"tWbD\A`bC7k9k.pm<PCG"1Jo%._-A^iK.RF:"J2g%'M!d\raJ9MM+AJNU]bYc3[-mX,4hUQCEE!RO!qh3,%n];d,LjbUL7m@<iOl."Ho$l=oD)n<'-t\mc:Gk]aOV]->\7JJGaBK0]HP*G't@2D;58!ZBf-aRUNf\`oC2a2^YdZ6)cuX#Wk9^%YuKTqX\#o]c!,8NS_9F]N'FeciWSY)IVQoFj_r33;_t9YIP[cARLriIRh>TqNA/"AQ;V`[h]#.9I:Q>R/TVNM3]N^k0P7Q3i2a*`\6r8Al7,H,U0R4l@k]auZ#GU>Bf>Gcn3&d9((.Nka3RTpNMAH_([pU@aNJOh%M;htm]mJ]p(-<7WK8b<N8e_5P\:"?mabOKZF/#M@<_`aDZ<&c7]'6IktP7p8(OQ*]A@CSXIW8&0<4)^pX>2#EJcDsWs-o0P&o-$+l=Gu`j6*O+\VlOP&hKU=h=L/7Kn\mNWN+_a3,u@0Ash'_E[[4r0pN4Z&4#.I.lN8^TL6[r))KCJ=M-fM:=6B0c83sLN>.5011F7=61BS8aoW?%*GGtHQ(-qc-$gZ;CJ.PPQ!.+']@QP:*MkhKke/.:K-D/ruq"gg\Z^S"dnS"Y":o;^5oRFZ!F[.O&G.H&mWG7riHBu9/#$g[r=f>DW]8`k@En[G7('l)C]IO!`ilCU4#['!\S$;]>,]N?1C7&35e8/XS%0G$h4rFeLY8t,_]22O9D./I0G1K<pW<,Nqb9^'Ep9PR7Be;s.KODT1(UrrZ[RCK'=Aq,+U8PUj"7R1&GU.Q`C-Hm7?fTJ1X/-/2ek(YDqr<A]U2LT[/5jJAW,;LCI.dPrBt[0$d"O#XmCBNZCQ`s0m4lML@:2Y?U1+[cLS\kK/N;*&_654jI)N0^)cP*dCj(K,IYYFe1%7eoc!r:LeRk'/oA;[mS#=A88OX7Gl>=9\Zd00t%$^Qd)cRe,<c]m;F*:,IuNdRH9hPS#9J,_\Kno)$\Q>CURGKHd6ml((uaLJ/Xh*JZckkH]^U2'gadQX&b,mJ'O1@,Ls5:\AOJ_AH`EX5NWKIScMQk<7"<L8=NN=d!2hOIbQpVI`]Hk:-#K;2.QCo/oXfTNoC0eno-5MQS#UGN>YM):*9U8&AOs-erb2M<"?sCoG(r8mWA;?MTg%=3P[HUFjT+Mj+QU+^4T0lQ7P+L^g.i9+j=?5.*kb?U[lIuaNbrEWljVKH"DR0?3'in%O#+u2@]RmgNhKYI7Md=6,.nlLADsE4B:/KgpspY3M98tX^Y=>XVs3o]"^'f0G[2/@ZO=.jc."k-%%&j''(XQbWbT<6)S+8$#doT<OaHA&k_9o%OnaKZ>!@Yo/jPLh41%+>jl$j,!F4k/(iC#gfI_g\(FG[D';,]i_,*-PK-"fmTE9N%D!<[q/VIDh,nGmAF)BlRCbeXgb+"Y6d7[`Srg:D4Xq)kNp3Hb9UGU!9L!C)Xk(Yc/4j?;?R<+X,Go2-gEpWWcU.HDQ-@`@1sn=q\\#Q,j\Zb2>^G[qqW#Fe4+@:79RT\~>endstream
+endobj
+134 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2626
+>>
+stream
+Gau`UgK*(M&q/pnl7HP4;0991Dh\9')+Y#kP;R.Gd`?:;K5PBpJBui>h5q'*$oS;#P6>^$>HOpZ];g$u/2HbId_CEjk\s4f:+W\e)GeIq%@>(IF?JFW\S&EXf<`Qfb^Rl[n`dYkdjI01X.JPo4nVY/E;\uE$s;'VILf(o4^0KTdJh[_e%^qs8#PBskj&NqSIMb$3$u5Fr@ZLFkieC]f:kp0-%uaeS[7r5NIT=M2mo[5_i)2l)*PU=W8$XkN^oGR4i=2p]srBVlPmQ2&UCO3qpf7KUGmMYR#]R8/>&H8iKi?1/aHRr?)MUc?-@*0r$oZZ`%7^?j]i.?d6;2a-94dHkM`/Cei/81.=e#M_3H-@E1#IQlbEniKS*r?Y%;a`(U8:ZB9V*C%%@`C)o'qo^L8ki\";UPiFb$i;,EUCN5"%*D)1r_fCh=SQ=6ecZ9?E:I;3K\^:!XF*oP^^Z!M6h@8hsF&O+CfjL#rl2DHK#GN#k<@'ak]0t]iho]a9upgjd\;m=Pr9u\K(g&P8=$]K2bn;?[UQBTB=8FF"3BUVK7k9?ZLR2"WO08<PgM-uRTY\_MS5mQ$,qdpA2RO9UT==T-\%WB=H,9G5s`GNU047+Yk`o&<SEcK.a.#H@RQaJ^J6cmce#Vs!J^WP7-qI>;8(KZiYP_UIF'_3A",gSBhXlT]6g$U(@D'XE<:,r*r<_eV:S8NS;l`?gcEgB3Xc7,/*W16bRbTr)jFqaF:@p(qAUP"J'$JC#(U[dqBMMT@X<@)?/PGjHN-1O-^'4VJDI=HGPST-":Y:5NfB-g#7T'%;hd3rW_k7crKA,;U\c1PHK/4:+h`hG21#=+gN@*W48jED.S9R6]T'cJd%6T;u+$EeSP"e9Og),Vm#C9WKtEZiL5]#qNTLW6(rUCP77?KDJp5D`XH6bp0i*Fa!)D?Pl3.!Wbl&qphu0MS>s74,uiY"W"nP`(E9+#_!_ZM3`O*12Il3=_Q!hcI3T71Gf#Ej*%bW/M]L=;WZ(OsmnL#%tcBZCK1L6-C-g088Of'">P2p#9+oo)hrr#6e;kQ5.Sg%Ym[uK0"K-!R)#\Q/nAu3gkI5,.KeW<)ROkG0?Zt7f->P^*iK[708-#M,?+t76W)RY(aS3YZ0.AK2-J[fqL%l,"L%Ol?P_:Q0pZI>o-#3Mc]<nNXF[],e6o$Ehq0(F.r)H=!p`gRjmh:W_su!]FZ"&3fmJIEiT"22rY?!8jeUG0hdbP;Mhn46o\$HSV@</K*>6U%9YeD^um2u:W<#`IX\A`R@]_4V94ZF7A@LHFW"t5lau<-4gR#H*e3JN;OTHfqPkF^!j!9g=7mDP=$;);oj'/OlMLFP*ml13*mkecLkQcT?=dF@]sdCa03%/8a+/VAW`DV`bHOU)/CP.r";AQV:Vj7,:q>gEr4WIAK1f5B/\gJD[`TJ68_ImqDI%/#BI:eD[6I1_Fb`^[W+<=4Wj;Y0U_-7lB<g%;NnZA&QYC3D]31mmViTH1h^8U!d^mcgj7UU`5VPF&Z@>S&^\S\K(<jCT@`-%Xn]3I;3ieJtR=2<g7o7qcD$j3/f"pF-Tdrg:)7]FT\kFK,15/PB;,&2P+TWui,ukaVn^&^h(4QU7(b52@&PU=/XHLtj;\41VP05*c!FSIh'^k$SA4'ZnmjH4XA8r?3#g=quOt9j,iIXXC(%tH?Oc:3"SU,YWAso;M;^'K7je3JiaN''CPXs)?=_OXlVA4c<DI]MDK@61+4Nd_-c:%G&$>U>HQ:&Whih>3Br_e("<Eqh8k"sioHTFl!'qe*n#9gj7Oda_"MBP]PE,D\hh,3YLb5i8^Eo^00-b*(F'G<7R3$'-[%12>C.NX,9RBlNSnMJQMD[pq=]tVf/fL`(?+Or-E^io&5aO<:/84&P\FXtACDV8.\kOm\>Wm,BCb#fe*<!5gVNTQ)A4"(/&X9C0Ak`*J!"da,CNVLn&0+_EkGq619BoW-d>W#PE.Ba`C/iCf:Lun&.>kLbHNiG9n7MQ8r254gskCQ]Xegi8om5LMu%Eb]!'`"i9Ea&&"jl_o+A([9h(!PM5,]j:N$F'C,ZFG5R.pd]DC%f!kPA[A'HqhP:W(lYn'=6.EW/Xbn,1SGq#;rna)H)h@9a^7fE[^$)Cpp&dLHitqkp2+QLc\<UH`X+o;bhaU9eG:#^-JB`E4Q]#0%Y6ShNmHlH*)+9"b.%fhd.oGAPID`OLH$%S'H8R,g/c:=X'%RqrP'VGB?ahCG'$@$Q#3li_!W:Ya>\&3WY.$=UM[gLIoXlJ7VM7X4Q[<Ffp*ejG_Q#!OMV%M!*]u;$HfD0[N,bJDG&fK#UbIn:@b:8#O8`jl#,oA838D?FJPQO.-<keu+GPP2cTd*.ZmsP,>=GLL>;,%^EmT+uc=F*4LG9$Xdmu+><;E64r2:SOD2*<%#/)0aU=6,4//\S("hr\&LO&'A;(kN!^hJ]eOh3b]c^/aep,;%<u/i9#Z^<NU!8.@*iWT,@V-YDd`6#8KRni+:-pGL8!=A&VdkZ"X/%f$7Yt9L.ItXkpaR.67kg93Db2<Yq>V'RY.b#HEK,D7F*P-Q8qTad94nD=rB/,qPkUcJtO15(U$_ZN@dr+3m2ZgNjCcU\OLe`\un5X:e/.>rNCuc[.f(8f%>K~>endstream
+endobj
+135 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2796
+>>
+stream
+Gb!#]gNM>[&q0LUbYt'UafK_#WLbJA^;R.E30r@&ZW:C?$Bid*U4SIIs8CUN8;ct,OrYi3nVSn2+?8"0ZY'g0;AVR#q42%a7jIm'e0W_Ad=g;j$#"EH-_nA)p7*646C44HgQ/rIrq:rBgES`7X.G0<=?k;Zr*K%-#2Etl?At_Td*iA7o^:kZq4B%d_t29*l/O3%/e2f[:P_2]]ng>U*1ThYE9WgX`BkoA0%p/8)Z<C*?hC?nN#.7tEam?u'ZI??LNIsQkOdte0<\[toUK5Q)23X&qpf7M_f+=eht<PmGC/C@:1/8Z[]F8h%/dgQ7W-SAq,*$KaB;+Q;d9ZW0RGEb9QHRmcI7R">+Yfl$@lQ`9hR8/Nc#O95'EVYi<'NJE8AV%,1d?YIEW+od.->8oC,u!i"mrBJ*KTZXB/3g[Bo6GV]YQC*]\X5o"krf/Pu+=!5NsDWKj;gDZ&dbc,?LjFU\IHpUFKBS6ckt%7Z.U%m)NH2<M8.JlcVEr-IYE\MhA`1g&pH*Gd7q[iODH/g;qCL0+:1@u>r6Uq#HjUe)_$bsY-+0j^Y/^DOTJ``U*hh=]R-#BpDj^XnJ8f>PK=,?t\PYp4X*a4]G5ajBFdFMSWu!6,$2Zfab6S?['R?Q8PGBf?k(F>G+I(V[3;+VDCOElpb,`\>^ts'ES+WGSCJ-^IL8.F]mnQB)%YVd$u0R`j\Kj]RA%PV\^kckmXBa2cIDj<D@\QQ6'MJbS:Kk<(u@BEL^=:tj\/]W4B[WgZb%KJ;i]#f"+]q*gbsZ8o/K\RJ/F3Jfji(LoV$iCk#rr#fKjRVO,Y;DF^c.TsmF5m]:SFpI-*87YR5'4laM*u%i^4%DE$jl2m901clfQKK-5J&c?7O83&*2!F'#7UTG$D[GelX*&NEq*a:1+n?%MK;0bunf23Jp&i6dNHs3^+^6E&St?@<_o+>1b#9d2)_VZS+<NMmbTLqp/CKc#3QQb)SZ!Q10>5Y$iU.\-b%2'H$gXE8%VeBc:&2UJ/P7X0#i@N5=(+jrhgP:kr:p2oA"`Yqo4I9D)IhG)EtibB]c%<7RUEHjC(oMHHt''#/Wqbl*gFb-A7dj?9R.-"hspa8[=TV[JtoKX=]N0%Q.?ka0tb6X?+JQmR9.^ZILTM]Rk]!7N1#:QN1$_mbgbTtaB[4>VSLb-k/*.g\=m3'/ZCrfD>EhFO\oLsM/-i!l%nLa^3/qF(BGNRL]@jko5qCIP1/[g]*MSn6%ul(MgG^p3<a&_3_?JY`T6BZ'F@E0$')f,@m^bA%F]U"A(BGNd/:>TO;VosH\(3pVlfg3;?4D/XeOu8dKX:UJf\-%p]^K$Id%[@fZM>uOC(lWS]02"?gr7'[8_Lb@+?K8rg`sq'(<8_&(I40OUM0'aX-@3b^,G)co;4+i7?l_g"H&WeU-Xl+\TO4agUoIUEWgc;kX]D"XMeA[J?lEC7Sd(Q7^UfOS^==pRpA0N`#fp#+eJR.%Rlm-;.$5a[27&RDf11niSEpV+VrN(o5Zec9CgU\q8R4cHkp^hGe9_0=r*Em^""H\#`P\kB+P;9TD.36j'f7.3o9RY)>^t&7Wo@XHtSu471p(BHD:H'Sj8nX.sIteSUl0l2c(h6j%C+BT\u<0uFXB(;MOL`3eGD0,!;HfLg3>k:)"fdo)B;he&e/La0l,$GYUfd[\R)[M>3,s.W'9[UZq'I-<D`T[R"[MT*u^7f6I[mK!5PNV`VFH6)d%0\$9BgsSM>hHTb6]9r/Z6Yb0R?UtJi@6.O6o/lFe6u/fa5@]%-n+u8EplmCK7R'Z?IphPmhA;AI"qn;"@>fAE%(]tWLgmZa.^>aM,frg3r^#.U]7H#+O7$fJ?].A?TM2gK':*U60h6I3Ko1g966`Po&l')/.6,SNHfI@G1%%'ictO/E?*jGH(>#NfPesLdi>cRM,fi;-q='#)rt@tHc#^R4,Raiq%[q8#2sl[G:IVF#@A@n\*N%/Abn84Mf0'pZ46;d*O<B(u<Y;\?K`i?Y6:"U4[5uM&"=_>hhJP'K6c\C0])\T7)^TC)[cdcro:C%).r/fqfo/>Us%@R_f_B9,i4H6/ek\cJ\6fW-h/rsoNR0IfA6d63hrp5i1YmQl(@nVG`(.HkH"q]Dokd"%/A(5[!jC?_b3'SQK"0>lCu6$3rQXW`"^KBqp[q2"DZ,AT+9,)A6/8Xur,-r!RpY^Zc6*O=.9lf04@`Bk8-ZVC,5>9)M:<I&=A4\G<MH=XlhIW?,NXX-_0m]N]]``^j/k^\CC`K>Pn8odI7r!GPnFt5#81QQh4ROoq__OBb#h]X!BLP_Ygep8X"ll<pc86_Q&8/n0dt9=g>@C&lh9>sdc2SD''TTJocCHapGa[1>6l`S.i2)6&bG71/FGn4@^B$8C2#+D.-m`u18@llFdsmQ+YqLnjr;f/pJq/nIj+>+[&LPMe!/?K(%r$?D8k@Icck#"=<F$u]J4ZT=?8J#7O1O%R=V3*7o82+.gi&u4"Ei$F!_d!!P58;-]>A66u-T%CcfVL@_<N1DbaZmYb%OCeNr[<^$!M(>;#75p7Vq_V:Jt4OrKU_T,)5o77&A"!g61Z32HEMZF/N>;k^hho7uJ$f<gnT%J:#op!$;Jp.D-['mm"b]@7j$X/fNt5?+,m8j>dX5<T5I^iH.DDfeOjSBjLsGJ"B,IJ!,L*3?n.mSR#\>-LuiStK\5@YqgS?9pNTFe?Pu>*p7diMBu_%7`;1X)"c?C/J`L2QQ0;]Z9;`FU]kH)PnFW..:R*Hp:^nRlAKj))G@e)"^fkJ<+VGf1R'T<S*@G*W9]5pAP<\`Cd<~>endstream
+endobj
+136 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1496
+>>
+stream
+Gatm:?!#c?&:Mm.R&=fT"'S?`^\/+MTQFUhJ@'[s*+";n,jIG!/(mM#^OA]D8!62*3JAI4=;m1fgcI;5$6FYpqb@q-VdoN#S-!7USc\#,_tXR.j2&2*i=QSKOMFLuO5i+YOV`V@%GETMM=%!ipgJLT2e_MAN6tW>0^EZY_p<g<IMptu?&nr9:Zl\?Fn5A,#iM;.&]!)Ufa'o>iDuDAeu==<;8.bS<uA]Y?:g(d%MBm=CCipSbkqHY0*W\TeKAcP`^:AZ=?sZM>]4O:\GO69I*X1F:IFUr_OG5U/Tb3_geUHP;8-W;8ZS9%70X,s8ZhK;MqQ=.Q8$ieB'V$U2b8;Y/@&GI*[;AA_Y(%oGi4e$\u1+m?==8D<KMlj8!=JiCH8.u*3oi[L#I//WA=k17gunLOt-[3MYn"[TVN>aSL\E7i9js;k:3)EJ]K3XR3V.*aIM?%e8;Eb!1nE\C;:H8MRee4>K2(!K2W[Kb&]\\][5A&!F]rk(k,[IhP!%.BoQfMEMGD^/K9Z]8ao"S8E*,j#k6QHg7@40MY[%sY%o;C^Y![&TCZhsY-W,_)]R,.Zq34A\RK&sWV&)Wcj:b:*;5tJQ++>/]rdjs6CaZV=$1geU+sUoikOu=^ZV<m<C'e>V)C"Z1fSO-@,V`6IrYMu]=aeq"sN+2a!C=e]XgMa#9e<piSrpEF@SJ$=#-mm/Ig&0ZT2RQ%nZ^^%0=L;Bi&4s@0ngrL,BVh.c:1f6:J#\H[u&Df2F7:Y&:K+B70fK[[[?.X6.iJc7?us;J&G';UsR*G%cZBW#Y_F[9[uQlJ`tN$g\hO.YfjE6>((SLiMQcMEYnt>mMJ=X\e_,"%3)FX!KpZp?B?.WQ\d]qcUi4RkMq6,#eMMP^O\3C28nUGk2.-LFsR/<ba)Ph`e6g#5r=N1Ig(?Uo?U1KusNR$&GK[N`qpkX8*[B!+X]JQs)8KT[UgNA.L=PTf@U?(I'06*53uu%qZ\KOFtJB1=D?C[Hf0+hP1WFd[OMO/C:"3^W64Dba5&g[S^H3:XsYLJJ;6k+0W%"933EF&\nP,ONT!0/[9J5?K<M>+-B+CU./:CWS;j"1L"NhBebaj`H6DsLObOh<+;/Qc[cZ=9IWmt<G@*?Bjs`lfFTsN]=)7AV1/m8.g]T5KHg$k1fC4ed\].$+ZOCsM5/B8F_PBjZ._aQYM8`L0U45\Q08I<@9&tc"Sj(=+Br@KTX5A0#nU3!39$1&PaT\Al!0M9TI)<*KLO-Fq,F.3KgF3)>0[JgDKNB")!iZk'\P=q'0G>Uc-+!_kZ/KjkG!&=D.pk^gq:mdm=p1a/0C1jZutbafmP8L>6rIlPuqF#iD>*DA"b.AVUDl1AV)MY^*Y1L,G0'd5=tiEr;V(^WXdf`h9BYlG,/j?lp.+'m+o7^Zf^Z-FV[dMBL]XPYIWung`Y5;\\!=:c#<QP]Bf009'\D)B=I0'Z#8CR1clBfXD/MZpNqP_jp-n%9[46I)eX$m0_c`6YY-S~>endstream
+endobj
+xref
+0 137
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000877 00000 n 
+0000001077 00000 n 
+0000001276 00000 n 
+0000001454 00000 n 
+0000001632 00000 n 
+0000001821 00000 n 
+0000002010 00000 n 
+0000002255 00000 n 
+0000002500 00000 n 
+0000002675 00000 n 
+0000002844 00000 n 
+0000003131 00000 n 
+0000003331 00000 n 
+0000003531 00000 n 
+0000003709 00000 n 
+0000003887 00000 n 
+0000004076 00000 n 
+0000004265 00000 n 
+0000004543 00000 n 
+0000004821 00000 n 
+0000005020 00000 n 
+0000005214 00000 n 
+0000005415 00000 n 
+0000005616 00000 n 
+0000005850 00000 n 
+0000006024 00000 n 
+0000006198 00000 n 
+0000006399 00000 n 
+0000006599 00000 n 
+0000006848 00000 n 
+0000007096 00000 n 
+0000007299 00000 n 
+0000007507 00000 n 
+0000007870 00000 n 
+0000008071 00000 n 
+0000008272 00000 n 
+0000008506 00000 n 
+0000008740 00000 n 
+0000008973 00000 n 
+0000009214 00000 n 
+0000009455 00000 n 
+0000009632 00000 n 
+0000009810 00000 n 
+0000010011 00000 n 
+0000010212 00000 n 
+0000010420 00000 n 
+0000010654 00000 n 
+0000010886 00000 n 
+0000011119 00000 n 
+0000011301 00000 n 
+0000011481 00000 n 
+0000011682 00000 n 
+0000011856 00000 n 
+0000012030 00000 n 
+0000012233 00000 n 
+0000012436 00000 n 
+0000012643 00000 n 
+0000012850 00000 n 
+0000013234 00000 n 
+0000013423 00000 n 
+0000013612 00000 n 
+0000013781 00000 n 
+0000013950 00000 n 
+0000014184 00000 n 
+0000014418 00000 n 
+0000014622 00000 n 
+0000014796 00000 n 
+0000014997 00000 n 
+0000015198 00000 n 
+0000015398 00000 n 
+0000015599 00000 n 
+0000015774 00000 n 
+0000015994 00000 n 
+0000016215 00000 n 
+0000016416 00000 n 
+0000016616 00000 n 
+0000016794 00000 n 
+0000016966 00000 n 
+0000017138 00000 n 
+0000017328 00000 n 
+0000017517 00000 n 
+0000017887 00000 n 
+0000018088 00000 n 
+0000018289 00000 n 
+0000018498 00000 n 
+0000018707 00000 n 
+0000018956 00000 n 
+0000019206 00000 n 
+0000019422 00000 n 
+0000019639 00000 n 
+0000019846 00000 n 
+0000020053 00000 n 
+0000020306 00000 n 
+0000020560 00000 n 
+0000020740 00000 n 
+0000020919 00000 n 
+0000021127 00000 n 
+0000021335 00000 n 
+0000021502 00000 n 
+0000021665 00000 n 
+0000021843 00000 n 
+0000022020 00000 n 
+0000022222 00000 n 
+0000022402 00000 n 
+0000022598 00000 n 
+0000022792 00000 n 
+0000022986 00000 n 
+0000023176 00000 n 
+0000023364 00000 n 
+0000023786 00000 n 
+0000023988 00000 n 
+0000024162 00000 n 
+0000024336 00000 n 
+0000024553 00000 n 
+0000024770 00000 n 
+0000024972 00000 n 
+0000025175 00000 n 
+0000025350 00000 n 
+0000025527 00000 n 
+0000025704 00000 n 
+0000025995 00000 n 
+0000026067 00000 n 
+0000026355 00000 n 
+0000026454 00000 n 
+0000028878 00000 n 
+0000031530 00000 n 
+0000034109 00000 n 
+0000036828 00000 n 
+0000039717 00000 n 
+trailer
+<<
+/ID 
+[<1e8ce2501d9f23c0dc377082175244a5><1e8ce2501d9f23c0dc377082175244a5>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 129 0 R
+/Root 128 0 R
+/Size 137
+>>
+startxref
+41306
+%%EOF

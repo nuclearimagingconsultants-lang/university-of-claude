@@ -1,0 +1,15 @@
+# Your study progress is personal state, not program content. It changes
+# every time you tick a module off; keeping it out of history means your
+# reading position never shows up as a diff, and a restore never rewinds it.
+_app/data/progress.json
+
+# Python bytecode.
+__pycache__/
+*.pyc
+
+# Editor and OS noise.
+*~
+*.bak
+*.orig
+Thumbs.db
+desktop.ini

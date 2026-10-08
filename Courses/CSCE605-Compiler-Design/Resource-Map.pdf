@@ -1,0 +1,1188 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 207.5332 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 115.2664 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 334.15 233.0632 346.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 95.8636 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 286.86 209.0512 297.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 274.66 109.1576 285.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://llvm.org/docs/tutorial/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 253.15 235.8876 265.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://llvm.org/docs/tutorial/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.95 172.9872 253.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/SPIR-V/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 206.55 227.4604 218.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/SPIR-V/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 194.35 173.7968 206.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/advanced-compiler-design-implementation/muchnick/978-1-55860-320-2)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 172.15 228.224 184.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/advanced-compiler-design-implementation/muchnick/978-1-55860-320-2)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 159.95 148.2484 172.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R ] /Contents 140 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 215.4268 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 95.8636 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 222.106 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 94.824 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aosabook.org/en/v1/llvm.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 191.4332 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aosabook.org/en/v1/llvm.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 229.742 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aosabook.org/en/v1/llvm.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 94.824 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.flux.utah.edu/paper/yang-pldi11)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 236.1544 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.flux.utah.edu/paper/yang-pldi11)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 231.0392 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.regehr.org/archives/213)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 529.56 232.8148 540.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.regehr.org/archives/213)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 517.36 147.1168 528.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/scanning.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 237.9208 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/scanning.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 94.824 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 234.618 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 94.824 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://swtch.com/~rsc/regexp/regexp1.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 233.606 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://swtch.com/~rsc/regexp/regexp1.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 188.618 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://unicode.org/reports/tr31/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 330.26 203.4484 341.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://unicode.org/reports/tr31/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 318.06 203.1632 329.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/parsing-expressions.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 229.6224 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/parsing-expressions.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 227.8468 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/parsing-expressions.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.76 94.824 220.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 187.56 214.7 198.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 175.36 124.724 186.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.16 211.8848 164.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.96 125.736 152 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rustc-dev-guide.rust-lang.org/diagnostics.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 118.76 225.6664 129.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 
+  40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R ] /Contents 141 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 214.9576 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 646.66 125.736 657.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools/P200000003389)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 226.7152 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools/P200000003389)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 182.4724 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gnu.org/software/bison/manual/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.06 218.7756 601.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gnu.org/software/bison/manual/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 577.86 133.924 588.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tree-sitter.github.io/tree-sitter/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 555.66 223.1088 566.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tree-sitter.github.io/tree-sitter/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 543.46 94.824 554.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/resolving-and-binding.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 198.0664 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/resolving-and-binding.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 238.3161 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 211.8848 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 412.96 125.736 424 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 390.76 209.0512 401.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 378.56 147.7332 389.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rustc-dev-guide.rust-lang.org/name-resolution.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.36 226.1632 367.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cis.upenn.edu/~bcpierce/tapl/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 260.26 202.1604 271.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cis.upenn.edu/~bcpierce/tapl/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 248.06 114.2544 259.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 225.86 229.5028 236.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/class/cs143/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 213.66 94.824 224.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://dev.stephendiehl.com/fun/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 191.46 236.3844 202.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://dev.stephendiehl.com/fun/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 179.26 94.824 190.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 157.06 232.042 168.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 144.86 169.436 155.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/Annots [ 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 
+  58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 
+  68 0 R 69 0 R 70 0 R ] /Contents 142 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/115372.115320)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 210.0816 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/115372.115320)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 217.506 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/115372.115320)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 654.96 117.0604 666 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20230131180704/https://www.cs.rice.edu/~keith/Embed/dom.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 229.2452 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20230131180704/https://www.cs.rice.edu/~keith/Embed/dom.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 620.56 197.8088 631.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/courses/archive/spr04/cos598C/papers/SSADestruction.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 217.7636 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/courses/archive/spr04/cos598C/papers/SSADestruction.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 234.8756 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/courses/archive/spr04/cos598C/papers/SSADestruction.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 573.96 207.0088 585 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pfalcon.github.io/ssabook/latest/book-full.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 552.45 237.9208 564.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pfalcon.github.io/ssabook/latest/book-full.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 540.25 94.824 552.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 209.0512 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 443.46 147.7332 454.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/10.1007/978-3-662-03811-6)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 232.5848 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/10.1007/978-3-662-03811-6)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 409.06 189.6484 420.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/379605.379665)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 215.8316 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/379605.379665)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 374.66 194.4876 385.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/103135.103136)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 192.9604 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/103135.103136)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.26 219.806 351.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/103135.103136)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.06 94.824 339.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 244.16 209.0512 255.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 231.96 178.3968 243 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://llvm.org/docs/Passes.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.76 226.6968 220.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://llvm.org/docs/Passes.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.56 149.748 208.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/results?search_query=chandler+carruth+llvm)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 175.36 209.5756 186.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/results?search_query=chandler+carruth+llvm)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 163.16 213.6512 174.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1508284.1508275)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.96 233.33 152 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1508284.1508275)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.76 228.9968 139.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1508284.1508275)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.56 200.3664 127.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/Annots [ 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 
+  82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 
+  92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R ] /Contents 143 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/~appel/modern/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 176.8696 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/~appel/modern/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 215.9604 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.princeton.edu/~appel/modern/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 654.96 110.1696 666 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gitlab.com/x86-psABIs/x86-64-ABI)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 233.5784 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 209.0512 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 182.9968 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dwarfstd.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 208.536 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/989393.989403)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 230.0364 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/989393.989403)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 207.5332 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/989393.989403)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 443.46 220.542 454.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/330249.330250)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 227.2028 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/330249.330250)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 409.06 135.9664 420.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/chapter/10.1007/11688839_20)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 238.3038 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/chapter/10.1007/11688839_20)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 374.66 196.2816 385.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1772954.1772979)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 230.7724 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1772954.1772979)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.26 188.8756 351.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gchandbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 223.8816 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gchandbook.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 244.16 153.3636 255.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/garbage-collection.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 233.1828 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://craftinginterpreters.com/garbage-collection.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.76 137.1164 220.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://v8.dev/blog)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 188.25 226.1816 200.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://v8.dev/blog)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 176.05 94.824 188.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.lua.org/doc/jucs05.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.16 206.2452 164.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.lua.org/doc/jucs05.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.96 195.7572 152 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/Annots [ 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 
+  111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 
+  121 0 R 122 0 R 123 0 R 124 0 R ] /Contents 144 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/SPIR-V/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 200.6332 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/SPIR-V/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 217.4968 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.flux.utah.edu/paper/yang-pldi11)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 236.1544 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.flux.utah.edu/paper/yang-pldi11)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 231.0392 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/AliveToolkit/alive2)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 237.8932 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://compcert.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 195.2696 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://compcert.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 229.4844 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/microsoft/DirectXShaderCompiler)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 541.76 237.1664 552.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/microsoft/DirectXShaderCompiler)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 529.56 227.1936 540.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/microsoft/DirectXShaderCompiler)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 517.36 94.824 528.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/Annots [ 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R ] /Contents 145 0 R /MediaBox [ 0 0 612 792 ] /Parent 139 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+137 0 obj
+<<
+/PageMode /UseNone /Pages 139 0 R /Type /Catalog
+>>
+endobj
+138 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008165745-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008165745-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+139 0 obj
+<<
+/Count 6 /Kids [ 19 0 R 47 0 R 71 0 R 100 0 R 125 0 R 136 0 R ] /Type /Pages
+>>
+endobj
+140 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2505
+>>
+stream
+Gatm=fll+>&q0LUeC,B`7mbSTOa3+$HD3fb*0I[BcH/]eCm)"f1kWcSk3M222ZT!R8]_iq'7`Pr/[t"G'eIGFDdiXiQ:,X=o[A.Q_P>537,S2)\Y@L4c!PB/2bjE]OQ33pl_ig"5_qCoCAt*Kju<t`mNV#i?,m>O;De:@%A*)REm,&dYS+QVb.ET\NtNfsZEU<lKa#l''d_3LN]ebKBX4FtO2#%N)VpE,-i]m0pN1Ctrpeh.#F^%6acF*`$*?rtaJuPq&DD<EqD3c>F4)<B\'M`)?]6CR6b6:*DQ?IY[9RPj*5k,Kg\EfFkCsSmL^#@4`D49NUlHN[[DI-9-h0VnId@2g&Lb'thq$%JSM5f\Rl>8cI%H\1TVZI(Q/gk"08c`88G7#!<:R28efR/W5:gFAi,'hC[#ACW\g!+<$lfj*OV^6&O%V[[AS=sDN.GQDkH-*"Dau%`*K=u$hSP-$k9"lsH(n+L"bT-s6Y],bcmn+?(U6H^_&=>EC7e&C)ak_LE[)/83hZQ\^PgIWL`JhD68)DcTdkAdl?lpT)=Z`c:YS4,h*%:]/"j=SjlN"Sfk:I([:T>;<H[.,\=I.aUfM7RqMZS,0Z9_Dep]aflKu>[>.V):+S(Y!/ep3lFJqbam-B%_#-$pNPPVP>oPd^oUFsB:QU#^*LH+VDhUiNdc!d)@&FLl]%!2'hn4:(2JAb;sfRgtsqKQOfq.P]d0/oM;E^Lqh,F\ON3BlXeLkX8C-e7fU083@9_NKQlhu%dE<?t=U`J.&\@7Q)"\PFQ1]I*Q%!,PW5XD-XMKe*RdhWp&`bSFJ,r(LnZi!rO5-)]6DCdb3NWGb>jS\1QU<Sa294!h"OFjF,VLihTT(\q%\,g.X%\l&,LXVWu#0H$sm]P4SdJL9]o>q/kdH@<ajL$*aA*-2a+d<e;0I9n>c,cP+L/>)%Wi2EqehB?[m^Guq#A:nI2\*P)?.XRe%:(gfA_:n<RJ)m0OpQR8jW\NZF53gGZ4O&Z6G>?gmk4nU9_hl&+W%6:toYUrX4MVAEJ5IE^0F^!/WMuT\;W]9]@1%@SAmUU+QW3%6.XBi(99GS8$n^%sV_lrDVFjSS\uG84[b6<@^Tl+t?h*m6_7TkY0^5\Eg?;JLVi<'?'L[[8Sj)nep[NUWo=Kh3Fe6kH%op?.eH>JNRd"Pp6VEifkqW6]pSt#P?R?dh-D%=BEKU=an)-hNDGE@O'7$;/';iglAbf5CN")t`=\AOWHrdiERuVQ0)B%Nm]7O^higli5OT(fG7JQf.nAG!mCgMM#l,Da/K!Reb24bo>3RG;r[Xn*f;`XIWLQaoYd!5Lr+uh'7`J1XhM,)-3`DD_N-c-/*'*)&L//-[SI)7Z*\W15B$Qh=57".ho@P"b6&4YQLJ3QerED?ajW)YQ6>KKQ5s8:i$O)-Z/X%oi#kAR9L@G^)!WG&]'fd<u-%E6qPn7`Z'DW_CJ,>2KMp7<+r$Iu)hRa`:W;"N%g/QLJs.WU*)1i&!N=EJuFWmY7Y$UpN=0RdN6Y\kG#\/[m^d,_nZ;K)4KrVcfBf#nQ#9$S?X%[SJ6eZ+4@"([%$>d7UcPmE"+H?X_7fEqO(<d1Q]Cu:\J:jUi-9s.,!FS-*>LC;TQQmQTcr,/1Mq'Y2HH0Z5TMG#012MK%L"_o015[E^p,tmm=F=LE.&(Y07K9kb.fm]W(p%3'u<O0^Oq.7S&4:84R^+d&%isl:pAco/:#df*.6s&&kFZ0tm8doYG4W`sOK9gq34qHpJ`tpZ[LBI%iFbG[!2d'@4.lB[q;EdjnGXt1F*#\qTEc.<Z=W5&iX5k8o^#`!_Qb<j23HdMK7tW!)3@jaUVIHCa*%Vhu8_0;d",F&M]8C;Fe#S76+=5G$V;KhRVe_1t>Oe16<'Jhi1dI_ANAc2E/%clu=0e@*EiotA]ru6u^*"Y1^JDq;@b9f.IdGiLieE*AHu=ZA%]UDnBh1O,Unn3pWI*Ejp4c\f/oQMGh"]cMa;48NquAoQR(Um"\<:?4Ns"kQUc/\1Cn&5[%WnOMbDFMjjNXPVkAI`NkDLPe847q'RMG?OKQ!jU%G'PMQa^V"*r,dW)O0;!5+PtY\ut9FHM?ldQ_V2jrO#7n`J&t0N/)a^[PNcV.LB7u)"Yh8iKeKJLI4FqK:UprahpSP\&cPoRVRm:iM"f[=>fnJAdniWb+f!G?KD&tN2(b=^)hgVD71kam+rq255crCGLOT>>rL4TZ$s5^BV%XEHqdMp8kd6#I9Xe$DD7.n@bAVpVjf`OUo`*2WC>&52AkrkAlVe(lJ9[#=&_`oF&0`cT61TC+.;p7%m@hOa2?'*ld,BqVk7BA1/H_sBC=>TrVF8,G/>+tb[%tqkEp_Ch@474Hl:MZh6:LGP[VhlokS.tl'KUg^LDqXI`:*p'p6!Q*a&IA]!l)9i%'E3:4Q,AguJXFi<tCtlTO,;Nt8k>FbfEEY;5Iucc<nZpFr(T5EE\OTd;V#q_*T>hjAb[a;$V05BHdcRtSMW*uRUfrWcn&+"@~>endstream
+endobj
+141 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2611
+>>
+stream
+Gb!$H>>sQO(<>>.'W5]H!g=I\m]uSHE?N5d-d7+_CoV_o95R<fQ5k#Tj8JWGGO&^`0ZF3dA;;'BWGgtNVgj-!aMa.95JoM/LG?KWYfO+a4=/0.>T/[eI!kSLOl6MIB9D/@K>-U0gNNbKVdagKNsUcZ)Dj,f^E/%4X.J5;A#d>NeV&!)\c)3l\+ApTbOP%CF[<pmg$R,K7!H']&.NQ4kN&*R?#u-p7EF^<>J-a$+#Nsoc"cmUYW!]"Dc[PTrP%Zlq_(Ho:WoN7?Hi'Ohk`>YY(QKA@nJ[ueAO'^U[M;K3J$-ig=RG13^$b]@!I7aG'[I0aXkP98ol>)Ol.%XZ\Vc#Bj,JIXu^WPL=nKokZO3[_b\DqB$b`BBVCZ0?k(;eX?^Q`@=W4kkjJ]sqOcJ"51K^!@QO0\GI%&t)X:(XEd$!T(q9[s-=bs:[ccV]1/p'P*Paj77r;"<H0b-gl1^Vb9"m9kIfHd9WU7(dTk3Kp[bLRo%10EIN>:394)VqKb#e$bCf:6(/;BbZUl!/%+*G8-odtinqh?E2`(X&Q.EilY+_[;\,i_;>4HIYWq1YN-kJDIiac2Q:ALT1]XRQ5+CDJcYg[]a1Nb])OZ]B#F<"P?jIU*7_jE&8;*RM#u;jh/P]$(_oMh4SJgYI^DfLD[#8Y4hs]mJEh0?AER)Q)c"i#"+/69D<rf^&52gX\h0kX0#Rs3j;AEu*/T'p:1&/$gff^GiMn*PG84%/-5F;WpCZ3h.g*HEZs6f)#%n!RHS04WDX>-.p=M-$bkJS::@fULbWZic*P-dNmkk*u?BD09NN_@CD$V4da-),g-`N&b;iR=-_YcHBQ-H4\BuJ95G?DoiL7hI6?ZEfY:2cFe4e;LPNl(Va\f4-\PQ(M3LdZXW(q6:9<0<bIk@J&M2%gonD\<<*P!]0W#gJ%[d`8/p:AWE4/6)*E8r`2]?oX(C6rOP;;/eA`(m+GsBCVC:/4J/&F9.][cCaJM=[7:9q4F,#'2*P%We/*RWd,Kr<n8f2bb/kZAj.["M@[0e;ELPJjat`IFeD9paIKqi`&N_s)kkTnY*0Dg;P*jYSEM<47+Q7Y.q`<Bn!6cEM^D3Li6Do=PbAh8FR^GBjlMl2eB<mjst$BS^N^U[nW*quGlHn[S;\7?U(h.DQ_$%_#RDorutgbD1*bPl$7%SORsQF)P@Xp?,8re^dkW\6sAZ\Qa*I:6s$M"W(`""UW*u!gBp;g%p3DAXl9;Z*hA;I1RPNm.-?a3%&i3E^mg.b"jc?jbTm.Z1NUflljK/<^Q0bV82SuTD!Ja'f7<36'>Knp(Xk5Yp-1]S$HeIeU\@(An@F&,)_0L9qlFoSrAT?SAj6!r#bk:@j_G,RXuIaSCb,I4XgBV[!']@F5rh%dBDf>I?'1,S$qU]D:=a%[cs]u9uCDoVOs;8NIX`eIV;nAlnpBkTk^k%69.k6g&/RMoCH&O%b*bioI=K<BlO74#e#EfN2crq;r8foDUfcLn-::l(3*1J_t*[g6<1uj]iDk[eS2iAOo&'<_ZaEo'(Po!;695:o`oiK^?'Kfr)qUk-,fh,f#M?7gC7S$l=[&DpWNlXGdkYTmtUA9?K1VpDt^[&U$ma+4Z^:`=dJ%FnLN8](#nZ&S/j5COhjh[73X&I.HQVJaBPgM0RH^V[R$Ahf4ib`JEV(D8u.:OUo*9Tr3Dg9TAdclJpCOt!`l4N#1$WWKkk+h2sb]N3qBb"4-!a!i7kMe-aJWW[HU(>&R9eX;B<(7,YR9VW%AE=8fmbrQO8K=:;oE7<D!O']O:TR!oA&K"OQM?1-.t#9Na[ENsL.W'^C'FQO$!./+4$iIc,=C,6aJrU'i=/57)I<8=u^RZ<U4jLp5A9oOq+_TY5HThA]\O4NYIIeASqW=#AsI^p(2P94n*aGW*HQ5nb$jb5rd>]6`KDMK2PP:,5$Vn_If6^0(sYCUam#AY$PQci-T;Ei`Rtpgo,\S4jS!R$.+UY%G>^?#,]sp@s]2?a>t)cC*ZmYfYl_p6K6QPh5Z#C)c-5&F=tKlbnDoYO3E1."%Dd-saLq"=lfPJ]mArf^g6<mIrIDDU)+q7GF]3g,=p%D4>u8/F9KMfa<'9?uN7ap?WpS\m+%pHZb)C`!W3!g4.R2?_%+c0=0KIB:3TskU#'nlkaB>>GL#dr;(n;Hg@urGGDiQ06(sbHY&%K0A<HOZd#61j%p`]<-2@[1XschgRAP*qm)(M*11"&Y_:dBlLHLC:5LHq:OikQb.^KM?<'kfOIdrK9QAJZqhPb^EM'P8E^Pg!P>]i,I)ubP;G#ZtZUkn85e]TO7[S3#8'?c61(A;oVj9^:JL.9V[rqh-.W8"\_V+0?l.`5[`!S%JMcEdUe)bUMaIR<"BNaC54A?1Q2qJ#;Oh!lcNf^?3G\Y39#^q1]H.KgSjqjB92rbrb>`D3S?[?R3DD\pdZ0pHt.Z]aj5-nH7ht_JPDoA:(]IdnTWk'CG6GP(?A\!mo-toKYGP`?KE'`>4a%:H8XF[uSP*Z72N,.L+kIUF(k>bM#\X\6-OrX5BeX"qR(N<T;6]C8sYO_Yg0*&RIb_er)W^D$GOkt["56^aEjOX$N_JR,\-+`P@D7(WnR;Lk_qu$$t*W6-HQLG:~>endstream
+endobj
+142 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2406
+>>
+stream
+Gb"/(bBDW"'&EF8C,K&g88Q"39ieOZ,jnOXkt%4+I?$6?"\EBkKGjjXd<tmlJIbV_XN5B.]s2u:Oi2lP[k8"(AIi&Dp$?<l!1_<lk;OH,50Of#Kh_o[$!b\Lr]5&9,`Fj),'TQg+b%I?il7XW-dA$s8SQQ($0#P.2L*LEEJd[@O\ZW+0_kS)o%t7UVO+VRi7Bo,5'chso``-r+"%'Oe+3s'h$?2a/M!*+GgFqo@.ktlI\Ku9'OMi>_+FUZU*NJ3!5$!/EFQF>.@ZZXYnMmh5SOFt]Xc9qqF"*\2fR3\M]kW]YkBF-=kDsW#%K#Q]Wg#Z=!a0,A2t@JE$b"jqQ*alEEFX7o1a/+h[oL)Z@l\L\A%!3SFCgm4Y?k47+6JpI8A2p^PSTsO'QZDKB"nXH#Xc"$2P!]pMsU%*"[ZO+!5oA8rI]rQ^@`*1MMe!7\A9o`q7N\&4bqd:n-LT8K%d=.Ua7BMaG`_/>sj(LrP6bQpcrF,N$O;o(ON%Ndf_X3*k<_$HV,9P;<]hXq/f;8GjmQmlG@R.#`qrB@P5VBQ!\1R;L"AK3Sf#Q7\\Df8AIfPR\pC5X'L)!U@n^%31(]_DQN%'h?X/4G/ss%gKgB4^8!G'415+MAZs013q'.L4rT7<^K/^H1>k7dGYe;\BdL&O<PT$Dts-&e@sH&HnUA>(*U!2:%@!/`U[t_=G\]'j21Q[OX9%19u(KQl^F-A3J3i7VG^[:eUZ5oeVgUUjLZ8@4cAGG>;;Q@A'><E/t!Dj%IB.`Fgg98)(uQ.;B&VI7`Z3E3Ci9m9Kp:E'dDOc>bE0I@Vm(Z6b&?FL/THGX5s[D>jdM"cSs,MQkR\"h[egM.li7h.u#b>(hWOJI*V>8Pr7F]Z<3#)C!bgd2'@rd/%.hNc_S4aH81(h`R^Ec+T*_Q>N6f[F2)'FIlaSBluTlPV(gnpK2J/,JsV427aN*73%trrMQ%%SB>&RnZahq20@?K=]kd9(<!1-:Q:nC*Tg3!(hoD@-%)eR\LaXHSg$FdX,F91Va:.3t[8_mD0J]Xa(!/*"aqF)Tc:;31'Fmu(3/7"mj;f(o[]qis05\+OoGeqqeQ3r!2/pH:0jGn?6`PbeBEZ5Oko5cJ]5&ZO'S,EETg(pB7TpY'KEZiXZ\k^"\s5D@=tIkR69#bPUT?Qbo?/mfgffsRJL`%sa@KR-"Q%lbiGHm&F(&UcE;Pcrh4l*/;%@rKqPt8%4,..q%51#B+H_r/8.c2%?K1hj-8#.#ES;?c=lA1bFJfDZEaQb6_7r2F.^[8HZrRbQc2Lo(OZ4jCG3s?pkF&s2YO/TEN`o+uD>(,JZ]_"tZZg8U<=3T,]kL]P"DD$+:#4gf",]<GdU$j/q<\Qu=</1]?7h]8\"LUmQh?uHn=l?Z+'??:k'tU8oM&2SDMi4t_i.ma>TX`.6'+9']k=>=V!Rte6Q9pjBF_usG-ee30cR;2a%nj7N>]:J0-A6\mU1!+)!/6Oc3S'WSE':A]fA7%V'\WUH>e.PC%0#Z*pq]Z3L_j_\W`dGdi.SENEBBmZe@ZDI;>"K6eVifRsHg$;MTi[l7dFr9]@s1e&4;6AqXL^s+">n;$^Ir=1`f-mCJ[b3SXqIK!Hl/&^_[J1%u!"bu*_u!^JtQ^<o836-,ro8=H;QI$=5^c$Db(Qk5BT_bS8(b+:r.X5e]"83E6+UD8[YR8hjhAY[[,b,$LHDUYs&3ZqYo^6Rm/,P9s"niV.fS+jbS1:sDr[ZViP&3%B3Kc*FNK9Z"k]o2Ht0HU9l<SCt3kAF^2M)hao/9)>VDj&V2N:$`G]g?"`RC>@BG,^)#<DK6iZa(W1MA\&SQ7:L'g"@^qC"5'*DQ?^F4@PJh%OesR"c0kn3c$"d=jEX>gGc1A+Ro,?2Q@&NA&jci>?j[C[TRZ2?h*K[<s720d(CKDP%TXF/CC&ro6_7B9(!_qlK%n@ae`H8dBCJ_=LkNco"_fps/<:]C5k5@XeGLk'i17fHfAailc/@J)DKEN]/>/mfX$XAY48OHoP^-1XPCg>@&)*'qRs%Rf.U:^X#G$+Q!$[IQ),J0*!EIEli4XJN4d0T\BZ;F.^-mZ351j`UC\p9ouP3O-?3tLUdC!j&g]0Mi@FTM+/d"_Z[unU@IHWkEqQ_%E;ZkliUDW(JAF=EDg7kG4s%nB%6^jdLPLMPfDds".H&8><Gcs[^p1(P8#M'@'T5F8o]eYdHdE>YJf%JhXk9DarLgIPHU.^(/kjOQGE_9%]CK=G^Q98.X@6!!k?I5If0%eKp32>+fkptRoU\psC-P<Y`n&d7W<u,&m<mqZS_p6[gcESu3_iR<n:7#8NMAN>2:!1lLIm5`O._+^:/?dQQ@,m]Ib&g8Bg"-=CGBtH`=;R6:nFETP+("2&lS505Z5BFNZm"9V<R7:eJBB_PQ(Y]ZaQV~>endstream
+endobj
+143 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2657
+>>
+stream
+Gb"/(a`cE.(>\:,hTB8I,T%al[MO@&%CS?=XGBPld`7gi=<u&k:^j?H2Z<<Z<>\8q'Lc/>HXlr?QtglpIIFnU7kXdep,C*L?4Z;^\OW5e__HG1'@QB%c@uRR+#m[K7NORPg[DZrY2(dT]2VH6l8c,u1R%Z1d&e\SK3,86m9utRo$)b(FoM1'h4J=]K6P5JkefEO>TEc`H:IPSn&@aCK9J+V\e/4f--ILkoUa<VVVrm@raJoNHIt4BPLK+RM;hjf%l!q+J^^Ik6!eIFG+EMA)+@tap[r#gK-tCH\:N*:]IjAm'3<h?/(1PY%"l8-`Ep&0nj=QI,%i?99_1U/`p0Y&XPbof3):>@C]+aLY8K#$!rOC5EJGM-_>maV,m%2d$U$/O>3'9^06DRKis<Ci^5lX-_(Sp9r+uX\gEFQtoan#Cp0F;\ILuBRKPP.rAr[ZnKR-[,!bBKk4n$eag8-]oFfkL5f6FG-9YV%[eiqG-Y"[<%ZJl7.?l\\,gkT+7i&4'@.\.p1edT<.HEZKTf#"WIi-NO&#u-8hj+X54/4`QjU.gTio_r^$Omb3r?JES_.i:-*]KD7D9c_RSU+X;+o_Mk&LT?CJ#YU_PKe?nb8E[W6=K_HC>tN$*igNXuQICa]Pg4d3LaTZf9g>M]nQ7&gk;lnqM9KS.(AWUfKB%.I\L]N4fJ2@^n`P\0)#+An9r0u4qDG+$<[ki=mfTOQJDYuWJc0)D)GW<7#$$N(PqL3I$^m1u6\-r"!d+Qk=YWn=O@5\9jiD*kOr<EFM8>k/[=F_d)JG81n5S_I:6KYU<,#5KnBG>SZO'+J/7hEGJeaKtgc.Cng=oF'rL>A!N#.9AQ5+Uk5qhG'T'(L.W18'*"-Li+I^jJ8KD_XL^;oI@f$i)<3,h[Xp\(1D-=g<8n_+EjpgB(`)fD_K;H><#,K/sQcR5gT7HJ62moFX"<d_bsQB,5:a3YmV&01pE]UYM,JYUNlJ"!VK=0K]JCE7+4.W`>IO\"ufLsOZYj,#gm%@7tT.`cF*DcO>!(udZ/(@SP3J^e/)<huQ$aHI>aZr:?=3ot,_!KQDapl2rLL@5bO+fRJk)37WEPs.h$CdCnc#!Pmg&=g(cO6gg3dlZ@A/1NW"#rg:[.[Q`n-&1Ag[`b@A?!QjkdWVHgUh[78`PnJ<l%8#\&s3>M1ZeiGiXW*#`pBn*]PYXB5CLOR^Cp*DZYlm<Rh?dk\3u'-)q,7L0sH19Q%[/9n#f4+GToraQjjl8(N9J7V_Xkm0f%\CB$UG7hl!#5/[@dHi@.o8q5Ym\d;gadoA3c"kH9e[7VlGL:n75PGNHN71$oeSe9h@FBg1I`H##uCoA2Z1?TbtTN\M/'pIcBQs2'c#R2FT[!@Mc4$2Zl`^BImD$td9iRHoQ<)&5Sa\pYALMBJj7m<*b],Y3QipQf.tin*>:;l85-Q#euUWE^jFm`0n;RXsobU--@Oj+j%7fE\>2Uj(/-2>:G/P1!'VqA?@QL!]#_b;R+]MeD4B:SK27?UIsATBl>BB0!I?8+Qi>`S16&R&*>JeOucUAnlGf@1,4@mZHhF/e[2`r\[\i>bJUNAT>=W,eZ)t1(,>0f"_)db1%D)`_M(kQJn39g(;4m:"RJ>)1cdpM?h%qMf6QXIhh4(V<KM2g2DS@b-VKJ%K,sdjgS]OIXjTi<*?:%AK`G*f>FTL9+ndR&_g<"NOMf_6&,.HX=Oa>>I"FiRMln//SB88RRdS;.k29(iN$t7!K12tRA7mOM`%Lk(B9k4L.6JcAZF9Uiik'dg<1XX"h(mR\MO?f%?4fr"_ZW\r$RK$XVH"UOe8<Jq.7O2kV'+=]g&L^##28R9JK=PF9.b_eg\qm:EGZK%AW#0B9Uo9Bj+mi5mcQeoQ"Wk'`>EF@=&L\h/pK?gAP1rc'BbHge5!]'ne0A0k)EP,FJ7Ao[V'JX/F=Uk?uhm)(Uq/@4PMZ.q4]8Xh[*EQ2ZB!=5e(D/T$>[`bnjWZlN0^SAs/ZWd?:LTF=r@L7jWCCEN3TSf"[#\9KZe(uNLJ=6<T&V#=bp^7HQQ1=<bD%m)a[]Rq@3fW;iQ+o8lsCXIJA6gRm7s"MnG'8inMNSDRKkILI27/e<a5KMf)P=%c%RpS;PaWtkqfFLq?1rF!W-RJeU)7DX\OTgo>cFHir,[;4VZNOc7-PW/X25kZaZ/XtOYs*M"@BD_'b4+&G9IqEr6<0o`Eji&s7l.YD+0dO?E!3cII813Sb1qY'!bPl$mGpBbKh&c_i]622>I_X0e&g*m<.1]r.*<pmWbkLilugEQ4!=LkUTIhqI$*Lu)KD#V@b)Ngfg@*%[;SPB:E[j%*."3\U*q0n<NK>LCX+BN\?f1$Y%2S=a;YUuP-O#tR,L,toj+j)`4Sb]=rV7n25/b(&R,?;\F\L).d*qVR7KSkRh_(4KM(W7'ssU&Uo,L_*0\36fM7Mk,H#q(d'n$JP0\o*.cr9@LUs=N$PQo$BRk?Pq6K7`(k7*1S/CXr$]/53CdZgq/@%);p\<*q5L()!`q>+V4!@6#ZW;.]'CE0Kd=<r_$R75FO-'SfG%el53WinV\e$mum:'&d8"STE-tLZaQ2&#YGg$2al.ete;g2k)J2OU>M?'<>)`&q&Yh>UUIk]8sR&K2&pRG7'dBaopJlL9+(P:i[YYf5sU3,l8[eCJ-~>endstream
+endobj
+144 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2511
+>>
+stream
+Gb"/(flGiW&q0LUoM_KPOr8k0855ZqDfNpk`R6"h<I'-D8A^`>GQBK>c.ChW\;6#QR>u\opE=_5P_?19SF4At7)6cK@fIen^q2&.\KF."QnEml:&raY31h8jkK!t(+=,lumPo@lI#`g"*J%H:eRKdN2M9#05H4rs"0(H*`Agj3H=k#&#(QVup$qs'E]*e'I_1-Zl]XQZc2g+UUBoe"EdA3?2hYD46n&cR2mi>dVLQMUB/?S%j20alSCjknMW3:[Z2<XF1P5M!]O!-+3MQR0#Ql/5YMZ32H);t'lT;@I7c6d3:jE^tXR#Ker36o),j=mu:%BUVBaPa.9QGMhI9%jJ)([%Cl+/\&*sh`ZJ70"`.nO@:E2,D^d0nufO(aW*ON;a1RfSWV5nl@$*.&b+2q.ecPF:=*9/&h"lV7YT\s"o[`i]QlfT3[!`+K6P1CDrVVtNi8m$ScONVE'*4L=Fb434f0Crdd&%8F#8bSD?E@=[ZIGZo/LI,GWlKJs\g;Hj=7JHk9T1nh>]IM[GG'9'EY),#?\;%6bt,/,b1?m-fZ'j$KRH'pk/0RDj#3/(XYCF(X6P,VUCbsg89l4B#0,7KH[N(7cE:E(m!/.>:2Jsik7,.J5+-?D-]=i"#`)]Ju_=cp"KjdKp:nf]8/>%"kW(d8ITY-]_ne'Rei/7nO=cTaQ&T]`'&]A=+:qj'0ilO@I82o\8Y0^iND`j\1`RjmJ.BV+dB#rJ8!U^ZDOS7Xm76AhV8=_?F:V3"rc1(Xh85)?;6"(E>mj9@sk`YA9pk,j,)b,A"cc2j*f-7p<-IW(U,4(0mI/'TjE#U_QD=KbKV?%FJ-_A>>>C`inY:@pe4ns`0u&YK`g%;n@aENUT^oFQ$dZ't29X?icm-^\mR`'BJ`V)F@4.V8[%^p#0V2@0T^6L#<J5Fib]&hK'$1-J;2f%PR]eLO3dKd\Y5?bo^_jBmPNad;T=M`8PbD$$^p[Rm)L:D=@LK9:D>Oqa(fTK`^2hoKN;d&sL6'uRn?V@MQ+"5dR8G&iGXRI'p.lSSaFb#BHLPse@2H$3SfI6+pPJ29)6QV.G=7&-/LcMIigpdBQA7.[gbK.uCZ.gm3?&M.FZA;QCh<Dfp._B.eA6]uMn1'_+,'mj_ke9#KdJR`.s:#AcUk"+eAO3N8NT^5&F"9/7I:ud40j&B61<c=Af[?3AX"fD+Fh>5@_oP3+SNN[FigLB'JD0GYlg[)PLc#3APPC:oef\O2SZ#?WXJfbh=N?-:0`f`R#$A->-$SfhA]'Qj:ifH=ni?MSS4@8YP[Ms:aD4T),`CS#4W0&F%G_Ca>kd[m%ZH6Pp"1N*'UgZ8C8K/Qi:)P;*I.WR!OD-pig,!9nl&'N+o<0@"[LlUVH/*X<M/R1U(JXug:U*7`;hPM4hSM?:F=\.\NPcbu@9;\bFOXtegkE`!A,Fm?Q^2br1A/>2Jej)pD9]LZAQ1:r##T'*+]PE>2GVa'_\DMb"04"W!6Q9-YVKDpp,o\qp/Y,*f_o*O9I&Dt?p`rqPnhQqW%RT4,b]KVH#)ZAq"/3q;5Lmus%N+;b3;(cGp,V2)2,V:WE2D9#:B5m2INYMIYNeCG-R^#nT96[<5d\CjDG6i&d_(X0835`(3e@]1GBR%pZa#t:aEheEWR%*H(Ua6>)i8#4=#aFS>I5+\"+SV*_KT:W61Md-RL=0V+LMN<'4/u*<?*QcS@#K0-ngBI9Nk5Dh3;2>7X$V9.F9,;,D_8.2H.+>^$^I`CB$=\=/$&0W`6!3rC'Dmti77pYne.mBh,unbu4.Nl^hW3`+tKFYNIr>Z*SW\5AcRZp%:q%D>,%q]q<:d%)b4^B,[0X$7Y(J71t)4fAD[#T\Dp;Z"5[J:Z<Kq*3>Yhn6mcCVXj>Rib&De.CIEF_AkB/%?1khR:Wt:^:au,,,BGG`T*j'B8G"OEt-dH[h2p_'I2;Aq<%FgTL?G;Ro8mMtL:Y;esb\)9$YRrW0G$i\9E!PRFNfgFMh\;hu5pDGJ^h'M@2eYUs&,3BJ"7Kn=Z;VVb2.rOQ%`#U.CBWMBp6F4ea5ONa(PK\$_jq"e4_q>+D@2(n:.VE(V/LbqI+jP@)PB<3drg),Qlo&ahWc##aWrtHp1`9'E$7nHn<)nYN\L_N/t0=VbLB#gG#E$NFY`A2b[9V,t?PImEqH[Y@V%f,lSY%i6u;>f=-r/Rn1Fmes8WE?1OJ_ife^4P^<9&(=@X=gAHp<dD^We%F&cK^&-7^$^+eXS)DVe/KICgAJ)*0>?HW#?:aZEdXXArN`f<l[MHesI>m`3K\OIi#Sbe)#9]OLJ]=,bC@*Qn/tehb5>sFn\:>N.'X]$_tbF9+%BQ^@Y]@0-];3HRrVT*^34A/!(^a`-eg\Z4'<nf8%jYa]#lGk+6ojh]?m!0PM#$S!(:.kUQ1%Pr)4e%j/QX+@sC%i>?`lirN$2l*hm1\)sWb:>9C<I7I`"g9OeK&hgD&m;@jJ3rVcF;nq=@ZGJauemHnV?cc"s05Yj9Kl"_d@TSc1d=209.a0=~>endstream
+endobj
+145 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1449
+>>
+stream
+Gatm:?$G$]%"7lR^se=uj"R4A[6:p8]QHl9-?d&pSA&qTD6]?SNKfXhh[^ta`D3_W?"tHc+p!;2]`8?G*e(*ecYJ'?$TO_TTKXo-5XQ1$iY5-'UOP`Y9YuSeM7bD46@?d]il.SAU[=M'Uh3InJp=m5"a"NE:=3#Rq8QeOj/W^ZQRA-kpPVgd5(i+aS#^`\!2'3L!LV01-P1V:>]SY:<6jH][BF!."W";$<Kc@];$J<=SOZ8?q>mVr3[-<6N9#/g0ICcF2+1l'o@m[Wo+sk/GQCA<)FKUJcp\W:GdjFc"rW71)X_:1/$TkQ<D^#^.tK?3AmI12@APreDKfo&+RFFT7[+N-GqsJd8K%dMKaAqg1h]Eo@\]$p_"V<f&!I:lO*i&Lbm(B!SG@&fBH!UQWtZDVSJ'&]bk$Br6/kBH4rmJuW\?ef*j43U9r#?!%lU!,kNj*&HQE"OF?GK0*J;kJq<JRE42?Y<B0D!%jW2c3#RjYP1EVRI[6gscEM&;=%./(';i4-a^0lj`9@e[X+E+End]dI#FJ[>\2oVZjmu9'%-q$u"Q?t\jK+r4Smr1CIqFq:hBbY(>KJ\V#'V@:[crh4c;6!)D)RImg@/f]pjj=]_bB'p$3U9'X-bV0C,@)?b<MT3iQn6$I/=NHQoja38T3j_lftmXmKE#'GIYRO]j)L0Ts+1,NrtctOho!D#4/UA^Q<-Cn@OH=a(h6Z7>osdeZ>n`\R^Rj+GAu;Qi.cB"M(EUZ<\%Y^8li'5J348`PcS`4,Yo$5H^N2FN1`s?XsYnT\X^Hl-oh-Xa5rbVb#(&1Z4M%n65k6aOp0uIa.25XB!"?iR)650>>^f14.NF*K/naiWNJZk5/N;QZ0#?F'F+"f6A(+@6ufo>\o$/h#ntIG.oSZTbEUA5,f[oU6/?4UYI\Qbim:!7>-88@[`EKjDU"dt0h_DTITXnQ8`2&\'DQF>-LcSgR:9N+f5\Tr@hiu'^8]%.pCAVtNIP@7-mj(J.ikcq,msB]cD/k;jV\,t2:i?ES%qM"^FLiMBkg.(F!CqV4(ApUeCKq7$Km5._h'l[C=V*#9`"s4.5Nd*<.ffr]TN*_c/]h]P/>jo-h<s%%]A?:`:2!%G&@3<L!=N$bl+9G_(r<M?kZ`Hs414E85nt9k%<T0=Pd&e+S64eX73,</0%^0S:b!`C0j"ocm+\KM/2OnPFXLlj5&+a3lfT/Tm5Gm"nRo9EAc\RbMH*.6<nE.Y=oER46.s5fqQU9GM-+3#Q;ON[cGg;IfX8c6HCm\WkJ;N^jS08LN`0"pc(Kn>]Fu0hM][MF@0%$68f/81,d1I18ij$Q1[6<^-((08%*R.43)[%A@[ieR\`HJTD/'A]KNr7j)H$@l0Mu!1rsKK3QUQ#OP,Y7OP*Ja_nNAli+kPmqnmm>%\/43KH])pfY?>>G]>Ao'%;\,?K;aZ@K`HU!SCO:ao~>endstream
+endobj
+xref
+0 146
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000859 00000 n 
+0000001040 00000 n 
+0000001217 00000 n 
+0000001394 00000 n 
+0000001616 00000 n 
+0000001838 00000 n 
+0000002014 00000 n 
+0000002190 00000 n 
+0000002371 00000 n 
+0000002552 00000 n 
+0000002793 00000 n 
+0000003035 00000 n 
+0000003329 00000 n 
+0000003506 00000 n 
+0000003682 00000 n 
+0000003860 00000 n 
+0000004039 00000 n 
+0000004219 00000 n 
+0000004398 00000 n 
+0000004576 00000 n 
+0000004761 00000 n 
+0000004948 00000 n 
+0000005128 00000 n 
+0000005308 00000 n 
+0000005498 00000 n 
+0000005686 00000 n 
+0000005866 00000 n 
+0000006045 00000 n 
+0000006230 00000 n 
+0000006415 00000 n 
+0000006592 00000 n 
+0000006769 00000 n 
+0000006970 00000 n 
+0000007169 00000 n 
+0000007368 00000 n 
+0000007584 00000 n 
+0000007802 00000 n 
+0000007983 00000 n 
+0000008161 00000 n 
+0000008359 00000 n 
+0000008764 00000 n 
+0000008945 00000 n 
+0000009125 00000 n 
+0000009372 00000 n 
+0000009619 00000 n 
+0000009805 00000 n 
+0000009990 00000 n 
+0000010176 00000 n 
+0000010360 00000 n 
+0000010563 00000 n 
+0000010766 00000 n 
+0000010947 00000 n 
+0000011125 00000 n 
+0000011347 00000 n 
+0000011569 00000 n 
+0000011771 00000 n 
+0000011956 00000 n 
+0000012141 00000 n 
+0000012322 00000 n 
+0000012501 00000 n 
+0000012677 00000 n 
+0000012851 00000 n 
+0000013060 00000 n 
+0000013269 00000 n 
+0000013646 00000 n 
+0000013834 00000 n 
+0000014021 00000 n 
+0000014207 00000 n 
+0000014438 00000 n 
+0000014669 00000 n 
+0000014897 00000 n 
+0000015125 00000 n 
+0000015351 00000 n 
+0000015550 00000 n 
+0000015747 00000 n 
+0000015969 00000 n 
+0000016191 00000 n 
+0000016391 00000 n 
+0000016591 00000 n 
+0000016779 00000 n 
+0000016967 00000 n 
+0000017155 00000 n 
+0000017342 00000 n 
+0000017528 00000 n 
+0000017750 00000 n 
+0000017970 00000 n 
+0000018147 00000 n 
+0000018323 00000 n 
+0000018533 00000 n 
+0000018743 00000 n 
+0000018929 00000 n 
+0000019119 00000 n 
+0000019309 00000 n 
+0000019722 00000 n 
+0000019910 00000 n 
+0000020098 00000 n 
+0000020284 00000 n 
+0000020470 00000 n 
+0000020693 00000 n 
+0000020916 00000 n 
+0000021082 00000 n 
+0000021271 00000 n 
+0000021460 00000 n 
+0000021648 00000 n 
+0000021837 00000 n 
+0000022026 00000 n 
+0000022224 00000 n 
+0000022422 00000 n 
+0000022613 00000 n 
+0000022804 00000 n 
+0000022972 00000 n 
+0000023140 00000 n 
+0000023339 00000 n 
+0000023540 00000 n 
+0000023705 00000 n 
+0000023868 00000 n 
+0000024047 00000 n 
+0000024224 00000 n 
+0000024633 00000 n 
+0000024814 00000 n 
+0000024995 00000 n 
+0000025181 00000 n 
+0000025369 00000 n 
+0000025552 00000 n 
+0000025718 00000 n 
+0000025882 00000 n 
+0000026077 00000 n 
+0000026272 00000 n 
+0000026465 00000 n 
+0000026756 00000 n 
+0000026828 00000 n 
+0000027116 00000 n 
+0000027216 00000 n 
+0000029814 00000 n 
+0000032518 00000 n 
+0000035017 00000 n 
+0000037767 00000 n 
+0000040371 00000 n 
+trailer
+<<
+/ID 
+[<b244c0e37399b19e24a606bd8498d545><b244c0e37399b19e24a606bd8498d545>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 138 0 R
+/Root 137 0 R
+/Size 146
+>>
+startxref
+41913
+%%EOF

@@ -1,0 +1,1011 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 241.2328 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 334.15 221.5724 346.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 111.1908 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/software-engineering/university-of-california-berkeley-agile-development-using-ruby-on-rails-the-basics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 299.75 239.2088 311.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/software-engineering/university-of-california-berkeley-agile-development-using-ruby-on-rails-the-basics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 287.55 171.7268 299.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 265.35 215.6936 277.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 253.15 140.5756 265.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://testing.googleblog.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 230.95 220.5696 243.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://testing.googleblog.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 218.75 111.2 230.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 196.55 225.1236 208.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 184.35 91.7604 196.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 118 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 204.7088 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 123.206 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.unc.edu/techreports/86-020.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 220.3212 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.unc.edu/techreports/86-020.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 154.6148 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.melconway.com/Home/Committees_Paper.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 226.9544 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.melconway.com/Home/Committees_Paper.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 117.824 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 208.0208 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 222.612 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 126.5272 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 236.136 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 434.15 215.9328 446.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 221.3056 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 211.8572 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 377.55 198.324 389.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 365.35 158.9664 377.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 223.624 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 269.25 235.6576 281.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 257.05 91.7604 269.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/~ouster/cgi-bin/book.php)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.85 224.912 247.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.stanford.edu/~ouster/cgi-bin/book.php)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 222.65 100.4636 234.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 200.45 205.9876 212.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 188.25 155.9212 200.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://refactoring.com/catalog/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 166.05 222.5936 178.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://refactoring.com/catalog/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.85 123.712 166.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 
+  39 0 R 40 0 R 41 0 R 42 0 R ] /Contents 119 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/architecture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 223.0996 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/architecture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 96.8848 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/bliki/MonolithFirst.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 231.812 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/bliki/MonolithFirst.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 108.1364 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://alistair.cockburn.us/hexagonal-architecture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 194.2392 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://alistair.cockburn.us/hexagonal-architecture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 120.3816 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pragprog.com/titles/mnee2/release-it-second-edition/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 187.836 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 204.7088 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 224.9028 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 456.35 217.4876 468.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 434.15 155.6636 446.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://testing.googleblog.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 233.606 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://testing.googleblog.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 387.55 92.2848 399.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1611.05994)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 365.35 229.7604 377.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1611.05994)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 353.15 220.542 365.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1611.05994)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.95 94.824 353.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 257.05 219.5484 269.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.mit.edu/6.031/www/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 244.85 144.1544 257.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hypothesis.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 222.65 216.6044 234.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hypothesis.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 210.45 162.1588 222.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/articles/mocksArentStubs.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 188.25 214.3044 200.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.85 227.6996 166.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 141.65 141.8544 153.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 
+  54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 
+  64 0 R 65 0 R 66 0 R ] /Contents 120 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://refactoring.com/catalog/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 222.5936 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 207.2572 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=pqeJFYwnkjE)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 623.45 234.0844 635.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=pqeJFYwnkjE)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 97.906 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 589.05 231.8212 601.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 110.4272 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://git-scm.com/book/en/v2)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.95 144.6604 505.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jwiegley.github.io/git-from-the-bottom-up/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 186.0604 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.conventionalcommits.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 160.0244 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/capabilities/trunk-based-development/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.75 207.524 401.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://google.github.io/eng-practices/review/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 305.85 224.2496 318.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://google.github.io/eng-practices/review/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 293.65 94.824 305.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 271.45 236.136 283.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 137.2544 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 237.05 221.5724 249.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.85 183.4936 237.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://conventionalcomments.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 202.65 166.1516 214.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/articles/continuousIntegration.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 106.55 226.706 118.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/Annots [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 
+  78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R ] /Contents 121 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://martinfowler.com/articles/feature-toggles.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 173.7968 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 236.6328 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://continuousdelivery.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 622.76 230.0272 633.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 527.35 237.6816 539.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 100.4636 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.honeycomb.io/resources)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.95 214.4332 505.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.honeycomb.io/resources)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 203.4116 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://opentelemetry.io/docs/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 189.124 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 235.1056 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 117.5664 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.praxisframework.org/files/royce1970.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.05 224.3876 340.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.praxisframework.org/files/royce1970.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.85 210.0632 328.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://agilemanifesto.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 293.65 204.4604 305.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://agilemanifesto.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 110.6848 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 258.56 227.4512 269.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dora.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 100.4636 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rework.withgoogle.com/print/guides/5721312655835136/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.85 208.8028 237.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.95 204.7088 153.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.75 238.712 140.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/resources/swe-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.55 199.8236 128.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://diataxis.fr/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 204.7088 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/Annots [ 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 
+  97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 
+  107 0 R ] /Contents 122 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 218.7664 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 198.0572 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 655.65 117.3272 667.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 227.6996 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 621.25 141.8544 633.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/Annots [ 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R ] /Contents 123 0 R /MediaBox [ 0 0 612 792 ] /Parent 117 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+115 0 obj
+<<
+/PageMode /UseNone /Pages 117 0 R /Type /Catalog
+>>
+endobj
+116 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160611-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160611-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+117 0 obj
+<<
+/Count 6 /Kids [ 18 0 R 43 0 R 67 0 R 86 0 R 108 0 R 114 0 R ] /Type /Pages
+>>
+endobj
+118 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2320
+>>
+stream
+Gatm<bAu>q']&X:m]LHJAdQ3)S`;3%4%YuH9%2'r6V3BYKHaA.[&e_)cNQjsN\/qU.Z%Ye!:K_**)M`T^V]n5>7nQ:d#W)K$'-D@&qL_Cj;j4,-i]\rDO^jD+NI1if2'L#JIlfhea5qbc#G!KN$@W\?,m>OP-k#C"RgRW3TcZ(R#0WQj]t?@7u7lt?.dZl_LuUIM@s#&a.<r61g/5ja5=*"*8QRW-@aM;>Io3+naYeipGD\4P95%I'3^lqOA0;g+foOGFY\TbF4)<BLN5&gQQqCCLi-b*RVF26IC:1(%cSUamjub<gb==!;=B43fLa_ReFB<S?ML\l,ef)UO.@CI$H5:*co++2_AJU-<aJl'D-gfXXYMK/*"S[T.&M<YEJ,hkMsWd\+37D//EZRJg.m=NEX&;g'ku1\^_'EVH1<iPEQMk,S=7qQ`h__<aBM<ohMapG1E'VM]Km+d?[R*+c6It9.-M,o?W%CC$EZTXGnF86*Gj,p<'@)+o6Q[W'"QJI%B\'/K\ogD@at+J10+dri?X@S,Y0+<jXh[.J?ID7.HL;HHZ#I;](MM)<N28*))YuS-`];[II^-Gn>;L&nJQ75mu9gVbl+t/ZT#XdhK3I#60+fW>UjFbNDS)6f[g<U%8te&-hUs[4lW7q:i2O,07iO6%O(/n%W%cL7bFjcKY+9*"!='l]Fo,1VrJm^%.`@F>u@o8/D:lUYLfC[E_RXr,F\OV2;T94W.iVbX4?f/083F;b*%Dthu%bq<?t=UeV9#Y@>fu>_bVZ']I*R2,&L<#R;NRmAQBKT]i>fhCpn-fi@!>i)C)nsA2YgKZkXbI,k'.0&"7j-=1(6P2'm*=op)0G&o#Og0(QQS.4aR\.P9sBg+7:ni*tJ@\^oDk6HeZ*=\1L_G26Sr`;<e$LOoYFoSsca:J2"`19/rHQ7qf3+/lJJ9kD<6]1!s/lu8hIaMC`M[,[S6-G_JbXR?XA,,\%]V:dV.CEoa<;(Ji01^gR(c8\ior+;o>7,EDI'^64i0S1BN\,d!lk//9q!N//#C)FV+ne/_lLHdIKY=NM&.e8uYH/9Z:OdBE8[?t<ld9IQ].QPgj?00O)mn/:84QYF<q"_5)mf42`I%)08\sDemit315OTCK_mlg2%O:OC6(GU]jZi0irb#_`RV(P@J<=Nt^+nIBm#/K]QPdJ?OUrCHoZc>A%,Y7MWn5@1Ziq/anV)_-POQgb3=i;"ZAc3f31*CBKq.t4IT+7W9lohW:JRAL&&\VMTbK`<s)KA;S/_M\&]]mDU7te_j*KKmVm%H(mA[.h<Q9A[/ht0JCp@Z1"E)iWj%:VJ!SItLj4k^6=KFs(h^cCfaAHLVRHSgM=1dB)OJ:>6]FUO[&T,QFW8g&rfr;ErF5^gB[r]$a$Cn%)+Vm=lQ_l+>s@>\d[\s\#`R;cbPd@sMho/^[Z;H:+l=.5g<>BT#,#<4a5'>\!Vl5%Re]"HN*"-!DK%hR/LN^8;iGs+jGGJ35=#6@.'m+C>+ZZIT4n#n&P3A(<,:YDQoJ`"^Gk6QsieCf?fY1A<V01ss6dNbQ)F?bsX+\U(jl;$i-NBBRamkXBt;M0?N%fm'c*(T!no@]$f9`m"pg6>=fJ0&Qi.Yt+d_3fj!^9TO)H1FF*?Y(CiF?(*JAP-C`-[d>I*KS9T/?:k&^;u,#s4%luf$&46P#Mi03'o)IB[ILt(HFFtq)#-LgU;o(rc5\/9f()#1#AZ$n$V7@/&bfGGuq"?mp6$`"TDRGb!M&&lOaLhX&'u_a.!,nBl[%l75iVPF5W_:\WV,@f.:9reNEYDa9U9;$+""\a;W]tTcF5FcV0SpZ;F?PUQ+LGmY.a2/TYccDXYk3dnKFcBU>.4$?b+Eo3-'`L:lVKQ49i+c-b#RWBQO]5OIno8'";L5"oemdMl;#)gZ4*dQ%8.m^b_tpSq2nmBbIO`G;/\n'Uj&6JR,S7>EY\P/G&ZENtf:!(g0hQ3R7E++#l2+%2LcGTj_e!@K1c2tS?nI!p'e;Q1sD!MBNr0N<'V#U/6L$P4RGDCtINC9$E#;@AYgF^CJdaueB(\\PPNC'I3`Q])FiA$q0,XSJlZmCEs.Sk=).+7)E+1!DPup51)QHH1UQ\LckJDBetWG^g=1'RJ=#7^'RgoN^4bG9=J=+0=d/4>"IVms`Q@\iJp*h$cOBmgZPiB?[<H1\A5M1S\j5Yi]iG%([<DLV"E[YVRJC9gQ#Vh6V>#;C5j]D^UTYI.%75Q5<fMhEUOilgR>:Ge4K98%FEnWG0l<mN-t:rI0O)#h`JFlLp_@rf<_C:ZMk03dk1LTDlnj]#T62rl//'q%)o4`cM~>endstream
+endobj
+119 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2437
+>>
+stream
+Gb"/h?$"aY(5D;V/'a^ANgCKqWV0fATA=UX345#pG/cHP#taKH":Kb2C4H2r!'`ljNid+3cg4?bM.@5AG]:rdEur+L:%72sca4rYT@"2$0"E%J(?>Zp5dOh^C3K7$OV>Z!k`QTSVTC+!G8.uZLue-*HR<nKo?c"WU[B9^\D?pWJt_2N1BWqbo&8DohlgqdhTYsj2qN0Ale.':/#%ADMMWtR0!6V>d'm8:7])^4ZMHYOrCO?ac)=Bh(Pbq0'!J\k:(kk`l1X9b-_g92e\*MiS1(%n_SF4jm]rLt0:[k`nX[UB,P#=lBP6@bX;gg@r2C@LDD:@$,P,JQZ%>TF\]jT%S[2KSa_;nY0/fT1IY6C!*#OFM['V[KR)DSS@hrYh5.ohYXrH+u<9AaNMOm*R3Ze7EoC-I#n3)L^5CFmr(A45G'C</k1C^2pO.<0kHXVa!ekuBEE.I]$;`d@aguPe3[N-GS1pJ[cL<#ieEI*6o#9Q7:*bJq'1mg(V#[UrVnADYhi3j7WY/*(F^"@M`57W45\56H""g@]2`AH\F;XqQ!U4n])=1P&'A52UY(LpL0"@KP)G<ImD&FR?)7[!u4<X4\EE/bO5*T85)m_hGqNSprhLlk&[eWO=ocU'/j%Rk\`Dp6>BMUgE_lf**K^[.MRWE>DA'^Nr[E_TrADuY6OWQ4J(=@uV[`^JiFdWrrq:Z49.=fujQV)fD-erD/XhKD(/<b8_k3T#WB^%Xm<R$<99*L[l'V[0lna+sp@1bVEha]1FXMG*A"':.8m(?5FiE\2Q+k>I+c.2r>7-g309bad"KU>VL.:Y]XsSIX+Nk8EgoYm6R2CgOITjSlb-@l1Lg!$SpOMHAN-1?3A?VQd)K\:c6qK)[pa)i(SMe/R+\"so*MZX"0UU9Gdrl*'5A%l:8-NjLGTkf8R?6CdVhp0?[kaI\:r;JpH`Qs>G^br0DurZTj7.Hj)`?WqN,jA#;tRJqW=g;G@2:A52bkk9:4h_=htZ?$6%Lq^7GXQIs)]+o_->m<tTRhFirS2oc"J4Vr+or9L[P#]i=eVudP!I`DIbF@7met[F-7F4HuP!@aO$JA`O+R/0&cQ,co`cItQRT)(ER^GKEAY%",28;9k2+*:CVRR53l>n>=?B2E"D;TAG>s.=92.am?cAeT]jLJD-][f!a<Z=X=QC#PPU<t;tV-L!t>lP32s7n54KGJb->$lH<Zb8,a;csY'pEr&s-9M2&*`%jE@`$K(YD+qC"%/QklJ!iloM,%RDm@9pDm:*qMi/N$^rDQ:pT6$^I3aS-YXmi`g$E^:k<"-nP[.k;EDQa:&K1tC9&8L0'29hc2>#Dogl7I&3gE?!H#%1PJR,@!Du!a70"G+]atBs2R]#r_RPE@VdgO8_S0'(Qp^Q5s6/39AVRLJU'KHh_Vp2&JrM`_k<0]*eUmrSYmIkdAO;mb,/RaBK=bX6D9\ZS#.UZFJQ0$g1C@iQSA!Lmem!(,_$-B6E??N5l0(]LF@i8nYA7kd$r3ci1;b,<S4:o/h^-EdDNNt<*CNt`ClF9@44]!=_'M."YnD#G"Bk*>YGIb#:#GXlqF$"\EVM)].OM0[i@-*mlE0qBcQH[WHp)cia%mJkXT$)m/eWi<HI"4IT'_Jk>Y=&T351u.J7eRp3)4X^6&f"4Z/<Me$Y3"d[]9%1FXNd?S,SahTY0(OgBhM1T-f<?m-8<2,ki]eo*\d3Hl&,"_hJJQPAo.f+7;D(-S8cc(Ek1>3DIDn/=nVY<T(mBucEgW#G'Vj=;e*kW(3&;s\(QH2rDP&I-o7@8QU540G:;u,%Y%uo]pK4:CC00DM\dA%aS](ip(GlW2a:c4f$m-HgDMVE>eLDSD@l8lA?kkQO9HkD1T-95s$.>(IAQjV5k[FWi\c;2MqdjhVio;O-7dXfh;#C7l3k\\SFY*%coF%--pui5&gVLl."OBJWHT;XH"kPaZtQkkPs+Vn^$UBsSgDSQ-AS[*1LB`WF-/,qa#Kt=S`@pg@>"/+T=$M2,Sc0Y7\`>W>`\'_BStgBq!84HQHPQHFk[b(dJHpM#UScd`g#>OhaZQZ#lVoDBpY@ASTNiZZsZK,J@gE@4]*FPN>YDhNO23*[1kKbk,?Orqs;\8W:L?&d#csW2GQ\BPg/0A0F'p6=K_sL+)P</k27AJC:[po94_%3k$*Z*)@Z^Q2sk&Bb7&AmBJULQ,8iW;,8+[,cDiAMP$)*ST^]2b.)9jcfU.XlT*+R<-AOhRSD\k6$IHi!@1nWArp3\IOSHg@0F^.W/jSs_BuU5J#eORID6cJZS*`8H5=n;`8X6q:e3<&aL\!X8XHsC))3%mA\Np;6IaKR1<tCeffd;<E:P!T>pR03(8DL2hhJn4DE]_Ar4`?6KF;90"E8An,&_2l4Do#jq$$LR^lSDgZacf*t#^VZs>hA;fZ49BH6'iBWqhL6l77[@]U.p9o~>endstream
+endobj
+120 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2580
+>>
+stream
+Gb"/(>uTdn&q/qEoR.pi"lB#1cI3QPa"1H!1BX&9g+$DC>=l3S<`ZL.\\J+bag#?A,f#N=2F@q1/PGLqh0o,j\CAQ[CO[]ldB=ekq8+H0UX=bM^^4[r7H^FuIh%uV&;2Yr@=K-g"+3SSTHB;b*j"K4SCgLR3e"H)KE6;)IM?:k60O^?F6\2Pj7:OfS(l-6?hET7:9RF,St-PNH-q0+o_.pI+tS/[[B*?El'fj]d-,BdrFArO@_=Z?OqW2M7>!Snr/be[*]O`p*#,H?"d'H%PZ&Fo\A,W!kk:R=pjM%VI5`@"hupGHI`K%FPCYr?_LWYJT)>D&<"pmYS<[=cI'Gm$),m%PMXtZ;=mHH'Ifa!p)Ujl)KVLbf"!:hd-[_TG#-L%l?5.!<35h#s+ET_,p,r720DGjsR@iUb(`"t>q'Obe6d@A&p-!GNrkJn/I+CP?ZN,Nb@FgX=@;c#*Q0j4M-hT%olgVE4S"*fSROq"M=:ZHUJ6I"T&]#tk(k03g&DT=c%5_1bf-K)apq$QG@i$"!]]0aaAum7T;Bco^BpqR]j\0@1AQi["?OX.70p\cUmWraf+l%W1N;>7mD&teq_DNH>42PWR>VfB;JhH+O`YB-5)pk^WPRf)G:K0(_,u;ZU[2/F!<[)qq0HDZ@O5:GEje5R^=R"RiDmJr>8?s][`KUkIbp4$oVj^^RXKh8]6X6L=OAdbE,rJa3O`9.-ee('h6o$!\>>M8ndM9s2-&l'IMM.n.0Q8N'>U7UT-k-$^p@]&N0)F2*OI7M0(IIB73d'7uW&=R\ijl#Y(B^p#FJC^Q#p$(Ta,>6g@)LL$b'?ifYjT/3?u>-'LRM+)@9$>LJ\>Sh>39'**5G3Vks?^&Kmjr3et%R68&><',u$e<$[M5TYWq2E18.>f'V3D-IU&kH%`3/^O\I.3\M\>)/SkU(A)eVnhgd>K?BK9!-o!B//0)6l8VQfF=d!;82/CVVFcf>XNgp)qYfr&?)KT5d_,d9]3N?^C.n`34+T$A6mLJ*r3W<'r5nu/Hd3$O\;eZ^8%>XJBdq/?I(U4GD#OH<L`WEQVUcAN"WmDO'#nn2NCoA3H$?DXeOE+eQ-b\"Uca?+e-u`^7i0S4mS%/jS$+&)<4Wm9O9.OL$ml/)\49#8n;p0hpb;?=`?T#k"b/fse3o&NZ5IoBqnm(e)ju$lgd#Qe[G0K[VG0F8MA%'?86h[5lZ+[aeYo!(hM]4"7`ffK]g6ODlMZ+a&MT;j@m.lJ#48oGQo)Y@i\^5_1fg]5I=XP-]OhaM[($9BJ8'"(cEn@`';a7@IF2TpsjE,`k(bt0j1\Z$$/.U6gBr`)/g..*$I@V()Q^\]<PD*N@bsKVmnD'D?#Vi:3s/uk.c51lC#kRn2m6][&hX52*U.0-n(LVLu_#gG8dlpAa74+H[C`2BB-68(jj*lY%`EdDIU@`/.qC6tSU9B8!gF92^,Fcht-ED.+oatK'PCpPLUN[edL=pLqm_8N9'L@#G`IIE;4[Su*b9P2pXiOmK-43kGUH]jH3*Rs$*:(mBn[3hkTJl:Q.WeR&D<SQFJXLN.:'AP*r0;"u],SIe@W-1/QQqBX55=&9AC<^`mh+a/7cKp*FZ`-W9e?cC7u1kf+fp#/.n*q$(+5)ZCqEuJR5`V`%h3l:p/Xe#kVCkG.%!*MT5%T\7?dG[Ao_(m43?.RZAEX"]@r]idS.E3I'crJYJbm*lp!!)*##8/UUZ8Z<Ys)mSATY5kDIs)W7kf177gQWRX-?Oqr=9+.S0b_<*JG6+J'9hrb1@(%):cm$m&O<ducYf7*d4oUkpueAcctB.^=N&4Q?g@agikWp@5bd3R2jY_lS"C*YSJd2BT0KD@33TAVs9`N-IN&b/Ql:fN%LrLU/cAm]t>!KJB*d#qS[C]N_R&>q1\e,oIB,eV5&J23;K$<*_<KP]p.JZkCPg]gCRuSpMgQSuc@B76;-)mT])*NnCCE%$I;%^t7_O<<CEnHa,rh[5MicFhS[Dg?I:H2]O`_Ys2A-XdL$JC05GaZu_q*I[mbC3+mU$3SR"D!:;[_]!Kq77G:WK2WmNOcl![VGc?CG%=`PCl$L%oaO6r"7r*N\BUh]6=_YhmBJZ&JWK$/NEuFq\ZZ5C,h!DN3>_7EU%AbhbK!B2n(?<:np?P'mm,QK7b@O0K_=CqChf+C[O1'00R.)X_q!lCML?Mg)k?.u56Bu.ZkELh.6L=#Z#6%CE(<k",/]YB&ej><1du$lI`9qqY.ZrMYc?OAZ6kb<HSCHGUj2Tic&$*GtR$K-uc?>,)2f#kh.erfgo/-ZaVA$q,_ieo\CAb@og]+N^Zfs03SC[S3p)J@k"gQ*YB_g:Z(su`IUsaEV,!,:8PthgZ&Qr_4W6aNu#pCsI;_hhcOQNJ['DHpt]Ueu,3d/,#mEQ+Rg)td,lJ<4nXlZ55eph`*4[@]I'q_dB8Z2+oBE!6?RDUB'BP2.7F^6#'8Zt.tO!gYm/_28)!7qcnMU"*<aJX^C2#hZueP"hQ3?9^9JS?TEZNi6Z+JJSs"J5TPTDS'J3S01uSBnbErr17,#0l,s"K<TqWdgbN-F:Q)l5:\1s,&-Dr"#1KRc+~>endstream
+endobj
+121 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2556
+>>
+stream
+Gb"/(flGh<&q&;4e=5Y.%8>R8UJ?SWa-T2T@j:Qn"I^Se!6r>'0)+ZjX)S\+78a@R]<SVA=Cg=>=k-[./X(qa1%juh,s!!ogFJI]MoJ[N*Q+T@mrUQRqWl4AI)e+dE/12rkhsp2r1QXVm&1f^)Z^Hf)7J-*6A*t8mff*$G:fC?V8:cEn,Ko1^3MsBP<N:"q<t4g0.r*!/^Ge*^H'%S%oZiY6</:Zl%<*NU%*=Fs2))\!>]iKA->qMOWO^lmF([>,K$;<;:[;\G_YBX9!2[!^*tCNo?*WV6e_l_dj*U+S9d+hcamFY`uZ,$D`YS'TCR4BB-O$KPVS<i7IRdSMd4[eQSM_:k5#/3*rtO$lm6hpcjq*8Hf-L.^qt1ee(8rf\@^d2bDu$0(B%uNps%:fK$!ecm:<bpZKYo+X6WO#a;GF=1.J]j\Lp']R$pksF5OX71jJ`$]&VqGU#,b%1ZhNSV:A"G#7m6r&Ap=cSN/iG?jZPBgFEY\XeVBQa#nu4c5n+ca5.4u"Io"?-,.Vm8T@=q\sI\.;jC9ANseQ[<$g98`ib$sVPno\>,LW%f8_l^L&jJ\&8X/>h([i@aNHQ</%&&]NkhuK*3lIK99mQNN'^C!7*Vb13/kMi+ri[[KG.nT5R+I6f)IWZ1>/d6N4K-7.sQDXa"f:1^^B#@E%\FU/.<HC-23P4beOI[U,se?U_Y_\jZHio3*<3Y%[._k+SB`'%tnU<at]uOYrL/JE`1>P8jp52b.V2cc.Q@.?)Y7+G0F[9-q,nJ-Sbq?]EQ\N5dut\8Ks(+O]N./^Wg>7QcPno-nZ&B@2Z,)e.gYVHu8;eg4^VNc$:@Z]DV\'j:Rqa=U)(S79X3#&c<bEZ'aRIg^]\h3u?epO]8f.p&a!To)Nda1K"-mObc!GZ-)5JW$?O;OX)Hq/:;o@i=8itUeC,VU._H5<+Xl<d^Z4_C!]k-0.DmeWg(ITeD8#.rgT'AK+!qYGH3'6kHM7b5?1-2F&aLuI?]PXcI`MI6D)(8oR8IYmbo;OE"5=6l;K#"=dA8KScSb`"<T2d(oX"TN56?\P[tGa"V5*Za%Q'n''`jN"h7WBGO-B(IZh'5H49W,nGiA\[Gbl.dAG[*a^91IKgqrKg"$ZUe.!MlCO80-8"HWk2I1(POH8-#Hu3YA%W:TTTl&3![;F<F]#@&@qi>T-^TXd7nq4E"*XLT?cJGY3?,M)LdSS,_`iY]ZX@?h@hIq^a7^+^ORpP"r/=FsNkR:#gFWIH2+FQ"NSZAj9<MDX%Y*)1H'K@aP+0a!7_ue'k/7\>0,GBEN*mEqrla<?IXYt4Ki;ZHK"%oN<\Y=:%U/"9:;<mQURHT`Yl$P*!\2pi5D[4=!bPM]ZgaS-@gG]7#Qj?[rQ,J3Li_C9-AA0O]j@L\Pe?r8s$maN2j0]R5j#`BR<d#obB<lj.Sb_N#Wer_mbuLc\3)aCFY?r(Tk"gN^1Q;J<ITFEZ<25=I6g!`/;j6Z@*CqH7=1)-saV^O4o0r_!T8>*[#rp;K+VV!7>0^:G:6;K3AS]!!;QSLYOkMAlShIsh_@8!.8"PB2aKjuJ3OJNeN%Me+;[:,5'HlNQ1fQ(P8>r6o1W_!a\)]T/AL8acX<]7u"151ja_W;D?R[h_pN9g+TUo-IK'ra4[?/ie!S4b1Le',i=HsV_^=[P53hYWhMX\T_ldInC@@,['YO(fc9)Th)03H[c<E1(#L*0Vao/18,_$En6p,g:uKoi_l+e;Z,!aK-M3@42pQ>nDSf0keIZ>I9-Zn4=e[Oo)[@Zb3u?EH1F>F_?L_hXFIUH6]G_,Rr"hoBcJ>7d3Rh3$e?60+'WmlFYVOmTnK\X5a2/R>f!UAr`LP%1m"rA77@i[+S!9sfhnh^LEU,hSk.GIYS,IY1[H=+P?PC4:1Emi-PFlQiB<rQ`!'J42)&bYIH95#KR)1=r"Wq/OgDE[2_PG>o:/c<<3t]Z4KdaPhe5cbLcFWlpp]q.b>:"G^^dXTP:)eU"L2bTA.]QYWU,qnH"WElmdoQe<q8UstHBLnECH%<'`gYM1#[AC0r4':]h#;gN:TRbscuJGQ;9`(BpYU2-X+b-Y4:Sm<\nW`Y1^8<fjnDXjKGqk*JGFd%]q4HlLb&No)]qhJF@F<e\.Q3E2\ca!dos0smeMP>^bc<!e,g3pERh24(FE:^OSR)fiUQG4n$O=6&j1DTGpU]rfYlAIPp!ADLe/ppCn\MWo"R>Sk1SU/*7W)Etqfpp0m2+/*q+so':oE0DL'MT.LX$mJ!_0<)m>T%Y+lBD+alPi,B;p>rSdLTMB&>j^mG-c6`]M`t<]\Vfr?$_+jlLioY>n?(r;h!>15L<q%Z$1&rFPnOHcB^uNQg+D?+k^[O7YZ1rou2.G>(%PVZ:\,N^7<N<"2j):+d89Hj1A;oi3s51HUM$:TkKoBHbBVeZfKGq5VHI&jU13jbk0!6eK0d%^\dPkm0]'>,q+p!Cfr.,7?5S0L[q88'!<=(&gT-U>#6`Ge?A7N"#)DD*Gr4E$2]=1iD'Ys.[<V47onBJA2Pt3Wd\KTNSZl4gN.&)S#g3:3r1e7mf`C~>endstream
+endobj
+122 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2815
+>>
+stream
+GauHMgNK>O(4FM1k\2C"bFuEbqCRn'\nWSV9IK82eSE]n!]!d`&-FmEs8?b*J8o&Y93e$hfE$i(F48fH#E+uE[FAiR&b<+3q/BgUb9iE%Z!>0mP?W&j3W%^%iJq3i,)0`bJa)1KGK6RVb2fXLAo%V@U!RcVjrk.8NI3s@W3Ku.JJgKJj1!?a?9^Q$T);%FDogJrjW>SJ$2J?5@m[=>YHE]md1<;ko.je9NYXjAaYT@_/>X6c(A:(("Lclp*!E_1Ob[;i%%f)rnn'W.2ggs&`,csSD_=uZpeFI%dkLpEnqf.\>]#JPe#kXYF[Etb>AeBAIE<.oe!+CMAgPJ^b3!G.91Gd)A*L9HlZ]jec%3SX,8+QC*9K5"*EXJEE8V2K[B-X=,*rgBNaWTFm,@QQ[dbd_p_i)PD_iiLg)5p8X(N9C)k&Z>6>(+]*ko%KRR]JbEL0cRm&aYo=gIV(AZ?`V]+""!-)%N%m)8V1$Mi,8+)Ylt8>iH:"%(;fKNWA)hhbBA+`#kCjaW]GRdcb6ie<X4R>R0W1L?2;`:J*JW^o=L9G9>-[QGYjEim\I"+7./DUZFKUVi'nUoZu<fOJs>BK_,l-R),[<p_`u[uA>r[C%P'.4j)Rd9G2;`j.tu&K=q,J@^d;J\'oi11R,WhaK0',nX(SjGoK4k7422%+d2/Gto$=Z+MD<Y9I;K4NCCKO5Cd)i5:d+paekbC4H6$,*DCX+Ye>DN<-4lHatNplGrdW9C:2k<K*6kX>=:BP_-26P-MUZd;CW3eCs3$4k5]JAhQ8Y3ND!NXdF[68@;b9/a*jDH+bI,HsDY%/o'r>YA3HMV(I'SjZ0NTaK$Ic>%=Z/2D^k?BsH4GjS[IhHV,1O#J$O>$F_If?AZ>Wq-;,onr]aggLn(GO5=;?CpSAU+0-:lV.GSk:KaYZ.Q;=_$RV&MrejpAMPWqrW\./A'/"4H7#5POV>n.Qc$4gXE%@@>1%o+a1,*SSguRpRj6q7)_*!EZD#qtO3i]A/GVsV*l__$J9m$t6qM'Goc$V$.h_DaJmO>Jddp-8KeP$@;Wg(Z2p0q;PKba!-lCo:rW6gR'Mfk_*:M-rmn#s$-/>)LM5ju+i,CX<ZRkbllQ9"?SmorfR2:jS\cpTW6c'm9eIc/CqJ<[cHoc;WJAA3Pn=S^B]^?qC^WofbA@I4<P?3lMBJZKWSKRY[f>@rp(oU]5"%<[;U-,1Pd/_;n00\@J^`6igJR6b%QpP#K<o(B$p^iu>sO1]')JX!X_s#LC[A0@($bcg2m6ZtmjjKc(>rFra!HMX5+gcjTOUMdBCKYsDDEPcHn7R:6nWFRaDWMi3>>O'qbo11'1/YTWR:''GPot%K,X5!J*C$?2)*R;3M9Y(9mQeoHOcN:)]C=m#)P_8T#YZ*G0&A`$LMcuqiPi!]<4W@.LJscTX&5oP:RFCcm6M/fp/.Fn&'XG+TLmH.fTcuB[BA\XqZ\o+ZOiJ@4,Tq+U*aV?#hp'a?$^ORjas>$D_BMnC.6.;-lti"]?W\A-nfh^fOG7kr1K:n5Bd>],_]<m^VBVuJni6rsd!f9iHDW18.b?*h0<5ON(e@M]U?&DQYSL1k+(W@I$0r'sab8bMjnU/;jL>!mW<KhB[#tZT>EGXC=s^kb5=@8-Yt',4OPtVU_)9;Iab37*Wt[C96l*::0Rs;I)7H0/+Eo)g36trn\?QOc!gUL++qd5=Fj4BIP=S]qbn(6gL?V?V*6>Mc13eW9F]HNe&:5i5s.[k;YjOW!-O!J6T]9tUC5Aa$#2#RBRcgfrctoEq;cheB\OJg.5-ImaTcI#Ia7-[*/fUd\'8Dr9]c@u[)iq8mU3<ujnc+mVqfVcR:Q[]m$ML6:mW`r^`3R(9*,:jcD=$&ZamD$%p(j]nI&l`[I*OJ$qYJ,)gsJb7c0)qGO_^mn4c!\!<7F"_*KfGSU?kDD_GX5Z5S2DI(u57A)0lqFH6IWgO3=P8=TqE+Kk#2209PH,3"b:)AG^C>e!(O\"h&,<<(mmZ$5!h0e5[5#S;f?N!YpqHW/S;VYrYMc*1>oY).]ZM7U4A14p5p*_.7#A7@/j!#Xj>A=bSo?Qt_PC^L6<L8lsqi0&'J5Fk][Moc&`L&n`HlXu&(9Wf`Q=+O9Tu#,`HM1S2qYAnE=2'!]7V8P7Qd\sS&g%f"`6g_Umo(_3p-DEsbtIQer]PNY4ndsL%/MSSFdf7eV9e<=a[SUOo0GcL+B=i!DU!9e8YE1lYhqHOIWY%?3B>U?mlIj\cD>H)U`<%Q]U?UX^l"1;c0T3R[)pS&_-F@QtM_>\"C/Ye^6k>`"ok`io);kAVM-)6e&Wda&'`,a^])e\RWX)\$<Aq2c3k.P1tCGI_SG@ToQW)5J&#?)JoNi7j:^=6l%OY>CR]oamLJ`K6IAkPmW?X2/,.XS/^@I[@ucYcTJjXYm4<;'`Q"ll-OaHX6U$a$(s7Ik<QhpfLMIW5>P8GPc>S\ng8TE;`0HU06)kr2#'=g+aRl>g;OAmi^^1KgZ:Mscj4,C"]k"NMTtqK^=A2Hi?<O'3-mH8K4;cK"ste\=m+K=\!XI8g:q:\Gr*hFYQ\dh4&,Io]BWTjBNgm?[_&@rR9&;4g?k3,=/"A:S`/[ar$B',m.1P,I(l<GW$^9teBiI5?Zaf'@Mnh-4L0]qAr]UH,sfLe<>VpNn"Sr`<n5X5dA@r=0k!Jd1X81U[9Wm>FK4H>=tGq;N?['l2k,9A:SM1Ju^JE%;8fMmtUG9'iK-@kiaGiC3IR80sho+sZsoR/hdi)T[><0]hOg(2s8b%@kT\,VupEkBT/h2&ZZL":M<kcLp!3)Q1[0rrJ;jA!6~>endstream
+endobj
+123 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 929
+>>
+stream
+Gatm8gN&c;&:O:Sm%]b9#nfRVa4@X[kr;BNP@ck>(Q*oDMBE(=O8lpEJLQVKA9ot?JY]uL4ZY(p/j@46M$A2@_>0#iTb+%cR):&8__`;1(cb8DT7Gt6@GingF!b-%eS<V0#U_<$U#Y[g#rbBkT*H3*ps]Gr0Y[L-nR[$Q\;7l9eI3er\$th(!;D]cJB;7U"cf9pA6l@=7)EO5GQQ7p7&MB3'4>96"=Kio+qXt-oASiLaPj?D'jWT7*R6p&cTGJ$VE$4,YnGCUSA6?h4Q3NQ)EpDFY[h)(pk#`$j]/-XWeb`CE?cuf+1C;mM^o*J-"Xe0`4AFl%g_7i6kX?s_\E4DYR4<^LMRMkLp0kn`W8q7@)BtS%Ac%Q"K**^4Io>7p(iCQcGBljkYc@d:JfrhGKWnIiY_`ePPoBi>`8.hK>b1oTtPdK1*GLl!BlSH@i4+MF?ZHjIOd\d*J9=F@Q:#n8.Z(5.Y@V9r4=Lt5W+Xf)d1^QQ5)6EW^2upFoHbhPX3qD$),<#GSH*ig^WaicfbW:'l=bWcho")F.):&5ZLV]T<!!4`O\6c\On/AG"F<+&f8_SSFJ_ueki6J.+;dD1c4$Qq79ELL):jmop58SlaTiu^-?n.6B2EA9#ATB+nc2\Q4'oBci0N2osgSAPE7$11YA]S6V8XqrMV32T_>j+oc:cg9GL4,UR`37pA^(]@MJYIVG!1bZ-6W'A'BgcD:uWj0WJ6k1ehQ0W6LtM`tnPWY2WssPB-K1#`6?%s+`ljbbg&)$/8,hYUe=u$H.p5NM54ZNRZ#j)Ps^]CJ/Z%)DO:-7b5iQ=T+'ULDOl,hqk1+MaVbPhp0Flg>*j^2q]jqFq(q7L"=RR*f"E1gjZI$EX.Nj@D4+T"K/]qc/*niLreFOHUg.XFEIh[?/4`nk:2E,lE+prlOf))!ai@;kP~>endstream
+endobj
+xref
+0 124
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000858 00000 n 
+0000001032 00000 n 
+0000001206 00000 n 
+0000001480 00000 n 
+0000001754 00000 n 
+0000001924 00000 n 
+0000002094 00000 n 
+0000002270 00000 n 
+0000002443 00000 n 
+0000002605 00000 n 
+0000002766 00000 n 
+0000003053 00000 n 
+0000003234 00000 n 
+0000003414 00000 n 
+0000003604 00000 n 
+0000003794 00000 n 
+0000003991 00000 n 
+0000004187 00000 n 
+0000004349 00000 n 
+0000004523 00000 n 
+0000004698 00000 n 
+0000004878 00000 n 
+0000005059 00000 n 
+0000005301 00000 n 
+0000005543 00000 n 
+0000005759 00000 n 
+0000005976 00000 n 
+0000006203 00000 n 
+0000006431 00000 n 
+0000006658 00000 n 
+0000006851 00000 n 
+0000007045 00000 n 
+0000007220 00000 n 
+0000007395 00000 n 
+0000007572 00000 n 
+0000007748 00000 n 
+0000008132 00000 n 
+0000008315 00000 n 
+0000008497 00000 n 
+0000008690 00000 n 
+0000008884 00000 n 
+0000009081 00000 n 
+0000009278 00000 n 
+0000009482 00000 n 
+0000009663 00000 n 
+0000009844 00000 n 
+0000010025 00000 n 
+0000010200 00000 n 
+0000010375 00000 n 
+0000010550 00000 n 
+0000010727 00000 n 
+0000010903 00000 n 
+0000011078 00000 n 
+0000011253 00000 n 
+0000011428 00000 n 
+0000011607 00000 n 
+0000011786 00000 n 
+0000011985 00000 n 
+0000012203 00000 n 
+0000012421 00000 n 
+0000012798 00000 n 
+0000012975 00000 n 
+0000013177 00000 n 
+0000013365 00000 n 
+0000013551 00000 n 
+0000013772 00000 n 
+0000013993 00000 n 
+0000014168 00000 n 
+0000014363 00000 n 
+0000014544 00000 n 
+0000014742 00000 n 
+0000014933 00000 n 
+0000015122 00000 n 
+0000015302 00000 n 
+0000015483 00000 n 
+0000015704 00000 n 
+0000015925 00000 n 
+0000016103 00000 n 
+0000016307 00000 n 
+0000016646 00000 n 
+0000016845 00000 n 
+0000017007 00000 n 
+0000017182 00000 n 
+0000017352 00000 n 
+0000017522 00000 n 
+0000017701 00000 n 
+0000017880 00000 n 
+0000018054 00000 n 
+0000018242 00000 n 
+0000018430 00000 n 
+0000018626 00000 n 
+0000018822 00000 n 
+0000018994 00000 n 
+0000019167 00000 n 
+0000019329 00000 n 
+0000019491 00000 n 
+0000019697 00000 n 
+0000019879 00000 n 
+0000020060 00000 n 
+0000020242 00000 n 
+0000020407 00000 n 
+0000020779 00000 n 
+0000020992 00000 n 
+0000021205 00000 n 
+0000021418 00000 n 
+0000021637 00000 n 
+0000021856 00000 n 
+0000022107 00000 n 
+0000022179 00000 n 
+0000022467 00000 n 
+0000022566 00000 n 
+0000024979 00000 n 
+0000027509 00000 n 
+0000030182 00000 n 
+0000032831 00000 n 
+0000035739 00000 n 
+trailer
+<<
+/ID 
+[<c79bd814cd835dc04a8accbc5b082874><c79bd814cd835dc04a8accbc5b082874>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 116 0 R
+/Root 115 0 R
+/Size 124
+>>
+startxref
+36760
+%%EOF

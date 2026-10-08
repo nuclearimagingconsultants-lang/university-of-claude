@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ucapp",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["_app/server.py"],
+      "port": 8731
+    }
+  ]
+}

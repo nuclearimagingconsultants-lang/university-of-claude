@@ -1,0 +1,1068 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 367.86 235.1332 378.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 355.66 195.2604 366.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 239.7332 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 223.854 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 297.55 138.018 309.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameaipro.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 222.8696 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://projects.laas.fr/planning/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 228.06 222.5936 239.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://projects.laas.fr/planning/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 215.86 192.436 226.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 193.66 215.942 204.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 181.46 227.6996 192.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://incompleteideas.net/book/the-book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 159.26 236.918 170.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://incompleteideas.net/book/the-book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 147.06 157.9544 158.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R ] /Contents 125 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 228.9968 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 646.66 175.8116 657.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 236.136 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 131.3572 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pamelamccorduck.com/machines-who-think)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.06 212.3816 601.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameaipro.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 555.66 221.2964 566.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 216.218 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 140.5572 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 218.7572 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 412.96 130.0876 424 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/0004370285900840)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 390.76 223.8632 401.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/0004370285900840)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 378.56 94.824 389.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.36 231.2968 367.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 344.16 165.5904 355.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 260.26 216.218 271.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 248.06 183.4936 259.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/4082128)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 225.86 236.9272 236.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/4082128)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 213.66 200.1088 224.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/4082128)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 201.46 175.3424 212.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0004370201001048)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 179.26 199.6028 190.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0004370201001048)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 167.06 134.43 178.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 144.86 210.33 155.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 132.66 116.2968 143.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 
+  40 0 R 41 0 R 42 0 R ] /Contents 126 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://recastnav.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 207.754 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20250526142416/http://webdocs.cs.ualberta.ca/~mmueller/ps/hpastar.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 236.642 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20250526142416/http://webdocs.cs.ualberta.ca/~mmueller/ps/hpastar.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 224.3692 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 216.9632 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 588.36 222.612 599.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 167.1268 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.26 216.218 503.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 140.5572 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.chessprogramming.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 192.7028 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/6145622)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 423.46 231.5452 434.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/6145622)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.26 175.8116 422.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nature.com/articles/nature24270)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.06 228.9876 400.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nature.com/articles/nature24270)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 376.86 199.336 387.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 292.96 216.218 304 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 280.76 140.5572 291.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/optimization/cp)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 258.56 186.0788 269.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/optimization/cp)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 151.8088 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/mxgmn/WaveFunctionCollapse)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.16 226.6876 235.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/mxgmn/WaveFunctionCollapse)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 211.96 121.6604 223 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/Procedural-Generation-in-Game-Design/Short-Adams/p/book/9781498799195)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 189.76 208.8028 200.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/Procedural-Generation-in-Game-Design/Short-Adams/p/book/9781498799195)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 177.56 177.3664 188.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 93.66 238.1968 104.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 81.46 140.5572 92.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 
+  54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 
+  64 0 R 65 0 R 66 0 R ] /Contents 127 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1106.0675)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 221.5908 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1106.0675)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 124.218 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/2020/https://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 237.1572 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/2020/https://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 129.8392 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://projects.laas.fr/planning/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 222.5936 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://projects.laas.fr/planning/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 192.436 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 228.9968 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 502.26 140.5572 513.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 201.3968 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 215.6844 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 104.5392 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://microsoft.github.io/z3guide/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 434.15 237.1848 446.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://microsoft.github.io/z3guide/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.95 94.824 434.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 215.942 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://satassociation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 172.0212 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 302.96 238.1968 314 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 290.76 140.5572 301.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 205.2424 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 140.5756 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://bayes.cs.ucla.edu/BOOK-2K/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 237.424 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://bayes.cs.ucla.edu/BOOK-2K/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 102.2484 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pgmpy.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 200.45 179.6664 212.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://incompleteideas.net/book/the-book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 103.66 236.918 114.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://incompleteideas.net/book/the-book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 91.46 163.0512 102.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/Annots [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 
+  78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 
+  88 0 R 89 0 R 90 0 R 91 0 R ] /Contents 128 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 238.1876 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 158.1844 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S000437029800023X)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 205.4908 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S000437029800023X)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 237.1756 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S000437029800023X)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 620.56 170.4664 631.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.comp.nus.edu.sg/~leews/publications/rss08.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 232.0512 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameaipro.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 223.3572 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 222.8696 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1709.00084)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 231.536 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1709.00084)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 186.0604 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.red3d.com/cwr/steer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 208.306 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.red3d.com/cwr/steer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 186.2996 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0004370214001386)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 302.96 230.5148 314 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S0004370214001386)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 290.76 220.818 301.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gamma.cs.unc.edu/ORCA/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 225.6572 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gamma.cs.unc.edu/ORCA/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 207.0088 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.red3d.com/cwr/papers/1987/boids.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 223.3848 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.red3d.com/cwr/papers/1987/boids.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 94.824 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.masfoundations.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 224.6636 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.masfoundations.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 187.56 146.9696 198.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 103.66 231.8028 114.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aima.cs.berkeley.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 91.46 158.2028 102.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/Annots [ 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 
+  103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 
+  113 0 R 114 0 R ] /Contents 129 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameaipro.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 209.8056 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gameaipro.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 174.036 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 231.2876 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 197.7996 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://inst.eecs.berkeley.edu/~cs188/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 238.1784 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/Annots [ 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R ] /Contents 130 0 R /MediaBox [ 0 0 612 792 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+122 0 obj
+<<
+/PageMode /UseNone /Pages 124 0 R /Type /Catalog
+>>
+endobj
+123 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008165834-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008165834-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+124 0 obj
+<<
+/Count 6 /Kids [ 19 0 R 43 0 R 67 0 R 92 0 R 115 0 R 121 0 R ] /Type /Pages
+>>
+endobj
+125 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2541
+>>
+stream
+Gatm<>BAQ-&q9SYfVd<f-p.Y$m!3Uk4)r9#>t\nobiAr%+GhgAVuUBts1Z)F#t`O`b,LTW&IDi`hsQ8*1%=]d1V\hc^tSnfkF)DZ?n_d#GnCI&iG*?*pR13B=VNX\r&jSg*'=ukQ6r7OB/L`*'B\7PJgWqC$R/CK`kS/)4$!V<q(DkU8c:WH;asaeR26fJGc9/H$`l39aj>Vr%D4ZO_$nURJ%GIAlEPgpp`J9u_r^:)kBC"B_;H7@I]&B9Ci/`P16o5dBPjfOP8Qf?QY1<N.JL,tGm-bN_kYS!TaCgEI(h$h8u!5O-ZM>mN>$CYEF(=i]o9VF]eJ.4,4n5U$X!O>l:$h4a>S]ig(rgWS>,-2SbK.SPVoXP`Z(UDr9uR7;UA?;&QV4tWsr3],#Xu9Pi0GmHO3#3#U[+.o#+tpYp;tooS;r2&<^@O-9&^W=S>5@>&sRdFTmh-rVOp%(rX%ELFmRj$qc]()0@j7[LA%q5p6@;=bJ0DU'"6Z;],^5jY7n0)Y$(n1]eH$)4DGN/laN';i]%Q&@nbZ;,u^Ge7d.Z!+S'RUI?Kc$s.B6-U_l:0C&qc\rd1T=OcH=:qCH_IcgkqUr<t/IDI)h*"$)1CEF(=qtT$4V[kS>Oq;EQLC3lB#W61JkLpd7;=4\Ij^B'8R<Z9%<EnZ<aA@)F`[L/4IB]R9)e&&q@/`38%"iZUn.kONLWE>IfRUn5]"B;(8[Q`p&,0F=E"AT<="sDgdm"[0</X49Xk"VRK,h9'W%?--$dG:aXXs'AX#;;^MHa7@7=IFfQ5]8M$=SQZ'[6\(1$)Es_6m5bGVO%Ki=B&]#+tCe&psi,e7O@NJbY7:]iEtM;X(&KHYQYTogGEWMR;WDX)]IBn9P5FCkV5mEa#1=,))jCRg.2JU2d:O1I25>?-dahi;9hMNWfaR0mLY[I@1GLM1_CXK'L;YWa<o(6;dY-=9pcEbStl(i5f*Sk<`(/i+H<!^3e4`*(p#0`K\[f,KId%Q.JKoK\/FNMNndgS4X26SNe$Mr"\72Kmp,M%HIM!55IW'i41@.UVS`mejp2ooEWVl(!'qq<ETm<BZhr,=[*M*\3B5p8/e+b(mV[0j`&VK;h]D]F71@QHokGS8/OaD91Kq,a`k+s_a[L4Lh$1-^j_=,UQ4M?8tcW/I6XZN`mkF-.#k(W^sH!AEOq*j_E1]eN\@`)-aUVF#\fSJbWiq1/FpLP70cCdO:YR'PSm;C=iP!:ASr/jcu+[Q8#e4]ELn$,rpeL(?l%kVSG]a-5?uq_;AAk]`].LUp)KE82XVVIq>*W9<1/`X1Zgt&in64JYcXbf(_2m[Q=0U_0,.5P@Kd^ZH6G(A$`7K^$#\2tKa'DV@Ymi`9ca[ES7$q;#ec9m'\VJG'3)]m)S6RU"[5NN>YZhU*9^<"E%Gu0G7s_KL5Yk48\D?T&2dBO6>9%p^Dn_qFa*-EFe*j+[M,?UiZOf?Pq$1U<Uak=]7='SgPEs3clqbNnEuRQZ*XjZ/J]R6TPGggGq4])JQEMAQfJhee80S!@[;6ncK:CZM7V[,3o6iX]b8kSb6d$-g4S.#W5u>4cIZ?+7n=(qjo5Lhk'<j/DnV2!O5pD$,HoA(_`7+GnjYTD1;4Lg8Q9.&Q[OTc2VEU0T^WRGa?R7(f%K#pg$WFt9mkYF>PG^@UCE/DoY?A&Y7Wej%CbW+^V-!n$n$g/;ZGgZ)%,2%1bWb#<!!!BbDHf\Z%fQl'H<ff;A7V"2VRP>\S-);HP*tTM0<MM&.O)=d7jJj84B6kbGp^uCoj;.,SoA(.*UXr)EADln.<T`,skU-)FW%Tqi*%kpO#FYKkb^M*E,HL]P\`?0uc\\DG/X$0!\>a]AYV"&4iP8O]PpLN(#Q9%>&9i3/8,"pde4]2;$qH(.C7$^=H,38V0uhjJ5^J-pA/6mV73:(&#b:$B:l#dq!=X7GC+C(a:V-90:>A'urq@nBqYh7I@SZ?=3f-9uiD>%D,Mf%I/F=6O+_,i"KH?rsogAVHL>fZ"PE-(8H#[<kPRE6(uC:kQ63L.t+5g\2g71:U^;!CpCMOIep*OB?^oY39)-LRKQK^ink2<^DV'O;q+bt'R%9'TeTuI74%+9rZWr=KfWP*@D;ISq`b+,>G;Wkp`L?j4jQYYG8t\!7W?*28l#mOcFsgFK:-<3)#EH]*g_7V<b8U(=Bsu#4sqIoZ6MSf9SUVn^:V%#;sGEG3f5NMCbBO0+AdA]2;4(!HAWu)5O4f&/%jso1Z=bt'TX<K,3.:-W5!#%2Lg:e>W$At4GpF6Xt!*Y!4RP1.[-I12lIajFp7L,meR&_::'gC6nZ*!#Yi)Z_`9;BbWc/eU'hUEc$k3Y"kI6:D==cp5C<j8gTMH.&iZC[L3?o[bkRCK/_G1tCd0)Q?;XX0Do3f`kMah3%A%`RR^I3gIA/aGc"?+O^\,n0g=P`E08$,R[t:6apNE:r<pZ#S1P:or1J_o5N(\'54EYFO9'V_d6apOET5MV1fG0_J->gj#mdo03]gFcsj8%Od4HE8T;brdun+M.*H$o&*Z@>)\_q@718MAp~>endstream
+endobj
+126 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2425
+>>
+stream
+Gb"/h96],K(<?1K'R/*-3B#&>V57\BWFt5?[FP!CS89Sd&eU=\"si<1T76b>8;`EB=ajmDMo7!/8:\L(h]HNeD#?9hG>]!cS^Phs%QQ.9kN)E(:X]jHDL1fE"3Zc'^`b54-Y(oOBBVj/89/^s4qh(/p!CYJ_Y,,]3:6S$(e[;KWtm7"o_Z]#5Mf[OT25K]?dIrs_t!2nmta0<@753XII`Cb2kV[%M+/hN0&ktg2#U+s2el?.N/`Gr=_$&S'TL/9L["7<XH7<1b'#R*ZpLAl$@EBYgWQ+iT;dZ[He-hj6Ll>D2qkbDklrqlDdim4it#c$.f"[_EDAr-1Wf/UlWe#+A2KX3jm0`d^VT9m@Zg4MA@n-05N2TL+.GAC:s1qOqYU=6gt%*Y33f#G8=&#abR)=`)aROD?&5l0);,L1^ocW#/*i)P18V%]joSHOqQ;YBH*iP5B]^1X/3=dI*iuB#lD^>%a,.0'9D(P(JPl@oYZs50?2R_1^VOsUVjiA$_JYO7'K2/VM*J7NZ6io="p$oIj1;/H&9l;rGF!unj%$;S-f0?oegB%&Mdu'`EVi`"D1i=<Toh600@!kL.DI<]9e;KKau!45e-5kR*T2ksA:X]=/cNuRRWqP`=><t+>Y(kN?;[Buj6N:l_IG-:57AQD.2@X*%R6Qhh56Lu3^JS+n.C]S(nWiqF<FmI<Q4O!I\;`gY5"`Na7G5L6V=Y/=Y&_Vg^O'J)grVV/(UL?&Ll0`X1tSAqXi7S-JMaRYEp=G`grc)\B(F"jS/:2/cRY[#V(2.+KSgf.EXt_VejXOY*,b.0o'(aUkKaJHKsYH-oS<]k`C#qG;(YKW\HN"Bs0W]<EM?\';7b+S9s*JH,F[27U^J5\TU`nP.Eq;(d/ugm,,ma&"8UfW>0'ToP(\1;t^uQDkC!K_)@#@QId#!=H,sAGg0=$aDJ2/VpT(G'QH];.6^,RNU\<\]bU*metU!\#i):TTdL348ufMH4+YlBlhrYgUh_TG'-YgO\M7F$Lm*daXJ.p85uW0EH-khi;?"aB*>P@cEXbr7J74C`5?:<i@e4kXcF\87PoS'uBssm2'MOaMDP7:gCD0<6];>8>P)1K$c-)Bn="LcC"/![P)^f+*hIV0ag7%q8Z2].c@F47:$KD.%2_*Yj68\p/Z$5sJ0B\%QY%B.VAph/MjT8j1-abQq(tfMo8^>*q<D@;K;c\La<+":&dJpK:>nG1JU[)/I'28pSTq<H5&<LWKWn(1p$6TLe7@`OVPpb<+o.U%A]G'T4NHH71'Q$W(=,Q36D6iTDIHR2MB3mN,q\fZ(qD!EKO(li%a7N@jVWjfodML_q`eJA!?^ME12jE'^,i/3S/AHTF,T?X`cS;YHIfopf>O?eR(:kieY7V79[Mo<3Du:UW^I-qgL-Y=<j590"T4E!iq]\&)RrtpOP*unP"H4T?k6liYQPJ8RE7j4a;(Q5!.oatYSfo]Sb]h/K)aPM_jEOrUXE:0"aA<s(HSmDb6Xe/>`5.c&=uh@?pB?=_*92"7C54Uq$KG.1F)?C"2j4QO2ZE,EloA"TOI&PqUs(@jI';4c@eM/#b_]g1f%>!kf]Bo^6#A7[r`dISESDpHf%JFgQdG=D.R:ic4$$qha\$Ni+QN/!RD&*5Dm'VF*F[LZ>@",Y?J2nX4ZL;U6nq7<-]6HjNf$ZkoHf^s:-@;B`:g6Gf_0/7Au%Dk1A3mblO>#fK&4[qfsfRql*bGp*#eNNgp[&$,NSZ4@p8C0pr9AE5K>Od$D:si?t"u$3iMI1aaV?t]t2Rod7ejCCNuGF`:p8)*>G+SMOs!K`C0C]Ea+Jb$PPZ:f"\EnD5p'DgBSQ92s_f8#T4l]6"'=4:V]!rlLnJ\h@9KL!Ft&3c0q,&j--rs3\\/=9=D(F!b934[XaXA=K3C:3ZApg#9FrurlDNaDsW-6]mX_!4ar"jR23H8pl)7tmZ8N2,+Ci`lV7&:/<Bfh!7CPL48e%(k_u'a[M!O95$BlEr.FWYHXiU<d4DRN!2LR%^Z[f.H,%;'5,=6%Y8#^i5Z_WN1!<cCdM]\"P^49M"2ZgU`Wi:%PekHF09&iI]UsMd93sFYSHr':AR&l/GS)abIS+i7^PM;250%ST)1t+riJUgh][2.P;5b]$(0tQ>ReOsf`Tbtmj#;`]?@<T&f#j:4GtFngN[+)PI;eS=7p,WLh`VHi!QI$lVQHdrYW<H^eed_2f%!DKjb#NeJKuc-"/KAJ%B,ua%8d)ETRB+k:`(J#`@DS_4jtJ_q<E+t;)uP,ED-r?Mh\.laL%$k`EBS^Gc*?8).-o3'Lq3n&!Jk`7l+\n%48Kn1XHejWrggMZ)Obscc!n<!-446%mourmK)D,H%R[HLjoX]244#GqW`e)Z'AiM4K:jeCrOH:f!>&jG4\K/WrbHIV04oF&sjq_^-i8gpb-tPo`5~>endstream
+endobj
+127 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2621
+>>
+stream
+Gb"/h8TWWG(4blQ(%7Aa>S\RP;YA.t@jg)PijP(H9pI@C$'FG%"Ik<crVLj?(Jtqo1U]%pLVsqN,XC;Tmj"XG#_-shgPZ%ak4%e2#Mjq+&p-dQ@/^JhcVOO#d4EnTFjTL&A3@0ee$7\j")2^P4l^9eq9VMcSa%@<d&Zi10eVSAL0QEa_:R!Ts*B/Rq`+U7I(=jnVt7*YmfDhc`s%jUVXM>UCq-7.-rQ,C%8#Enr,7spb#Pi(DJW*6)]PVAmW`Q83;r\AF5Z"&Xu<U+c*8AmgG8;JFie(c8kmNlWJsX.!RoT#;B)qg?#-<K:,L_UXk(]L.196O3(,$i.DnB7c<3\9$HnZ3^2C(G-^oJ,J@6uA,b6Z1a-MQC8/4h*Kl6.dX)s0ZFN[+</_AP^(`EVXQHPo[@e-FgAD"D&29D)c/gk?HCGIY1S!^?eg\=p?WHr<RG<E1=Y3g?!I<\o&f^?U$V>\CiqFJT%d6qPU*mi.D5,PF1LspAKDBV14m`If0QI.9q_fZ0+S8DECD0p]4A$B+>f]$++EaUnP@R\`SQ6M#FA/ReP0DPO+;6/(]QV^oSmSkk>m`M\Ve9"'e*=N3HT/`T#I]>q)8Yr""a`;V.QS_3diI2momL2KM@jk&js7TS?9UlT4FQp:eM9JF5bY;T!BkCc(N_q!!rDO?R6OGPNZ%1n/`":<IKLN_e:K%ftbRM`qndKX5dF*)T#";"0@/(Fmf9eiT8anb`\;5m9KD8unkuk.6JAaW6LboVsZA?idTQ1*fQ$B*pAYfY=9CO.&g&[g*]%513]tAA/E_=X8k2(23c;F*j0_7UtQV78RhCr409M#RuP+4so2u7o01aT+;1(T;a/]koh'oS>`pOa!ckGS&m/-#<^WJ_MYq&&Gbd>cmS#V.X]*=dI)kRHd-=SR"%M'C6m3I]pY:LJ':Oqi4ia;%fcXWqDt++hK`5jNo/ha?CWFB)NEneCQR[(eKqan-cmVDR6WNhr'eRYScKYc8-(=QC=tQk_/EA4Yf*M3Xo+h1%%Q&"1s3??k@9;I4=IJ8:R@V+K!/Q';SEmBR/S9q%q>o=1;m'djc,UEgZhX$3u\-[9Ra0.>Dp6u=U+/B?2$7hiiTMc6[*"'H5UA\I?t#E(`OW5K*Bk%C0@KS<2;4IVg,((#QX`Bib&,o7)rA<c+r+Iop#d,h^nnc.JO\]@fV<.dJ9FkZCY,#PGC<Snm8h&C4UX(QOX;)1QrVQT2=,_p[Gs/bZ=>,^njMg@d"5Wthoaq5Y487,"-lG#8Ur:qTn>koKTSd^S6qkgK<KoCk4A]2Ye'er0H`0rJ"@>n^3<4:AKZ%EW?"6QJ>KooXE\M%/M;33`3Z3K_m36??@44;o5FD"CR?9^r(Ad\Wde")M<CHMiH..6kc=$?]D=[q4kIi@7YG`/=!hFl%/O_#4W`Z+\(;?X$M(-gZGT)hhYJoq4_V?G]cP)L0jn?;p\ch>psi*L!gL;h4kO0[%W+W2nG:<Fb_[OWUh=ZTKM'g0g6LVecp4<[qd,KlPmWe"DjV(aPaeGR<d"RJ'gB2$r>0epZ$T##7nJs8Zc<9"qpc<cKAYNTVg<gHY%9,cj6[1(TO9pP*)f>`i1bD;$0c5ZMJ@:pj*QACJklS\s6&0fku>k4M=dEGNNAuZcDY>U\Lq!,+d"-!mcY`BP*2<dEqm%LJH_KRINE*o&Dph<a2^oU(.F=h"i7UY81.7q'`Pa\B=We(^>$Gs+J0"&;u*KJ$lPt1R[`Rj@.%Oq\pam':=aT`JiApGXL>Qi#ShEE,#c5=T"\RkUVHp'(Q?&Bt[;**Z^@sb21.!#)Zi(G0i&W6lhrSRq5r5a8QX^dSP@o!Gqq6(3+lsk'm*+=6H-^DQtq5eZJa+0&p06BX-;8.p^M]0QuP_o$tkbkAQ5r3Z6"8uEpG0k/CN=n4>0lm^1'im/$lDbn(1f4d_M\cD%,>0BaRZ:CbeaA7XF<@a""p(:C]i48S=;d7X@>6tjQGdRja)2C:?+mC[^Gt^!#Q@+$FT.ml:mTT/:m-U5."\[/@h6:gT215Se)Tr*SIR@d$SRk08WD:I<'DbeLUpi2+RA-`CEWa1(16KaF!5dN1bu`bcHbSlA//Do%ii`Pn38,;F6#ef*Qql!2`30#Z@a6Nn:6E#_WL!K-]QR,C2sh/r@V=4,E_2mVGc2W/[rc4)TfnR<`%:?p:j+Uf0uK'5X0ZAaM1eF>T.0'3%(([or1rddZ5ENpQkLVJ7p*<"TjNBN"1-73?V9KLRZYS\O:t3'PT'?nsikbnrm$6#k#`$7smmihd`2R,a.XkrCiF<h9n%Q]&cf(86\UGf/0@=W<Tq0@HAe%>HkjSs!1icHc&nt5_<8cU$?0l__$dhou\V8a-din@Z-JDm6-T5Io@DP!=-*_lUK\<+he&@kE`M%L;Ck2pkjg*<OJ``71=SO!ERg^'E!@MAM:dI*F%hn@apMn-cb@B[qZ\KA6J^3;"_63@C/F.b[+hjk:>=>qKkBHD9C\\ij]fnn7%><ju4[6,?tGaNcuN"GSS@AZ-:JTG9:a9B<!`_Pg`l8*@HoJphUH66<^09bF/)=#Wdj9NtB+3O`!G#,=m[qkNg`"XSlKhPdRK5lY1(eRJjM(rCCd>(+W#cSGWU,nrnn~>endstream
+endobj
+128 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2772
+>>
+stream
+Gb!$I=``=W&qJm</+Aen9Z[]];DV*4iZu-Zij"b?m8g6q+:8`9+UJ>QmFAu/DX\3K9/:A-WJrE/86jtaFSFB`*+HgH@t#dc+X[rop=pgO9."`>pm+]&(ZaE5i5^E17t0A-/$R(!mDET#7s7Gaih./&=YUC)>@,qjJd/-@5E'$N-ua1CS/d"Ro^T,/f/Fd!s!")]am$e7Qa:mhHum2]OOK]JG9h84Em9iIAAZD6/Uo(1^WGOqSCNL*iF#?\fW?HWin3psqtgIG,^0J^Z^;h<Thf\Ap`@(d*]%j.6;9SsZXV5eM&0<DXc;5%Y1M.s``<X2I]qpIaVVU_)9JjiP/BMCc75ZROh#!R>P@4U'=N=+",!jo\R6dALE4@J#?mc5*peXA4&0=n-ua\U5^u!*T`:.4UMteA?on4"4+Sl!gW;fmf:B"J5IOj,NP3CB!r/iUWYku'`#Ao_c"u6$lsguG<ZCGYk*W^8+mZLhVRTX6S%6#;YQSk-gN+1T<$,.?'';2jO3QBJp:&J,*B6.[$^URV;GFYJM7@+pOh$QAVd,?hbc5LV_Jfk@m*mPg/`bhZ_-64-DpO&Z:!7OI+9_T<c8`1@pb[^1=ioV-0q[X9.**@uM+nj/-9!-4P`bQYEg8ou0,CZHLGql&=\c[Oi]6o0l_E2j=B;Vh(#7.VK1EK1TJ=OQR6O/APUcVBaHa&'Ei"%JBJG.;XIN?0To%p+:diMn#sU2^*P1C.[i'rGEgQ>B-*Yu>-7ilQE9jLkZqOA$/D/0'cT00\^F58lP"p;Bp!VQ&)t6mXJ%#/(^[n0W#])K2dGXT<-r#\@IQ*QRrWkQ/d[sb4XCLSM)K)Cf;@g4aCB$Hfrq#XpCnG0)l"[Z^@#sQX[KQAV.)7kFJf-47YQ3:@d4iZZ6oVM/&PWm8'cLpP'fn54.1Cc@LqA;#M,8MbXb-Khl?u:2N(un('<T'4-Bb*!MqW9nPnk4:B:\Oo>8^;!iRG_/CL`KpUiS]7AAa'BCbNom9X4`j,fZOCp&#9Mi^K#11R.^Qj:a!>]&:#4af*KfD&[5SlP-O[RIN.(DRmi-:C't#b"Ld)RuI"Nq"sg2F<-`jh.E_#aVa[aB'NBZb.D!IHb4`>>3gCWkbeBt\`u-IWi\52m_-(OXSoB<")mHE;YTCHf46_;Z5mg(g(okdgD9Cb5-Ne7ZWm1MHRC;[JO(:,C$]8$&6[D8_reeTj&lcZo>5%J)YgCQCkIMY;/:"1KQ.98J4K"Tj>I(r@m&d</=I-!6T%qdhF-#`:5],4`HEcZ@fR1QO5c'^hFJj&n\oKoA;!dhC$I:/Z[:gt5Yp=I3VV'skLiKj)gWLUhIgH6Y*<BuL<q1+/RL>sqW$]-Ld:Ye2+e\$bAc5?YA]2m@b"-t@TIRDJ1s,klp7?A8r?LpNmY.(FE9("4q\LgC52.5JeOnI<ahV_l#LriEUb01f*^hmkjK3k:BAb>:K-qN]`bSj_eu/42l\C<-edpMar_?s7lNQBV'C#c`,tYV$G27H2sPJlS;LdInO+Ii8UehiEgkA_nDaQeU0-O2545,\#FI:W?ON&?r\MJfY4Bhf`&3'^?281X'gO<gY_VBf-qhtG7gho3'MLp$V;eN(n4q'nL1d?](?mN'h/8+plLuRlh#6-%3A-Z2i"4iRpeHNR?t?Bj!S@ZN=Om#KrBT\2%8"C@TeN(n4i]CU7!;/;c*S&8]qWBM*]auF!dtk"L[Y9eN>HQ2E/n.7<,Kd;3J@f4BlZ]EH:=m2ND^fm=X%lUi2gBJ@gma+3Vc5THbpp7N5u5.JTsS#B`Xe/b`.>8="mI^mU@8'V5Y$`EF/nsmoMhWfWnD\PSFOLH9I_Q/,O9Q'na^4<pcWo_<r(FJRp@#XWdkkc*W>:(fm\2.oRm?-b8]^:aD?)/>1ln8N,l(@^MUW)hO()D1(%V?aEMZ@\1.hB8rLR=!5k'#Ch'h45.cJSfbBW/GnJRELm(OSPIG/2-1+9N'd?n.p"Xh-QZcI(k)ZP[bM4_?3L&uA,tG+lh5f/TY>2qY7.)M?K1b\]"7,&B`RG.8>)"C1'AUKpn3^q6C1B.Jn[K3fo]_iQ#t!6[hQ.D'O6T.4@`A%Q6GVJ(h1HpGH$*qC9'H!0qW0FIu5cZOFBRB-"jQS()u7$-fTJ`/OKdT<nIafIc=r&HLC*:?8gk.V541_KfmrAdBG\rK63K:U1!-?F<fb;Selc(WE_dAEqr4r,qGMnq+Ho5:VgZYjA_;Y6kuN4g:9a\,q2U3GM^4(pVuh4&APcm4pC)H#UGs.&a'[G89*ffJ6b2F6--7oj5@6#CXTC8*;t6^d!$l_.f4.P;-r.`+Yam!S4g,d8EfJ)NT-LLE%&qA*@QcHFbO3G"s9+b@8tNuf66;>:77U6?&!Ep2QR=h'YJ9o6Fk1\jh9qeE#l/QS3/-#.,ecLc'_olL#%*pYI=rrOYNP?/)'3Q1N40Z!?1FE#e>iWGZa2McR2b6%(?4*fG$s"deI!(#=hNI`l0<%B!=aW6(\@*OCk]R"4g_HUB[3jbre.<-b;7jlt"ejS(Q!CaI<\/k'54b$*[sAI)Zf%bZ@bNbXM:C0V[(ThiD&g`e!4\6I$]Y_;mN6Ho^/f!o[nqhQp:.2W*o,P.mp&(0EMf:oTp;JZ]kY!s,Ek&DQ&0NUG[i.H2NAq<cd"=(g\\2[!HY>liSdPWAh-706p_WZL*CQ3GO,=>H-oc1AAKHHP&QcQK9iL#;=+3QbSX5bIn&E<,=>.*rj(BZ#RM=:],Z=8*rnKAQ?Ti_r0A2d%/`aMIlVh`Zth~>endstream
+endobj
+129 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2724
+>>
+stream
+Gb!$I>BAOW(4b<@/'_(oFDOFZ;ie3t[qY6`[G:3:N*d\?&s89/('*aehtI*n.4VnsQ5so(M%tWPSbiX?/e%9j28@TQi;=YQ?b50AE'FF`E!!PaJrfXRs#Y4P3!`f/_Vlm\#5B&>nLt#!5AA-U:8.uQ*'\0Bi=!,_5>#mp3:uir,n0eNrR5*qmj=[prsLcPE,dc7o>=(K#;:r8/g_AV+n@t0UQX4QV/T-En)41$h#F0_FV7q=*.a;uG"6P8GWp<Nq8A-Jl(i&0$R-r*TS,#gZ+YE6@.HWUr1WR)^)MVF4+WYDm-Ut-1[mn0(qW);kD`kj<fmGUU8VJp%jSF)M4cO9PSVI!>^rF#f+]'^4NBfNBla^C,k+Y</VK2=E!+^ON>.X!i.]fJLdUNYk35`hJY-mBrR5pV;7s?$YDmB\3MTt=oY;@?Ynr/iBbf0W_OVt>+Ka.11Rf+<=!&>h<f2'U`m)0AaZ=/+<RQcYc.pe8&:CV,pQlqiaZ?J/#3Ql2DR64]^+.sW7GeDXYf)$3U4=[`q'-UeAmBl/R=p`9Fg6:%oKr0j]AhO2Y#Z7>eLp@j12PQa>gEj(Zu=l_U1&YG`pgK>(n=OpKbece+lamU\rmlIonQ`o<JCin(%*TK-*:.YUHq2&W)tp4Ju5O`<5QO<]A:B:DeeUrXo$r*0e0jK#+129MYhIBo>b\G_$a_YjM3Y->s3Q(`)I6=n!"RkmN%lY8ss)i.2N/QVH6PZK2XQ,JVE$S;(>tbS!FuSli`r$S<FY./o^AZ3dY](`N<4C$&[!D&N9KFcsg2:<_hV2.92N<IXheM-#QltA$^':[fraiFgOEo<!r]-Jm0E5VM\gh2cE;e,FP]^CbS^Kc&#CNKb(gAXEoUm0g>iFB@?[Ip<8>0F@HG9RR#Z8R)8j%G"=(t8;.@I)\)QNT(41$Bu0!AjFUb?^sLNC0mVn3?UjK:l[gP)X*s+=[n,^)A&oQ5LHOOAVsoVGd>D"ig6e@gmj:!&L[4nh/KLYW1&=!u2bC97gtq89Qb:+mZpiqL3D4Fp3a[!MYDi+K"L>hYq4!X=OV1SrPmXPT2O49!Im<D(^S.XAD>>WM&n%>Rl!7;[ZKp&L%rIe]CYP<*:&iJKCs-ejXuCOVCEIGq^"M;^(0_JhO7%:1O/DWY_p(RG``0MBNHnWuGM&Oo>PF2^4=&KH3(tNcJMuD=YnM%s*`TdqT2:#DR?D+fcA>"XFCk*9`b'+Q7-Lo0H`g)J!nXhTr%fcNN'G-\UcDA^4R<P.9d>*BCj5J&)MtrN^cIAVUTIY'T1*o8bhCQp?oaTp9ZPCDcQSZ0BIi4h,FG6m31=5[ha?.#U[QEm>;m.3Cnc'_>JX+oOV`.sfuZ[$N;P#j!jAhO*g0HK0_^R4I;gq,$J7s6ROZYrH<TU3=W9n6NYb;<Fh0uFB8_Hrj#0d#'T6n@'#lH'F#eMVBPpWpY<7MBZ%=DE\s-;/YlR)YW1X0cXdV%sME@<Yfpo4f+g(6E@=.8Xg&nF)eM2neWB=Ln6;rn2Oc1(&XBKDn`$g6k&E#;gru6Tf2Pa>!d>W`N-E?0d5'3qpW5#HfC+NX]>%]tZ)+@1(?I*\!X%pK`.lJ,1/2=4AbC++iR(NpWr<5\hc:EYG>>bTf#N(I%kdf7WkLRNRghR/\[YeI<`t=54.P5RfC1H]*_r[B*A)A!?7S*Fqn20iVYm%2VU<^-H)_Rp%"*Lu%iYEjQG#07qQ#5/qP,GrtE(QobcA7k>`Z[s+7U6:gU(X(+PXcY[N\2hgA?s%m-I=i48\!iUg\/.si8Q&d-!]M!k7aCs?3Hh&7/C1!_apC+?5fSXHe"hb<ZKYpPgL+\VM)@J"+&[(_:((9KA1u/W6bd"*-3hQQbO)*iu\3=qdH`1db*<.S%\>-?b/2Yl.aRq%k%m/Zu=1+*h\Jdi1uFKj/k<*#LV+kq')@$RX9k%:^dlo0V2cnao*KaI5EpB,f:ZMmUSmR7RhYUnboLk1?b\&]<UGE9,u9@4.,EVCc]D6M"j7NOM\8/GepF`_,>E!:*`l)#pji-d6$^cbKWB4fse3bH=iZ^DMcMKX>9J1i;@o20Lt2+Dfp93/">goMt!D`5i3]l<NWlI_4jF&PGfTZf@NEj<tB'Te-r/#cG%a$]%<:0Ur"$H@Ca:R^=DYU"tp,2f,E2mP\8gC\02k>Z!>*>OY_tZW27>Th8T0Jh>cdjF59`$?YB43;O-iiQe@2*p@"P0]'E!f(89<.qnt6n/<P6>7EdVj^E$acK?C#CdTGgbTd#]o=>EHhcANECr_)Z%;3>=*eCn.Ln%"AC80c(hQ3!Btg0;;01ks%2g?4V:YAkO'nJG`f;4!A7B/uQIdTf!h&I?_."b3Ou24)Pa(]G(pML6K!^EP.6l;dAQ0rp4AV<[`;ou^[YN[(t*G!1qFjXFds;OEZDFhLQ"P2aTq@^<qJ,2'WG\#dO++j)(F)XRY_AblZce^iAu#"F>_\/4jYD\#J6qJF%/g)QDd\p*<$%<8].b>t:ch1Daokorra?5k<kVNbSBOnQs1)!a8!4PoJ'as;*,K:juY<k,Yt.::A>X%`9$&FS`sN[D9f4:Bb=d\=Oqp,a(OCu/JC?&qe9.lD:t!o@B\G8&>FHL$4QN6rjH;1d*1,Xn$)G>$*64-`a)q"`com>@kk@ulp^eh<Z('I@gZ-Cq*[ItUWYl&;FQd<o(01N)*I"S8jhY'NfLB<.$K?RNMLUml6WRr.*E+!/4&\G~>endstream
+endobj
+130 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1177
+>>
+stream
+Gatm9>>s99'RnB33,_MQXKZ6WQcGCYQO^C!8XJ*J?A,FgZaQBh'f,UZHR)s;R_mKej%14^kPBVikYMQSU&I!O!T#Eepl#8cYZq4jKZ!?^:7&;:B8"<1:`prQPCV[Tic,N\\XW7Q0hIm59#@N._?8NHNtO8a$g%lK0`Uk2r3+SQMt?&fnG*Jf0&D&(IgU/4U);g!EH2Bu'C]#0c,O9$0'2pe/FR$C``XSo3Yj0+KQRmG8]!e.s"GZ0ChL>'`Zl+9W'Tnap\SM*MdO[R$pp,11kID.]ZVXj6oU7h@7ip]q*ae[.ITk\/#]:EVSk\_kI-IA_9+0+m3]9E&GA6e7EPm'SfAb:SF@)rE(P_=#3D)h4q$`lQp>p<$^C[D3A'FP%@V@a+G?_u5q$hcG=!S:Bu#7p@EaD?G6_*NKomWF:ti8BpCCg:T?JP,2"5(r`ZcA.`M6s7FgO9I(0rmbO3\Zke.o#W'(*nuZIo>#$7/Cpedh]`(Y=AJ:g1r/#A%(@2$Rko[SSpYVL$rN<[$$hkAef[F[2Y(_85Z0(jlt=W/-OB:=CU^nEl(Q=CM1pedC9*_\^d0*O-H6:`rJ5PZD@=K:#<&&(/VQ9l'(7=B.^haL-/QhooBRh7W_oXBllk3!PC+a\lq.L>A;+i1^2G^i('N]urEaeUj'q'o(GZg;qL([VW=/9s3*u%T2qO'1CtQYUs_NPKb$%=sH[Wd>T:r2b46'R2'5g\]W&1D*i$Cl#Q>'4kR":pX-=g2H?SsTIe0AF:A+Nk./pE<*>p<%/^(<]#@RqA$hR>HDqWa-u!e&mpND9Og:UPlGZ?-LoTcMkE.B?\#.A(;QQ@Q`(RXD_'=pJYkkh__NJuW[:;U=WA@%ACWGdPQ>Pn]Kfl^IZuuEe<N-5&/SnEe_6)EK3_+N;-rgf#Eu`VQB^3KAr^d1K.J&U@%%]!u_D8RP$@0U"D=4[PTLF06b`2CG`14#=f5+j\YemhLIJ<C.hL<67TM'*[0/BT)*b''"$OeZd[FIUZNZ\Ug7^`ALlNk8iOh43?FmV7dDJXq-XN]VJaSZ?.52u>9fjQK1YT@CVh9V!sjlZ3qLoNtE@6`uLr+WXlC\RCT[^r$fnSFp=9_O)@hhUb:GIe+/8W;uK)#^*IeGWi9nKW$5nV_h-_:7W2pZfAbMOgJ4U9<@VAha)miVclg~>endstream
+endobj
+xref
+0 131
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000850 00000 n 
+0000001022 00000 n 
+0000001204 00000 n 
+0000001386 00000 n 
+0000001568 00000 n 
+0000001739 00000 n 
+0000001916 00000 n 
+0000002092 00000 n 
+0000002262 00000 n 
+0000002433 00000 n 
+0000002621 00000 n 
+0000002810 00000 n 
+0000003104 00000 n 
+0000003277 00000 n 
+0000003450 00000 n 
+0000003631 00000 n 
+0000003813 00000 n 
+0000004007 00000 n 
+0000004177 00000 n 
+0000004349 00000 n 
+0000004522 00000 n 
+0000004704 00000 n 
+0000004884 00000 n 
+0000005094 00000 n 
+0000005302 00000 n 
+0000005511 00000 n 
+0000005720 00000 n 
+0000005892 00000 n 
+0000006065 00000 n 
+0000006253 00000 n 
+0000006441 00000 n 
+0000006629 00000 n 
+0000006840 00000 n 
+0000007049 00000 n 
+0000007257 00000 n 
+0000007467 00000 n 
+0000007844 00000 n 
+0000008009 00000 n 
+0000008247 00000 n 
+0000008488 00000 n 
+0000008683 00000 n 
+0000008867 00000 n 
+0000009052 00000 n 
+0000009224 00000 n 
+0000009397 00000 n 
+0000009575 00000 n 
+0000009763 00000 n 
+0000009951 00000 n 
+0000010138 00000 n 
+0000010324 00000 n 
+0000010494 00000 n 
+0000010667 00000 n 
+0000010856 00000 n 
+0000011045 00000 n 
+0000011234 00000 n 
+0000011421 00000 n 
+0000011660 00000 n 
+0000011899 00000 n 
+0000012071 00000 n 
+0000012242 00000 n 
+0000012619 00000 n 
+0000012794 00000 n 
+0000012968 00000 n 
+0000013207 00000 n 
+0000013448 00000 n 
+0000013625 00000 n 
+0000013801 00000 n 
+0000013974 00000 n 
+0000014147 00000 n 
+0000014318 00000 n 
+0000014489 00000 n 
+0000014660 00000 n 
+0000014841 00000 n 
+0000015020 00000 n 
+0000015190 00000 n 
+0000015361 00000 n 
+0000015532 00000 n 
+0000015705 00000 n 
+0000015919 00000 n 
+0000016133 00000 n 
+0000016309 00000 n 
+0000016484 00000 n 
+0000016647 00000 n 
+0000016835 00000 n 
+0000017023 00000 n 
+0000017407 00000 n 
+0000017589 00000 n 
+0000017771 00000 n 
+0000017980 00000 n 
+0000018191 00000 n 
+0000018402 00000 n 
+0000018603 00000 n 
+0000018774 00000 n 
+0000019003 00000 n 
+0000019179 00000 n 
+0000019356 00000 n 
+0000019532 00000 n 
+0000019709 00000 n 
+0000019919 00000 n 
+0000020130 00000 n 
+0000020305 00000 n 
+0000020480 00000 n 
+0000020673 00000 n 
+0000020862 00000 n 
+0000021037 00000 n 
+0000021212 00000 n 
+0000021386 00000 n 
+0000021559 00000 n 
+0000021945 00000 n 
+0000022116 00000 n 
+0000022286 00000 n 
+0000022514 00000 n 
+0000022744 00000 n 
+0000022927 00000 n 
+0000023178 00000 n 
+0000023250 00000 n 
+0000023538 00000 n 
+0000023637 00000 n 
+0000026271 00000 n 
+0000028789 00000 n 
+0000031503 00000 n 
+0000034368 00000 n 
+0000037185 00000 n 
+trailer
+<<
+/ID 
+[<e6e46c0a6462e2abbc7d95cec46f8ed4><e6e46c0a6462e2abbc7d95cec46f8ed4>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 123 0 R
+/Root 122 0 R
+/Size 131
+>>
+startxref
+38455
+%%EOF

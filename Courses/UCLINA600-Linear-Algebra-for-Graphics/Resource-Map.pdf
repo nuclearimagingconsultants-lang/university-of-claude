@@ -1,0 +1,895 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 227.7088 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 202.9332 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 237.6632 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 117.5664 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 214.9208 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 263.15 126.7572 275.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.95 216.7148 253.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 228.75 215.1968 240.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 206.55 222.8696 218.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 194.35 107.612 206.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://raytracing.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 159.95 224.636 172.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://raytracing.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 147.75 94.824 159.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R ] /Contents 105 0 R /MediaBox [ 0 0 612 792 ] /Parent 104 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 237.6632 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 646.66 94.824 657.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 202.1512 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 164.836 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.75 196.2632 602.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 556.35 218.748 568.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 460.25 207.2572 472.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.85 222.3268 438.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 403.65 222.8328 415.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 369.25 192.6844 381.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 273.15 207.2572 285.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 238.75 222.3268 250.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 216.55 196.7692 228.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 182.15 222.3268 194.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 98.25 191.9208 110.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R ] /Contents 106 0 R /MediaBox [ 0 0 612 792 ] /Parent 104 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 218.748 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 236.1176 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 97.906 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 212.6208 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 123.6936 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 187.3208 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.95 232.5572 505.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 97.906 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://immersivemath.com/ila/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 196.7692 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pbr-book.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 435.66 227.7272 446.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pbr-book.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 423.46 189.1148 434.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.25 222.5844 352.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 305.85 222.3268 318.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 271.45 218.7664 283.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 123.6936 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.khronos.org/opengl/wiki/Viewing_and_Transformations)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 237.05 211.848 249.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.khronos.org/opengl/wiki/Viewing_and_Transformations)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.85 179.6664 237.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.95 223.348 153.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 118.75 238.436 130.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 106.55 120.1148 118.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 84.35 196.2632 96.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Annots [ 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 
+  46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 
+  56 0 R ] /Contents 107 0 R /MediaBox [ 0 0 612 792 ] /Parent 104 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.robots.ox.ac.uk/~vgg/hzbook/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 220.542 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.robots.ox.ac.uk/~vgg/hzbook/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 95.3484 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 583.95 224.1208 596.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 571.75 118.0724 583.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 549.55 227.948 561.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.songho.ca/opengl/gl_projectionmatrix.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 236.918 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.songho.ca/opengl/gl_projectionmatrix.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 502.26 94.824 513.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/content/depth-precision-visualized)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 225.6572 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.nvidia.com/content/depth-precision-visualized)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 94.824 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 384.65 213.3844 396.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 350.25 226.9268 362.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 338.05 97.906 350.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cadxfem.org/inf/Fast%20MinimumStorage%20RayTriangle%20Intersection.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.16 222.3452 326.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cadxfem.org/inf/Fast%20MinimumStorage%20RayTriangle%20Intersection.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 302.96 140.0512 314 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/book/10.1137/1.9780898719574)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 280.76 215.6844 291.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/book/10.1137/1.9780898719574)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 104.0332 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 185.35 222.5844 197.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 150.95 222.8328 163.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 138.75 97.906 150.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/book/10.1137/1.9780898719574)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 115.86 202.4088 126.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/Annots [ 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 
+  68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R ] /Contents 108 0 R /MediaBox [ 0 0 612 792 ] /Parent 104 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1404.1100)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 198.3424 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/1404.1100)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 174.5604 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eater.net/quaternions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 583.26 236.6604 594.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eater.net/quaternions)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 571.06 183.4844 582.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/325334.325242)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 548.86 215.4636 559.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/325334.325242)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 536.66 140.0604 547.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/mathematics-for-3d-game-programming-and-computer-graphics-3e-lengyel/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 196.2632 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.elsevier.com/books/visualizing-quaternions/hanson/978-0-12-088400-1)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.26 205.9968 503.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 396.85 229.7328 409.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 384.65 97.906 396.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.3blue1brown.com/topics/linear-algebra)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 362.45 236.642 374.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://epubs.siam.org/doi/book/10.1137/1.9780898719574)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 339.56 229.4936 350.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hastie.su.domains/ElemStatLearn/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 305.16 235.3908 316.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hastie.su.domains/ElemStatLearn/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 292.96 198.0664 304 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.75 229.4936 221.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262017350/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.55 95.3484 209.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 175.35 223.8816 187.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scratchapixel.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 163.15 116.5452 175.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://raytracing.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.26 224.636 151.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://raytracing.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.06 94.824 139.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 106.55 215.1876 118.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 141.5876 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/Annots [ 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 
+  89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 
+  99 0 R 100 0 R ] /Contents 109 0 R /MediaBox [ 0 0 612 792 ] /Parent 104 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+102 0 obj
+<<
+/PageMode /UseNone /Pages 104 0 R /Type /Catalog
+>>
+endobj
+103 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160525-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160525-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+104 0 obj
+<<
+/Count 5 /Kids [ 19 0 R 35 0 R 57 0 R 78 0 R 101 0 R ] /Type /Pages
+>>
+endobj
+105 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2431
+>>
+stream
+Gatm<>BAQ=%Y"/U^tWij1<\dMI7mg*FiUY+D#&>$9O9,^/MZ3QjX$r+I6[(]/'4)fB<#2VEgM[fn,XV]#dWu)W1RcioPm44>R;#Q9qFq$Q:I,X)GeZX3j\0,nm"JH*CmOWP9i=7_LUqI=c(%)+=t//39f._j&%Dmq<'Q8nN!o)5;$@l[/H@fWN."r/774e6iC<C&A;75":`5pZ2B,!"e@mWH2YMJrPS<hs)`HRQT$!-IiJDUPHQh=R87##f#dJc<PI"=[f'ci9[@i4!CO<7?II*kT-#JcD7Z'.e^^XpgLRiHg'^%cf!@U\P5PB8"NCq-ZQch&[bTfK*Nnd5OXgKR6d,)NSRP7eNcq\hLX:J@j^"G%ZSKY%86T//Gkg8$+Z512I9]F5YIA'@(K_-`63\##[K;!&(^@5sikV3pM'*.qn:cL2Eqs#G-W\SB@.sG'CN=P^*n1)_iU678E_Nqa54>HA8tdBsN'`;PC.BFS/*)j,YXUUg)BF?Chj'43XulpLk!g?S0D.lGI>gYL&R3Y'PEdo&ksIY$dlO2cWhrR7Z<UpS"5go%75aCOGqiT3kU1nj>\<)fWj8`@H@tAC?($,-Fd'4K8mtdG<ri")]7dH4Tb[;#3/I,'-^CSf($#NNP0Kko*aT+Pq1`t(X(!`j*O9-5FF521C7"T20:W;lH_CsQ(]$S`]WHj(1.0]`-rO#"gkI+`7g>?U<3_.9'b''Cg9PB4%_pmadH$</+3$/5rVGKGkAW#;pA.u6f6:]ZlJSrr,0O!$?JR(T/(E2IbZ0,<O"/c--]>&Lr)j+[b%9:MnAHNmF,R14&McooI3AG[X/*]R<bn,IW*SVCO>E&L,J/0Jr&LgIG/W:&[&WD0r+)Ou&#Uc#B!S,+S5EFsZ5M$s_7(QLL/jeP/^>QeP,@INaU1A<ml2Z!T!d-(-[?2`4e7e.((rYSe1>1"4_La6<7r!b=gS.j8:Zj4:0N*Xk>\;-mqKb_JS/e4gFX=3:93Y!V2Jm;.QPL=]tE4N/4=tD@UCSSX$m1>o(f&`Lem5i1$i#[$ug_p+8.At=JkXG:q0'%P.GZ<H_=tO;me)(cVdp:^1*Bj/&*gGfIo]NX-?>dS7PE!B@F$>KF346cb)L3pZoZ."(<kgXpf.U.6l2!.lQr"73&M_*V!W]mgX@l6?\opoD<U"'hQ*9_+RJ1)[nT8*iDXA9KoBf%t#8f4;g/j0SE:+R"'W>KkFW[Rg-/P-Xa7H.F[8JdYoV7b03AkT`;q<%&ptW`GqQ,qrOdt_8;,XU\#Y=m#Q@I(B-eqeu9\;On`@MQ)N;Dhd&>G3%E?_2l[j2@P$?[3kE3cD8Y=cNrnr]s5F*?8*$l5W]/oM[id)S&h"aY#7)7ZJD/ot:T*8(IUTGQr:9FLLUKrC/W(aTbI.UTVJTA5.^7[0N!r"RZ?AOCf+TJ`oKlp1mk15%o\AOgI7JR^^ARW3YA>qXeD4j[=t6!HrA^j)Pn12M=&_c752WaQ7uAVGXfRkdZRu(#M3%9TV,??8\Y3_7)3]B$EuS0t]9ttI<AieDd8[%Y>XnNk>30$e?8ThNjVBp,R&pCdr&[L)I(`OJ?6O^Q26o5I9EGjjQqrIFq_@Q8pfMT_:lpa-L2-olcS*X'qL(A*NdNLa_Y:.qFML)>p.+q\Df<uLZ*kMkV\4fYTU1(TP^+MJ+FTM<\(n_TMlL[&+cWMj`l;_ZjVl7OX9sf9QuW=OREbr:-[j%<ROd/s,^IrLV3SsV<qR:=g$U1_CeohB*NK/j3gbN?a\\fIW)TO#T,ku/Yta8(!q`[SJd7&!496UXLRa\gU6J`%";pfe.7HbBHa)D+]2tmP`88#RJ_TLjRkMhmFC+E%=nP>lP'NspU`q7oAX=dn>RjI\3b9/_D"Ya%G>"4u8]b47<)$"[2uO(m3/UCO641Ghja8Y$N<^\\G-9q`OSQopNBSZ-L+Y[AeJn^e(kuPdZ7;.\pT_UUq'J^dl6h960G"P1J8FD^Jet;ZDo&2c+\SVO<i1.$K2KY8^H.s%8gIesDRF#(YElK>f,!?[@B#WC\NU4\02>Y!5Ckt<3*O.?<MA/B>,<7l#Ug-I(^&V(L`;tl'H0M-5'GQl:p^Ika0KJAYUTJUG!_IiA6O,XWaG^\M#!s=F)fhd-0WM\NE[-8V:'%-Qs*1]\uH6a1jQK6DQknuho,#;Xj/,kF1Kj%hC!*-JG<*?0'NiHp*A`Y=jC>Q^3B(<J%C;"H8G;Wo,hiaMIjX2YcjoiZ]VD()WIh%(:$\8<AH;eNtc0j,%M*L9hW!Oamk!r7TgfNpC>M2B%k^T9$t-2qMg7P1D$O.HY:U[q/5t:^C20'bRU5"FZm_Q48R4gWThCgWAh/]Ae_SLhM+1P-Gp$/LK-3O%.!1Imtf%c&\shGcPt^7:;$_Lj1TMPm([$_I)k/l]BB2*Nt8g!o^A\_3r9/ATE>o~>endstream
+endobj
+106 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2374
+>>
+stream
+Gb!$H>BA7Q'S,*</'clb-5apM5>npDh.^;3"3f'_7<'#3XD_3ae,9)+P&/0Q/kpD<V*bnhZ?12kT2Yk=rXe`a8c^Q!nFcqb@_m!b`%`5K?Gkmom,seqpl8"_E6U'j*W5OLht3S#c^K'*,EOR4L@$iO@0^N/pB$l-G:bg`$Kkb\?%'>t]t53^".qfnqs/H5s1AKE[lbbjl[-.UqXb7[dtCpPo"'bsgsG$q%"H(^[@GkTE,@N:,I"OOILoVi$b%5($kHr_=gO^[)4gpZ\;lR9c!pg!#B%O>D'Q9A#I\P1H:(_/]&#uu%Lq#;:2f4VP/f\[$)Fq;--%ZRgL<cJ#*Y4TADWgA$YmDHba7J]:!4Ym.W"RU@tJR-EdH`fcYM<geJQ^'6Bd'D(fmCfiWYq8j'L^B-6LhG"-]Adf^sSQLZ+I*\.VV4)13uL1$+OJ^IqV5T/@Ft@S=T2`D\71EMKrXcS5=5Yu/V@a0o7*+iIGScK#@NLcT^,f<F1mA`7R<s496$r+QDpFC%&MQM]9dN6hl*$]NI+/_@s;D9)?%[#_WWXei!ogu-.-X+@<)R7[VjmieP8+0,d@:.H."(@F^BW"WgsOOB*9I%d6d:oX`_3H&D9UB*nN0HckfQM<Y?(%;R)r.1+7-@(GsJGtW[5M9jugi.dBXEl1TRZ_RAXRPq9gFd4PMmsh>KnJ5r#5G1q7JWd.Ojo=pPkclZSp;afb:jCd'=d0BUF!QG@Q#]M/(==m\W!*V=3kYpB2S%k<6QppLhX`C#RXC->Q%KpI]$1&"e$\jiKK/($q:ZuL)I%K/Y*c*)aDqY68`g%AgfN1dBE[c2HItmdO\u3)e\!p(trI0M9Hfr1!oOU=;Y7Yia\-4Sk8@E;XTbbr/i:O#;S`d/5KE&ZD$cYZrK[RJP&I!Yc-Q,-=CKX"Q$`N[YJ;Z1#Jt\cH..0$=9q>4_M_N!uPM`IUHXs'e<ZKf:Oj*9ed'rCnSurL#8bCQa@@6=bgd&cs;LERk#Ho(oB6B"LV=+/!3;LnA*'qha**$Fe%L&pd116I/-N@4@V3k"j;-+%q(-7@u>#r.FY\82U0W`76UKuRfZdU26'Z"7!V\.=m%jM=*rf$CuVo)I'Bn@k%0g^EZg";W+=2[PeCq`Geu2MTP$c?1#G:[mO8k,F(-HI-3H)^Q:&7A'BmQ*0ZKJ6d"`g`Mb0HbF&Y3FYYA(.2taj_r[?+m`GA=+)R$Qa?hjZA<r-hOIC7TgD/,nrP2MTSh6cS3;Ob3RXrXcr%LiVJT6ff!<;H"Ze5P,"Wd`^!*nhZ8cJ'E5TR-r&8Gc"Ng@#DP^-(oi`FuDK1^'rS+MFmMap6=`V1%8@#$,&f!SeFR!BP.):r1(n@^B@H$`@Wnc0<'s7Ui^Z[>;2\X$ZC4]Y=j+CpQj4-c<@*QT,2P*LoHCXO^%>"KG^<d2gDZ\?>2eR6HC3\`kPP2.o+[nKKYnFL[:.i7RP77?'\of8WD!>ZWXB]1o=Y>u#X$=d2&b\Tju^/Qh?BHm#gK"a+10#oa0?0\Yg>JhEl=eA%s\d+!FP^tG(u7#WG[&$W4uBgW]O#f!Oj'`Ai!&8l/=>mgiu](DsEXNq#)aB%u7i"`:P0C"4N0FfEl<dpbW5;$ZO['.-U%0O#MR6&Q"?g$EGSsNrY+\.@N@+)>d'+m[YZV$h4H=Hh"GXE/C5H)gm'%TIZ_>!8seet@(18(DTY4-s#@L4)Si^UtURIJQr)]MA6o5)e,7ZU[r3N1S?Ksnp-b4=g_KQEFjbNU8&(52"5>=#cq3A`1,IHmg!6QTo&nEZ4qXcm3G]\/=?4`n(:*Q(*"]\2!`0\M[QOpE_p)ibk@4G.Nl7lt%cff^h>Li-c%[Fo`Cnq6,/nQ^!n><FdrlGP?,2pu-[al%%)-2*)&n5uN)4h97OW44LjYhA]<ksS&!ZkkaYfpCu.-i%(P-P\9I*iV%X.`t[82D-)D-<!po3[8#NB3E4$n$(5KXkZt/]MmYe4f+41$#_!;8I/*r`n?dL>'A7\#G[_8A'p799>Mas[cr$&<2[Sq>\%Kf[lT]JeU4jA34a'SFB/im4JacZ_K.b1*a=;%p%nZ^.312I%9*Rl.TFernii4"Y#uOd=`UO#\AK;8gC\$`?Aj.hSi&^&4imOE1XS=g&^-@@;T:1HJ7b0Q@]]2,6CPRj;0F%U[Qn#7g^9i/c(UPulQcA?1r#)]INQU0]l/8I6ee@CH/#)8[X_O/a]_Lc?F\s[NB$(jDqQ+IoCj_djFQJ\7b`)Oo>;TPf(sp($).pEbZa)R;rQ*[/*qbNFhI>,3Z^U8gq=p0eis1'SRXRe=L@l+bA<UTp83>$s&h.O?q=o+Xqp5*YJ\f9k.oT*Vq:Ptn#VIsR^ugG`p4u#R01b6"'?p=%0~>endstream
+endobj
+107 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2530
+>>
+stream
+Gb!$H=``?+(4b<@/'cVGdZGE!4!,,KWB8C?V>&ga^X+5W1*m5B+KakbpAc<b.M?;aQ9&l[;$^Vm)pX4+![dmilL24_GWg\Gmg'I4Ae.-H_h$JM]U`@+F^[8Dit=%N1CQq^Im(h24lGpiG)U>BE_pH%?98F"OEQ(+^o;_5OqSTbq=a@TO1/J7Y@mlj:[d6,k1-q"DZT8WcNj5g"ZP$T?\)jYn<F@3n<h(JW-SKNmkFW=:2C'C[Msf1=F*np&6Q@K?f,3-*\8qdG!3l%49l44*?3bf`uJuh.?&,t7UQl?Cu93=5k\T0K:\)D)Qll+6-i=hRqH;s6P7k5BD;u`[R_W<iIOpr0*cQH6-ZUtcj_SE6;pI6R"!uG."rAP7Vr]l&78"+aoRfdr>je7rg/oj,o?=kViuVA:+2"MFg@jWFXJDU6IPu\[!g,?nQ.6@*JHQ][L??/=g`2A0pOFC72&UFRaq:<0.jmF3`5dB#J.l#UdAG&Zd;D"?_riDc_PWO2+8!T8HOLXj#gh.s/&X&=Ud*4Ug1\;j%uYAJ:](A5/+6+J_+(d=N'mZC(:P51Vd@/cESD")`r;jGb%bsKfG'l>&M33W(b!X]1JUMo8#&>GLc9P`KP'+d@^*7es7Z2Gdr(/jNDaj[gN;UbmH1G/.BGsGAjP^E;)&SV%a[obNVh@!sp=<nWpBP>,Tg3UOlg<;3@,b82:ci<M#HifE:hgHo65%7UcNi4`aYGi_37mknKK,iY55^Mfbq8E6m1/Z@Ppo<7!Co#tQkOjU-a&=L"mJ,7^fN_Ur9J$t&0OF*0OuB!DlufJ>3TDlRu4Ft;`JcML/jG&nSR%;tTO,*.:]b/Z',C_%c%`:12Pd6>F!"20a4:[UHik7l_\*>":7LF1?6]2\$d:62k=O)!qPfajO\\jRY"On,IkXoGEheJIa:MfWt\Xk#WL8c8!M32%P`*K#6gkX)-KT)F0BF2B0u.nZ0YO,Zc13#/g%BnFX%eL?5>6FWrjGPqL<cK+2hjOiRKU-5.APK\rcPYh"c\oq#]WOKI@*SpGHS4g>YX*93$k+LPc=F7A=_%qH.lQ6#rg)a7'l@u?pmYsh)h&H$k5-Hu:ZX<IM:G1YMJSsC[#MFLbqM)c0F\qVVH!L/lU[j6g/AhiiN!&^Cen2i.4S0!F4!2u2$)XaDjUJ9L1WQr6(<XtniB*VJ)(Wb&:(i23rbV$n%/)m'5R,.\kd6fr6LkgD\-Q^P:O</a+QnN=UR*qY1;ZsULAa/O.!a(jU?k/J_Yqg/nFS/dlo7QM%$F3faY*_\"iKs(+Y,>d,s#ct,g[i*F-L'ia)3(3@*qC<Y3b9Can6&bJ0:2a3Q"KU<\HNC&BAgA\"*V]KXmB)LG2abE(8&JouGK[$W]#hi%50OLPi(:_0[HAbM,!.ZD;A:)QKJI1oHJ70?%9m,de2iZIJKf4=F,SB#hOOF<oGnMpha_BII+18ofL)))%b-\r$])s(GO%k(N7YL^^-90k<q%1tT6gl=@O:#74;.F_*KoBC_QEp40\$*3A&6\F*er))&^KM>9=2PMO-+i4#S^;GNQFDu0(kYI!J^GDN2ZpOi;,g8!2Z/2+19qge5tU;Oh=B$R.Y0-^N:0m;e!7YJAJTG]_)ck6rSk.uc6lLsL[0=U->\:i'.dR8=od$^OY,!6MDm55ljJ&]3p0s*l1HO&i<c(UQ!In,51Lh+lG^jgO0M?^Y8ol(Vdot/i`EX4muN&KPFJ[P/?r%*s$ZjU,Y-H%sfI8lLK]/e.\_1!*]L9'U`.)jm=$Ff`3qi"O5etsK;%\4X$*3780B*5]>QT,oELh3//JSemW+]U!tOH9PsaK)>oBb/TsBG[_RC#Nq:=W-Bs,4g?E5)QW[=W*Lt&/]/]p+H9[r[:M),L'B!Zgr1C1>NBkk=\sT=D@]j;5QFBlu[[hP1WC+q.X3QCD3-h@7]/FWNau7>31m4MSoJ)K%lSX;(I=R\k"%pa"p=VB;rENc(R72`#]pYUV>ih6D<O=.4Q\.egaQC"Q_L8rh1O,X9*mOB_hWs$1TA&(mP%f=(`M<NnCW]\tu?>JTnT5.F:L-'tX:3i#E?6X'-lhPlkq/JNH>$hlD*8`W;-%&/C22LFcK3L]Pp58N(=F"aMEu`_/btTkfe=;I<7a9W1&<1XStF5`]7:Bb.Qio\2XC[5g'7XK^"mT\=WJmpq]pIP4n+cQ_-0F<lqjG@J5V[>Xt&$9"e.AIS]gn*EiSSaUe"Gm`t5neBgR_,gKgc!SBRgDJSBaYkM1JC/s4JXm1rNaC[X69Dh8FRU)0`F]@\_FPF*FJT0EKs=R^@Tck"].+"NU/$/[<7[S>ZP"^iU-)e+#@kS<%5n*8KC8>cn&eI-s)I0(8a=aBE&0Z'LY6,e/Yn#,N]2UD<9%.upm77s`i.i^Ps'J;5Wd%tV,C-QaVnY"&"&V4RF^Hf$)(dG;Eb;I\";kt6NO)b]kqml+B0+poOhF)?kc.\aaShi%nPh0)5L3:nS+#BIX!)!PJ07T`r7Y0O4Rf>#3apBLKu"Oa<4'l`SVGNXN(~>endstream
+endobj
+108 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2334
+>>
+stream
+Gb"/h>>s99'S,*:($B9im=9!JmRNqsFpH_QUq<rR?A,H!C)tK_mA0RPHR-WJaFt0,qlh[$&50<NDE?sE+CO1>d@\ehi+*+3c3Y$iL*Ih$iP=pac@uQg%LgC%>QTXqL4SUIDpRrJ&*3LnnW%MjlD;k3]u<Xs5o0'=!D_agQC;aoK.e<2r,m1*rF,I3Hod&3MrQI/cN%i6cNj5c$5XdJ*eS*oE5`/]ab[bZc!S<V)[p)SM2_MeG!dqbWtrhg!m>cGlJ7$M_<`:KXQOh_kJ.4*a2[hl@g^g`<5ph5,I!"0[Vn.56;C=fhFPZs%G)t&Dr`:fa#p+G9PDNna"LW`,,(1982?LVHZOU)bMTRuk7Mg#nqZH7Nf?(J'l:5\E<u*B%N,b#;-.^af<F2SZLCf;rYjrt5Dq8)o'^%Hra(X?om3/\LoH$CC."[0#Z*[^(8m_5V`h2U<.8n+Tcr`X;NfrpK>t0?<:)2/!eT9OG$j4sKU0DHLr>P"!_,LCRIC8),-KAel[%L?bM?<T-l_,3c0TAoh.As*=N'mZrXK5t1Vho%0dnFYhG[RSC_"4r='cS7:2"eV;*o?r4BQPY8GTB`Z?>pb')DIfeUp?E:.2]/&bh"p@[LB0CB>3tf)N+52jWLio`jW/4r.$q`?GA18e*OG/K]!^^9OWt;[-_Y-ENGQeWr"Zc4=?Ln0e;onP#AMo_S1gGJ"A@Su/WA1RaTK$N9t>s5,a&CKKuj7:8n,@B1L"L2OnSdL9hn:#2WBlDFF&`SdS,l3=T^lFgm)Ra(`1/r_41TED^lD]X6u2,.\d]:ImO4kKS2_fN6KQeO+<=;;K-[]5F.eaEmZ:$Tr?GbKuQM@m*I3:R%\*NUIE;K!,^:t@fP-4Kn73D4Y;J/1C)(RL<bK[YVFD#HOqaia.0iGY!aL`9gCI3;l/bbEsOKOog3BNees[VqjnN3LUmc!-R;XVGd1R2X$R*^0,Do-\N/eEC$KkjD+1S3_uLi"WTRf4N(RfrLH\=ui`18P>=+q+m:tU'qGaitV;5'/`?Q[)"`;<6JEqq,Pto/b1?qbbiN6RqCi:g3p;XAhhqRZDpeN7Z"$B.06]hNE2iaQHo/=4G-LrU>ec_bd+lTcm:DNPsu]'"Q&1_Dm-MG4/"-kCo^U1U01&V86<N5bHg4S2EaRllFmi^S$g)ZH'?CX*>q??*">Og$o7a:HW<b!NY'@[phaE<NIX4HAGQd<p-B8A+reFH!QRc4lgQ?9ft3/Kcmt-pFPMb`FjN>qk`L_$)B!`YgYFTR*)Vsa.OsJ-kkBHkdkSbuiXlZ23T@<2ANf3U7GfbqP&d3.<0XWN4%Gdb0fp/?r8d9!6!Yq%$Pjh4e_q=N*7`+VMg1r'P.Y=*?9I(5cbatnda3EIVnAsAapYU+PZl4DZI?0k;3LGk'uLN_'.K4,hU,n2LieM'Qp6`,C+a2hWd`Yi@l<ZHa5%!3]5uImdIuh&[SMNCgS^[450XI0Q[[SQ#Q(m[ag)QR*7q=_Bt;:TRgQbli!\j1Gfqee:[j1/Q%aDZ>;g(2P;J_HVEN,/RZ-fqpARRhf>5q"EPjt3.n3:0:A-8[GWH938+9agT[-+HV0IOSg20e2S#.C3&2Qd4.YYOU)2^[YeP[0$;eU#n<U/'V4ID0C;6A'?N@R'*g.,;Xr.$!o_t4G*'M=KN.bQ"ha%&7(@LEDuI/5D$]`eQ(4,X`t#[M/&7$]E\$9cS=W>]a!;dRaV%ehSoCsP`d\D]@`b%brI0Ze"5cY67.V"5ga4dqAB*BE&Gg*@'R[mpg8m,&&nmj`<V&ig$&n64-$eX'C:Ya:<G0GF#h3p][jbRb,L`7[+277&Il^'2^I_ZN7/IYRBSTa+>+<K$be2m23R$@.1m#:`s4+4lbROs$[jA"lp:b&/V)MCDtnTeW9OY+m2Y85b:D`VM-RhfXL]G=I:u.lsZT*2O4G/ctDk\=eELG:1+3A@FAJ=fti(NTD3,]5Z),LIe-Aif#,'9duC\3Y^jlVWq$`)=9c*\R0`?ln#W@UpXaBL=%pNf,A>Wo3X>#kjWDI[dt+n1YU^RK2r'mEU#V/GPh7.;KkFm&<6?l^\MAob4+[,)(cIH=D?HN(`hG\!mQ[8.TU7bN7qe[F#k))3[X/3N9s0p);pI]>PlNY[PcGpiAqYZb?<jBSjd?.f.bE6hssAj]_I".1hhA*o/oHk.AI\o\sSOJa:)4\rs%g[<VLG&$<_G3IQBM0G+Lt"U52kFhd#qYaAF`C<<6H:o0gfK&QBtU*`FPr*AH/?nu?MDJJ::YU4h:s*GEM_3mY`tdr_dPTW:XgVtJM%*pC!`n\ETJqb6M]*72i)Er[3X$d3tjg]~>endstream
+endobj
+109 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2516
+>>
+stream
+Gb"/(?$"aY(4Gq\\50_O7pu[Pld9nCeiQWjfLe5raU:L&&n6`+!Qp;rlh:H'.4PsA`g3NnSW,"[#_9_h3;;>B,iIZ(0q[\Ci*m+5Y6baN`\S`g'>XAYY/Y+(SiK(VKERgl*@5TRhbars&]jcNF\h?LqPKD88(C>d6)saU"K.,E:J\KR_5CXYI_32'^D[%Pn#t^@pAEB8<rel+-jKHg$+Dk.SjVSME6"2FacsV'>5SB\0/3B&:[B@:FuTONnZ5T-P'DE]G<_][&Zj=LC:ta1U&^Jj#!TIsQPnSncl(a6S\ulfpotK7LVf@"Xc\0!El+1HXc`&uTC\RbYbWS/*.Jg7eUgBt1W`b-C!H;_,JOo0-mG$,SI[YS!Zuj;0)-7k&eGZp+*&>BU9>-HU#Ws.cbiOAqi<_'ri='63ks2^o@o:Fc$J,H&D)HKCS9#k"R'0"c"SMBH&jIhQeu+r(eBQ5D$`rnW"Zf'C>2mS&Bo%]r"XZfck:R0WH_rO_+[BJ(L4dS9NPBk\e0U=\Xc`VNY*mCci3W!X;>u78&>Pl+-9@\-MVEjK8.8$IZ^m?@=l00c=+@8Kh8eqiIg3:apXZgL(#]RZ4K%>9/oF`C_W?7H(a]sq1g>M6t3N7heIYmAA9i:CW.59lohGE"ASU75@a7s08Rl!KAbVo19*qp"OB`ieoH+F^%u\n%TA&N,F\a75]^=\cLNDW[6'84>i\7C1Ibra).NWq@,*d#dXUcdQ_UAtRaS@C]r[<2/p'fHLgJY"l;lLnR6KA9n#Q`^9k,-tVQ4j7gM1oH?$1'B_$5O#gL"<rQE$G0<d-@9a)A7(l]*AMptTf^,3KMXI;IF^#kdqoW>&"n:,Hu'Ym>q2i$:o=bbt`^4&[@hLe[H\Q):Q$;lR@o-8Acb4/6-S7"Y2JINi*COJ&+@0QK<q7Xj]431Q+Bn`m7h3H30e]H,dPI+jpN-1TgCB$9?jnSGd)#b?o-rJPL2aFt>ogebrnbMc''cf4FQY#[C>J+7pCd,ps)CfYpD"JdOpBj)]2ocVSP%X]XNH6%ZA/f78!Z7>`TA2L3Q+Fu^ST$^-L/43kb0_-eKL9P"RFC?t'MLqacs#FRfSL$[6\Np!s$<8-Vf/d1LEDDn*qh8ENqS9*_0'=Wt0KUCGBg#\lEcE4'OKRXhlXl>A2omAgaYu+"2`?pU=mVtU6cW_.e0;#f"k/a0M^'l$(.65<Jk?&b8IJ4M3Yq.cI-D.$_$UYG.eK%go*rl^2dOcsf0k.>chKn+\\YR'2Ee:Y2<TY_Ck5oJ-0RUC]2CB-kRGiU)P00fkg?M"K,,,MdjgV#],'sg9ofIgTD[pWk[/#+&>%e-9s6.Q%e;=Tq8RR4BU%F]]RBmjkkIkT;3f^]W+T)<.)E,WMAq@\@-GJ5N/f^2Hr7aKL^2iofSC9DBr1LL6W[JPd,S`=$u:Elj[q95DHic\R?Fm3TU&@HlBp#*9!1>F>HtUuLK+m[T=M!!:aaa5pp4jd;Hn=E]XERL>&dBW"]9)YdXFtnKt]spGnq.(9WRu9X@%8dHB"$XP,K_aItEdJRMTg8^3eT6$b>:aY4"h[;qdqYlJ2o09T\OoL1W2n4CsY1=,'4[^"18W7m:MDD\HsA?c:<$Q[gT^pjrtmfiG@k0'!YQ!n06dhF<g5QMDJ"cu%29'p2[&U#hKd#nrLm/lkKm`)[A]=A?/u[`q[mYO0G2hZJ[9d:qZtKUt!)A>S@$]dnZ$2(mg9/TOf7'\$l,6@UPbiF,1Q*;)"OCrXi7*<$*XF>_i?SQJ^N6n9P/IBHCn1!9HTR'%5Epim%,U@kgX%8S*.T:4f2p<sk\Ninu)#d84$p'[#la(M5'T;Vp[2!:6\CWY7O8LmAVQ*DX8c"?\h+DU?;UC,kGU8,4e9'oH/I/*3[FV"-=oALS-D_j#.2mGh6Z6n6E_5.PVWEkf1JpeE;3GQ\_@M'rM:Zoe]@XINfIsD3[n,KQt3MR&KG'!0\6I&5/976V"U$)3K(37,`qdi7m;PTJn(h'RdO'fb`JkI80P)i8J,d,H"T2KjkBWJ9sQ(?fqJ%[-FEIAi,`$sO"-11i<h@Epegc^"@B8\k2-M91c.J2HB6C&LQ_sP@QI=qi/'Fa_iYM5h/L1klS;7%l;0qicPB\RogHNBV)ZT4WJ;STNA-Z9j^[>oYcg:E9D#@3,[i7ti!qtj?_<l?$%`-mMi[QY;_?hN*6c:?!@d6O/sVeiZ-ceDZG/kYgXYEk=mg?:ppUP1_qeCu[/S'USj;5:Wi;_6sVb+qL3fB]41'=ZF1E,qAONA^3cDD^=L3k.;-pGml`)1+WtRcsI*lY?g>^5ju_oGbB#Pme@!]W?so(8r-;)UoC#\e1tECK_rt:3j"b@H4L&8U;8^5Xst2o1f>^Z.As.p_m,JdKV'V(C>qq@MQ@sB3X9,e+5V`Xtpl?#<2"$+,5F?';=-RV@HATi5!?4o?'<49^3L%.-SnChZtiUeO.]k`pF)DSN3cjB_qWIZ"N,`dq>gY/F+3Y%a$g861pNYcMe3D$"J/~>endstream
+endobj
+xref
+0 110
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000883 00000 n 
+0000001088 00000 n 
+0000001281 00000 n 
+0000001475 00000 n 
+0000001649 00000 n 
+0000001823 00000 n 
+0000002063 00000 n 
+0000002303 00000 n 
+0000002487 00000 n 
+0000002670 00000 n 
+0000002843 00000 n 
+0000003015 00000 n 
+0000003309 00000 n 
+0000003502 00000 n 
+0000003693 00000 n 
+0000003867 00000 n 
+0000004040 00000 n 
+0000004246 00000 n 
+0000004429 00000 n 
+0000004623 00000 n 
+0000004829 00000 n 
+0000005003 00000 n 
+0000005187 00000 n 
+0000005381 00000 n 
+0000005587 00000 n 
+0000005761 00000 n 
+0000006001 00000 n 
+0000006194 00000 n 
+0000006512 00000 n 
+0000006695 00000 n 
+0000006901 00000 n 
+0000007105 00000 n 
+0000007280 00000 n 
+0000007455 00000 n 
+0000007649 00000 n 
+0000007855 00000 n 
+0000008059 00000 n 
+0000008233 00000 n 
+0000008398 00000 n 
+0000008563 00000 n 
+0000008757 00000 n 
+0000008997 00000 n 
+0000009172 00000 n 
+0000009347 00000 n 
+0000009554 00000 n 
+0000009762 00000 n 
+0000009945 00000 n 
+0000010119 00000 n 
+0000010294 00000 n 
+0000010532 00000 n 
+0000010895 00000 n 
+0000011078 00000 n 
+0000011261 00000 n 
+0000011510 00000 n 
+0000011759 00000 n 
+0000011942 00000 n 
+0000012137 00000 n 
+0000012331 00000 n 
+0000012539 00000 n 
+0000012745 00000 n 
+0000012939 00000 n 
+0000013145 00000 n 
+0000013349 00000 n 
+0000013571 00000 n 
+0000013791 00000 n 
+0000013990 00000 n 
+0000014189 00000 n 
+0000014383 00000 n 
+0000014589 00000 n 
+0000014793 00000 n 
+0000014992 00000 n 
+0000015345 00000 n 
+0000015520 00000 n 
+0000015695 00000 n 
+0000015868 00000 n 
+0000016041 00000 n 
+0000016229 00000 n 
+0000016417 00000 n 
+0000016657 00000 n 
+0000016880 00000 n 
+0000017086 00000 n 
+0000017290 00000 n 
+0000017483 00000 n 
+0000017682 00000 n 
+0000017866 00000 n 
+0000018048 00000 n 
+0000018232 00000 n 
+0000018415 00000 n 
+0000018590 00000 n 
+0000018765 00000 n 
+0000018937 00000 n 
+0000019108 00000 n 
+0000019310 00000 n 
+0000019512 00000 n 
+0000019884 00000 n 
+0000019956 00000 n 
+0000020244 00000 n 
+0000020335 00000 n 
+0000022859 00000 n 
+0000025326 00000 n 
+0000027949 00000 n 
+0000030376 00000 n 
+trailer
+<<
+/ID 
+[<2fa1f937f3d1fed1707c6540756fb4d0><2fa1f937f3d1fed1707c6540756fb4d0>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 103 0 R
+/Root 102 0 R
+/Size 110
+>>
+startxref
+32985
+%%EOF

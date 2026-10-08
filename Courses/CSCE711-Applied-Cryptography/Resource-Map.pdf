@@ -1,0 +1,576 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 226.4484 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 99.9576 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.06 227.9756 320.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 296.86 199.3452 307.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.umd.edu/~jkatz/imc.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 262.46 230.2756 273.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.umd.edu/~jkatz/imc.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 250.26 125.506 261.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.libsodium.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 216.55 207.524 228.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.latacora.com/blog/2018/04/03/cryptographic-right-answers/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 169.95 243.3028 182.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.latacora.com/blog/2018/04/03/cryptographic-right-answers/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 157.75 94.824 169.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc8446)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 123.35 243.5788 135.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc8446)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 111.15 94.824 123.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 67 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 616.96 210.3484 628 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 604.76 134.4392 615.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 582.56 227.9756 593.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 570.36 218.748 581.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.latacora.com/blog/2018/04/03/cryptographic-right-answers/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 548.85 207.5148 561.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.libsodium.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.45 207.524 526.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 417.66 210.3484 428.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 405.46 108.3756 416.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://factorable.net/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 383.26 230.018 394.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://factorable.net/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 371.06 94.824 382.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.2uo.de/myths-about-urandom/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 349.55 196.7876 361.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-90a/rev-1/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.15 182.4908 327.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 218.36 236.3936 229.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 183.96 210.3484 195 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 171.76 134.4392 182.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc8439)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 149.56 218.288 160.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc8439)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 137.36 94.824 148.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://words.filippo.io/the-ecb-penguin/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 115.85 236.9088 128.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R ] /Contents 68 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 236.3936 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 210.3484 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 149.7756 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc5116)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.75 236.412 602.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc5116)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 578.55 159.4724 590.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.usenix.org/legacy/event/woot10/tech/full_papers/Rizzo.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 555.66 227.1844 566.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 210.3484 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 134.4392 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 225.6572 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shattered.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 391.45 215.436 403.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://certificate.transparency.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 369.25 188.3236 381.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 272.46 222.8696 283.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://toc.cryptobook.us/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 260.26 94.824 271.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 238.06 210.3484 249.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 225.86 158.9756 236.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://safecurves.cr.yp.to/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 203.66 200.3756 214.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://safecurves.cr.yp.to/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 191.46 167.8904 202.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ee.stanford.edu/~hellman/publications/24.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 169.26 221.0664 180.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ee.stanford.edu/~hellman/publications/24.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 157.06 148.23 168.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Annots [ 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 
+  48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R ] /Contents 69 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 210.3484 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/serious-cryptography-2nd-edition)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 112.9756 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.feistyduck.com/books/bulletproof-tls-and-pki/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 203.4576 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://certificate.transparency.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 188.3236 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.rfc-editor.org/rfc/rfc6979)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 231.5544 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/Annots [ 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R ] /Contents 70 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+64 0 obj
+<<
+/PageMode /UseNone /Pages 66 0 R /Type /Catalog
+>>
+endobj
+65 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008170011-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008170011-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+66 0 obj
+<<
+/Count 4 /Kids [ 18 0 R 37 0 R 57 0 R 63 0 R ] /Type /Pages
+>>
+endobj
+67 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2650
+>>
+stream
+Gatm<>Bei3&UsJXR&@sWA$Z=,m$lUBms=<LWNA"TkN%>_+:/un<04CdrUp*n+<`2"A1)N&"@:9)Rr8KHjQ!^'s,JV(T1AP*CI'/;d?I&[75VTPX3o%=:-:bcU/6s7kF!FSjG?E`1a,"DWGsmlKSNQZPG.FK&SXhcT2+m9c]Ml>$OJno+6S$oW!XsE@\X<dH<o/7]ido2$dpm$ie0c9SUUFUc+gFL+)XRJVRpWT]Y4+4bLLqXrB[3NpnS^1S%P+_AZ[\gm?J,9UF>X&/<74$?9VV#;(;_)bI1R=Z(qoL@U!f97PT:'EB`I'$/A(A(P5O<@kVjU9V-SCqOs70,,$^`U<"_s>Jdjd$Zdsr@JT'/40<+p/kW.$:25K<00tb!4"iS1>0:m!-0q2Ee0$=(oHDppK%+fFPM?t"ic<t6,YNa]S+-1eZ<g:#DA$I-Z8_@*P3`"G/%WKA\GLB/+F^iq\7<f?K9@L#"s&HJN^9p-.&7toMf=8"3fp@i.YGO94I4'J7NCWW7O5hlTp\dDTQ7;>PY+^7;QgmB1Xj<P^.(L%d&NKb96pNH5.=<Yh.!)C))ZQgR%2R0<_lW&WcQ9D*Q+@IY)q3N]FiGYJ6(>"rEs7+Il4Xu;ajOrU;2.+l/<STVT*SX%o=>/IR%3\V?(GMbAEpK.MkATh,,(Xf"#)=3qnW<9g&c3K,m<$K/U@TIcf'uPTI:(i?\RSfif/.61EXbB,]URVhZc@rH@dO0QKttUSD.2&B7!GXT=Yt)0qqOoh;F-][Ws@R@iK1'2=1QNom>fr)k7]<6B3i6mUn`=aG2GBTg>Zh?2_TZmn,<n5d_A6J^E@!n`WbU8E-lH`D2BSaeWrXW%/'T,^7F345TOaHh^06?Uc!p5E$n"U3*U/$6AmB*#B6D3pMu"(BdpN_-lbSTcVUi5X[aKCjFA@8fJZ6B9SqNEr4BAb@H/a)?]!W7g.(j!=r.WMNm])_MacA&J02d3/"bBti#??7\,^a2P!Df129`fPf%p<_!"%hB7W%rb*_N2iPWhr)giGE.BYbr\+e+Y2?T?\11Ge@[OqQR&Mo"X-uX<Q8S+MAgpaYPuEV>lAR'LnO^o\C-/O=Qe_iqr5CkoI`L>1%b;X+K:-Z>BO`IdJMs+);3VpWGlBl<had7b5k6,\cipkl5AF15H;-bkVN'HTTr#unF;]YE#?12E0=.5tZbX#%1s;!Cn)2AOn6YgLAapVco4>_FAa*)H`.h'>>[VmA5Dh6ZpTr=G.Lq!Fr_/P9*o7J[ZG_[pI.RK\@g:%]&tO)c^/qW9nG/bZpPoBM8mn-F]//Wcm,H\12R$\fRhcK84G"<Gs-F(I,YH_9eI0`WSg8:R8-C,3!1aBig]ted[ORnH$qIIuQuA6s/1^4<;d5i<5Vm,?mETNg7R91WquG%+<)^OONj'&6D@CR?O9bG`\%P4cq3$*%Ud\Y<*I?V2l![iC(ind[]#0^_q\jZ5Zn/ZIo-o+US)!%m$Kof'(ZS8ubd$2fgE9F\-Yj.<P+)cFK;rM;dB]$,2&h3N4NVb^'[mt[Wa&a1Q0D!&VJa5VZGq6[UIRU>n^oBSLpXk=I+oQ7DIqFbEoIr2oN"+iG'i!qeq_uiif1Q:Z7"X!mPb`%nMgq!3rKq>cKR"S0Q36bMiA,@<>UiF"qJ4$!=!/,RJVcn;_tb/r8mduq\K8X^h1t8#D1H`IK2.TX;OGa?'aR^>T1ie+#h`EVubt--o%iI$VAikn@IGl9XBhl>=/Kh;IOl=b&,@)Q&Q\X'LqCV:/u/R`YegYc#f02%q\@HaUbWa"(u]G;ZO$QRh]>\_?.D-'@8HBLcBfE"T5ssrX/_].L[)(Bd%FoG8cd-N@Phn?oH#$kJ_W8?d<j0H2B"!aS376q#RX&ki\ugi="_JSeQK[#_UddSP3F%`[Ir.N8)Yj@%:L'_6"\1_&7#@:NKPt-M5uodfQJ@=b1S'QsgE`dRKBI4FX#>LB/?lD2-.K&0@\,;"JK;L@W3?S==f;paY[&B!rOQld9M$5]#7]?eH^A6QLc2=fTNNRAa\Nfl;to6&gJ(%+ko:7<ReHE'JT*ib"BjBtiU.G`$gdX@oQsPgUGYWHq]1_Kaq1B%gn7`S)+ZK<GR,EH"2qfCg(>\:ueQ3]T3q9"!j`k=CSAOEG[8n]!o8>TU]W"r4X_WS+..$9^1r,@,D41TCO+9oY`pYBQ^e/?tQpZSu\!>[eS3c)[Dh`HCM'[+1)G>li#ZKHecZqDZ[VQGBOU&<"4Bl3B%ogrp^shN&q$>"pdV-Qt?<&SeR$\6QSrgCDPq%uji;-RDiaYL4_q?)'tmm2d,"%r%U*ST1UhaPb7+rU,[W((E7.;P6cSL!qeS;Zg)0"%N_YFnb,Zb&\bGUYpOU?XH\H71"iqFSe>?$bs>5Y4+n5I,;B[Z_e3j3W7f.^Km:`BP6f#S2@<gX;AL8]KM\K*Fu$Q!A&;U$VYl9War(Ss"'Nu(e+\<k,oR\,mkKr-W.#Z7G9N-W%$%P*TO&4d+g2doITHAWci`6G\;iFjWF?KXsobHl*5U/iJXSFB(HJ:lE<YSbVr:@$T2l$STk(a=2Y$OoCc?Jm+@TX6WVtPSqm(6`]3>;Q.n+h6FUT._k+CK%U3O"m$N.VY[\Gl7qB>b(u%5:&(^4J5m(p8p*U;knimL?;Hj~>endstream
+endobj
+68 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2385
+>>
+stream
+Gb"/(>?BQM&q9"FeC0/?"%'-%+2J?<bXjPm4?I3$abu87<[X'adD`3]fC)eCMp9(C1(a#\KOCk2lL(\KlLLncAE-1Ic_M[ERF0EM+Q:[`:;X>"R_>WJg"s2$b6pI?OQG5\aS,*DGbH-S[FjfsKN?$L-C,VCM_H=NrIYA[KtbGD(:=+^a*7PI]srGKqhonfUZq[95Q5q#o[sO;U?Ue3PX6PW6Ir`M&kO2)jY&If6F1$E="D/(re.Aokp-V2aDlX>Ge7SlFM1cLLO"FcGZ9dn\[^N-F1Qan-Ec`>OXgKR6d+f&EOM[tHI?j^Q6-HPlcJ$7[8:G);\:so;ReDAf3)?MRTEDLl`Iia_<f'O+_)*XTEK4C3:&?i>\LrG\?L_WKEqf7`!ED(pZTgI&[G/l@#akEkd8UriRRe/0NX?KH/mi;7n8[Vp.%ndAO4)eLI>k-(?>Y%jku$`^2)?9`jFFlL=EBfZeWF\n+Vq$l!;^E-FT9EA3'V9,)?:JK\D&VA.'4h\,OV2L8NLIg#tj>0=*O,=*g]@=l63XE?&oVj7=E=Z\$&d^f.nmLCT*"K24u,=)>oA_a?[R(`m^#l0]^1i_=6EXGIlW^5qa.)i%EOg[4^7)d>\bkdu$s&)LW')\[$s5hICc3+MlI2F:Sd"tpt8\VXYUEt0Cmb9LgAG.SolmfYmD!m]jii<Y(IC+.I[=k,@\'fDDZWUo_nOb^g$:0/-G.JCa[KVL>Q37JS$n,p1S#FDeBHlIPic?S+[EF%n9o>O?*]5HpRmW^DkZ_(duZ=.GN`FVZe_rc6OXR7Je!n3P[gGt(Z#dV&(T98e&K#sOnh[-M)]*)mfq]u6FQ>^N\j\"ZIG0:Nq#A.D.8ST^m2h`e%dW<!31hrGcQ"n=_[\(^Q.TN6c=d)F)!!u0bl6M_+;`>Do@[4u8\[:e@/4:t:50-K@.5Uf*?"UZRG.8RAgF>s&,\rhe"->!&23+$H>flUbW76Gk%Xm3sN;iX>#N:';)W-Au`bM1t3*orm[Lqg>A=IMREF<\&kpe<TG[Z[_g-"N.%UfHQ4ITZ.QBmd?gi:cLELs??#Qd(fB<o5^5@9B2lqUf/`k?jPm^GGX$!jJuf$JD>?ZT=4)@.$nmmdB:;%-6UO^K;sT^'EOc&NVj@KjBE&l*QQRnC@^4hJurEqDuGCOBQ-]ri;WFK',07'9Rj>Zg@*<RYH3WsidJ.`ECHF8!ek8d]P[0HqM-bEILF_4bml<U3Vl"f47o3B7qCH9<n\%m^BPXC>DTiX4,Mkc0<pkkP)3*RV`ilp:[eVNUPZQ:P3u3O,9cDP>keVH&d&SW1^4+]bWI2Qmlcqd$*!%DQ9<-+CT3[fc"GqBFdUQsYiCbM9RFgp:o]2a"?lO,gK(F(R8S).#)DRF*^$kf>Gh#/cDY)8hCNF>EtW(g`M=\DG<tBbt:OU-;%bc[\Y`SsrA6*Ujl$-XDtBIXjL@+R%gM42,aUQfa;]:Du6sUGVMQj2O2?bLs9ir@)j-q%%$g-`Fu:&/h_#9,'@fo.`+GoPr@gDoCltPJb*>n>ukl5g=O63qt@2U2%QP8FCJ8F^TSnI$=P]:ip"_WBY5trQf,(DjX"p.]#/lh,Y/Y6H1l8;J,K-(U>Na:CRqW)mKhuXID+RisKSa\h2A?//Vd$R`Ts[Sm9/7ArqV<,cHG%F48H+$1TeVj3\V5GkroA01?(0XIBXV>j8\j,=m"-<[NCtHm\'iiOk>'br'!pWk&2Zc=*b!Aj2@78^n4B5]5!rJq;a\DY0)@?F;]HNcj0P*9pj/59ml=q!N/lQff(9p>NqR4ut]mrY/Np1L:I,+E)A$H[9sdnaS2oH!*(+Ri'#aL)[E/;Cq)ne$7^U+0>iW^nKHL<K,koU&^M3Zg%Y(Js1=VqeN17)%?<_d/0@6]TTotOZ[8cG;SUY9JC(8k9G7i?YJ%[+e&hBO/HR+`>0M95MZFrMdG)nruKj8m%),3I;7)BC`_-ZX2ujI/i)M/8#Ogk(uCqq2g$K68@.W[oEY]L^8o_Yas:n"++afRknhkj_jJ_%9OaTb9IW^l-!-l7D3i\a6#S^V2lCOs=0tdSC$;Cni2GO:<CtL'pX[1D-&d>Sjm*f7r>0()>V4ptZL4[pMHN6%>%T;u+HbbPPnFu8Y.GUdL?Wh_p2-o`o)@O?%*M)Y"B),kiUCNhodCe4cDH9\8Vb2?Mt,]0NMbl"?OPKZ^Rqe2-pl"6]jAiLc!eGninSFRfA+s[/gg'+9r_=X`kc@q0sP:iLXm,0U')hcPru8B(R[**E0`CnmA8GYqq:6+KU-SU<fK9'2<WdAI#WF":[S9>,>VlZ=CU1O*^.,Oj"f<XT%(GVQpr2_V@)aVVn*Bd^)1]ol@tMYC?OJ/?KpCCkTJMce?M<nq]@a(k?e~>endstream
+endobj
+69 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2336
+>>
+stream
+Gb"/(>BA7Q'RoMS3)<3"8WDiDB:hNE;KfT/JXr@rMm/IKi7L?$>KX/,,KY*KR\ZW/>@nX3,dnskkFD!G5+`CjnW2n[A-)1A$;XD&&-o'g+J.]2oE?41%mD(;?Kh1f/DlI4gV`Kq$gdr4r1J<^Zm,0>Cq2k'&5J=!ruf1\6JkWZ/n"2:earOUB9VN-J)Ku+N*hP#*?>6P4$a-+SrA^R,QuD[/8LA%GY+6_@JUS5^T1YB#S6W=YTh+Y'Ln5FqJc/p^^B#jTP+i,!\<bJ!P[aVG]T@ljGo\=[VJ;a$,@!%cY2A4V!G/Tgt;0biq6?d(4=C8R_s_X9Q7Yk3m3Hh"uF(tIb!3=/XjB//6#`)[UTof$-.DUf\frIg7J*)qZZ9C1^I8NCm-gYb@tc^JgbS)e.i0@bI#P4TEWU]*#d@-`eoX$-s6nt73\n#'ebJ&H28.f/,Q97CF$4P0_/JUX"p`VcLM5I[9X15J01Oh^!O5.3-6/<<%@p.gSqr2&T/DlMd3*a=_,KXCcc%DDWpjZIN.M)V[sJR_c(>TUU\]qn#R=3J&p1f=?-epFgsD:Y]Me?(iiFtD4jXoFmKf_$F/5=6)RD/q[?[&h[0@?#f_C=LElfDBEc&#UqC)%_Q4GJAR*)=]>f$TE<dGBZ,%$[)`HG83Uti;/`I=+5bIPm)smpG[BjO2Hs.::KAU("Q1]/'8Of&3OsWFs6s7hlLuE`SK&ce!c*ji$4Rp!j6p\=0S(l&>ahrri%lbCM&^'8$IjRWS@gTM5JZ_EHl_4J6H'P(r%$mV=B2T,i;g_u)M\erkVnAD7A_'<FT\8I(D1.41!LeJ_$;:j7c1<HI/?.%UeG8B_&jO_q.TI0oAaP!q`"]VG&bZ9><%k27W2is1K&W''KWu0'S-upPY(iK>*I?ZO]c08l>MQnG43(U(NuX6VL=MY!kjkgj/Bgp&"=.Ur/ADDDE!:&U(:"QqU>\ki`KCRgerYtlSp$!XFbMG5PKI:B$QUc+:$c]*qIWCm,[@1&P;2h8l]H3$FVB&7K)mbh*Z^s3+W*#(YWk078&ph2BB,>6PNVD\+7C:R/"uDJ,PR=*8I8@JXABKY;D)+`!L>V\(0oFR*==.(HD4Sql&k>^PtRG4R>P2PT6a])9:E1m(m/cI)S&Rk46'\_QC-Qil4Vn^Kilc&Vh,Q;-"h7J%/_1JJG2U2P^0sXoJVAe/[QNuRbO"KQK\&KfTur'Te7<daBZlAb"8"!lU+s#ejgE)*32(TS.A.KQk3A05-TuP?kO'@&GQq=J)!WdHqj087^6XlZaj$4Y0b1&a6g8hHYm'#@e1XqN-'.;Y+*n)URT_Vm@7c,m?G>!B/G<UBCq1O+ZQ+p<g'iA.p:_XisqLbqCXM@lhV$Q`(fLg:*e4GfUl'0_+@qr.$M9BU$LHM%,F;\]cQLo8duej,8]*/i*p^?0D'mVBE)pWk]RC"L[i5c+)u(&(^CRF4%pM#Dm[c\K'nmsVc\s3ZP(0OB:jUnKW]Z(M.B]<3X1-l\E#0!#FIhV=sQ1FeeT0HT:A$lP2\"ZhDHf+eifJ5a6g*IV/4-ZY#CIKCRnIq.RpOCq*(So.&cfQM$4bI=_Duq51a$fi:<C2Kj%,0G(]>`,gY;dn<ADs:.H$CJF=P(F\$i<gm,^dpAdS();98M<p)uH[DC`?SKJC$U3$7.PSN'%r!JFq+#1C6?,oW<L)Mh7$<fu2p@q7'ob.nBQV;eDHr?XTMB49,:/00hileGEGqfu^A/P")fTu!1(E;4gSZsIk;Mgq9N^V)q,>):7..&-d]lhq_f\.CDoQPBQY+<H3hbN*@40"3b40EL>7DV#62Gu6\o8G>/T0Xh1n!en4#3inT'c__>N*OS$CZ%qc+m4\#^O_IY,\6GK?JYXa=1<BHlqZ%1mFl_fLsr2fLMGW#e-$D3?K.o"qX)lJW_0-Z5O4#@o?![E^j7;/Y03?ZpemPu`$GK6l)PlC.W'46"GT;FUJkbhH+.Z9GlLXUmVFWs_@`Eb\FF%Hc3__F.Eh;d/W?7jRNiXU,dk.tZM9u=]M@]+a3NmM.T.9[Cl[3c.80EqFS?D=aSf\hG_=LJBn^8\`*JS-'6uoWCi$IR"P:C.4acG<e'q1aH-u;G[`">d&6R:T$8dAVRU2YEA^eX<Wiht/XOC20NdY&>=]5X1d<HH_q[p*H?nn7/$*J83UV\O)M*<Ck'A'no=_uHGX9W?t6r?DO90r/*j3Vo18/qh<TTNA+WZe5jR]6R_EBVP8:sS].F&pd-@]Q+I#>9MC<Z!ql\l>)MS"=l,g3gZhH+.\S&`f,F7P78'Ykc!"/mL/JWWNGY<A+^ArOMYhoIZ>]K7<p@`5H*~>endstream
+endobj
+70 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1236
+>>
+stream
+Gau0BhfIL2&:WfGfXIWHSn#m*AO!$pDK;)PQU(#:1O2h_J314#PO,1=YJ6?]$!^#7RlM=%,d$d\\)4>V+N?&@cZo]`Fp;Rm!eeF,$%t_UAlg[X%K7559JB3aic1R/%,WKIE=-kHf^9>Kju;C!P&<5;!nlj71K5Y[oa32dIXHY@fD&s(3Vrq$-8<"ls*-7&\>?/)(emM1&;7iYEi-6c"n-"#$>,o=p=a;A1,R3rLbd\0,dN@U*,^3E6n-n%o[XjPUQe%JS0^/0*L8C-@3eF76s2iS84:D-B\8o#H]fr%,;'8VPPegH<M<t1Q#)[:n5"knXef%%Zq?UQ4^HYFqZ25;He7DF:IcrkQ=(CjL]l*JN"?Sqd!c)C;3D5,;>?DSI!Pmu;4[a\6KhP*$RJ!iSPYQW4Ji\OM4gC!]*#(jK`KIE]+.f8]@d^1%YBa#`;tRGoT2%oPO>B[_[%,Q0qnZpcCMY-TF%6FZO+V3Fqj\tTUoRf[KH=!'0n=)N+4Lpnb63F:c'jb?^,];1_uO&iLhra[X?d_7MTR7,+(Ks6p+@\XLE.,iP!Wp:r6/,"XA:2BD;sa6"aVNhH&&bUQKn&^_D'-=pH:aW>i1LZ<hJ+oZdm.CKVl\dDTa,BT+Belt(5$@^:%eMjEL-Ih^'d6PksU#qk(4-A'&Wq8IoSY>qE(R+R=:p]g/EArRo_(lp;HkFdgSG-R@jUg8NI>*lPAC&t_"[Bem@H3WC\4mi)iTmK_JVO2S[^2;%k2/(ht;8X*D?GN1_>b6UH,^l)QaS-3s8J*Igg=7)_jqpW*+KV]8UZ^9nXBI*SoX5V1&b!U-dW`hki!R.I'f8t5VGau+N"[!LfV<7]/5^&T5g>;C\40I1>SVH`g'nfarG54gkpu.8^lR%fIoLci4\oZjC0+%Mi<F1T^?sdk3ggXtk/Z-Qig_8bn>^/ZQ#$f&O)Wm<k2'2c3l8Np`-oKJ/<hYc)Wt@B[)4.+P_<'jMm)\(,c,Y./eclI<;@Nb6l^%u5?.`J&YutY40i*>llT6$]<^YcoXdEPrs.PtV'&Cb#->]+>C/E3`Tenpq]n^7)<:UOXD.kT\SbDY^4_H\;ANhZeH+T9-0k4o0JiIOl6(Cc>(6r#9?-Gqqu#daLPH74J%f"=e$9qg]8[:Sp%.^i>^R[G9,uR2>n(sm@C05H(P(=F)"h\'h!^THTO/!1HG:'sh$Ut)T5*gds8Tp%li.M`Y]($q?%9L.^u/QPfoBA~>endstream
+endobj
+xref
+0 71
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000875 00000 n 
+0000001071 00000 n 
+0000001240 00000 n 
+0000001410 00000 n 
+0000001592 00000 n 
+0000001773 00000 n 
+0000001943 00000 n 
+0000002157 00000 n 
+0000002369 00000 n 
+0000002552 00000 n 
+0000002733 00000 n 
+0000003018 00000 n 
+0000003213 00000 n 
+0000003410 00000 n 
+0000003580 00000 n 
+0000003749 00000 n 
+0000003963 00000 n 
+0000004133 00000 n 
+0000004330 00000 n 
+0000004527 00000 n 
+0000004693 00000 n 
+0000004858 00000 n 
+0000005042 00000 n 
+0000005251 00000 n 
+0000005421 00000 n 
+0000005616 00000 n 
+0000005813 00000 n 
+0000005994 00000 n 
+0000006174 00000 n 
+0000006360 00000 n 
+0000006697 00000 n 
+0000006867 00000 n 
+0000007064 00000 n 
+0000007261 00000 n 
+0000007443 00000 n 
+0000007626 00000 n 
+0000007839 00000 n 
+0000008036 00000 n 
+0000008233 00000 n 
+0000008403 00000 n 
+0000008568 00000 n 
+0000008750 00000 n 
+0000008920 00000 n 
+0000009088 00000 n 
+0000009285 00000 n 
+0000009482 00000 n 
+0000009654 00000 n 
+0000009826 00000 n 
+0000010022 00000 n 
+0000010216 00000 n 
+0000010560 00000 n 
+0000010757 00000 n 
+0000010954 00000 n 
+0000011153 00000 n 
+0000011335 00000 n 
+0000011517 00000 n 
+0000011760 00000 n 
+0000011830 00000 n 
+0000012117 00000 n 
+0000012199 00000 n 
+0000014941 00000 n 
+0000017418 00000 n 
+0000019846 00000 n 
+trailer
+<<
+/ID 
+[<38e9a5a2819d8e87386f426d8a0e4a37><38e9a5a2819d8e87386f426d8a0e4a37>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 65 0 R
+/Root 64 0 R
+/Size 71
+>>
+startxref
+21174
+%%EOF

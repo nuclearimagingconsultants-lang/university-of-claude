@@ -1,0 +1,1116 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 218.7664 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 141.8544 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shostack.org/books/threat-modeling-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 239.218 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shostack.org/books/threat-modeling-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 105.0636 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 275.35 210.3484 287.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 263.15 229.4936 275.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 250.95 119.6088 263.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.nist.gov/800-63-3/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 228.75 226.2092 240.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.nist.gov/800-63-3/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 216.55 161.2572 228.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 182.15 223.3756 194.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 169.95 146.9696 182.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etsy.com/codeascraft/blameless-postmortems-and-a-just-culture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 135.55 222.0968 147.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etsy.com/codeascraft/blameless-postmortems-and-a-just-culture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 123.35 130.336 135.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R 19 0 R ] /Contents 131 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 237.1572 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 130.0968 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shostack.org/books/threat-modeling-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 231.536 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shostack.org/books/threat-modeling-book)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 159.9968 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.virginia.edu/~evans/cs551/saltzer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 227.1936 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.virginia.edu/~evans/cs551/saltzer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 222.6028 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 541.76 228.9968 552.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 529.56 94.824 540.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.nist.gov/800-63-3/sp800-63b.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 212.1516 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.nist.gov/800-63-3/sp800-63b.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 196.2724 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.26 214.9484 422.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 224.9028 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 121.1452 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.w3.org/TR/webauthn-2/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 365.35 231.2784 377.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.w3.org/TR/webauthn-2/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 353.15 151.8088 365.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 330.26 220.5512 341.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 318.06 135.9664 329.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 215.4452 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 209.76 235.8968 220.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 197.56 94.824 208.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20261002224639/http://cap-lore.com/CapTheory/ConfusedDeputy.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 175.36 215.1692 186.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.google/pubs/pub48190/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.96 196.6588 152 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.google/pubs/pub48190/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.76 225.694 139.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.google/pubs/pub48190/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.56 94.824 127.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.virginia.edu/~evans/cs551/saltzer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.36 236.0072 105.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.virginia.edu/~evans/cs551/saltzer/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 82.16 116.03 93.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Annots [ 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 
+  31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 
+  41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R ] /Contents 132 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 658.86 217.7452 669.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 646.66 191.1572 657.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 624.46 220.2936 635.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 612.26 165.3512 623.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-207/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 590.06 193.2272 601.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-207/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 577.86 143.1056 588.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 556.35 233.3208 568.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 544.15 123.9512 556.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 459.56 223.3756 470.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 447.36 229.7604 458.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.usenix.org/legacy/events/sec03/tech/full_papers/provos_et_al/provos_et_al.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 425.16 232.3272 436.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.usenix.org/legacy/events/sec03/tech/full_papers/provos_et_al/provos_et_al.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 412.96 170.9724 424 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.ece.cmu.edu/~dbrumley/courses/18487-f14/readings/eternal_war.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 390.76 216.4572 401.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.ece.cmu.edu/~dbrumley/courses/18487-f14/readings/eternal_war.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 378.56 128.8088 389.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://spectreattack.com/spectre.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.36 216.1812 367.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 260.26 232.0604 271.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 248.06 128.5512 259.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nostarch.com/tangledweb)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 225.86 188.3512 236.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.google/pubs/pub45542/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 179.26 206.5212 190.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://research.google/pubs/pub45542/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 167.06 227.1844 178.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 144.86 226.9636 155.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 132.66 162.2876 143.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/Annots [ 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 
+  58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 
+  68 0 R 69 0 R ] /Contents 133 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 221.0664 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 117.5664 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 223.3756 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 237.9208 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 620.56 94.3364 631.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ndss-symposium.org/ndss-paper/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 234.3512 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ndss-symposium.org/ndss-paper/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 586.16 120.8876 597.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 227.4696 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 551.76 162.7844 562.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://slsa.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 235.124 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://slsa.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 129.3148 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2005.09535)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 200.7436 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2005.09535)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 135.4604 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://reproducible-builds.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.75 217.4784 411.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://openssf.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 221.324 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://openssf.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 123.1876 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 223.3756 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/books/building-secure-reliable-systems/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 231.7936 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/357830.357849)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 221.83 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/357830.357849)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 168.4148 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://attack.mitre.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 165.8664 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://atomicredteam.io/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.85 165.0936 166.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/Annots [ 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 
+  81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 
+  91 0 R 92 0 R ] /Contents 134 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 219.3 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 188.5996 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etsy.com/codeascraft/blameless-postmortems-and-a-just-culture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 230.0272 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etsy.com/codeascraft/blameless-postmortems-and-a-just-culture/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 141.3392 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/The-Field-Guide-to-Understanding-Human-Error/Dekker/p/book/9781472439055)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 610.56 185.0392 621.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.routledge.com/The-Field-Guide-to-Understanding-Human-Error/Dekker/p/book/9781472439055)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 598.36 179.6664 609.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/sre-book/managing-incidents/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.16 199.8788 587.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sre.google/sre-book/managing-incidents/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 563.96 177.0904 575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 217.7452 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 467.86 219.0148 478.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 455.66 94.3364 466.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://discovery.ucl.ac.uk/id/eprint/1445307/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 216.9816 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://discovery.ucl.ac.uk/id/eprint/1445307/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 421.26 170.4664 432.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/322796.322806)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 399.06 213.1452 410.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/322796.322806)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 386.86 123.1876 397.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20260923132501/https://yalebooks.yale.edu/book/9780300122237/nudge/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 364.66 211.8756 375.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20260923132501/https://yalebooks.yale.edu/book/9780300122237/nudge/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.46 159.4632 363.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 268.56 217.7452 279.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 256.36 185.0208 267.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20221020051430/http://www.wiley.com/en-us/How+to+Measure+Anything+in+Cybersecurity+Risk-p-9781119085294)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 224.636 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://web.archive.org/web/20221020051430/http://www.wiley.com/en-us/How+to+Measure+Anything+in+Cybersecurity+Risk-p-9781119085294)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 221.96 191.7 233 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 200.45 216.2088 212.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 188.25 94.824 200.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://press.princeton.edu/books/hardcover/9780691174952/the-tyranny-of-metrics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 165.36 225.9148 176.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://press.princeton.edu/books/hardcover/9780691174952/the-tyranny-of-metrics)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.16 102.506 164.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/Annots [ 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 
+  104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 
+  114 0 R 115 0 R 116 0 R 117 0 R 118 0 R ] /Contents 135 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 217.7452 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cl.cam.ac.uk/~rja14/book.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 190.136 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://owasp.org/www-project-application-security-verification-standard/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 196.806 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://owasp.org/www-project-application-security-verification-standard/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 176.5844 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cisecurity.org/controls)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 208.2968 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 222.8512 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.verizon.com/business/resources/reports/dbir/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 123.9512 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/Annots [ 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R ] /Contents 136 0 R /MediaBox [ 0 0 612 792 ] /Parent 130 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+128 0 obj
+<<
+/PageMode /UseNone /Pages 130 0 R /Type /Catalog
+>>
+endobj
+129 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008165957-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008165957-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+130 0 obj
+<<
+/Count 6 /Kids [ 20 0 R 47 0 R 70 0 R 93 0 R 119 0 R 127 0 R ] /Type /Pages
+>>
+endobj
+131 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2566
+>>
+stream
+Gatm<?$G$m%Xn)T^g!?NRH<q-h'^g:g[lb6C+79XF7MY[,Dc^qWr.ZRs*cV5aH:"+ZG#QL:.WY=JADCAJ-`IN>H#<c("$quqW1b>E+h9[iE73rhpZgrn]uo#LQUa,ZKsQVh3]bP#n[A@0.oj:%Kg.u/\js0[N(?C8b8Q-n;YbVV>bH@/"u@NHqLAY.'e5s$\s%6=:i/K5m.S4d'<M!VCT7Uo[g_$j86s1l+cKNQ>YPdIsO2*6dos1rL$Gb^:)/Sfi6Pf_qJGM+Ofp%.uo",?gc2"Ak\mMk[$/I=/V3F,jTlp?Kh3p4,^Egf+2h[^t_7QBLR<,fQ)Vb[r?39MHgaT)d8i2'T,'4qmO&?jbL'f\+?cJ(O;D_Zq=M)kBQde"<fYGKKWR5=`!hCr=,P,@3NMnDd*78AH[Y<(3*_9YXB$+:ADUf2S#oUTnsL<$C7HYf9Y4KO2l?,T%nb*LD)mWIloFJO[2:k)1t\>e:Bp"2TR0l@#JuU/NNp_0pRc/<1X24V\'/[V&frPO3gFs25,&sS]SI*BijKb(9W08=&mfdnnPVHdSIYp^!=e)<FoA`Yc')D+#o!"K?]`3Y0k<"n9j46_Hb!P%G(M@$0hEW.Of4<OVbOK/=R!84:nNU$g2i^`*R7AAArHM+??N*H`0_YiC)&[Kg'$QknfoK[M$#A"C^bN7e+Kk%A/:o)'$rm_B'7h0LR-ibG$ljJ)#IGkoG2@N+r./]?*Xj5qS&hHEE4n4#+*':_lK1\a%ckXWk&;Xk%,onp<,kWI6d4jpg:q(9gXZe$alVQ:XqUFBd9@PB>I__QU=<>.ig0/X).IV2bhLOo,`Qq&la$H/5hPhG_k"Wk\.h$'@EARNg'g6V3\C=gbOQd:Se6!E6f=@G'Qj!\J,TDC*t$f_#?e,eiHDFj<Q$7HYDVoOTI[;aS`4VYN>MNMFX6KsY:g/W^5a?T;cqQ(:j=;ST+E-OHBLT^QdG+ECL_h^MhXlW2+^53h8&Sn9-lc\R"G`,CqVSB0m>\fuSl5E'TC/Zo*a;!-e%9EUS01^sk"-$]f+aD`5gRFbDT8h0C2QFsAfV9$jK$n^%3,K_KYVcm\Xe(4>rCNlJh4-!V8:],T%R<Kb^VS%n^N?RBgg3CP*?D*,7nTRL9N8;0uh*oDfF*)k\XRfFiDe\^h]W1][e<G6M/j0d??qNQNA^p<^jQJW97M0$W!FH0G^e[a3OG,\l]VA/Udn;Koi$^CNJl%T6g>iEl<mS+Wj4NQS*hPJ)/`6fq`M/&"m]8Su3YF*3l[$0iWok1aO+84WCH[^t@nuYJQ>U%Mh,9\:iH3L<!&a\h<,be\M\T_b&Y7;/7XYOK8,**Oa$UTN_(hNVb=<PiId9#VU$?D?Ni"9`;+u_!A6bjGPc-1q@RP+))1hj&ZoN'><"6si\$o`%4RF$,[sFMSlSF;L$lc;,4RNY@c(A6.-*7\5I&*d2Z3Y?<G6KI*?*.)O-XF?cC/&Gi*k3I21QtP6CI2%hOW\%F]%K#A*L^hB2)_D'.(2"'U/g<Tl6N^9CT5uFX^(,-RY,_*(:=:hS3VG7-T!:L")V$QNC=pgBkk^),7oKnMqFS%78[o(6X!Fu)YDM?-6Nm.e"43=1ea38djF='*=^IDb$iJ:8lUnkYOkjRq4cqj"@=t))hR4o0G%YTZjEoJ#24QGhbPZl&g1g75b92iY5[Yc2+R)I:0(9c86mINf[j-4==RRAHOYO$6Y,57lN[Y.QXGa.kHgTZ0<Ng[J*dEl:V&HRQE8JNa?_&:<fh819m8O24;5uUGK8(Cqf4jqW1d``YLdQs"c79:6d./I_s"X6D%V[tSZ._3UGkgUKZR-7Fq=:-k6=9c_)"VIGhu:1(uk(8,(V"V@<@'H0F'X05#plBAi[AK?jDb169/Uj01Q.Xi%uA9%!'Jpq)^A+A05cOe`')2QAVX,algdmG,@p#IP9&?EJIQ;+1^0Gl`*L,Op+T<B:A"6ilLc;YE6SM]ph\%W(4:E't?LVb85F3%tVP^9^VQ>)hmRq%,.&\e`X%`#0e(9KItM>2%!YSTcN2,-P[TU8*$DfZ_V-+B=gpsfhXNJXO(C+nHE0/mKm]SjOOp6QW]+3G7.Dd9K_587!nV0D)3Ymg+c5=+C*.tOChDTf(7<28b<c+VP&'c(c_i.04(+&kCEQFWYSF50)f(A(E(]-8o(CGE=^?,:[IY[02jO(gho6=Qe)64G-=/l%(VnL?%57cgfHrA<!GR_0iRbsJ/[[sV3iuBbA%K)<VVN'Ju8qiF(n7UY19=`FN5uY?JM'>M%$PjfSpV7ZVEEu27!@l$Js_)C>,^g<Pr'O=HU(?*Cft[q<G^9!tW4dF7<rlQ:EDYHA]9k>nb6CEe,38U;bg36R6H8iMPaXkbJo(ocrgbHD&i#[n=fD3>>LO&&:n@["eob/(8(/$:@f7Xgn<lH[;>@j/a<?<rMZahfu^g';,,=++1C*p'j*DbKr&8=]96N9hfA79t_!OH9`G#oUAu^A!gCtDo3KjY@.Hm_cJ]p%H#]o?4i=%_M507Sp0lM*USRWDiA2DI41[Ar'"W%s)@$`8fqG7(]OZE2*)!~>endstream
+endobj
+132 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2642
+>>
+stream
+Gb!SmgN)%,&:O:Slr0[&CmOfgh\=+&h+='R;OV=?0+\;DN(JU)5eG1jG6*R;N@7q-P_V/g=<^"^]6j8<*l&PYpg`RGE=VJY$9u;6^p7C[!6[6)R(e9Dl,DNrL)[Xo"bpYZU$:R7mfoX"I!MuG-87dZ:h2QbqB;B5f'E2V/erW>=tk`ZVr)Fm\@J*a:B-"AYMo?FpsZ8_J:$#]!3R^$2\;>lgekm;*`I;Rarb'g"f=M`<K.PslpY<8G&:(fL:6-Yh4"eiLSp&>rA)t`Hl$hm>R/=$QPiK2d1aQBN6nhWE!!qZ]s2q8p$QpmaRB8SmG7T0VouFi)<=1`T&LRRZUbA"Yi(aXX57#%1$m.oJ\iV8Hm:nH'H@^rC;Fic_GTN0F)ZQJYjn3'ro<^PIMh(O?F=FZ$'*snUFf8i^;\1Glb"qLaL!-5%"%qfb7B"_^^.g@*Lg+J"bc@$`h@+0((Y,aK^k"$&gfH<GUbYCll2aoo5"Y]f5@$CkW7pm_TG`ZE\/fg?n(Oq01)bq^dA@0C`@l)3<"TSWLr<"N5+9*j=$)TRuGFJ9H/r3$#Ir*cT3/:Vb@i4mADk.7WZJB=4T<J5@j$jFBN:FRY,e,^c"YQ9H-.C!G]m4KMDQG!/lf)aXT-WcD]^O:&qBB_G#!bi>%su+sE3_ZU`.A//SV[U]PS-)7u#$LPPKJ;NXk6\:2?AYJ'(pL1OS\O(mQ^5+3XDl?q!I3%j@gITFsTfOQ&Y'Z`Osj=?O_&1=8A,)XC?ObGak%c!*Z)<&K6fCqKn+0't\G$;M?Tlu*sa$p,aBXac:BtL8L"X6um:*j7Q@dGM-BPj9*)&8K'MRae'0e6@t`jP3IR#Gd8[0(+DM^lp(Vcl;$.2T:0*tTI#jG`*NJs0FOQ7Zk(6oFj.A#YblAk6DBJcV1Wo)UgBR#iSBBIX=dQrmHtBVr%M!hgV$r5.g7qR]'a;FJ6uZJo!q&%;BY#k,#Pl;s#4(RXts->^C"dj9`*cDnD^p1/JnM]K#i/8.Lo>0,8XaX\O<Y^.(+_V;pf>#smX'J\DK#PK86N,XkPIRO?gJ4Z8M7Zgsc1<:0T,\Dl?3a8s\hA41]"@3K,r`leBXAlo.<^P5>XD)hX`=DV&89c,-Vb\p%;T7FK!Y<qp=7>'K7L?@(++?m>\tk[s+DH!FaF_:!/kD8LR]L?[=@imj''Z]P-]0dRA/Sd,90.h2YIf`GM+RnEpUS(3!*H`jh+p0%Hn`>84J$p;U`<Vel>i%a.U0(dL<p9^7E2ga9>u\%'B<8,Pao^7??&"k[\m(O3k@&hF&a/WN;WhnOPq!:+,]K)q#AND^$07Eg$"NFh::gAV7'P2VT6r@0luBhk)SCXC'iA7l)Su&$^Gm1?Sun.T/9LCU7'EGURBLGoo+S,$8,m]o=_Klj,e`^&6d?(XVhq?ATVg$C"LHeXq8fDVQha,qZWf:7BLHV7SnhWVttQD8q0AK4sMHBSd8>COeIIrlf`Ka;VTA9,:<BI4%m[/?Z<T<FB\'XNf*W/m:6Q+'1:6]nsu+iqRsc.+E@F)4',#+m:\t-YVE2!WS5I+NZR'F%X6h63O3NMcmX^`_F,,4:0%5>="O`$!A0^1[7dN2@I)h/i.tIGRC3hH]*R\@>]*mV$\o_1KDNCAoH(FI_'OIO6=@Fhg@@We:6t564/"th\)*5Ka0Z?*9s;0528:AhMe/</b2nkrVfYtgkr;tAA3fcD/JLH#&?PreilNO[&%%Q+W=#]J_VN$L:=.kp=un2*5LZ#%U]=9?3*eAZ:n]NSQj:4f[UO:n<sjL'\^MFE?KtW`SQZZW@N>&IN2a-N*B$fuGp4gsST9TlXs+Ukg2\@&1?h>^E_l.>Ai(j"TW7R^RoC!D[8>9!&:mR@";"2@W!lK_Yn+hpb3Qu\plZ?q,o'83U1?a&"8JfQ>p($?d4uqP>8T5V4+]=WEd#&/*!G1:K\gNQ(<*k*&Y=lK,\45BM`=#B,KL$fK$;XOX86CoNT_*]28^>>d6Gk/SH<On9bg,_s1udPK`ZCno3I-JI0GLWE=OS#,tt?Ep!j(H[!1Dn(>W([WLn@Rmu?'@)V+7k<"q78"Fb2W[9dReou.s]g=e6Z61)am(#JYCn"'K#e*3;/10beA5m./!kg,j]HU`LZUI1r>47q^Pl^m&hoDb^QmGXpl*]8QVpU+e+j#BNQdajLq<_1NAr`6^VAiO?J9PFN;dlLn>IpQ!`>Kuf#B=-dV[6#LCF:_+R)S&[G<t/,WXP%nL=a@tXnNc7KB39TVouq*iT0uG)moRBhX0,5B647VuF*L-s9!/YBMLu!+/3AHH84bh!irV<mp-E8,]6n(4j&-3\"_[VM-k,G*,=U>3[R_L>+p]gQ`r30b$Hgu&ZOT.S)uL_SI4*J+"2PE3X-LFjnMQjLrX6AICmiZe)t_N0\<*'H-=\jeoP@F.5.NeI4Ps)&hU.\MCE<$UORs_DK;r9E7:=4S,*lf*OIUFI"l.WS%/0oV/\92%HSPqB?Im0FR()q19i1hVmQZ+`j-euDd<"^$47n2H[AbJ63l,"c[H.02aa#'kD`:IHgZmPHLq0GiL[dmCTO]DF/CeD4Ffl0E9&*,gC#&(kYdA7f(u_Q*=`M[<7Jb>[<'b8Yda%'Wr<i+o;p>1I1,*M>#T*LBh+/UZ~>endstream
+endobj
+133 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2632
+>>
+stream
+Gb"/(>Bf)8(4OT5fMC\+?,ZCN6i3*`-YFci1sfj*Y.P#b^l>Ut,X^h"5G.!E0Hgk8FQP\ZZ4aAf97-,G?Tr=RjPndts-"nZ8Y:IAnAt4#59_b&6L'&noDZRu#>Q+kO[i1-FusStcZU/;D3Eq3lC$;hR"r7Jd&nG,J6/l1mU3"Ro$)bb3rJ[2j_s=k^!$D)l2$!,590]LG#!/J[pu/]hW[&>Y",s+M*`PZY1W)&lMj0Kn'.k-#9-0=E]SXu;;CF25t&1H+#n+@*9>X^@G>LO1o2T/E50!.W:rnY!]P'ZJ_-bAG/@.H?qn5?R:4HbU=]k*AmWZ&SE;At.FVP!pgSAH'.,`!,j3j$D67/Qp3O!r?kL#birLO_?e`Vt^kp;+?=Z5a5R5%jctR]0YM1DEYAE@/4)I3:Y&nn7L.0)g(:a*YlQb!h+WmZ'P<u-m;iYulXE>cO'U4b?DVPO#f[H3D0RJJE(L)7Kk(0H=F,"\qpiPTophs.1*m9u/H4lNZf9692C,sE#L0`CYV]3R'']HBOXF:LQpfj?D=;p1BT"VG#q"Q#aRUG5*Snl6^Dh=di&Rre97b0ha31H9Q`!fOLV[PIn)Q\!^]D[onGT@=/+223B]*ZrNC.cF791:'K8P`5Q;sP&l,7fJi=Q6RfHH&k&"03Gk\;9EE*RFJS2V]L0,J"nC>(<e0Gao;L^W9%YX?DWiEs)e>I,s<'"D\-$bY'%sI7bi&VN(*>LF-p&k3V+,]?cs_Du##TIcM9ZM_sB;Ji\uXYWl1fH\@[?o?\_J%r$/,:n#;7\`SBUHY:SILFl]*H=A]U=Bu<F,Vc%4A8,u,T_Oa=2Zj<2BYdYX!&bP<H>#5no7>kVV&:@94$\^dYhfkrT=L'DPg>2%@[U.]f8&-_6>8Jjq3XfPX@,7+'#kbX[6#P<@>3>TB^IDHF2@^^U4c11Nm\&UR-#qmLJ4Ub6t=J.En)@6a>mTG>:3;sKa`KJXi*a`OK0Hh>+,Jr1jU*hFfLR4&QlTj1g'n5J]P?Rb4]J19!""@L[aG3kb3fcDhm2ib?gfe2q2j',N"JRZ%!!fe<bm;NV(7HRA?9!)TLDOYe=Ur-=DB6(f=u478kNT\;&\.5f(ZQ/,93M,,R/Yo3<db3U8+_!=GDGT)g+89&5\sh6-79Cea?r%H77E4RJ)A7ON/*A3uXYS1C.jXUcnka%XPh(8^h2&3V[K[Kd5g%LeA&a*"-o-LNNn%S2B]8n#+NCe=sRp&l)L^F^L@SncWC,F0Sp_5)U?#rep`Ou(ds^_iRM'1s5*>pJJT)m_@kG$.Ku7[GNa1an)gA>$3cC)_-l_;?=rWFBD;@a.]G<OFK`$qngHl0A06`]\NU?9Mfq)C;e*`p?\]AdM-eB!:JSb?O6THVoi+6;ilsMfQbR%0OA-V#J)kjd/c5`=g<An4FVnGQ^ue>Om1WeVm,(\B1*BkEoGs09sV[hsVn^6.#Es2o!bbf23>-`c+<2K-s*VRF5<F:2XA-Q=hWcX<]jn/X>HseLFL"mAM]"T"_hE3X0Lp4FJ1o`=sRqbb1s9j^=rbQ3IR&.Uh"?qU2[):IET#7@&?^13k+`>en&i1?HE4r^H9PVO(4^SHs*YT;09QV;=IX,L\XYn!MS7;5FEVX#!?iol.uP3mLqef:=YK*oDqBk?>aQ'+d>qJJN>jj*@j&mV*GN=""l$1ma"55R:^sR[HMCs(dps#q4s,bONX0hu!L4=Db;BSp:8[SKf=PBB,"D.,7@A`M_jGoCXQ.iVXQlMO,<%RPoO$>i3O]XqVsA!Qnl7JuUN,=n5D;QIQ<m19&5d<JN@d*G>sL:^m<["d'U>c#UW.n9HZ"E263MAft=IRU[k[g)l2X2"FYj&TO:kbjTM#SFUYbY"hJe_(_[6>YGUeZr(E&$q-3g)>n:KO?DU!1cGZKEm?uYXH=ZiCe\a'R,VFG0aR]Z4OLN'[lMU3G[e;WKKDBMZQ8<+m95Cnn\a#Z/3=9P0Apdj<,G0rBf>uUZ,7ukleXkG%UZlfbLthfK^+8fmJ?7\GI-QWS5)')l:j6YBb+j"rj[1!(Gk@JB@)_<-/L/QR]]lN&!_Nq\st-qAO+/'i$rMcI%5!fMM#Vq[0U2qkB1R8M1npOF-Y$reZr_]X?d9&Z.3qt=mKrQmk6,*^OrmGe3gh42YL8`/jD0Qih`a&O3>"0YNd@d*c9)@0kRK39H)>b]uSg_S/Q@#qOAfZ?J9LM-Xos0QXZYu>jG*a%Ip_9S?OG$lu<$TX-cJD6Qaa-1aOgfZfOtoSLjD$8-jG1ab!6Br>e-E#k;;KPK%g]*._?ZK:V^RI\^K='t,QEP6YCPZ]Xs7lNKe']jl*(F5u=.!3[<pp%:nQ+Yse%=:C^S=XqTiJ1*8/HH'-ZbSCimJj7GsZ9/lO7l+qK`WU"IA;0,1VVA;]9G7Q$0XSSU$VXru4Z\pJ!Su;Za,3a2&W_TnQ!"I#CshM?D/V4SQs%+%F#^%A0]INjib;9o,-?s(cX3NY:NGQWQT3aVgfS$HZ\!#o%!]Vr`AaduE[E:l%F8F'DL)K^fQR*)Cq]eGp'_9HYE?WQhhQY=ZQ>7T[HC3*du8r![+#_XB$=Sp1%hUnfh+A$c&B)/cgKBLnf$@&2_Q@$YML#,k=bISA9@<*2@::g~>endstream
+endobj
+134 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2602
+>>
+stream
+Gb"/(gN)%<&q/A5oM\d^M(l(8q6VHkP#lGP:.Stq>NM1`0I1'-(h@5$L4?sN"p@Ih,XYkMnQ)bl('2^_]2*Xsl'=glIQ[Kh.>ZhUkfoA_SkkP!H(bo"jG#97-bl95@2q`X3KZBC\04'5@I3\Zc;%DU@V9'a%@s0,>(cop[=<[VXl@D\)]!Pll_j&u?&lqVPCM'E/%W5Ns7P1od20P>'4$PM/h(s,)K@'<R;i#DWZPsGPpS_`?(D!+NeZU'r'mE*0^s^N7dj-C4tTOPeR;nDl%`57'F+>]opXA)Kpi-^i!][j:I4?#NAfaMF;m$R@-C"`(N.Ip/@/J[ZCD9!\]jPNF]NQ13DCg_q/TuK?XWRZ"%H]%<Kb57iPpL(J/1V2!7pX+c\nn@V-+B,'ZQ9q;pY4.gMHm'2D[SbP]-mk=-E[fFYh,WL-sQ?B,JR9']HAQ;nL210QXYEfQ>`r&GG?MgPLt-\^garE'2a`VVaCGB-Hi?&Ed6gFQ.,pJKkR/Dm"IQgGl\t%JDf!?#@d[S*'GL*rIU;_%FH,RANYV,4<!@1_l2G4B#48[*JCf%'=mn`iqsNS`CY]iNW$/2cik'W8m\[e;$tUhQZGYn7fQ>_SQJ+4!4J2\+=)Jo0dW$&76`QnUd*r0'8\g<g_A+S9%D3:5rn8q=2djF0q`/-Rg7k+!Lu=`:O%m#54[SF>E$d&FqG(BCLU(Qb5^A0S]JaLU!-,e0A"k)t-KLDOBGUN3Y4\ldY9qZ(o`66<fmk>V__kQY)"J@lkoDASJ$fl7?L+dlDqR*45^LV6V1%RI5pi]GG%Co*1bpFd?72!E4t[0T(m8T!@%X]:=nJ9(PB?=k2s8&rEI&Eh-\kJDHZdhd%6'k+Ma#8?VLQs/,!\#d(IE'ie-sRGn7%!TlqHREe42"4!k["]\f,0[sPa85oReEt_ctDOm5.;e)(DKeY?rls\J8bFY<3ZDXei@kUk"'-duAQ:Z3)C8CH&N5L^,nr,aZT/$n[rW1BOH`e:Nrui0MQDJ]>b"eLC:%'n:pZ&%=BQ9XMTa,fT;&#GL4DbP<6Lp'Bc4moKI0<fMfda]9*DE%\3TDFqZBCNJmSmJJ3_p?9>TLa-H9ErG?&p@dZoE$\?5,>mNk!K"Q`5*qPBT%g59S<2P31/R*%17in^n6d)bG<5jZ4o:QbR\H;&^KG)*Ofjpu!4Q\NpBJ=3is.DhXEb@:FoIo9-DY?'^AD[]18\760*+dm*C&lTqrp=glnCQ""n/RqG+:8o(*n>BfBpG@OZ8^2&/7E4QYYer<fRduE%iG0JC$G0%D),F4\',PIrOnaM55fZ;H(\!$[[^_pUf/4+I4"T*G^o,M\(T*-j7EKeIkhH5Z_Y]Qd-FQ(X:P*MlWrh'f%[7SB$$\GilQSpef\?;iZM2Rs:jo40nCbl()$]\_dd0>lkb;V_>qbQCET\KI+<Smu;%/lKPIl"h7lm&+J2r+MCGdZ$^^)<QHkbe$c?=H$XDNIWa7]`k^l3.Nf0'A`tSP<5gApQT44BgsH&se=6KU<rQ1W`Od>5l;H7m1hIjc-.7_IHOq6f4!/=^$=U23_X(IGuSaPg"DnQY/pooCT..K5W$]EP:?9jV<tR_?Zh5O"/J=9L"0,5.?96(PGGRjj&a`ZK)M)aR(RG\;WV9\:?W2/ju<&`6*B_RR^$J%-f#mFf/7k;KB!OPR!KuW]_1S;O1k2h?g3;3aIo9Jm97aMcrs]jhV)N]MiTUNXiXP_rJp6'p`>^i;u,)88Gl@`nq0?c5[BYaoNjHO#XXP=soa.4'PW3_q)O'PJ<\^)X`2T!"=H0]scE#_Qq8TgmYR4a:&q7A4LPDY%;mT9rSK`FBFd%m%k\5&6M-ir@bFtcP8+Rj/Z2298)@4PA01k(BPYUedh9mHLN<C\o5G09k^b1<&RQi!^`!Q=pn7tmUPhl1:cPD"i6jPO#$#0;0AN$710f2B3Q[Mb%@N\5!p1f_ka6l,c)Ir6OY<b(D=i'Mss0)K^So/gmIhl:2]IH:mc.E^3*qOW,uPCm?Iuh-d,7W)2)lpf,g!';XV]*0;=]K`Wb3B\rs3ohod=ZT^/(q(S/`t9QK(Yk\^=6DttFG/RR'I93X>DDI\qiRPai+NpDG5Ebk83"1)D_9iF^+IACDcVjWIr%*uHK9QogZJq&;IVeVcIjil<ALG$@e)h(;.FoDUoY;2?G/N_jA\+W:gd;[(qS0cp,fBZ>X=rDRrHuf.5ph`'W_$9(1&l/\OD0CHm=0-/*=dmjqG-L,qhJdV>F51hXYlJ4p-uEe8YuA?PN&UAObu-%16(%M\\T.,/(?G.!F@kYZ8Ybedc,[eY(\>Mah=%+tIng=!%*i+!6a9d/1(KL@JkO>2m.VDLa^VQ9k)KOERq5P\I1KLhi6s`:n<X:,R?luICB/'@Y?O@e%:KLE-l-pNG0,'Z9WIbm8X^j+Bk,lVYcHXkiTS6t_>7W0Ih%d!g11=@-_(p$0p=GK>Q^d15tgtON(YX"<&n&(RrZ,325-gW2D\':<Uh?(XobhaS(/+JQiiL:aV4eLgkR-jjf3"Kfg,Pom7`,'ZibQ#orb+R&";SMGf4aZ?Jqk]82)6Gr:R&i2h1>#JEK9t5pu[5"MaaA~>endstream
+endobj
+135 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2509
+>>
+stream
+Gb"/h>uTLt)TV=B'[KcP3_%MtA^@mg!XYEZVVni1)/e$Rg=d`b?*/d@c_p5]="fkL6OY5Nc:hW]81X'kn'>ngLMV?"k'*%%SP88?\O2BMP8QBpjjW9RSP9Un3O&G.%ihkVHT\T^Hk-,%*`=^WB\j&tOa_"\H,Jbj$olN0_\&aQ"'89cdG^u6(Oqr\?!g;)U>O8\o_n<X2ePN;mP#nI]fnTSd!"W1.p3T!Vb=IC7?bK#nr'*i)I_T49\.:e,mm-ef*gg-m=@-jj[%`Sjq"Sf:Dj>ML\o>-9%VD=`3VUBj>fTu6HcR?$$t%mT(K_$'nhV)Hh+X4bXKfTb#lanJNo+=.U`LY=i#BplHSu`be@N$+OHiOR<F?+NdM@@BI,cC_sn`p1g8u:Kj]ier@kH\3c\O(edMD-l1B2s&-Nr\%scm^og@<_+58DN@kVqV!2$Zmg:(GiGK3o,;a]?fULuIqDSK^$'<L$MfHrT6/i5X/+_"_jA.6tEe+3j2cu+)Vm_ZMWLhkIIT#3J=2U('&J2;3WEW.b[pbQ>)M39'.`sY<l=\tLl7@B+8o_sQ<Ps)tuB$$$t*,R,UeunN=4D5P=*7kLO#RfN-&+'rm9tW_n3rEr:4e_2&1pZMDTn<Vm6TULcU-_E!234b(P[,+I?K@6)H!\o\QH,uGkOc4"%D"RLnTsflb6E$)\8kf"Dc:b]'-53]NffY\dX22F4nE5Q^N'5!/9pCVXD!_M`RTK,:,+Di8BjuW$AS^eMDBaN3@tTP?j/'7bUH//FINV;.U'sr%npP3a<d(W*cOL1[E8/#]PsC<C;H4Dq+jnSnWYOm+/LG?+VW09_;N6m8,QPiP"r'bXGTMMIl.)gVY@L_$Po#%8XE/0Ws%DmN:8m\':-si9Sm!m2i'SN*lX!L*DTku7NGk$+k*3LmL#X8Rf3c2]g\k=b>080\_q2WKQS_*K7D$RjCno\Fk"1,17$B,ihZ@DdJ"FN$'q1u/;$%er#mjoCrXX5nJlD"USHoA/W\D-/ea8LJHn7/'!9Lmf*WNQFei'kU;W"lQrf^$G?O[?Ot2IIMeU#cZq)fM&,@[LH;8c:jZMXHI<A",;Vou.e.GXb9W&0G?up3r7^Oa>?!R-LO8U>Q6?+KNNc(BkOj#TZM6O0-S\7+J7SBfJfW7]o>#kMjhd*A<8'Q,]?o/@bP%]ajMrg\GVhY/-T>)I9Vnes(9+G+RL[-Hb9t;uSHf*\iB5]oa5-]Hp)EPGaF4H6f[-5NR<BFfKU)c!*m>+&^G/RY8,7\U)(McUr^Xodhr`ML>^&]d_Y4:6kY%N$l8gt1H6RC*OmnM]CiRo-0D+$6*V6RQe*"Ck.*@[>Pj-.qKhn$1bUS>mth4IuA!'O_k[iYX*mMG]Fmm3]1j8XW.$iIG'Il%(Nne,<#s4jj8:-Fn*9O@l+RG_k3O3Z<>A?\pV(2=R116qHr.8#k7;j$?(5-)-J$Qn8r5D'?9?[[p$lYC\RJc&9pclLb:gS/&/#AjXqF^'H+5[S*==]m](=f6-(_fe8bns*ps0*dXfS:TJ'<!0^D8oa]arfh]FZArlb=Z,?>K#%M1;T3]`mb]Ge(A\?N;Xm<C7`j(X<i#hCD>8iN[]t:V6afBN-C%C_.`L@3%'dHD*,a0f.H(45?CD0&FYAN?a"[\Cs3s$LM#U'2e2`9!+(VpEE+_2W<r77+>LB>A9M:!IDE?hJGR(phSg[$a[K\s`MhES]G.`?G)W:Ja^J:@H-=>/X1YAFdKH<[_9VQnXb+'_."\HNb<N\qHR\KRC-c^_F(bFf*L(2cIT?T=u71nV5;78meigAuH6+&*C6Ja-(Io61CqZGRQC3>@ZP/gOT-7NWM3X@`6eRMPEPS5*^>Iq+J\XMd@NCAE;e"']p7hB=cA%p=GLGlcB[TKm1IZ6;BLqc6LhjuYD8To-OkM%l6D3$[%c8thRc?*jb?ZN"nh;>\:H$7*&j+fi/)h/hc5-OK>&iMTRTHZh)V9>_Hd[j:G\+EHUHGL@:h+HJe_aHLZH):coUN\hc$QeV\$XTY'<Sk/So)D$*5Y_9;[6&GD>%]/_Rj)'E>L2rtR'W6<3X<A=?G<J;;c^iJ7</E1o#?s`oRWTMC<G7[a8$'OC)Y:[F>_T%1bQNUlLqheVJ_Y2"+'3"pnr^D`Cr\^1jBh_^`W%o1+;8[*.%pc1#O/J;X=Q\VsScikB4\$fH'Yk`274hpoS'63(IbT_aohJ86[n+rP$s%U7N];1&(j-p-7WrS!/c2/eCf[3g^f7dW)_Hi&bqV5)@I7JS(Nc+pcT(OGbSG?91]$U/B-,Ft_R*-o%W.VY##8h^Kn13Qm+3dj[mlFGnjNLIVl$DdL-4!G@q,p8Im%>L*59oOJ-J_PX0=dCeOOJ\q3\N\iU#EamZ9d%'8ahinl_8%HXcFrIJYC_b./RmNBr1]?d/=@T1CnT\=?UI$H+'9>S8`\8MV=*8i?k#oc)&,\EAI/;MCQu+3j3f&Vu+nI8EoU:7[VG(NKi'c>@Ol>Qfj@KUV!jX'D!!~>endstream
+endobj
+136 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1302
+>>
+stream
+Gau0B>BA7S&:Vs/fXDN]i``d<HOOW*oF-N'-GV=a(Y)Al;q^`(SVHY"=ilfdd'SH,ie_Md=*sbW?!.;8]SO+r"i0FaS50G&&*?M-e=eRG$^:DEs+*N^)A$ih2i1gtc]CV6#\l6LXbiQM01m3Kgathng"?mG1_g1c2H[ca_n4*QPFL7er%hSP@Jk<@iF2k-l\,qdGW)-Yj:\u][9Tbs_geb6!V7ruJ#TP20ffdWE+6#1.#MN\&)cTp^^4F*.!NsMk_'WW#cNgU]:jc.DeA"@^(^Ah"@$p?Rn_OnY,=ki`!IVSH^\"c?f`RI:p>\T*+)CbFiG,NV;b`rHa^'hp&b;I5_kX@RLV96WK13G,^`"4:dQ@i7B%(+$#7m:E'/C,H$IpN?D9H.=X=J-ZqA%Z]2`kaR^aCuM'%"/JBnuZ]*\T.NiY8qNT%mlCtU4#?K<"1p@JpJ'W9QJAqpt!XG7Z2J@]]GN1^PQ_theLEn_5Yd%Hr'/[bcVqZN"J@)^ONE:GAe%HItonq!h[Q;U#4jY[`mYng+s`iRr49c03%SqoiCSQQKde%e"eLe!%.bCYm&FCT]eHGNut3%>a.?^=f@?3E'UY#X=p@8^QKEidE(FbYHi!=_t1VII6SGt9_l2*1NeTrqF@IkeWbnT2cHNo0<ba,]j+CebLf4i[8Fo/#poH8IB@LH_q_!W+U*]L7"fL4='a9Fm9ER8LuBi/ZCuYQpI%Fsf8R1mRC4!P*kX[Y7>qQ"!1uCV[+>:ll#]j/mkAgZms&.tD+(Wi9OjTs2i'=tJ$io*i*jD`dek:j_kL1je-N3iXZlVl\"&BZkC^bX\ISfh!+cL8i.Pe.W*N3Tu\%*.d#Y>R1Hkc$4OfEhoUqf_l=@hZ/:T>;s1p[UOMb+!Yrm2jqM=(rD;BpUXQ*7?"<K;X&Rsd++.epZmQ`eS+'hF&W=]2ZD/>*8LsR7pEh)EX$#a"=XoZ%NK!?.OjZ3M81bQr>U_bs/EgK]\*]1FokY/4!Z.?Ot)_i*IDYGk7J_Oq:T)tMb<JjQd&i>e$2ek?'toGVLRN9M=&>B;V_H3OP)^pPh]Xpca*.Xe6%NeZ(nqk)`G^TlcYd(2N&4>A`=GB'tg]Ck35/i/RNgV.G%7`^g$<k8=O+6fI.,6VKumuo"uKQ8)t=W.GWM,6@YBVnAWt?B3GnUpegDP:qJO;<eTKBo.U*X4F9g2bW3oh;i9C$^E)P`>%pg<oBsGbH_>"/Nn\5C31\9P3gi"KF>>YX137iJ+u?G9F"X^11MA';-T&.j')TD(jna`nLo<>YO`h\W*l-\qa=u0R~>endstream
+endobj
+xref
+0 137
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000863 00000 n 
+0000001048 00000 n 
+0000001238 00000 n 
+0000001430 00000 n 
+0000001610 00000 n 
+0000001790 00000 n 
+0000001970 00000 n 
+0000002147 00000 n 
+0000002324 00000 n 
+0000002527 00000 n 
+0000002730 00000 n 
+0000002949 00000 n 
+0000003167 00000 n 
+0000003468 00000 n 
+0000003651 00000 n 
+0000003836 00000 n 
+0000004026 00000 n 
+0000004217 00000 n 
+0000004410 00000 n 
+0000004601 00000 n 
+0000004824 00000 n 
+0000005045 00000 n 
+0000005235 00000 n 
+0000005425 00000 n 
+0000005647 00000 n 
+0000005869 00000 n 
+0000006091 00000 n 
+0000006269 00000 n 
+0000006447 00000 n 
+0000006673 00000 n 
+0000006899 00000 n 
+0000007118 00000 n 
+0000007339 00000 n 
+0000007558 00000 n 
+0000007794 00000 n 
+0000007974 00000 n 
+0000008155 00000 n 
+0000008335 00000 n 
+0000008527 00000 n 
+0000008716 00000 n 
+0000009114 00000 n 
+0000009299 00000 n 
+0000009484 00000 n 
+0000009697 00000 n 
+0000009910 00000 n 
+0000010112 00000 n 
+0000010314 00000 n 
+0000010515 00000 n 
+0000010716 00000 n 
+0000010918 00000 n 
+0000011120 00000 n 
+0000011353 00000 n 
+0000011584 00000 n 
+0000011806 00000 n 
+0000012028 00000 n 
+0000012209 00000 n 
+0000012388 00000 n 
+0000012567 00000 n 
+0000012742 00000 n 
+0000012924 00000 n 
+0000013106 00000 n 
+0000013322 00000 n 
+0000013538 00000 n 
+0000013908 00000 n 
+0000014134 00000 n 
+0000014360 00000 n 
+0000014560 00000 n 
+0000014762 00000 n 
+0000014963 00000 n 
+0000015228 00000 n 
+0000015493 00000 n 
+0000015705 00000 n 
+0000015919 00000 n 
+0000016079 00000 n 
+0000016240 00000 n 
+0000016416 00000 n 
+0000016592 00000 n 
+0000016769 00000 n 
+0000016932 00000 n 
+0000017096 00000 n 
+0000017298 00000 n 
+0000017500 00000 n 
+0000017686 00000 n 
+0000017872 00000 n 
+0000018041 00000 n 
+0000018211 00000 n 
+0000018581 00000 n 
+0000018785 00000 n 
+0000018992 00000 n 
+0000019208 00000 n 
+0000019426 00000 n 
+0000019668 00000 n 
+0000019910 00000 n 
+0000020102 00000 n 
+0000020292 00000 n 
+0000020478 00000 n 
+0000020664 00000 n 
+0000020849 00000 n 
+0000021040 00000 n 
+0000021231 00000 n 
+0000021420 00000 n 
+0000021609 00000 n 
+0000021849 00000 n 
+0000022089 00000 n 
+0000022275 00000 n 
+0000022461 00000 n 
+0000022736 00000 n 
+0000023007 00000 n 
+0000023209 00000 n 
+0000023409 00000 n 
+0000023634 00000 n 
+0000023858 00000 n 
+0000024269 00000 n 
+0000024455 00000 n 
+0000024640 00000 n 
+0000024855 00000 n 
+0000025073 00000 n 
+0000025254 00000 n 
+0000025456 00000 n 
+0000025658 00000 n 
+0000025925 00000 n 
+0000025997 00000 n 
+0000026285 00000 n 
+0000026384 00000 n 
+0000029043 00000 n 
+0000031778 00000 n 
+0000034503 00000 n 
+0000037198 00000 n 
+0000039800 00000 n 
+trailer
+<<
+/ID 
+[<58c2b392a221dc9233e559cf6aad71e0><58c2b392a221dc9233e559cf6aad71e0>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 129 0 R
+/Root 128 0 R
+/Size 137
+>>
+startxref
+41195
+%%EOF

@@ -1,0 +1,987 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 367.86 239.4664 378.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 355.66 198.5632 366.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 216.7332 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 309.75 212.124 321.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 287.55 182.9968 299.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9781259676512.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 253.15 218.7664 265.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9781259676512.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.95 121.4212 253.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 218.06 230.524 229.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 205.86 115.8092 216.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 171.46 238.4544 182.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 159.26 101.4848 170.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 115 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 216.7148 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 94.824 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 221.5724 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 622.76 167.6788 633.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://projecteuler.net/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 589.05 145.4148 601.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.26 234.6088 503.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 79 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 457.86 235.8784 468.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 101.724 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 223.6056 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.06 201.3784 400.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 292.96 216.7148 304 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 280.76 94.824 291.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 221.3148 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 247.05 97.906 259.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.16 221.83 235.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 211.96 94.824 223 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 190.45 229.2544 202.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 178.25 95.3484 190.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 93.66 235.8784 104.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 81.46 101.724 92.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 
+  29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 
+  39 0 R ] /Contents 116 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 174.8088 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 225.4088 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 121.9088 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 189.1148 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 235.8784 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 502.26 101.724 513.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 220.8088 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 117.5664 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.math.brown.edu/johsilve/frint.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 223.3848 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.math.brown.edu/johsilve/frint.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 433.46 133.418 444.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://projecteuler.net/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 218.4904 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.16 221.3148 326.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 302.96 94.824 314 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 218.7572 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 269.25 97.906 281.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pearson.com/en-us/subject-catalog/p/concrete-mathematics-a-foundation-for-computer-science/P200000000359)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 226.1816 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pearson.com/en-us/subject-catalog/p/concrete-mathematics-a-foundation-for-computer-science/P200000000359)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 121.9272 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 211.96 217.23 223 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.people.vcu.edu/~rhammack/BookOfProof/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 199.76 94.824 210.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 115.86 234.3512 126.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 103.66 106.324 114.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/Annots [ 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 
+  51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 
+  61 0 R ] /Contents 117 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 233.3116 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 97.906 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pearson.com/en-us/subject-catalog/p/introduction-to-graph-theory/P200000006322)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 216.2088 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 237.424 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 95.3484 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 221.3148 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 502.26 94.824 513.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 226.154 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 227.442 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 95.3484 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algs4.cs.princeton.edu/home/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 423.46 233.836 434.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algs4.cs.princeton.edu/home/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.26 121.6604 422.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.05 189.124 340.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 292.96 221.3148 304 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 280.76 94.824 291.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1008328.1008329)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 258.56 233.5968 269.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/1008328.1008329)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 132.13 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algs4.cs.princeton.edu/14analysis/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.16 231.2784 235.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algs4.cs.princeton.edu/14analysis/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 211.96 94.824 223 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.75 189.124 140.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 235.3632 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 82.15 94.824 94.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/Annots [ 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 
+  73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 
+  83 0 R 84 0 R ] /Contents 118 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 221.3148 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 94.824 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 217.2024 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 104.5484 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 548.86 234.3512 559.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 536.66 106.324 547.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 218.7572 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.penguin.co.uk/books/558051/reckoning-with-risk-by-gerd-gigerenzer/9780140297867)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.06 206.7604 491.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107658561)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 445.66 207.0364 456.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 349.56 224.8936 360.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 337.36 121.9088 348.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107154889)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.16 218.7572 326.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 230.524 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/video_galleries/video-lectures/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 269.25 125.736 281.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9780521474658)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 246.36 216.4756 257.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9780521474658)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 234.16 116.3152 245.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 150.26 218.0028 161.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781108424189)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 138.06 105.0544 149.1 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lamport.azurewebsites.net/pubs/proof.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 115.86 226.4392 126.9 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lamport.azurewebsites.net/pubs/proof.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 103.66 117.5664 114.7 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/Annots [ 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 
+  96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R ] /Contents 119 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 679.36 213.6512 690.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.16 120.63 678.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 644.96 234.3696 656 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 632.76 101.4756 643.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/Annots [ 107 0 R 108 0 R 109 0 R 110 0 R ] /Contents 120 0 R /MediaBox [ 0 0 612 792 ] /Parent 114 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+112 0 obj
+<<
+/PageMode /UseNone /Pages 114 0 R /Type /Catalog
+>>
+endobj
+113 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160519-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160519-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+114 0 obj
+<<
+/Count 6 /Kids [ 18 0 R 40 0 R 62 0 R 85 0 R 106 0 R 111 0 R ] /Type /Pages
+>>
+endobj
+115 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2515
+>>
+stream
+Gatm=flGie&q/A5oTMp>aTr)4Eh=>*NocEJ8"u`h<IOtj+UK(qN<)^/?_>e'!(]`;FK`=`^gO%+ds\eH(1cI7d/T,IU>L^tbBlOlU#D5hB6c>HVSVcggR2W.Olm(Wlo;<,Qn72&&I)4Zc3e@t"(C.@^eWLi*02R@e"=tUN;&I2J%1/sd.Uu+V+!BY=h^2U9s#rtLfUW#Jd,ZI=FNNQSB`5U]_ZtoGCMLJ0AX@?bNj?_^CPdfi>3F3bW@E6k[aLj.SKH.D(D\LdrRk!'<])mmNp]%)h+Hq[cpPeZDkj,DN`!$fj<n<0V;.JEO6h'P+Xa%:hW:688PiQF$j3e[3AZTj?gASAVuJb2q;tZb7C<EqT[bESY\c<;4c:C8oaCS#sqP]KUl@>RB8Bmq?p\RLP:[0*,YpFQU)$h>Jrf<K-c*tE5EtDZH6[gN)$IZdE(Zr^<u$?h-`KlKDXDY]?:4;q.WKmB*nfnf.43mWjWW4NC#6X!Gd?/XO/)fG):=2?K<7Pf+P?^($^p#gE;K7,;u:X-E6/@\>3V'e$>^k11)k'M=/E`/>1^0#QDuk8X%9*UX`Ri"XFnB[$Yu.T9huPC+-&1ddOJ>Bt^5qN)Oa'P`HY/HK,uK@dW2^T^Vm,fkOG\?Jm$hCs(u@ae:c]Ycm_$m)?D#<pYR$n)L>9>FYB(M'1O\I@Tu]gmH<pojR1Y&GA/L1nf$>n4;2/O3U&.fRV!L\eo!qq.LET+)W07GY8SA!ucWu]&2g6LkX8`/(JWf-\bS*_P2i;=9!Rn<CBl$`;7\[I`mm8iQm;N<"],2!#oKi>W;/j4NT@:hBOdd17kt+n1-)S)L$F0a^d^D+WV/86LkA5B.MT3Br1)&I]&iM=afD45&T(n;HZ&CMNVF879N9+6-FN\!DF'J.]mLQ7=Z[V27[6$U"=L)PB`\MefcDd%Zl*%-U#a$F@o(Uj>`^-j5*X%PE1e`nD=W\:p@c-c+!&0ZB43t>]OlC)@OQ.Mn1-'AbhV2o41_aF*\q9kI$oD6d.V.lmmM^EaHV>]`4WTi`Gci!-YGO7PQ-i54%8#\,,ZjTQ$Ku"UJN<H_=tS;7S5+9?0^WatQJS(1.q_At]U$PhN!,:/Y(nkm0u4]7JklA_orTrN\BN5T!1JbFUW'Pj`;G)&mjP-B@98*Uto1pH$S9+hQ#Sq>I9bo;#Pek9VJ2226i@&(;h^^X]:rGC1:94;g/V3eU?5Qs[Xq_I&p]\5dQs[j+S%PKWHli#(ce5n=]Q06oiZW^jQYo'h+?b@OUr*%egJIItNP7ueA!XpG>oNl6iUejhkfp>k3F^f<Sbd=1PLg!e,HVQ4i5VqH8)qboZcd#.d/+ugp3_j[ch`$XQtU+8dh7)JACK^MqhPZEqn*8q,.0b;gk"rDP3IB+6V?d!_dJG?9Y3h+`46#YsVY.u?P3&V\ASg&>:0^$##@<VSHdnsJ/..6B>G.eA;DqbK*[p^q^E_Vh+BJ[@lD7hPs&mRJ7:ft+d)t#\`iS)bRL+FjAW6)HAM>T!4EfnNHr1B5]4nD*\2qLcQ8cFh%3)s3T/#c[J85PgQKGRWKb%-Ni=^-!ElV^ecfkL"I19RsK`d)uI1XR9!?W5l8hs3UE5ErdT@DhFqhJTKN'Nhg,I&(+g+WT89pp<KWp"P&imH*A^p+1V^6W'G,pY(-B0mb\4D+C6-eiPR7eBJXG77gMq1Bh&Y&#D@>[PIE+$;Eu!bKHWh=rV&R?L#[;lOYSi.0=<J0@FcuY/UIK61;6KjQ'm'C5RIVEY(ie4^soeV7R8Y^L`.59+#1NLN:K_r_nO5#JkU('?<;!7o$q^VY-r@i2`koAokgG].<Qi&lR8W&HgoQokL52nb\b!]IJr`C83_=X]T@.?NC'/R=o)fR\EX`LBVWbp0)R/N[j1DEOf0l![N(8)M\sk%ZJf0nU%:UQ)s(J?Eq@KofDj)/JdR!FQBErG]enX.TkOGXN5Y#P#K;G:In^B0c*e%,DJOkXK@miX8gPJ/14YlOTAYR=]Lk_e%IYt$X/eQ^hGmTk[gOt(S+<Vdm<SZFdb6a.Y0NmrJrLM9O=C&2tX>AlAm;X&]lk%7VTk`2U$S9MAr>d?I[bTB9N4SKs&<&;_38;]6Eb9k,V&iIu=aLd_<Ri%2f"ZaLsN+1!/#a$WNUCUm$hr<D8M^EL\A01<IS43(ZE.28hcF[jG*h/^5Z'qoeu6gNh^I0*(b>OM*3G>ajeE@3R7BH&'`Mqn/X">,JfJa1QOm]%T"0.'fbMq6G+$%BT75=Pp)X^8T5H8)X';Wm$F"HUmJs>l1&n-gpA)16XUgQa$BI$LOLqJ(!TE4J#C?[OpZX*dRT:83aMkT%P'$FmH[5S$Ahtd<FE8).'m3F4[V[RAF9>GQ!u%9_pVpf<&I(kn\6k4k4UCpKZUC'bT+;Ib)3Em^1k3kmB(#,N&)-4$$de4CQsWg%"%jn8p0s]Dl:1.atNqL+KEF7om.^)_%<FS"t#Ws#Sg4Tt.LdgBl-CO8MQr@7!GiE2E>6fb4bXlsIr/-_U~>endstream
+endobj
+116 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2297
+>>
+stream
+Gb"/hhc&8h&BE](/,&4rG#Hr_ml\#u>e,E$$YaNsL)8esZ&3CpQ;'"3rN.@"EQAY!Ja#>)9HgiTBsmigm`,Y8)h3\C*G5?o`piD\!-)C/"l`Z+N6gHnI.ZI?nj:YM@/9LEZ9A+)GbH-C0fuD-$*?`]1pYo0IL$l`4amt$:nd?V!AbR?rTih)alV(+p`K9Q$HM>u^]&Z`E:!cO^t3)+GX)05JSi:NPG0O9"rDC\)TLZCr'h-376%b@!\8;M;.1/!Xq-kK**E:nNq.K[0<bKg1@RFCn(3mT>TL<kf64:;,ltNLjd?94*U>aL4a1H4+n7TV58ARcF.,Eb93-$0TU.5D=tl<ZN2=_C=C9GHCHhAX'dse-4,c9<f:\GfU+_<m8>t.%X6s;M9D1^0Eo=([i,:LN)]VQM1n>U.LTESJ.b^b`2=a5F"4kO&*T+oP`_H,),P'3kBPI,&@<KW8LMX[#<FgofV<PA(Cu#33[IH!=S^s<+0Q7@6JTn"%`mk?"foP/%)P+!U^?^+Y&JU^Y^_D8GZij]%/FHU`@4DU4'.tFAP:GBOE<)cLbdTJ>;/X7=Rc3.pqTXs7EJP^0+?VCdlj3W+V4aY=3+kfPo-'V[5"eM1_f'M1QE1oiSBs:]&P-ERi-M'GGl@J)TCateD%4FclAT]63Ojnj1sjeQ["6hh([;;gT*Wek!bR41eiCO*j+OX5I\e_OKU;h-6Wih56._iUBI]EaOE^l>Ab;;QVRbW1#res(-+=9%/if.b`B`KX_F.LQU(UoBfWo>f#snC,dZe0Bb^)I1"dB'P(T8!,/%7oYB-@'(oZ0"R*I]pWV\4Db(,V@V<m[>#J\:)Y3eTLF3QoTfBu)gE.;5tSjj0:j>j;u<S!'B&da-N_i20/Yk0bcBC6q-J7nhXn91[dmiQB*k8*B)7)CJ#!kfXC#U4Scp\L:n.8sCUD45nhG9<D\BQPE5!"]+o8b2Xs'+5q>TU+N7:lu_IB'^'D137R;=(7/ul$*Aa7q87[g?TYG:/4=J>9uUSNJsDP)?c'%uPY@B*T:u!hOfNV(GV^,g]IHe%!_[^JXSq!:4K$g>9DF_f'%75+fkmnk'E<R>$SB)IQDSD0FW!#;MH=icR-),rG0aL\fC[]ZL+2n7S%`XkYcKbmpp%B196kSc?Sj@G7Q2pq_R'leTu*gGBKiW$pi9.5Tm@:?95.f*^?]"XeD]Cm,nAJ*`So=bC'>h$`J`HKI8,;A^ecOu>j+K^#Tu2)k@2G@?!0AW9K$L&P4KdGSl2Zbb7/;=lpkI_BLP3K$-_dE>&R@a#b]J/Vu@JDjuH-SIk_4Une=lS0OdOHRX>STlW<X':/Qm,fshPSjoI!ig6R^;_o$\e`FDj4(sC/J&\*HScItslC."uCoV8.+aep*d5m&fGB4Q\%9W3'6BT&2i;O5YOUfj1h9H2&f2T'Vfqj4Q.m.4,FX?qP4?,`[j\a++s!PjY/g4YHZI_Dh^=[=eY^q#Q^'K8R*6Cb8AQAR\l!6[eg9@QcI2Qt7ES*?(A"U[PI\@LXoP5X&$@*5u=)af-:G5anokUKjC".VCXE5s>"oE`E/JR/RKZsgS^:Ml?%WB9mp_(q-GV!/NJYIr%4//%3"AVebIYQ7<an!k-`0c:f*L/%M!hSEb$O_,JjDiO];KX_2eSYh#<%,eaiQ"l<M*2Z`)m`A=.";6*-RF8sJ,K5O4o`*?UXu*iSA6gEh/5Gt()6:-0a([CkPk?jTZn/)XHE^_RhZiDKNFC2.D0+;g:]j,?VQZSZpf^n1&t^+f#,=(\ggI`r%q.ZR"TBsE<3]&#q\bHJUra"Z)"/:$^"?JWs7iq/r\cqNe9.1Q5s'.j`gaZkS?S^1<>&<2ZV]`0/rg_0d-V$o%d(,Hqf,kJ:hZ0/T,!+7KU'q:3Z-JX`qDiVW5hcco)i6E[[@E&7C"@D0G1iZl(#((h2BCgM<@,@kT!g\O&u/#EuEZSA[lZFpPH]PKV<i)),91uNg_Z8+>6Dd[X'0S;>,l5p)eQDT@AqJ0<^>U;^(::gDqk*^4URBB,[T.ASPd$^/Y'4"$61A<%"7dO(hg\2^>TA(4;k?DIV^Q>auj#%dO7OZ+,!MLF"'qj/_2R#b2LpTeqHqW\<*p"q/FgeTq0JQ?tC1OheH7TAL5k\^>K)S7e(+`C^R7BpH_]oIj?^KWlQdE(t4'[e#-,^Haq%V,jS`V+Bmn1HZPNqW3Xu3f*=W%Uu13YG(pOM@V5s?8&&4q3:'0akfW(Fn`PMat$WZ0-9D!E`edYP&<1k^0"0%SQkj[d73U%.IAhrV&de@'0,h!q@tQB~>endstream
+endobj
+117 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2181
+>>
+stream
+Gb"/g>>s99'S,*:($B:tm\I#I],rI0/R@QDddHH108cmM.^kVb%Q+37O!NJ"8-/fY4.Rf<#e"k9p[_MjD#=kC2^n`5&)l%n!TLn6%)fJ7(nSUlE:;PQjb9:%_"-kPZ9A*q][.-R:A1,:TbXOuZ/l27,^_kGon*O:$@PDr=MXq!pEs=.c7_qIs1sJ#3'9A!r:^f=V%\L^T+BoI@/(K=gP0cMM4%$SSC-R/(k.1t?YX""_S,mbXN3+_Ki-p@5+KC@ZN@Yi/"?LM^^<1P_"V*Hhd#;_nO-qngU/5l"Q5$#B,#B5de-(UDJ]+lnTlEE83YuYc(UdfP8sVMC0):<%*"I8I,8)n'3]k,L48Jk%_>8X`""$<74j`:/m<mPKS3Ne;GD+X*:JSFNdp;l=_`T(E&mT*#GEVB431G$2M8*`Mer^#fF8kYa)>IdAemuOXdQQ'ZG+(7`n&9`$r(OYBhfIWS[S;AC/sY%mb&Ab:^2>jm%BhA]IG4ISc(H_Q42G*-&DoINq\2Yrlo*c]S8gZ1KhOr8>n=N5p=ZZ^3S`=U7h#tEJP^0f/sZNG(ec,SXUno=![RXnsgH%*'f\7Bs"3#J<hYZpSo6Cr#.#M[N`js\6HSaX(/Wpe\^s!@a#Mk'/)[d?2]E(_Z$ClKmLr!Iu]i5A49;hI119H`)+Nhbsbe";<(fIR&_04B4sa=2lPKSP`9t1dZRTFLf)GFH;:NrIR-m:m/&X&$*Pp?jWd@Y*$$f*>Be^A1Xb#MpJ0qsSq?pMZm]U.A^l#X`"e(_I$?sVHYt"&'3aXYjkt/dAbtMHHTedE[#apFX*rp.G\Wn0d4KhWo\bDF<0].DcPJ3,3LpFUf;P4`$<G`Kc8S'rYnX3CguN[jL4iiHHYRS+n7fjPk6"O-c[-80L$AR!Ye0XBL&72Oq_hqq;kR1_j!J8</_=/@7P#,TX'eu*/E&#uETMtl_V,l'1;HM(G]@s2JJ52mpcJEPH=n2iFW5208C:CWF/:q]U3RI/W:mrBmcgY3?8K22^Uf`A@kXGHk1[NGp<)6misFQs[G?f*Y*W\K/ZbMG0A7eb=g_&t`U^T`J'Dlg:Ud&H<"o3Y0G2"p`"/th9n9cfGSOT"qEEH#a0:pG`&?`ZL0*Ck&k%:C9an3]h/gC*:%Z)j'dF._@E&F>]1Q0gJ4_e_R&pOmH*TF<'kFf[)=_m3iPu<?fE`?c5J_sq@hY:^/\Q^'mTt/DB];$QnB>S:kUdj8-9W:$7;k;"RDtFh`[=n@9)&M6fXt:N.u7/LG,6_G^+X@Wl;e(7W0eeCQpa(^D<cj*UX6Y&]4SU@<cEM-J58V]=Ll9E!OS-%dn^^#WGI-teGNLZe@YS9!n4UFLTUF=>2n5W&-C&KS9G(k>"V^?C/ZI"QII_4(;^tk^bnoUfYSd`eujbk%N'mb/_7_u^sL-L/BN/E;i1%9Ju#?-;N$i+.tiGAV*BtF06iLKLLG*fjT(;eB4[OXiM<P$`g.rW<2[(o;RO4\8r3-R$uM5s@_a1=(^<qO`2H)C\n"hpYk4CTS;qX].bgg(hOi>dO?X$MOMAP>3+H@WWnK!l`=P>_MJE#Lo.1I*\+b4DD@GBZCNtpW;nPF-n8cq]]p`8pmbUAH^(Z?$%FYJMTqG/)MYW5S=c%O7WUN"M$[(@qn4R-EKkh,1p;X3WhpNDI)7jJWl@/B[):ir9XMm4:YqB@@FflggXX6i\]"g_OTpTQGhi2M!G2!Ao)r5t<gN0&-/prQkIK=+\AT3S\"GrmJ^T)%e[1q8;Raft4.(4k:ELuZ8[Y/S<cbm/d8cOh#RO6UBpC!(OdUU3qDcVihGl_NB@Q$,Uaq&\<&+,\4hFO*_@K?FmLaEtr+)+HMXQ3H"[4N'6l@jN0'NZL6o;&tL`6WpJf:9%](uOUKCbBgOF*4oJPLZO?V,SHOV\hc'%/<42+89Je`(NtcMbBsf,1q.a'?,?)g,C]/fbfRA9\B(%Y1o)gXq"aRI7/>ff2eg*V1u:_Z_9uK)1i?e6ZZXm77e(uopaGP9kkp\9da7qJeQ8/8M)bBM5=dPD6=M?e)JaF\&'sd=9-u#8p`T6/Lo=m6.)HOGVg*$Yi9J=PXS.CXe*$ejW3qY82S_&MCOE%?)ZM0I\!9WOt"ak%_10NJ?BY$VG:3a<fqJl\,!-ZQ>9:bf'Unl1AZ1eH:[Ge(,MchpAP:L3QVC~>endstream
+endobj
+118 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2366
+>>
+stream
+Gb!$H=``=U&:i[:/,#r>1GZlFGYHp=9ku[$>A9ukIXt']6p_Lp$!P`kmfFU\auW5N;Q'6@&om=l(:tYR$V^K+eGhK5pgjYJhHOC@0Um^V)D95diSEkeqjHCIY%N=ER8IY/q!#DAksMj<C\n6(-p'kPj0tS`_J7-c6Q@TFCcPl5P:qE7r9N23c,\L%nEE)@>e^1-lT9W$gCF:u>ennEfl,f<-=##g2cWQ1MNg?Clmp:dbCPWakOp)R6<ag4KV@dXE;eb>n6pTC[.CiBiOb2(k;l`%5%\d*6=h.c0g`qO_$LNO/*%29)mj^XaRB8S*OP`DYluXK#!!:&@e`Bk?)OKm0WunL<eIY@UZFFNkXDpgj&3u60n[hq:^a7UK@[83b6jILL$W2of\R'"Ck$?G??1YL31Tp6)PJX(f>s*?XW&.?)jrT$OV?B=LS*9sD(h,!gsKhGA6$A"``1*^%;hNUe*Pr;H>To:lr<@B*nV7+O9U.)hSs-Tr[O2OE@.72C`%2+8h79qGMF!.nTRS.0EEoCVc=1I?@bXM%674QD#_H;L$1VcqH:8gq7(=F(&;HtT5$[$A?_j=Po/AD(fqeli#AP/s$"Et.4crHVXb\0<fk^21_m.OFs7s-'5DR6'$>-BIagEPY6Eaj82pR<pJ**!JK)srE%fnS2+,m5;*Uug9Q"]+:pUVF=Wf]fD)5")15."f8crd"RUrR&!6r]Oe?#O(EPSlOAW.21T5).:EHPtIE*q<"Hn7[>9,\2X$RtTNA`/t3n=p3+h='cnW*@Un=O@=N,iA_S+JGW&\*U*%OQNVJ2C2@T)f\V'>$t<8VR1jgDkNa[!M]OIk.Qm)QgCk!kXdK^<sMHL4HI4d]Y59[1<C<E6C5b::.ZnqB"OUE>-;1,.GkDd[XrD++46pU=#IWob&Dn!O`7\h&+KuYQ8NrmB/u8,Mc7E)EH-'i%X^@T+_"a`>)4Vl'tn7%\_G_ca1ne_o:MrO?Pi_52?`=nRJPK35OVg!jeaY/[CWI,h6u2^9:)%3\j9\E:i:0q^"qP^&fm3ZMuIuh7[8>3mcpLH;-Bcs;%K/VR_plWGs=O_PsBNb6=5)^G)[:T_(Hfr_b2ZRjQE@3)&f4X5;I4;TG+_KB)/-]4s6E[8gOk\SYFnKL-`CO)u>.&"U8mgcc#f2UNjR34i82Y")`YZnM)(%6GmIXLoeY:h*VU+LHP]*3+`tX:PKG,T&SE/&a`23gIYsUVRrX<:5UK*;RT+"k.%&AMQUVMmD:FbfS<VS&Rtn0R]B0g&'bZ0ORfe.YMW#/QdG11]-j#hH=b(k]UiT6/h"Yoh=Du:%]6_51Rg09fX."tWO8B'@f^Euf86R[c"HK<@ND@XPg"\XM^HLB"ageI4NU0Hf)JTZ/8!n'NRt7R>`+UI<dLR+PXf,;;_d)d$?rS%YU26,d91`n#RSFj&rR[rBZtN)#n[=)Y%k<Sh-m&]h7J;u?GR+07Y'8K,0LEi(3I[XD\uCO-ED_niGHVUh2qhT-J%>m\Ot\GA].3"PP(ou!%]cZ.UAGhH^7&lhO[YT4JPT8HP'A!T"pMjA8J9F>-iB,+QZbSX,3_l<jA%Y#s(jI4I+<@PYt;4d&Y-t6+\^rgDJr^6=S++.e)bdiN/AT-_*1oUlf<%-89Wc!FGn@O^@[hodVTu(G)^"':FhJ(60Up03V<%?6XFpfJXY=p>,'40;-Os]2^m0PWaANB1&(uRnladHQb[fY7A@<Fg?V(#MhQ@Fi9c)_f-`.?UEqW@.N<QQM2&u#gJe3LL+Y/>-ICAqY4/kELtYW%dfmo&k^F\.lK@r/?Sk@JD=N2NX+Xo?`b?GA$V,,CQLoPaAG6D-Pm!/=HJIpR_tJ0UN't3Z2Z3jPXS1=$X:EESAgbX#X.QM4jsRs:VFSUkq&Y:5bh&'.Y+kd,n;8EhM?TL@`b;h$a_M;gS*PWW/F*Di%eS\7hq3;84JM(?4ec35jC4=\7P)Mb7]")G$_&Y^YG#sUi70X:Q'Hq/lIdI<O;[,;a5\[S;-G)X@l;[NFJpJ$bC_jW:Bf9CU#4#D=e1gS&KJN>+!B0&62lnKk.+&TI2Dc1kP&umC()R@gie]I@[]1I=!X2NlH:V/3E[QMBX(V[qc&gE/r.d#V*t'Y%cZjl<=)t^-a3:;0_iM]bOa!aA_W\ZY+M@I]ZuV*1=OrVpj7;1CU->)<*G51r=.i&ueRo3>F!02ZW+h)QBPKm@,+i;<mjjg0KZ>TrY`)"VZlEcW-*Jo-25/-*P$Go)A%?Y;K$]/!2N2,Bf)&T?"V>hOm3]:G!r>$2!_HgbsTF<N9SoWO7`I`EuN*Aapn\<"_%"MhITu+\VEn-'[6+Fe(GeJqlAH6-G$Tk;^SVSO@)l3;XM]Z65n~>endstream
+endobj
+119 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2270
+>>
+stream
+Gb"/(=``=U&:XAWfV_d;fF.f;O/_HPl.A_iaR*Lb09?H284\=9-nEHDmfGTt99,7hkqS#BP)+2RgZnr4^r8NI5GpNW:LeY?Mu]P*ScS@%+3'Xd0g>F!`:5':+Q*B?'"^>VLOS<=T]RWHSB-Q3Ur;f?AeK9KB)OF'V4rL/"`kO:r;QVTMsK!@a)BnT1H<-sHLp_3^fq^H!&s([olU*^KWY^7>g&t4Ek#T?%krG;iucO_:5jN)#rjZAKo4lWH3%:NEoMbV3[pNrr6Paua<C%9Ci:@NGl<?=Gcp5J*XTZ@*5>N&(e?S&l$J7#7)U1+I%eJ`'J+m,<Eok.@F`p:VDud6kLk0cegj.;"2g4p&nib)&N>Sq&%+)`G_cRo$&P`!"\qU-q^?D3S5G09B([6c/b@SQ^]ibAN+Zs4O)YdsE@El((XXA@mi&!6Or\dkP&#d<!@4i@+PQWeVZfJE?EHL@blBNS_;OtH)+F152`0OS18ED>2XhS.6t1a#iICh:IkFh,U4TAWj\!Ea.]=+L6S?i![XVZVKERFA4)Sk&$r"04]>9\D6+a$^-j`5IRST*nNUbbl'4lmF-"#`73/(!Xk)2hIn/Yd(2-6\0?*Fst"t42>)8.%.YBg#_-W(1@lT'1*kQUT>!AU<^K#'`-em]??Zi@+WDlFi3r<C"bYTa8.4q.''SQ`3d0;fEYb&jTs0;`!,QJ!ic@Bp+:Tk&imW2Ec!)s0erobfr`Tc(dbmG*>An8PU=M<Z<=E].2G_V`1(3Fg_k3WL8Ch8.s&n#'SY8AHHYpT8?`KLk5l,E+1C9-pT,Y4!4#L44hKnL\</9__TL]i&MM5-7q@[a:p378+MJmXP64quX_XG2Q7l'N8cUOE.7!I`)3Sm`j(/c-J:2j\6f4T-c"2.4MI4gG[YAfUf[RT%+8*>,$If]8j]aGL5\oms&J%_$4D`VS@O!aCV\b44?B0c?'<?\qOL.GtI)OV!cg-H)E#\W'b_3/`LIA-SXGE2ODrOgBeN04WE4T0`_U@cpXJqDk"^rOP1q.(4*!*`SmYV'/gGjW7LhJbnM7l7ZM[hnKC3Hf9UjXLL=*jO"N[#X"W9`lebOmLelbFqcL8no=+M]i^V]?QhYmW9k2g@-+g6H&idDB*A6YD)0_&8Ej^uG2$9*:<B!ji9S1eG0/J'S98:YJ`@)C2-416'#(6\'Qrs6uS!OM[D'H/!8hT97\Z?>QM0XDNAbQtUpjf+<"m)qs$(;"0,Il@C<kKSrSKN.">hS9qlett&b,&N?BE_^A6<@:A>!o.'^l*9<2#als>$s,(8Y&uoYBq9/3J_/cA<($8*5sBkU?kpeCHd/"$W5,VKlnH>Kms%n@iS08O#4j?oF7`TK-df2`*]e)aD9^?/_29CXJC/\R"`r'%*j,JVK`=)+)K0b%boC)Lm)Lb]RLFNA+;2'[3@OuMEYC@j@4\f$KRu1]qP&dB%]?H,uZ@[+->8,hK/%X2FX70^o"$$jE87BMJ+b$XOu6[>0_D)-KYh1s([/4ZD[Q`5+5N9^u;e?VRO**bq6Ljqpb:A#1<+sVbb^Vj60f&b>,e7;c<4c4$=YU]j9moMte?qS`?FlpXY2H,p!)E9%fO-M'&Sa2qn"cp,tJ(9=cZb*0e&7/`%i^;p6]opm*AF-9/W>CVZCVpOqk4;fX@o$q&GIj=M%5RIY9hHISa=s%B?JR>Y4bFi+L)Ws@[5q^UL]k2Nb&^G+3?29e-2>0,A*-?<7bg<`5=N"1e.(>*Bf)JM\T-.4e4)]m<+Hd]=Z"M56bW7?UjeakMKNpG0OlDl>IQ,Q[N.lK0XaLK_4C]EA0o>ikCHO+sc"3o4!m8^:'f-Z)oamfImG@lM(AIa@1&Xoi_lMgD%6XC&@C;gO2&TZ.Y$OkFWU#PaYgIIiYTKh8FJ,AL>d0!G/.C5.M2`#8tIqauY`d?hpqqemF6T[tQ;'@eVS;i"CIKpHL9'K+)7hS2Y*glYH[H5^j-7nn@,F@O<@h&XFA^6D@'_D39?P9bEI='T<Isor@#=f8e\!cVb\MD:\\d:L&lB3qZmjib5d]eCSm.+T^0MM5Sn\BNgr#UcNSCITqoH9H;A3G8`IP8!CM#Qm+bV3m78)+)-+Cdn/-rmZ`R6QtIUgcTGY2C:@oMTgU&u1d_dj*$7@p!B92&POL/M/bMCQfTnj;7tJf4&&oX-RE$Cm_Q7-Hrqc$`(_=0^3`0R(=V">oS*M.ptdJY*;n?4@$HIA3qqg/T]>3(b_iCc*pX+[:j@:TeDmq.l,?rFbPC1^B#'`%_2~>endstream
+endobj
+120 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 961
+>>
+stream
+Gatm8flGOq'Re;/S0oX;7?qD/HXpia9FA.$@@5/pROX/nQQWmLq0T8Ta)tUZ$kQ4I89[)WgoDs@kn<tZ07]BfllQQ?M<P(.0nnip#Lh)0&Q>qA"^&jpKI_@<.cq?0En'p'/9+E6$_kq'2FJ?G8gmXY8f+_Iq#(*<Vh<I)UZiSB35hl>Mt>O*^e@3PE;g3b0;`Y"EK3sr=4_V5E3.Ye1&[!o1DcE)PWMRT'%qkoP=,Tu:>_"4K[$I^nu7F6$3`a2d!GGSj6Rl0"?^'`+<gqC;_=\VJ8SboJs:to:]nlO2Hsdic;EfFfSj-!m<YV2_87+SD[3OB8GP=c7Zp;=WE_l:S>^s?3"c7k+d<PCB2OgZ9'PAt8N`?&mOn>lMWM"dJc[8\S&!Rc[:-%,\HGQX=G@t^>ELroDtq\9H]Y]<$LTuHpANIH5YUIN%!j`4aXDejC&_"mqJ@04p_7>Ql\7Lt$l'D3TU&E(TAfB62olo]WuGPa/1QQiQ.7:_bNo)XH)VHT;Sm(ZP=R[$.+^)fraE=[ab1@:6rd/0NHdcc?V\Iqn\hL9?1)-1ZK8*c8j'qpfc%ImBLm!2f0,Gig/cau`bb!fBD1spD>kAdcm,B^,uZiNOq(ba8-An`87ti>535oCa+3*8)I(56<;+I>_L0tS3]Apr"ghQA(T)"`U-j7i<HSK2QpR.+E9EmqRQYIffmJLt=l%N>0Qi#Ueak,_Z-]*d1*O-.B"t<Bq#:]nE>Cr.^==gS\(([WKsN8D0fWq%.QLO4\U8k"k>shCq+@gsnY8PL1T:>Q64RkgQo4MfY[NZZQNS9H^9n/ffQ`NA3MUHUN(@q^Z4!`#p6K6shYsSdn*'fE\$J0gZeLPDU73n0l3;DrY)7CL\&SAuheAE\YKlcHM"[&,)Zr#_=Q]?65-Pg0i6'R:mlgudr++T.qN&7[I,NQ\5.T8SZ18!h[fcY@K[C<2Hct1~>endstream
+endobj
+xref
+0 121
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000459 00000 n 
+0000000569 00000 n 
+0000000678 00000 n 
+0000000901 00000 n 
+0000001124 00000 n 
+0000001348 00000 n 
+0000001572 00000 n 
+0000001756 00000 n 
+0000002005 00000 n 
+0000002254 00000 n 
+0000002436 00000 n 
+0000002619 00000 n 
+0000002829 00000 n 
+0000003039 00000 n 
+0000003326 00000 n 
+0000003565 00000 n 
+0000003802 00000 n 
+0000003983 00000 n 
+0000004200 00000 n 
+0000004370 00000 n 
+0000004553 00000 n 
+0000004730 00000 n 
+0000004969 00000 n 
+0000005207 00000 n 
+0000005463 00000 n 
+0000005656 00000 n 
+0000005893 00000 n 
+0000006130 00000 n 
+0000006386 00000 n 
+0000006640 00000 n 
+0000006831 00000 n 
+0000007020 00000 n 
+0000007231 00000 n 
+0000007441 00000 n 
+0000007679 00000 n 
+0000007915 00000 n 
+0000008278 00000 n 
+0000008462 00000 n 
+0000008653 00000 n 
+0000008846 00000 n 
+0000009069 00000 n 
+0000009308 00000 n 
+0000009546 00000 n 
+0000009802 00000 n 
+0000010058 00000 n 
+0000010248 00000 n 
+0000010437 00000 n 
+0000010607 00000 n 
+0000010846 00000 n 
+0000011081 00000 n 
+0000011337 00000 n 
+0000011591 00000 n 
+0000011851 00000 n 
+0000012111 00000 n 
+0000012300 00000 n 
+0000012491 00000 n 
+0000012730 00000 n 
+0000012968 00000 n 
+0000013331 00000 n 
+0000013587 00000 n 
+0000013841 00000 n 
+0000014073 00000 n 
+0000014283 00000 n 
+0000014493 00000 n 
+0000014732 00000 n 
+0000014969 00000 n 
+0000015224 00000 n 
+0000015434 00000 n 
+0000015644 00000 n 
+0000015823 00000 n 
+0000016003 00000 n 
+0000016213 00000 n 
+0000016450 00000 n 
+0000016687 00000 n 
+0000016877 00000 n 
+0000017065 00000 n 
+0000017251 00000 n 
+0000017433 00000 n 
+0000017643 00000 n 
+0000017860 00000 n 
+0000018074 00000 n 
+0000018444 00000 n 
+0000018683 00000 n 
+0000018920 00000 n 
+0000019101 00000 n 
+0000019284 00000 n 
+0000019523 00000 n 
+0000019761 00000 n 
+0000019944 00000 n 
+0000020179 00000 n 
+0000020362 00000 n 
+0000020601 00000 n 
+0000020840 00000 n 
+0000021023 00000 n 
+0000021278 00000 n 
+0000021533 00000 n 
+0000021717 00000 n 
+0000021901 00000 n 
+0000022085 00000 n 
+0000022269 00000 n 
+0000022462 00000 n 
+0000022655 00000 n 
+0000023015 00000 n 
+0000023255 00000 n 
+0000023493 00000 n 
+0000023709 00000 n 
+0000023927 00000 n 
+0000024170 00000 n 
+0000024242 00000 n 
+0000024530 00000 n 
+0000024629 00000 n 
+0000027237 00000 n 
+0000029627 00000 n 
+0000031901 00000 n 
+0000034360 00000 n 
+0000036723 00000 n 
+trailer
+<<
+/ID 
+[<4b3e293a7472809cf5a89be4fa95521d><4b3e293a7472809cf5a89be4fa95521d>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 113 0 R
+/Root 112 0 R
+/Size 121
+>>
+startxref
+37776
+%%EOF

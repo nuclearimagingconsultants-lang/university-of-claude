@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>University of Claude</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%237aa2f7'/%3E%3Ctext x='16' y='22' font-family='sans-serif' font-size='15' font-weight='bold' text-anchor='middle' fill='%2310131a'%3EUC%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">
+    <span class="mark">UC</span>
+    <div>
+      <h1>University of Claude</h1>
+      <p id="brandsub">MS in Computer Science &middot; Graphics and Game Engines</p>
+    </div>
+  </div>
+  <div class="tools">
+    <input id="search" type="search" placeholder="Search courses and modules    /"
+           autocomplete="off" spellcheck="false">
+    <button id="reindex" class="ghost" title="Re-read the built courses">Reindex</button>
+  </div>
+</header>
+
+<div class="shell">
+  <nav id="side" class="side"></nav>
+  <main id="main" class="main"></main>
+</div>
+
+<div id="toast" class="toast" hidden></div>
+
+<footer class="foot">
+  <span>Not an accredited institution. No degree, transcript, or credential is awarded.</span>
+  <span id="gen"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

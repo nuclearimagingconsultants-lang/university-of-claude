@@ -1,0 +1,1013 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R /F6 38 0 R 
+  /F7 75 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 368.55 206.2544 380.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 356.35 186.3272 368.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 334.15 218.0212 346.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 321.95 189.6484 334.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 287.55 213.136 299.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 240.95 232.8424 253.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 228.75 121.1452 240.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/book/book.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 206.55 236.7708 218.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 172.15 215.1876 184.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 120 0 R /MediaBox [ 0 0 612 792 ] /Parent 119 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 199.6028 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 187.5876 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 227.4604 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 122.4516 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 235.124 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 599.05 133.4272 611.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gist.github.com/jboner/2841832)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 576.85 212.6208 589.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gist.github.com/jboner/2841832)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 564.65 125.2576 576.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 236.4028 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 107.612 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 233.0724 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 219.5392 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 117.8332 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 389.75 221.83 401.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 377.55 130.8696 389.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 293.65 224.6636 305.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 142.6272 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 230.018 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 247.05 145.6908 259.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.85 238.4544 237.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 212.65 127.806 224.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Symbol /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cmu.edu/~avrim/Randalgs97/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 189.76 235.86 200.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 206.006 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 82.15 166.1516 94.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 
+  27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 
+  37 0 R 39 0 R 40 0 R 41 0 R ] /Contents 121 0 R /MediaBox [ 0 0 612 792 ] /Parent 119 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 210.606 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 101.4756 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/python/cpython/blob/main/Objects/listsort.txt)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 238.2152 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/python/cpython/blob/main/Objects/listsort.txt)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 633.45 101.4756 645.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/orlp/pdqsort)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 611.25 235.3724 623.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 527.35 215.7212 539.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 186.0696 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.95 205.4908 505.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 229.2452 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 446.35 101.4756 458.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/about/design/swisstables)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 424.15 211.6272 436.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abseil.io/about/design/swisstables)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 411.95 104.5484 424.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 328.05 199.3728 340.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.85 136.5 328.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 293.65 225.9332 305.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 128.8088 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/book/book.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 259.25 225.5468 271.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/book/book.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 247.05 130.3452 259.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 224.85 224.9304 237.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 212.65 100.4636 224.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.75 238.4544 140.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.55 124.7424 128.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 235.906 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 82.15 101.4756 94.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Annots [ 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 
+  53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 
+  63 0 R 64 0 R 65 0 R 66 0 R ] /Contents 122 0 R /MediaBox [ 0 0 612 792 ] /Parent 119 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 236.6788 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 103.012 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 645.65 234.9032 657.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 561.75 205.2332 573.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 549.55 171 561.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 527.35 220.3212 539.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 515.15 161.2664 527.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F7 /Subtype /Type1 /Type /Font
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 492.95 225.4456 505.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 470.75 233.8636 482.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 458.55 191.6908 470.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 374.65 202.9332 386.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 352.45 210.5876 364.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 340.25 145.6908 352.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 318.05 226.6968 330.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 305.85 102.2484 318.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 283.65 200.4032 295.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 271.45 139.5544 283.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 187.55 234.3604 199.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 153.15 217.2392 165.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 140.95 154.3756 153.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 118.75 189.1332 130.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.algorithmsilluminated.org/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 106.55 155.1484 118.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/Annots [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 76 0 R 77 0 R 78 0 R 
+  79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 
+  89 0 R 90 0 R ] /Contents 123 0 R /MediaBox [ 0 0 612 792 ] /Parent 119 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 680.05 191.4516 692.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 667.85 153.3636 680.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 583.95 228.4908 596.15 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 571.75 106.094 583.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 549.55 221.8484 561.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 537.35 191.1756 549.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.csd.uwo.ca/~yboykov/Papers/pami04.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 514.46 223.6424 525.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.csd.uwo.ca/~yboykov/Papers/pami04.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 502.26 151.0452 513.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 480.75 231.306 492.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cses.fi/problemset/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 468.55 111.706 480.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 384.65 223.394 396.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 372.45 138.7908 384.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 350.25 232.5664 362.45 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 338.05 101.4756 350.25 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 315.85 237.4424 328.05 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 303.65 154.8816 315.85 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://complexityzoo.net/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 281.45 134.9728 293.65 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 185.35 232.0788 197.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.designofapproxalgs.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 162.46 215.9788 173.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.designofapproxalgs.com/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 150.26 216.7332 161.3 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 128.75 181.212 140.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jeffe.cs.illinois.edu/teaching/algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 116.55 204.212 128.75 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ics.uci.edu/~vazirani/book.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 94.35 211.112 106.55 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ics.uci.edu/~vazirani/book.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 74.4 82.15 128.9376 94.35 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/Annots [ 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 
+  102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 
+  112 0 R 113 0 R 114 0 R 115 0 R ] /Contents 124 0 R /MediaBox [ 0 0 612 792 ] /Parent 119 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+117 0 obj
+<<
+/PageMode /UseNone /Pages 119 0 R /Type /Catalog
+>>
+endobj
+118 0 obj
+<<
+/Author (University of Claude) /CreationDate (D:20261008160531-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008160531-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Resource Map) /Trapped /False
+>>
+endobj
+119 0 obj
+<<
+/Count 5 /Kids [ 16 0 R 42 0 R 67 0 R 91 0 R 116 0 R ] /Type /Pages
+>>
+endobj
+120 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2430
+>>
+stream
+Gatm<gNM>[&q0LUbhI-LA0->HSi7`]Bq/2TXsM]#C\<CU+H\N7.S*anhff/F+Xs]2Vbn)I"9H^Tk-AWPN,8E'lMn4:qYufZqiMJ3BY#>K=WU:eVXa<<Y7&M`,L9q3fl:Q70j2_1/.>'#0.LcJ"(ksU@&IdEN^n]Mil;G>PP`F!^KeWLB`#'iV,TGh=h`=<9t`/QYhlH(Jd#TH=FNNaOtNAU\c$CC34YUZ:A5jpk3)'.&*"aFqBo!ePWLI(gLU-.<2nE'[Crk3VWTs?*;TT:gmcF1Qi\Y48)Dad83,KPX'NPJkkR3M'PBe9+5due3<c2)MW?3qb7+qWiS(FL\L\j^Zoh,5A37YPD0'41%q59Wjh8a%H'K(C-7p#o*r^,1OI@__*Yt7^RiPYH,#X&t:kfM;[K;+_7PKX8('c/j((6kP$,:G?9s2tr6PHN9W3Er!H#:[Da75N<a-6Cu7l^&,qI.^?"+u3@1BnjqWBGl]D3.Cc+>(G?C!i&>]qs.sN65(MghOc^?E$H=m5$RsC/(^5,:K$.Dl@!hFg8#:hI^=$T>7:74mr`,2;;C#-Nn@qb,Zi=<ElN&;-2k_>Vp_A_KVF-4:PXBY[9C$1ZrakNOdA*A,H%bW_T$UncBURAlD!Z08->T_nOtrYnu.)=g8o,W"LW3Y3P>C3>$@[Tat:-HCueE<l29[_<c%4-ib-li>&[D'9JCXYnI^"(t);c.n/b\piQO0dsHD0N+r.QG&l)R:^a&3?E<,_:(467PXQ0eY5344Psn`PebToPr#QSQNF,F:"<[Y%#TFL@D*)td98^T\O0p+%Ufj;qs.a_b@YD4B-Za#YSIp6Er,5R-??n2EdBk./VP82b?K@;AOZo>),+nI]P%m`lh=>/GlR[emM$[rC@Z.oj[%qEIP"Pmcf.4:L]['gJP`pWXc5E2FS8m2G:p].q^;s75W2_@\>Y+lH;$`FLE72n&FA?+]4\fcq,^@=^5.a79aB;f`:mr]2<lm'[lK.]1Q9t54On=nO^WpRR;=6[5MYN-Z(ulST*!7%Nbf=uS$s9Ce1bcF5nd</da*D')/uW)X<9,L3jLdgF,-P<`BJEkSBO7_q#sQ\)<ogTih56'7n^d4oj6+a`FU,^DfXEcC0pMS9)[C';"U[4!h`L2Z@,;i1SqYU8NiqgUOdCpWd,:`h/TtU%+nINqH9gu9P^(!eW5m$$d1%7X,)#b2n<3TOWMc_Xj1>D$3jQ7P?8@pYAdLFq1b<[Dd62n=NQ#n1J6VF3!X$DgU6ug97IMf(MJ-38rm7<$dI>&_)m'ksDL-O(#iI6UHBmZQ3Ca@6V0T/;\YYu.a,<+g^q[TVL!3.gYsPOqA1.$%bd8YX0L%hnGR1>ZPjrj(*h\Ja>`UXI._iTd;IJ0an<lK0-=9fR6gP@!!tMqrjmrE5GsmRn.-MC_V>fM1YPVtQme<I9EP&DjbDs48otTA7qp6]/F@G%goTMi.*I8tX??n9"[&=p_?eIBe%#n4pU@J&/E*<8^2#q;?iQnM5n$Lt<bDZO)phnDAhAHB(TY9Lu)Hc3?eI(M8gUpSSHQ/cC$/B&;A.NZra8T/&A%jm4p3S%IKU-i+ph@`j_cdQ/=eQ^Q!-M3JMk1h$6OTt"mmqP8)OG5[Z>J@&,^igQ)U]=.l!'Y:/ZSEE'%,iU=!RiEQX(_,)VInV"Pp*eM3<ZO)p+?%OkG8*I!@Ug9QthFG\9"lA+'-9(CM.>4FLpY:lr@?;lj>HNqYpJ"M&/RDh_^t\7<GHB^."jGgkrI8$]P&"oVCW$Ac\$#)A:66b*b*m@"MqG!jHaSqE/fZ<H+@HB"7o^#$%(<IWIk^W;db8KpI6ae#&&O90^nJ`qq#r+Du&J[Pp"!'c&QIAbsGG.P%V`A2O0EhB$\Vg1jpFgoS\$*[r)T!q/9Q+30iI%+u$N)_;bmtgOp[GMLhQe0Yg@SX+L/n5/N=K;fW@bZ(:_A!khr*!_PNHE:h)=S1&4&q[>]aMkAfuONGRo=5!g"@k=VCkr_Kt/W/#>q8'bE<7Kq'R#_;H8)>*U\(11\RcjgN$<`P#lKE?$WiVe#qYN%<2It?&8^BS`18@kA?@uqD*\q)@<RQGFQk%9>8iN[RrgX,toMje;g$?GQM=H$lX\4-SB4cMU:/1^>&B[m6e(#_V<qt0X>K[.uEbCrXQ^?kB"4MgOgUEL5tnrD1Gi)<ong&r7K&urf^0l!1\%kk&@hNX7:LrFIMBu;(Xc"bFWe7Ncb2^@'3%`gm:0rQ-]$0?u?P@XhFJShH;_[^U7G+#gA5G%<J!4%s*&-jqQW1F)#7J'WF$4C,F-`/jE%/_(_WTqCnZKHA4ks$FdBlGTKWLk!bDXTtW6%cCj!ajg'.*`cno@QU>B>VLHg23RhDAR2*H`^0U\;&K1''md9XRg5g`P*R7&2dkp8kG#(Kims%_f?_!31rW,#qlS/~>endstream
+endobj
+121 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2466
+>>
+stream
+Gb"/(?$"c/&q0MXfVd;7D49@HmT\s;SYUGX84k[^`\.l0M+C0(!C87$YO;N8+Y'cCa-M)@6gV'+&0SJB]/Y/Ap;"XS:Of5f^b6A2GiaM>_disXk_(Y#L9&G<k7]4:_T2g,Eea`U`+p>>D@C!'dQWjS"81$f$0(Y%m-ra)irMo?7)#+oK[][F]`.531k%U`0>)]:Qe*nJs*=iflc0=IjnSBR@XeY.>4Y4Z'Q2"O"\_+sj<lgc1Vaes6Z<7DYp^Iur#gU=D^S9gbEJrS=Vs5?#UMlIJG7f1!TPQ1,]Eiu&9oo4M%c?.pc[qh,K!pQ7#;`R7_TURc72^W8L,#Z^Z[Q,3=us;K$n,YS*M*3^&_UU.FZ^C\\h,G@=YCTM[0k'0D)nFYG+o*6phq3-B[?+\aSRVHGNB:Sbh^XTj_q"-rA2IK:H@0FFA+_6/kBH?4B`e;[@o'cVkc]UUc"qSllTZI`U%NXPMpI3]MO,RMI-,=<CV?!OCk[4G'b5DRarQUN9.c.qimndk992i9rbC)gE3>i=fPf+X[niKTt@k;8\>#O?'A8jB5FJIPJ"J*T.XOm@Nc80tKI=L9WhUX,_fa,<Q.([NjM3j6$";@`Jr<2fMJifc\G?LOnY:E/>F]es+XmB]pJ3b;4BK@D(H*]T1I2U:I@o+%FCsd>,_Xgn=WXpR7.IGCX91qI^UfgGY+lX:[#k"hgZ7O=J_]>-82>Hj3!_S!$fMhbEbnJ::YZnnMeJZ:SHue+%rW0)6F;Qc5I&-M+NDVH\F$H+@T6Oc3?HdHm:t5VVr#qAWmD:]YeQ.p-ak[;h%`<<5Z!D(1Qm<A#P`/;8s#9-Ha0RPdO=EaUGTOENWE`?hjYp446D!KQ&G74"$bE[3i7mW/\tAp?G)]V2YL>R?^FWd/a<pOe=sS1H@uEK\%?Pl2Hg!r$:&+Q)g-I_'IC?0(Xn_hTR3b`l++2[$sOS6*'e&?!1'YZ+jo0U&SQ"INm]EA1l8ZS,G,HGCP".CZC'e#gR=F4[&:_JC%k_`kOta7ID1k.W<N_&lB3<CD(c@CLhQ"eQ0#Q;gsNN-!hi)>mh2jZs\Na4hOH9d*Lg8_'!LkiIfW'TfY[en9dlTJp7Ek1"qm>f[mW>%20qCB*3:Fq%\eC5kb]-(.h.2As1=ju<)0ENca+[']'QHeIOQdo*3CdVJ1:],UM"NH*d1qr]Z-_"R#YmF/&lp?>W0V_`eRV&N^$:?>cBDO;IUD^a3d9=jS->MaeikTnXZa>5BWh;\`8?t*M"UEFO>BCpDDS?)4d&[tLtF>8M);Hh;XGRu)GLcH*YcH(N.7C0q9ljhjSq='PKT,T9*FCR_f7L4ra>4:<.9"+t\lQd"iD.-5'mF6!%FK\NpYHEW:Tm?Z>U+NT1iRpWRUL3P)d5HrU7Bu4ga;\%#*d8fbEC%d#aB16Z7%C)36W'M&4WsR*4.>-]L6n?$L"\>j8kTeX4!4gc<5V:]@La&=Fp<l!WRj-q$<#KC^sliBK%H@lcPM9%9ig.(lZNW]D,%LW"4&+JFrJo12h[8`/UNgXV'(F2Q<\f(^r;b3rpS@&B>&Y=3pP_`p;Pu1mlB8BXZI+oTfQ1oC5E.h*9fbGWHp?k1#Hbk)_8niS7d)ZTH[t?IXI2)RjP4i&T?h-S=laX%&CWOgd-'=-/F^)6>Q>rDQ(d)p2A*O5Oh9pK3H-^E^WZ<<Q$Q2OCT2u$^/pRe5i\09M8ASYKM<in&cWT\'%>L,)qtr>!>eJKcBk8m-C-(qPcDk90[:;@?Rtae#fb`;fL?>?]V:YX;1IZV]ZJ/"PN2Lii]k34QR9En/Pk9nrirgNe/`KYOnN9s,gAu-84m?21;ZNIBRc67lb\mM'TIR:1ol(hDI?<M=oQu0Le3XO//IOQ*HQE0$`pA?t<Hfohcg;dq<H,V@K<.*+P4s8dTPgIU#OEP#^[ZF"_Ao:EAeP$s<DBRb/S-efkU`4ueiB\GDB:U<o=CdY[.UeF49Fj6$U$n4HTg,bj4Y@I@Q(C8oFu"1%^r"I:MH77_g+G]U&.k_8bu(3H<tASOEOE#n%M^966S5]LXNfbr>HF13e`=l@)BWrhqH^gmXeMMD,LmHI,XeA\J5b>IG>caF57cee$s=9q):;cYT_g?0&$\Nep;>166U+hKH(2m#]8W\_j0n:!):`>KBW6(oo1Ym>5CeN\3u,&`O_,'YG+<GC'X4692%eOFJb`riVL'T-D)>EuO:E=eG3/YMj"lk`+$5\7st3U11EIBR*C\r,UgOWfGG*n4Z:@r&?rE.cm6W]I*r^llTbi0op)RUZ:%N"$tQYjBtR\BNksdO^7d=0nL$K[q.?>XIZ%Dg8W!3o[tq?,G6MK7Yb=[59hD"jePRD3TuM`kK7+'#ei*:e'tcD2UgUT6gr3CV1j@ogFj(7M`)"7%?nN,57hZ(t<]#^(C5E(OaT0VfA%5lAc0mA!<a8\%X2gXjLMIgpaMHS]m0(SGWJkgF/]~>endstream
+endobj
+122 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2489
+>>
+stream
+Gb"/(flGh,(4GpYgp_I</2m7ad?3g<;Or[!;PpLqquW(D`.TDc>c_VQILZ@@U+BO*jIV.k\0;6tG&crh4U7WK-N5Rh)<XEVVtA/d7@$Zs)-O-$de#IZT-!rRA@R3V=_)bh'UgYgI5`j..d'<=T>1_DVoWiT[M(-lG'lNm:k<9&!HU=$qQGt[5/3P6SGl)e/nk1;l.<7_U2/KoLrPYK3Vdhd=1f/?)0>YuQLAM`NM\q`;2l,#HP%-hXXsmscuqO_qJ^!?ZoT\ja^!`m?-:91*B\7u),4GJ'$#*Qd'7t=!lNQhE<au'>.RI>G_+rd>(.pLH!7G2E`Vce`=KB=C;EM;Z]aor4W*L/^qKuFDb?)/\TETEKW]r-a@/'R_f@=Z:oc!T#Kni<EWZiE,MU59SD\#g-i_miOk$jYjLDdT&\4$<P7]g+m<SKX.(*>CTQj81X^Tb%]2P26,o`(#;oP-[7p*N*ML<+YIb4\$-92^]?S6.S8;F17"+qS;!ODsg&4A%U&2ilKa8]YcC.`9!`@W_nRYd3m79WP@OsYO#<hFc_BP0.Qg[]a%bI&PO%.UIt\7:.;d8OY%4(`m"ZPf=#C&GXW`<i)IF&Ah-,-MPOG!H^<enHl-bW1\"Cl)PH'U/T;h&;.;A4P8i2E"_E,9?IG+eX!1r#eBoU7dbSXBokg`/9n',FTgM7.?(9pS/94c_@F4Q57I]%.+%I*t6&$RaWRdV&L._-s+3D&miOg\u\h4IsjGn>h9?\oMFiB\pjB%Q31WhLuhrQJKP@ok63PtS"(;&$GP*T'3`6P2)"0*NUR(\%BM/k3\@9ZR]9e![\c%EX:KpCA]g-;`Jf%mKZ'"2MRaWpIOdfYc4Z)EcR%H>r:+1)HmoZK>OK"3=AN(Y&jG>Lg%8@@ik;E8`SN[Q&H=4\FOa@`:DH^-C3Ge\;DD(d'pXG4O_K?F1qqHD<sDA7ZAjf]M4j3X+,$9Us4^j0o+[I4R65C$W\-jYCD1sL2sDBPl5?Vo"5Qb\g`8^G1&JPrQT9;(DU3O)V1kYdWNrZWCg3]+U[+ic?&bS6Y!s/7#;l`r[PRo3a6eFg+YO0[1%*WfOV-i6fQK=VL?#Q+4R$^Nm^;75r5_8G,Ap]B=FTJWr@k/0cRR>+l00VpPuS20S'ouf\P0X8iV3S*?R%lYhDiqafCTL;BiOLh8Bd,k\HRt4+#34sF3>Q%KSSb2k(_2'=Z,"%oF)1:\[M%J1>q7m]N>JBAp?ibqttG+^0s@AD?]).Ee).;0If[BIF=af*-NZtRnQ$7@[9ToHQ4Tkm'Z"l;sSc2q\C`pK`D)X%A5eV(fGV08B+7iJT=r4=d-p,8Kk>Qi43$'gmj#XP'us:5#ZMcBPra6l[R>:5@^n3>[6Z9qoFH6_Z7GQ=rbaZQ8CQu:^t^LV*6ld0lS4F`0SRtL%2PNkbXLZ3AT5P17Drc8?sSF)mJ-^OE&9[s#+RAj-s!^=3m2AhF<.42LN7TWFGi80s!=($rpJs@`cf04htAS>JMZ[Une=YOA^nf!HlpV5bZ-Zf^nrIYY(srKs/shOP^-kYE)It.\:6J:q4hN=o3$"6AlEi<m=-D2?H8k"pkGeM\/Sp"CQpsPu*ZF@E92mOf;mY9p91FG)>U$+m!XW(pqFfMK;=`cQF_bX3l3kd8p%I:eD17I&0Y<4Pd%h<SAgtZq_RK];rr[a3YOXf;VYTB5WPoF/ZeeIs4nmd+'ORmV5_[@J.%5j^%uM7$3ck]/>/mD7mamYa4`AP\dn'#nAl`6Fl]Ha!+lJ.c!a38q>S+@,X<OllQ7O8-,RhZ9"]R(R#Ln_oG5nM5A;34H7/qPG]C1&#m%X>#QU/hssGleHH"rf8Z#'FicJ.<C;?>OjtmoJhubpFiq%$Y6l,fS$uH"B7*i87MfcAD3B=:"5`IKl`p>T)d_([#'ZiYeFcEhLC2+)<M_MH^=NCLn[N=VJs$3NJ4E#F:]6H&MVE?9n2<%<N$QP],gfgkQ_f5Fb]@+i<'c$Lac-khPp:TJFW,/&Ip<?lCcqdn+7j'`-/8j_d7hIfjMFanQ9\@8]7ece7@[^,O!e!?#AZj4*&(bWP=t;pK8k6V:-/R\LiSJ3e!-+[XQ0W"&_lW(an\>V&'*k+\9c5@RiScERcO"&Nc><RD5X5Ac\2d:9eAj*&-AE2e0\6X2+qr5J%u)@j$A8TBPYq1XsLKZ33c\4l2[/`s3I.XMB\VQG&%0&E"9"lK(bEP[C(,C-*%iC>_6B)cBBO+k"XAnqWiVVOu>`!<Z:5A1V?g6*L'4X?%jg+at&0-C?[;Jp0GE-JR7>=QEt%B+\JQuZdTG/Xs1HE>4.BL[iq.'6F(pWoj,WcX_lltok[RtN;_*c56GcFL,ng6TAfR+AX:>c)iHiPY41;mqXck7_kDGaCdI%lTin8]"@7ACN*C7io)b#o6Yoo7&<2(#c=X^Ws*b7[,itn<5W)cg9Y%?J&M)G5"U92lgYDOLjFR%[:O_DG(oGr3G="h""a'MtbQ~>endstream
+endobj
+123 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2510
+>>
+stream
+Gb"/(>BA7Q'RoMS3,b9tMXfNE@ju9(lulf/JCtfH<(FAcD)k.1+od"P,hm=-99Wi;fpS[(''jR[FDft`f`<&l*;p`k!&&!SimIkJKinJ;Dtu*a""n15?VW.:ncK,u^n-L%+2:0-Z9o2f8M_a"`bNr?o"nuOFuYKZE/^Nc^f:FD(qot@qSU:al1OC]G]O2SJ"43%FTM!R%3pDpl1kL9mKDBD=k4doE'kDU_X')&SggYi(`*Z/@#\He;)B?+?3'Gs:95#@T($>H5I<a!$4)"igRH5'VVeotch=HFkChb^Q>^s,pU'7GoY$(r7#p.Dq*qTQEKW[T.Ol;7d!M&r&JPjDBtirUq?tQ^B#)b4UM=eBggN]_hnr`u9mC=\a*4%Emt0SQ8.G3d^iJDElf+h*rsYa'^Lg/i(2:g6b11*_2=W'&$eE7Sg`XCNA#<k$(:G[EenV?]kh%qHgb*ucI6d#SZ?d%P2Edhgi$h=4\9--t-489Q-t^uK_jZ;U2KHeI#)3*L'g?6*!`hTlhGYR@.0WZgP>IM83o@Vg#]>;.N*dRV#t"9>mn?&pN8N>d)`ft$Jm+.A6]JDRFa/fVU;Fg-i0m^K22Eb`Ei;SiHNp+h)KU.kQaa(tUFT5=q<?L$Xjb`6e&Iqd#.U$sA(9&Xs,PMBFeaP]CA7?7#bRm..)\-bJ<gqsDi:-)U(o<p+S11Va_k8,Whgc-d985,Yo(4)7(%3m+npZOj>NnO]OHK4<PF,id\P0r?W,Z2HnE=.[Dsl8EB`o9D=W(#0nm*26u<9ud`T(2R['UF]0o_3+K>(\UZN)IZi*XicK_EWSdI6n3*7$JU^:;G;kWoF(=(B,YUV0Mc@Tr?e8,!^H#H7`F@g=!9$sHKISdGZX!:%pUi!M^PO:5$AnEiD6]>``]<:!Y]@Uj`>]jP`K+6P[VS@OadnLX]G-69rT540JG,#"_i6]Qs("kGZH*bQb/^O3<h4\LZF=H?OT_tb2O?m)$SCe[N(_M``S8]HWR#)MH2nAti`ib?7)oc#X@jir8kK;U:KFXspl9301I"'34I!8mF-p]drd6UUgpsBErG%$6f#"n*A?nu`19\G8"]s[Tme\X3J++[:LBB-?@$;sZ,ilNT+$&?EsS*LrFQL0I29h8T!"O<?QelEc9g/[_2dJCA(m.%>G[Biu\'I_Ls.[1;j&:<oe4Vl<[@1!Sm?_5,9e/E3tr91/XKK3(32(fJPJL9902(R*0KR$qR,_6?>i]C<6e"0^o$:&7`#DF;Ga9#fG#bj-Y'mPXu:O+8FG>ZOFP+Nq/ZGNhtQ_i*l`FZD2O#K4k'(>8p&.'Y\OA_+QLf_m,i$6*WesSd"1055Fl$sXLF-a&_E"A,,N.'PMWpUBc(7NI_'8:V[WZ]1eA2<^sa`sXQ`8_`^;eh*kR$3DXX990X)CqNlGfA6)JVI\J_]5XZ^6D_ld!Ptu(<9D%2+4#U#t7$#e_1g0gY(/C+H)7k.K3P7%cX_X/r7lW4pBI;k9W&K`MN_sZ#_`LhJ$[k<jBFg;N-B4<;'obdn*C%:e38S^5n-h6uMgYH.kcR$l/)hHcWYHAJd,iqXd_@LQL>8i6THb=G+S0O+,_U[8pIIj]]A?(s9/;Zh!!m>\gVIfX*.^^1!#_.>9R?eqL,MqrsCcqH^'@RVj.iM]CJU*StupY-<+kE%mFOT5e_OML>sj&?bA3>X+KNl#Zkfa[*oa74TeMD3+_(9b,Ssa!o4IL3IHL+-8lsGK'78H'GRB#:$qM6RgMWh5r`GMY)#FD0d&4kI%At=pWQ^S1EsIb-1*QVkHY1.qFmO-bQ&3Og_u3Bi[N7U-kkWVYm0+NYD_+11gpd('7F_mCO!(jZd#5(2;9h$MB&Y=]o^gj1Ls.V3L77!Su"(>eNW3+\J9$QB9")X*l%[YlZ)_::$1@3TZ=__W]J4/J/_B#EXJoBK!LZ4+=5oUd,,!Qh**i<dA_sU0`'Q.2+Q+K'#)aY7cmE=D;fudjk5rg"',"6DOAAO?n_Z1Y$g8?.XV6lA"f)\jAfc8QAl+)r]W/(ZR!Vdi+XU"]m1%3Y$m&78d0`S11lG]B%-8Gh8jcg:je@58X$3]*>'=DD3t/ZIslgl3pA&O=oa)I'r%2^p>+PBduYN?jQ15>Ed1&G?[.Re2l::6(@RHU)c@2:%A:kBa*`cN&EhEM'pcLnW>aZLRuJo";4sL:O)is#bW:!Y2g44O*+d$`$O3i/B>mdb.;"X^Ea.n.?R7cYg\=("VT=OWqRNi*Z9kl5Wcu2M7'Q;=#c4='.*HI9r0=^;S=iRS(iEhG6#,;I78>b0ZTp@HaU5,jmpmIr"4D/33:kBhf4E,[$AKq0XNc],qDAPV88AZRB1<GaD,rbTo_uo(>V9kO^aHBX8LM;0XV<jN[&P&+]:0W#RSW#s/:sVp(FS1ftpe`[EhK9n?2lG_XF!G,`+6Y,fO$HM?DojjlS7kq=(+f"nL?5doh%R<V*:-JuSKY,lZ)uAc#<:@0F9P%7[QVrZS?;#u%#@_(YmLq$2h)4^A~>endstream
+endobj
+124 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2447
+>>
+stream
+Gb"/h>BAOW(<>>2.F(jnmDphEnKR@ilV!^(Bq/:"B6X7T;ilZc,ZJ*EBKuIp!K\",fs2SJDED\tYseWqc4/t7!&8Na_p%R/-2M%Dhd8'H*f[)9I)i/T.lnaorI3i&OWQ8t!d?JCIJaQQa:0Sj*S'UHc;;84EX#tN&is,XIlPAG;;g[F;sO>XbDZ,Xn#fuUs$L]Wkk*EIY@m#df3T:+SR.kY;s95)SL@I&a+@Xh`O@]'5i_>*XNh@b#:"8DSs:]B%_Y.nms[B>6<YFAojWC6KKc4Hp]InTNsT)T;3QPmE/"H1dNERXX%gs'Xu"KJN1;#"IV7`2>g?m"'2!O!Eet;rk@2_X6.9(pAC[+6/^1q;^bB<gP'2R!%K-<LcmfH3$g'5\)'(I@&"kHK;;c\@m!8B.BE&H_l(<:G5WcFr@m8X%Y$#[[$g*mKnCfj8"X9o.>B/AR45+0JXn)3&*Xlc#8P=YLHAuDn<:)0YL()r3^O1amk.DsB;QN'=]V)7HWLV.`;DkG:qpu9+W9qbj(5/omcUOTi`*[$D/HM4sT91;LP2Z&ur/*+JFd%WGY!`RtHP)gN17lXu&YXs\Z^dqmb[sh1\<JIicn(0<LjEum!;<W=L(JB5r]NkE2PPm?Yoo<-6nTg.Z_E;H:1[ZVjf2+h.b-7aS;<"hj11faZ6k0@6rBD?V0\W2Brfe;-)TeN-5OlIlFb(8%m)^j?oE$Ga_;cnk!AIo2La+e8CQjm-IZUsm$m\+X_DU(gNI^GF?@b8m8^Vb1GkJT[Je?[B;qcMm<#fN]Y3Fk89]`<EV+Fd(HQ[ED!hM7_Td%DTREm8L!AXQ3-#VO#aF'$/0'D#`I(.gf4IMa@l?H!&`lpP+6atH9B+V-\[RO\E;9BY7OKNIA59L5C1>!bg%BpO`/l^k4-Gd`njfiQc=dc70TIrp)8(5&RG#44Xc9;'mdSU[5<W('hh+C*2-GD(&mq.\R6/>$#KrL<?]6FU>X*VH*K5D7ioahMWD,.OATiH)Pn+hRF.4qjDos'T-fTBM-pa<)E`)`R<YG8Db)tYLZCL5cWht4#QC1LDe&pbDiiY,jQn\Y>*6sEp`H4`8\Vr`g.dPPT1/g2D6\76dKc+H*V6(KeSURkH,VnLO>)MKj!CA4V1i>hW"-b$9?Ij7qbQTXuOd.=H\'3O'j]ofH6Bpbq"j]h.XM>!.=\VqfK[g0/9ebZ]#HTrG:.ZDp3YL?=.-gc(<Zfj>qM'H"8ZH0H4;cPBLb@g(=(O\'Xn'/$Z@GDdh(q)FEj<\s<aL:Q#Wb#"l$l#:J3pVfE'_]H5odm4AAEXn.[<84Ot!#si/="HMhr1(c=DqUOf[K47"!us]-DZC8h3o(L>08s'?rM5>3bnlj@B2gQWLm^Mu@>e;,`g)5W?;3=L<i.=O^s!Vrj>02/KZ'71_)RbA\P:<d[^L&B&rVa$.jS\+\S*:s2o%L2H;+/ekUieK&k'VDdVA7D8(E:Ml^Qh//d0CALWCDS"'0^+e,,XgK^(ZBcR8(1=Rt][j]MUFiZ%E0nVC.U=<o'U^?Vj3)X`Nn]Ou?KefOru^=u#It=s>W*Qd97?;67q06XMMTop'<r'PW$C^rpd!HP#/I>59N;)q9Z0nBZDN6`>+ed3o1]-i$(EOTJ_,.p.]":%q,W-"fnP7@r]J+'S,ZHGer!`(fcP`WE?\6*[h,Z[!LRM!AQ;Ut"?\A:C81#o>SRH_5]LjA7]C&%?.\3t,ZiT%h.n".n&&+>b8\c.<'+g6-SnWfFA@UL%cEkLH+pM30`+/ma99,-:/ZeU_fiSQ))%8hbNn$LfGg+A*ZIOShjE]^JPJ:"2><(Ol^gQ/C(=;4UPVc+7((bNq*uqJ)rFeu?3m*gpmUDEONI@OZYC>2-bCAHiM/OVE\AN:o+V((WTUoC4!C,RGbSf8^?MA:/P)E$U(BjV3f>Zad8*-5aC8.\fV?5@@9P"81:9"dTNTMp=Zl5/lu.l#?4bgBZeY_")]]jO"u[(OUmrs*U<WM3PHK*3)`/K"a(p.rnF\s9Ji+Zn#5s7$D9uV<Ho57-i[(1[fBu@^[pe[OEVKYd]2ts*+tpoJCR@<4WbalaOtsb_Zs7!`9ZpSV'p9`G@LSEe<[]p(Z.:'NB7?%9,'aOBU2Nj4;mesOetqq2'QTL^^VmY.]ZjI$jk7To7K)]Yem?M_H\.-A.)t8QWTHIP!fUZc]<O5`=!_TE9)b<-`c\]:hs[p%G//@_4q6-u058O0PbX%/Sr^='U[Z1(fp@U!ef<J:IUtm#VC<4*R?b<tc5^]RIh\qEkkg[%3=bmBQ$K(lE/L27Hb_/9p\]Lr7g/H+9H1\2SrK1gi@)WWqiL+EDnldi_J]01cB0A?%\?"O(9fL&)fi^),QtkjELgeZ3>>)GFVCSQdSK9flm'$_hr#P?](IZ84^?MT\&D>dF4^QNp6hgkjJl7H]>&Y3=]Tfp6q@7^1#"nH~>endstream
+endobj
+xref
+0 125
+0000000000 65535 f 
+0000000061 00000 n 
+0000000157 00000 n 
+0000000264 00000 n 
+0000000376 00000 n 
+0000000484 00000 n 
+0000000594 00000 n 
+0000000703 00000 n 
+0000000928 00000 n 
+0000001153 00000 n 
+0000001370 00000 n 
+0000001588 00000 n 
+0000001782 00000 n 
+0000001965 00000 n 
+0000002148 00000 n 
+0000002322 00000 n 
+0000002494 00000 n 
+0000002764 00000 n 
+0000002990 00000 n 
+0000003216 00000 n 
+0000003434 00000 n 
+0000003652 00000 n 
+0000003846 00000 n 
+0000004041 00000 n 
+0000004224 00000 n 
+0000004407 00000 n 
+0000004633 00000 n 
+0000004858 00000 n 
+0000005076 00000 n 
+0000005271 00000 n 
+0000005466 00000 n 
+0000005647 00000 n 
+0000005830 00000 n 
+0000006056 00000 n 
+0000006282 00000 n 
+0000006476 00000 n 
+0000006671 00000 n 
+0000006854 00000 n 
+0000007036 00000 n 
+0000007114 00000 n 
+0000007297 00000 n 
+0000007513 00000 n 
+0000007729 00000 n 
+0000008113 00000 n 
+0000008307 00000 n 
+0000008502 00000 n 
+0000008711 00000 n 
+0000008920 00000 n 
+0000009096 00000 n 
+0000009314 00000 n 
+0000009532 00000 n 
+0000009758 00000 n 
+0000009953 00000 n 
+0000010148 00000 n 
+0000010335 00000 n 
+0000010522 00000 n 
+0000010740 00000 n 
+0000010955 00000 n 
+0000011150 00000 n 
+0000011345 00000 n 
+0000011519 00000 n 
+0000011693 00000 n 
+0000011865 00000 n 
+0000012037 00000 n 
+0000012255 00000 n 
+0000012473 00000 n 
+0000012666 00000 n 
+0000012859 00000 n 
+0000013243 00000 n 
+0000013453 00000 n 
+0000013662 00000 n 
+0000013834 00000 n 
+0000014060 00000 n 
+0000014281 00000 n 
+0000014476 00000 n 
+0000014671 00000 n 
+0000014755 00000 n 
+0000014973 00000 n 
+0000015145 00000 n 
+0000015317 00000 n 
+0000015543 00000 n 
+0000015738 00000 n 
+0000015933 00000 n 
+0000016116 00000 n 
+0000016299 00000 n 
+0000016471 00000 n 
+0000016643 00000 n 
+0000016861 00000 n 
+0000017056 00000 n 
+0000017251 00000 n 
+0000017434 00000 n 
+0000017617 00000 n 
+0000017987 00000 n 
+0000018159 00000 n 
+0000018331 00000 n 
+0000018557 00000 n 
+0000018782 00000 n 
+0000018977 00000 n 
+0000019172 00000 n 
+0000019365 00000 n 
+0000019558 00000 n 
+0000019730 00000 n 
+0000019902 00000 n 
+0000020128 00000 n 
+0000020355 00000 n 
+0000020551 00000 n 
+0000020747 00000 n 
+0000020951 00000 n 
+0000021155 00000 n 
+0000021327 00000 n 
+0000021554 00000 n 
+0000021734 00000 n 
+0000021914 00000 n 
+0000022109 00000 n 
+0000022304 00000 n 
+0000022490 00000 n 
+0000022676 00000 n 
+0000023077 00000 n 
+0000023149 00000 n 
+0000023437 00000 n 
+0000023528 00000 n 
+0000026051 00000 n 
+0000028610 00000 n 
+0000031192 00000 n 
+0000033795 00000 n 
+trailer
+<<
+/ID 
+[<5785c1f5d322030481ead5d0777ec2af><5785c1f5d322030481ead5d0777ec2af>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 118 0 R
+/Root 117 0 R
+/Size 125
+>>
+startxref
+36335
+%%EOF

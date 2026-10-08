@@ -1,0 +1,8 @@
+# Generated decks and notes are binary: never try to diff or merge them.
+*.pptx binary
+*.pdf  binary
+
+# Everything else is stored byte-for-byte as written (core.autocrlf is off
+# for this repo). No line-ending normalisation, so checking out never
+# rewrites a source file you did not change.
+* -text
