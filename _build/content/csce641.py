@@ -453,7 +453,8 @@ for each draw call:
         "surfaces are defined everywhere, light varies smoothly, and there is "
         "detail at every scale you care to look. An image is a finite grid of "
         "samples. Rendering has to cross that boundary, and it has to do it "
-        "about sixteen million times per frame, sixty times a second."),
+        "about eight million times per frame at 4K, sixty times a "
+        "second."),
   ("callout", "Hold on to this",
    ["Every stage of the pipeline exists either to make the continuous-to-"
     "discrete crossing tractable, or to expose parallelism. If a stage looks "

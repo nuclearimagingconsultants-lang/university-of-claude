@@ -281,5 +281,18 @@ def build(pkg, only=None):
 if __name__ == "__main__":
     pkg = sys.argv[1]
     only = [int(x) for x in sys.argv[2].split(",")] if len(sys.argv) > 2 else None
-    for f in build(pkg, only):
-        print(f)
+    try:
+        for f in build(pkg, only):
+            print(f)
+    except PermissionError as e:
+        # A deck or PDF open in PowerPoint or Acrobat cannot be overwritten.
+        # Without this the build dies in a python-pptx stack trace part way
+        # through, leaving the course half-rebuilt -- and anyone who greps
+        # the output for "OVERFLOW RISK" sees a clean run and believes it.
+        name = os.path.basename(getattr(e, "filename", "") or "")
+        sys.stderr.write(
+            "\n  BUILD FAILED: %s is open in another program.\n"
+            "  Close it (PowerPoint and Acrobat lock the file they show)\n"
+            "  and run this again. This course is now half-rebuilt.\n\n"
+            % (name or "a file"))
+        sys.exit(2)

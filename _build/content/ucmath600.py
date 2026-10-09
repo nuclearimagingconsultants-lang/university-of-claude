@@ -328,10 +328,11 @@ MODULES = [
             "you</b> — which it is not.",
             "<b>So the honest test is Module 13's "
             "self-check</b>, taken before Semester 1 rather than "
-            "after — <b>and four to six weeks here is the stated "
-            "cost of passing it.</b>",
+            "after — <b>and a term here — thirteen modules and two "
+            "project weeks — is the stated cost of passing "
+            "it.</b>",
             "<b>Which is a short time against two years</b>, and "
-            "<b>it is the highest-return four weeks in the whole "
+            "<b>it is the highest-return term in the whole "
             "program</b> for anybody who needs it."]},
  ],
  "takeaways": [
@@ -456,8 +457,9 @@ MODULES = [
     "notation was.",
     "<b>So the honest test is Module 13's self-check, taken before "
     "Semester 1 rather than after</b> — if you can answer it, skip "
-    "this course with a clear conscience — <b>and four to six "
-    "weeks here is the stated cost of being able to</b>.",
+    "this course with a clear conscience — <b>and a term here "
+    "— thirteen modules and two project weeks — is the stated "
+    "cost of being able to</b>.",
     "<b>Which is a short time measured against a two-year "
     "program</b>, and <b>it is the highest-return four weeks in the "
     "whole thing</b> for anybody who needs it. It is also the easiest "

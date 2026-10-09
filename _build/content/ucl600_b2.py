@@ -1766,9 +1766,13 @@ face normals meeting at that vertex."""),
       meaningless, and the convention handles it
       automatically.
 
-  SO NORMALS AND LIGHT DIRECTIONS GET w = 0,
-  and vertices get w = 1, and you never have to
-  special-case anything.
+  SO LIGHT DIRECTIONS GET w = 0, and vertices
+  get w = 1, and translation needs no branch.
+
+  NORMALS ALSO TAKE w = 0, but that settles only
+  translation. Their 3x3 part still needs the
+  inverse transpose of Module 06 -- w = 0 does
+  not rescue a normal under non-uniform scale.
 """,
    "caption": "<b>A direction has w = 0, so translation ignores "
               "it</b> — which is correct and automatic, and is why "
@@ -1899,8 +1903,13 @@ WHY IT MATTERS FOR TRANSFORMS
     and the convention handles it automatically
     with no special case.
 
-SO NORMALS AND LIGHT DIRECTIONS GET w = 0, and
-vertices get w = 1, and you never have to branch."""),
+SO LIGHT DIRECTIONS GET w = 0, and vertices get
+w = 1, and translation needs no branch.
+
+NORMALS ALSO TAKE w = 0, but that settles only
+translation. Their 3x3 part still needs the
+inverse transpose of Module 06 -- w = 0 does
+not rescue a normal under non-uniform scale."""),
   ("p", "<b>A direction has w = 0, so translation ignores it</b> "
         "— <b>which is correct and automatic, and is why the "
         "convention is worth following</b> rather than storing "
